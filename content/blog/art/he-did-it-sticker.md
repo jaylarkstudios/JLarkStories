@@ -12,5 +12,4 @@ Completed a new sticker! Seems appropriate for mother's day, right? 🤣
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![He Did It! Sticker](/images/blog/he-did-it-sticker.jpg)
 

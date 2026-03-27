@@ -20,5 +20,4 @@ Btw, here's the segment I'm referring to for anyone who may be unfamiliar: [http
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![A Gift for Lydia](/images/blog/a-gift-for-lydia.jpg)
 

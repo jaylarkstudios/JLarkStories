@@ -12,5 +12,4 @@ It's the J. Lark Crew! I've added emotes of the members of my family to my twitc
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![J. Lark Crew Emotes](/images/blog/j-lark-crew-emotes.jpg)
 

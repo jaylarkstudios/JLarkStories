@@ -14,5 +14,4 @@ Valsa the dragon also models a bunch of different types of diapers. Here's just 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Valsa's Modeling Shoot (Diaper Version)](/images/blog/valsas-modeling-shoot-diaper-version.jpg)
 

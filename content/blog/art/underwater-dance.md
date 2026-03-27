@@ -14,5 +14,4 @@ Mitch is a great character artist! You can find him over at twitch.tv/thedammitc
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Underwater Dance](/images/blog/underwater-dance.png)
 

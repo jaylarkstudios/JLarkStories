@@ -14,5 +14,4 @@ I took a bit of a break from Inktober to finish the next comic page, but I decid
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 31 - Fire](/images/blog/inktober-31-fire.jpg)
 

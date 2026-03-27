@@ -12,5 +12,4 @@ Be not afraid. And thanks for all the fish.  😇 🐬
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 16 - Angel](/images/blog/inktober-2023-16-angel.jpg)
 

@@ -16,5 +16,4 @@ Art by [ NattiKay](/user/nattikay)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli Portrait Sketch](/images/blog/eli-portrait-sketch.jpg)
 

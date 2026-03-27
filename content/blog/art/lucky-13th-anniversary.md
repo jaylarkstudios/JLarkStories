@@ -12,5 +12,4 @@ Happy 13th Anniversary to my beautiful wife and loving companion through thick a
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Lucky 13th Anniversary!](/images/blog/lucky-13th-anniversary.jpg)
 

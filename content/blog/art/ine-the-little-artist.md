@@ -14,5 +14,4 @@ Uh oh! Looks like Little Ine forgot to only color on the paper. Ine's a good kid
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine the Little Artist](/images/blog/ine-the-little-artist.jpg)
 

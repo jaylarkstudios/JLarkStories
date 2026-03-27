@@ -16,5 +16,4 @@ A commission for Ash from several years ago.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Lachlan Pumping](/images/blog/lachlan-pumping.jpg)
 

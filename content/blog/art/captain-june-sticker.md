@@ -14,5 +14,4 @@ Here's the second sticker I'm planning to have printed in time for AWU, this one
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Captain June Sticker](/images/blog/captain-june-sticker.jpg)
 

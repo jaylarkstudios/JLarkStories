@@ -14,5 +14,4 @@ Made by somnusfox on BlueSky!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Boulder Shoulders Ine](/images/blog/boulder-shoulders-ine.jpg)
 

@@ -14,5 +14,4 @@ A commission for [ Scarbo](/user/scarbo)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Diapered Minotaur](/images/blog/diapered-minotaur.jpg)
 

@@ -14,5 +14,4 @@ A sketch for [ Scarbo](/user/scarbo)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Nat Changes Mephi Sketch](/images/blog/nat-changes-mephi-sketch.jpg)
 

@@ -14,5 +14,4 @@ Special thanks to [ Temiree](/user/temiree) for giving me permission to ink and
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Diving Tem](/images/blog/diving-tem.jpg)
 

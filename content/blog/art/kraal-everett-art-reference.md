@@ -18,5 +18,4 @@ History: Kraal grew up in a traditional avian home. He's the only child of his w
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Kraal Everett Art Reference](/images/blog/kraal-everett-art-reference.jpg)
 

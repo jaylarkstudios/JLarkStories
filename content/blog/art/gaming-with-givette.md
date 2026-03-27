@@ -14,5 +14,4 @@ Little Ine's having a blast playing games with his sitter. He loves racing games
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Gaming with Givette](/images/blog/gaming-with-givette.jpg)
 

@@ -16,5 +16,4 @@ Much thanks to this tutorial for giving a few pointers.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli Under the Stars](/images/blog/eli-under-the-stars.jpg)
 

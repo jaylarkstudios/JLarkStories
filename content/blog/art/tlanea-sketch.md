@@ -14,5 +14,4 @@ A character I created for a one-off rp with a friend. I haven't done much with h
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![T'Lanea Sketch](/images/blog/tlanea-sketch.jpg)
 

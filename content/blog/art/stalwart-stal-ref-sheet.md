@@ -28,5 +28,4 @@ Art by Celtic Rose
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Stalwart Stal Ref Sheet](/images/blog/stalwart-stal-ref-sheet.jpg)
 

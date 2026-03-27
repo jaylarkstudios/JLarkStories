@@ -14,5 +14,4 @@ It includes mouth open and closing animations, as well as blinking for smiling, 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![JoeMan PNGTuber [Animated]](/images/blog/joeman-pngtuber-animated.gif)
 

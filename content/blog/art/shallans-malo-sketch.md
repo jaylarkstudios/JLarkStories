@@ -14,5 +14,4 @@ I've been re-reading Stormlight Chronicles, and I had this funny idea of what wo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Shallan's MalO Sketch](/images/blog/shallans-malo-sketch.jpg)
 

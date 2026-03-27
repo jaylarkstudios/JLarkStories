@@ -14,5 +14,4 @@ Made with acrylic on canvas.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ocober Night Sky](/images/blog/ocober-night-sky.jpg)
 

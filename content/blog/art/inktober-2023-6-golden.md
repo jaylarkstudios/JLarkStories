@@ -14,5 +14,4 @@ Gold may be shiny, but it's also heavy. Almost as heavy as the crushing weight o
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 6 - Golden](/images/blog/inktober-2023-6-golden.jpg)
 

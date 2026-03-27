@@ -12,5 +12,4 @@ Not every journey needs to be fast or short. Sometimes it's nice to take life at
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 11 - Wander](/images/blog/inktober-2023-11-wander.jpg)
 

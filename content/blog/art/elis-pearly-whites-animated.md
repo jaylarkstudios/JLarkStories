@@ -14,5 +14,4 @@ Been a while since I tried something animated. It's simple, but it brings the im
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli's Pearly Whites [Animated]](/images/blog/elis-pearly-whites-animated.gif)
 

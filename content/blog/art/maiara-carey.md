@@ -14,5 +14,4 @@ For context, she used to work retail, and the store started playing Christmas mu
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maiara Carey](/images/blog/maiara-carey.jpg)
 

@@ -14,5 +14,4 @@ I guess that's a nat 1 for motivational speaking... 😅
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Drin's Speach](/images/blog/drins-speach.jpg)
 

@@ -14,5 +14,4 @@ If you'd like to see the individual images, you can start the sequence here!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine's Muscle Experiment [Animated]](/images/blog/ines-muscle-experiment-animated.gif)
 

@@ -18,5 +18,4 @@ Hope to see you there!!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Tenth Featherversary Stream Announcement!](/images/blog/tenth-featherversary-stream-announcement.jpg)
 

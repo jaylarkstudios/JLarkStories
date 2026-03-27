@@ -16,5 +16,4 @@ Made by [ Mouffetter](/user/mouffetter)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli the Big Dragon](/images/blog/eli-the-big-dragon.png)
 

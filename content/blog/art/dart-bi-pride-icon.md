@@ -14,5 +14,4 @@ A commission for [ Dartboardwolf](/user/dartboardwolf)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dart Bi Pride Icon](/images/blog/dart-bi-pride-icon.jpg)
 

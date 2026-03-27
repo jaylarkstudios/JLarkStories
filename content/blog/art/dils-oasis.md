@@ -14,5 +14,4 @@ Dil has been naked this entire time!! Are you not entertained?! 😂
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dil's Oasis](/images/blog/dils-oasis.jpg)
 

@@ -12,5 +12,4 @@ Dumb sticker I made for myself. Now you have that song stuck in your head. You'r
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dancing Ine](/images/blog/dancing-ine.jpg)
 

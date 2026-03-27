@@ -12,5 +12,4 @@ I received a Secret Santa gift from Korvin, who made Eli look a bit more like a 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Feral Eli](/images/blog/feral-eli.jpg)
 

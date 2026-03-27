@@ -14,5 +14,4 @@ You monster.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Plays Portal - Aug 16](/images/blog/ine-plays-portal-aug-16.jpg)
 

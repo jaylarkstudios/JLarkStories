@@ -18,5 +18,4 @@ History: Born to a 2nd generation Mexican American family from Arizona, Mally ca
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mally Analara Art Reference](/images/blog/mally-analara-art-reference.jpg)
 

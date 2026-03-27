@@ -24,5 +24,4 @@ Don’t assume. Learn.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Be Nice to My Friends!](/images/blog/be-nice-to-my-friends.jpg)
 

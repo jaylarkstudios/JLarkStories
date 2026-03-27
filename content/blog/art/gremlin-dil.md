@@ -12,5 +12,4 @@ I was just playing around and accidentally made gremlin Dil. I kinda dig it thou
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Gremlin Dil](/images/blog/gremlin-dil.jpg)
 

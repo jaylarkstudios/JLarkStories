@@ -12,5 +12,4 @@ A personal piece I did over the weekend of Eli, my blushy noodle boi. It's my fi
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Blushy Eli](/images/blog/blushy-eli.jpg)
 

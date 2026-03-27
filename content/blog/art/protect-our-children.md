@@ -18,5 +18,4 @@ This depravity needs to stop.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Protect Our Children](/images/blog/protect-our-children.jpg)
 

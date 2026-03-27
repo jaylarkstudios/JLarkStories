@@ -14,5 +14,4 @@ A personal sticker, made by me!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine Says NO!!](/images/blog/little-ine-says-no.jpg)
 

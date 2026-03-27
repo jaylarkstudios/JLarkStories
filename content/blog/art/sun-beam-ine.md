@@ -16,5 +16,4 @@ For those unfamiliar, this is a favorite song amongst children in the Church of 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Sun-BEAM Ine!](/images/blog/sun-beam-ine.jpg)
 

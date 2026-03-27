@@ -18,5 +18,4 @@ Read this page on awwfeathers.com
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Getting Stronger 3](/images/blog/getting-stronger-3.jpg)
 

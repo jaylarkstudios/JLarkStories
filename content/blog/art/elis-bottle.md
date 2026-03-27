@@ -16,5 +16,4 @@ A gift from [ Scarbo](/user/scarbo) made by AnmiaDeRosa
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli's Bottle](/images/blog/elis-bottle.jpg)
 

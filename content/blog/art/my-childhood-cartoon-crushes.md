@@ -26,5 +26,4 @@ Scurl - I've gone into detail before about my favorite character from the Redwal
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![My Childhood Cartoon Crushes!](/images/blog/my-childhood-cartoon-crushes.png)
 

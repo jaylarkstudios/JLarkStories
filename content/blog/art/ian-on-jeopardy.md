@@ -14,5 +14,4 @@ A commission for [ Ian McGecko](/user/ianthegecko)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ian on Jeopardy!](/images/blog/ian-on-jeopardy.jpg)
 

@@ -14,5 +14,4 @@ Click here for the ABDL version.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mephi and Nat](/images/blog/mephi-and-nat.jpg)
 

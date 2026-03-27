@@ -18,5 +18,4 @@ Whatever it takes.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Whatever it takes](/images/blog/whatever-it-takes.jpg)
 

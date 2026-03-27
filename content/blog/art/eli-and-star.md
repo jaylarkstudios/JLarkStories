@@ -16,5 +16,4 @@ Yes, the movie Wish was very subpar as Disney films go. There were a lot of thin
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli and Star](/images/blog/eli-and-star.jpg)
 

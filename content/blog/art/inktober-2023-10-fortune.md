@@ -12,5 +12,4 @@ If you can get your paws on an authentic Kraal Buck, you'll have a fortune on yo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 10 - Fortune](/images/blog/inktober-2023-10-fortune.jpg)
 

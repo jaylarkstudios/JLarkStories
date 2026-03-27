@@ -14,5 +14,4 @@ Ine's playing Bridge Constructor Portal tonight on [https://twitch.tv/jlarkstori
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Plays Bridge Constructor Portal - Sep 1](/images/blog/ine-plays-bridge-constructor-portal-sep-1.jpg)
 

@@ -16,5 +16,4 @@ You can see the episode here: [https://youtu.be/Rfap23Thlu8](https://youtu.be/Rf
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Aquaman Dolphin](/images/blog/aquaman-dolphin.jpg)
 

@@ -14,5 +14,4 @@ A commission for Layton for Species Change Week!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Layton Bull SCW](/images/blog/layton-bull-scw.jpg)
 

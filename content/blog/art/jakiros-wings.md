@@ -14,5 +14,4 @@ This adorable piece was made by Happy Foxx!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Jakiro's Wings](/images/blog/jakiros-wings.png)
 

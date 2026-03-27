@@ -14,5 +14,4 @@ A gift for [ Scarbo](/user/scarbo)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mephi and Nat (ABDL)](/images/blog/mephi-and-nat-abdl.jpg)
 

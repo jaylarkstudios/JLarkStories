@@ -14,5 +14,4 @@ I was on a vulture kick a while back. 😄 Actually, I've loved vultures for a l
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Cape Vulture Sketch](/images/blog/cape-vulture-sketch.jpg)
 

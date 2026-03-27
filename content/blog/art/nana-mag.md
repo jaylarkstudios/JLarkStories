@@ -14,5 +14,4 @@ Mag is in her late 40's or early 50's. I don't draw older characters very often.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Nana Mag](/images/blog/nana-mag.jpg)
 

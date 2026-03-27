@@ -12,5 +12,4 @@ Ine's taking a prehistoric walk on the wild side! Ine often gets confused for a 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Raptor Ine](/images/blog/raptor-ine.jpg)
 

@@ -16,5 +16,4 @@ My half of an art trade with [ jamesdragon](/user/jamesdragon). Not originally 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine's Prehistoric Trip](/images/blog/ines-prehistoric-trip.jpg)
 

@@ -14,5 +14,4 @@ I'd love to do more pieces in this style. If anyone is interested, I'd take a co
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Stained Glass June](/images/blog/stained-glass-june.jpg)
 

@@ -14,5 +14,4 @@ He's very smol.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![tik'pik the cremling (SCW)](/images/blog/tikpik-the-cremling-scw.jpg)
 

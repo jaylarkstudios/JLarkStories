@@ -12,5 +12,4 @@ And a gift for Feather Vane the Chozo as well to finish off the pair of lovebird
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Feather Vane the Chozo](/images/blog/feather-vane-the-chozo.jpg)
 

@@ -14,5 +14,4 @@ Sorry, that one got a bit dark, no pun intended. 😅
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 4 - Dodge](/images/blog/inktober-2023-4-dodge.jpg)
 

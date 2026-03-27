@@ -14,5 +14,4 @@ I have more slots available! Half body (like this one) is $60, full body is $75.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Skeleton June](/images/blog/skeleton-june.jpg)
 

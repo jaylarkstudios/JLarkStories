@@ -14,5 +14,4 @@ Happy St. Paddy's Day!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dyed in the Feathers](/images/blog/dyed-in-the-feathers.jpg)
 

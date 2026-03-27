@@ -14,5 +14,4 @@ Happy tax season! 😂
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mini Comic: Professional Rejector](/images/blog/mini-comic-professional-rejector.jpg)
 

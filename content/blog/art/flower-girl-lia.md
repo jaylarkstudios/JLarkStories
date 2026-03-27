@@ -12,5 +12,4 @@ Spring is here, and Lia's enjoying the return of the flowers and their many uniq
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Flower Girl Lia](/images/blog/flower-girl-lia.jpg)
 

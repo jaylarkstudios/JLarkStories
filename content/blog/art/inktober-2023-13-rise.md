@@ -12,5 +12,4 @@ Don't let so-called limitations hold you back. Use what you have and rise to eve
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 13 - Rise](/images/blog/inktober-2023-13-rise.jpg)
 

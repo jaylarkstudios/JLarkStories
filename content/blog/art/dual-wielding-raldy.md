@@ -16,5 +16,4 @@ Watch the timelapse here!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dual Wielding Raldy](/images/blog/dual-wielding-raldy.jpg)
 

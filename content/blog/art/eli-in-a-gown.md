@@ -12,5 +12,4 @@ A quick sketch I did of Eli in a gown. Doesn't he look purty! 😊💐
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli in a Gown](/images/blog/eli-in-a-gown.jpg)
 

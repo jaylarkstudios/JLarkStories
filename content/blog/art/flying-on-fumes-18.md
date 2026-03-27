@@ -16,5 +16,4 @@ Read this page on awwfeathers.com
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Flying on Fumes 18](/images/blog/flying-on-fumes-18.jpg)
 

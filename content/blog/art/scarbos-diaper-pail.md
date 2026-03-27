@@ -14,5 +14,4 @@ Scarbo is dropping a used diaper into the garbage pail, happy that he was able t
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Scarbo's Diaper Pail](/images/blog/scarbos-diaper-pail.jpg)
 

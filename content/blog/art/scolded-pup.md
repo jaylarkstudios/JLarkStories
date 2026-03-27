@@ -14,5 +14,4 @@ A drawing I did for [ masterlupus](/user/masterlupus)! This little wolf pup is 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Scolded Pup](/images/blog/scolded-pup.jpg)
 

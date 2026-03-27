@@ -14,5 +14,4 @@ Personal art by me. Juddo belongs to [ Scarbo](/user/scarbo).
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine in the Corner](/images/blog/little-ine-in-the-corner.jpg)
 

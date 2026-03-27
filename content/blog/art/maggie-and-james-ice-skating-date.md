@@ -14,5 +14,4 @@ A birthday gift from James to Maggie! Thank you so much for letting me draw this
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maggie and James Ice Skating Date](/images/blog/maggie-and-james-ice-skating-date.jpg)
 

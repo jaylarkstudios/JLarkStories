@@ -16,5 +16,4 @@ A commission for Jacob Wyldclaw.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Megan's Big Flex](/images/blog/megans-big-flex.jpg)
 

@@ -12,5 +12,4 @@ I was practicing some figure drawing recently and really liked how one of the po
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Swimsuit June](/images/blog/swimsuit-june.jpg)
 

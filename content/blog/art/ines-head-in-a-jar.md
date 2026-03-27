@@ -14,5 +14,4 @@ A spooky and hilarious YCH commission by [ VCR-Bunny](/user/vcr-bunny)! (I just
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine's Head in a Jar](/images/blog/ines-head-in-a-jar.jpg)
 

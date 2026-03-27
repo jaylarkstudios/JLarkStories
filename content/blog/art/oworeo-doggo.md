@@ -12,5 +12,4 @@ Another birthday gift, this one for Zena Nightsky, a good doggo who loves Oreos!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![OwOreo Doggo](/images/blog/oworeo-doggo.jpg)
 

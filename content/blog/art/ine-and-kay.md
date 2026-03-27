@@ -14,5 +14,4 @@ Also, my first semi-serious attempt at digital watercolor. It's different, but k
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine and Kay](/images/blog/ine-and-kay.jpg)
 

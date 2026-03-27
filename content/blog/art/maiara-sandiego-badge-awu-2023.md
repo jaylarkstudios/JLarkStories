@@ -20,5 +20,4 @@ A badge for my wife by DJtheGull!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maiara Sandiego Badge (AWU 2023)](/images/blog/maiara-sandiego-badge-awu-2023.jpg)
 

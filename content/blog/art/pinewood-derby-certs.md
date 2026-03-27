@@ -14,5 +14,4 @@ Years ago I drew these little guys to put on the certificates for a Pinewood Der
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Pinewood Derby Certs](/images/blog/pinewood-derby-certs.jpg)
 

@@ -12,5 +12,4 @@ A birthday gift from my buddy, DouglasCorgi! Thanks so much!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Happy Birthday Ine!](/images/blog/happy-birthday-ine.jpg)
 

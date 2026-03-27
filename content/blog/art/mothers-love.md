@@ -48,5 +48,4 @@ A personal art piece of Ine and his mother. I'm so happy with how this turned ou
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mother's Love](/images/blog/mothers-love.png)
 

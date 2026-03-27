@@ -14,5 +14,4 @@ I miss her. But I'm happy for the fun times we had with her!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Trainer Ine and Charmander Jakiro](/images/blog/trainer-ine-and-charmander-jakiro.jpg)
 

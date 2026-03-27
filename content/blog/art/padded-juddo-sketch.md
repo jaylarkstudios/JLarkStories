@@ -14,5 +14,4 @@ Juddo the deer is definitely a big boy. Just goes to show that sometimes big boy
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Padded Juddo Sketch](/images/blog/padded-juddo-sketch.jpg)
 

@@ -16,5 +16,4 @@ A commission for [ LasmarineEla](/user/lasmarineela) of his original species, t
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Stargazing Mother](/images/blog/stargazing-mother.jpg)
 

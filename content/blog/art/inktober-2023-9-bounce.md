@@ -12,5 +12,4 @@ Chris's philosophy is why settle for just one thing? Especially when you enjoy t
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 9 - Bounce](/images/blog/inktober-2023-9-bounce.jpg)
 

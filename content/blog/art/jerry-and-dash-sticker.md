@@ -16,5 +16,4 @@ A sticker commission for Jerry.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Jerry and Dash Sticker](/images/blog/jerry-and-dash-sticker.jpg)
 

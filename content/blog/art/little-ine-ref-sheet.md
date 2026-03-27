@@ -18,5 +18,4 @@ Art by [ Shopoke](/user/shopoke), ref sheet by me.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine Ref Sheet](/images/blog/little-ine-ref-sheet.png)
 

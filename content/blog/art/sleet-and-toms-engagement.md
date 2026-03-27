@@ -14,5 +14,4 @@ A gift for [ TomIsAwesome](/user/tomisawesome) the raven and [ SleetTheFox](/u
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Sleet and Tom's Engagement](/images/blog/sleet-and-toms-engagement.jpg)
 

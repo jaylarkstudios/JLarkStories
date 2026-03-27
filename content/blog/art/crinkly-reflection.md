@@ -16,5 +16,4 @@ A commission for [ Scarbo](/user/scarbo).
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Crinkly Reflection](/images/blog/crinkly-reflection.png)
 

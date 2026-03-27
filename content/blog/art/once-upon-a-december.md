@@ -16,5 +16,4 @@ A commission I just finished for Marcus and his lady, based on the film Anastasi
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Once Upon a December](/images/blog/once-upon-a-december.jpg)
 

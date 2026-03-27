@@ -14,5 +14,4 @@ A beautiful sketch by [ DaisySun](/user/daisysun)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Childish Things](/images/blog/childish-things.jpg)
 

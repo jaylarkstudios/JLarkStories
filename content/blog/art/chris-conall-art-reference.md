@@ -22,5 +22,4 @@ Chris is roommates with Kraal and rounds out the four characters of Aww, Feather
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Chris Conall Art Reference](/images/blog/chris-conall-art-reference.jpg)
 

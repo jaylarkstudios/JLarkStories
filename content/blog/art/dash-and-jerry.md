@@ -14,5 +14,4 @@ A sticker commission I did for Dash and Jerry, a sweet bunny and a good puppy!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dash and Jerry](/images/blog/dash-and-jerry.jpg)
 

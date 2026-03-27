@@ -14,5 +14,4 @@ A gift for [ Scarbo](/user/scarbo)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Minotaur and Anubis](/images/blog/minotaur-and-anubis.jpg)
 

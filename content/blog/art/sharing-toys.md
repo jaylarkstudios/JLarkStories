@@ -14,5 +14,4 @@ A commission by mysticabnormalities on Telegram (an account that no longer exist
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Sharing Toys](/images/blog/sharing-toys.jpg)
 

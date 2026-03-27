@@ -14,5 +14,4 @@ Couldn't be more delighted with this adorable sketch I got from [ DaisySun](/us
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine and Big Talon](/images/blog/little-ine-and-big-talon.png)
 

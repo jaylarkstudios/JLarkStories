@@ -16,5 +16,4 @@ Made by [ donttouchmylasagna](/user/donttouchmylasagna)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Stal Working Out](/images/blog/stal-working-out.png)
 

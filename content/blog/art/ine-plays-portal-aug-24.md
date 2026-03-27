@@ -12,5 +12,4 @@ Subject Ine has gone missing. Please join in searching for him at [https://twitc
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Plays Portal - Aug 24](/images/blog/ine-plays-portal-aug-24.jpg)
 

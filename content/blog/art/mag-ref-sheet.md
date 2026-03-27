@@ -12,5 +12,4 @@ Here's the first character ref sheet for our little nature witch, one of the mai
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mag Ref Sheet](/images/blog/mag-ref-sheet.jpg)
 

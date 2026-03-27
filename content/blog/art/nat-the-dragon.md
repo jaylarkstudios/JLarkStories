@@ -14,5 +14,4 @@ A quick headshot for Scarbo. Enjoy!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Nat the Dragon](/images/blog/nat-the-dragon.jpg)
 

@@ -12,5 +12,4 @@ A bit late posting this here, but I leveled up recently, so here's a pic of Ine 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eggie Ine](/images/blog/eggie-ine.jpg)
 

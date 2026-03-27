@@ -16,5 +16,4 @@ A funny YCH by [ LunaTheCute](/user/lunathecute)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli the Babyfur Butt](/images/blog/eli-the-babyfur-butt.png)
 

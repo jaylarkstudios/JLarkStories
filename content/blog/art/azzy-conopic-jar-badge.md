@@ -14,5 +14,4 @@ Another conopic jar con badge design, this one for Azzy!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Azzy Conopic Jar Badge](/images/blog/azzy-conopic-jar-badge.jpg)
 

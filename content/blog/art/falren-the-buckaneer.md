@@ -14,5 +14,4 @@ Another pirate themed commission, this one for Sefris! Than you so much!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Falren the Buckaneer](/images/blog/falren-the-buckaneer.jpg)
 

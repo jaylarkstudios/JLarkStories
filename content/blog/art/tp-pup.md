@@ -16,5 +16,4 @@ A commission for Revir the Foxcat on telegram!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![TP Pup](/images/blog/tp-pup.jpg)
 

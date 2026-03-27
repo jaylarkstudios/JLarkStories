@@ -14,5 +14,4 @@ One recurring dream of Ine's is one where he suddenly has more feathers than usu
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 1 - Dream](/images/blog/inktober-2023-1-dream.jpg)
 

@@ -14,5 +14,4 @@ Happy 4th all! 🫡🇺🇸
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Patriotic Ine](/images/blog/patriotic-ine.jpg)
 

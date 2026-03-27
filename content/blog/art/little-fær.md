@@ -16,5 +16,4 @@ A commission for Faer_Xander
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Fær](/images/blog/little-fær.jpg)
 

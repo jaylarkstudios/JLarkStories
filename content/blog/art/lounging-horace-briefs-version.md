@@ -12,5 +12,4 @@ Horace the Iron Poet is taking a well deserved nap. It must feel great to get ou
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Lounging Horace (Briefs Version)](/images/blog/lounging-horace-briefs-version.jpg)
 

@@ -14,5 +14,4 @@ Join me at [https://twitch.tv/jlarkstories](https://twitch.tv/jlarkstories) this
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![2023 Year-end Stream](/images/blog/2023-year-end-stream.jpg)
 

@@ -14,5 +14,4 @@ Created: Apr 20, 2022
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Suka Ref](/images/blog/suka-ref.jpg)
 

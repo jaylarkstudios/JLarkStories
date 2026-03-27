@@ -16,5 +16,4 @@ A commission by [ DragonessDeanna](/user/dragonessdeanna)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mummy Maiara](/images/blog/mummy-maiara.jpg)
 

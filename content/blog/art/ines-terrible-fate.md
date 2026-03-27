@@ -14,5 +14,4 @@ My badge design for Spooktacufur, which I'll be attending later this year! What 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine's Terrible Fate](/images/blog/ines-terrible-fate.jpg)
 

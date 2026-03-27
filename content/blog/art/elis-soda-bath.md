@@ -16,5 +16,4 @@ Drawn in pencil by Zena Nightsky
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli's Soda Bath](/images/blog/elis-soda-bath.jpg)
 

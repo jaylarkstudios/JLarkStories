@@ -16,5 +16,4 @@ A personal sticker made by me!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Cookie Thief Sticker](/images/blog/cookie-thief-sticker.jpg)
 

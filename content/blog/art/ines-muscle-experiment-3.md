@@ -16,5 +16,4 @@ Part 3 of a muscle growth sequence commission for [ lycanlover777](/user/lycanl
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine's Muscle Experiment 3](/images/blog/ines-muscle-experiment-3.jpg)
 

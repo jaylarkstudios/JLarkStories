@@ -14,5 +14,4 @@ A delightful commission by [ DrakeMagick](/user/drakemagick) of Lark and Maiara
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Lark Devineaux and Maiara Sandiego](/images/blog/lark-devineaux-and-maiara-sandiego.jpg)
 

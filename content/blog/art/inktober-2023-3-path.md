@@ -12,5 +12,4 @@ Here we see a rare glimpse of the elusive Push-me-pull-Dil! He seems to be torn 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 3 - Path](/images/blog/inktober-2023-3-path.jpg)
 

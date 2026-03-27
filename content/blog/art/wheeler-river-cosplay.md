@@ -14,5 +14,4 @@ Finished a commission! It's Wheeler Fox, cosplaying as River, the Howling Arrow 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Wheeler River Cosplay](/images/blog/wheeler-river-cosplay.jpg)
 

@@ -14,5 +14,4 @@ One of the most beloved Disney characters at Disney World is also one of the mos
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine and Figment](/images/blog/ine-and-figment.jpg)
 

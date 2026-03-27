@@ -12,5 +12,4 @@ An icon for my wife, Maiara, made by OrbitalFox as a raffle prize during MerleKo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maiara by OrbitalFox](/images/blog/maiara-by-orbitalfox.jpg)
 

@@ -14,5 +14,4 @@ Art by VesselBossaNova
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Baby Ine's Smash Cake](/images/blog/baby-ines-smash-cake.jpg)
 

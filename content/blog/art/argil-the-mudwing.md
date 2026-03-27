@@ -14,5 +14,4 @@ A colored headshot commission for [ Argil MudWing](/user/ashcarso) of his Wings
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Argil the Mudwing](/images/blog/argil-the-mudwing.png)
 

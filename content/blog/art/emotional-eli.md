@@ -16,5 +16,4 @@ Made by [ Felix_the_Gray](/user/felixthegray)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Emotional Eli](/images/blog/emotional-eli.jpg)
 

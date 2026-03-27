@@ -16,5 +16,4 @@ A commission for Ian McGecko!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ian Deadlift](/images/blog/ian-deadlift.jpg)
 

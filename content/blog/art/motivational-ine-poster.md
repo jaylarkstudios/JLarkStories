@@ -12,5 +12,4 @@ summary: "Wyldclaw/user/wyldclaw asked for a motivational poster featuring Ine l
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Motivational Ine Poster](/images/blog/motivational-ine-poster.jpg)
 

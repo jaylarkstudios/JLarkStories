@@ -14,5 +14,4 @@ Art by [ DaisySun](/user/daisysun)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little June on the Beach](/images/blog/little-june-on-the-beach.jpg)
 

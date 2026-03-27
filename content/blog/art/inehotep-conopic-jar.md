@@ -14,5 +14,4 @@ A con badge design I made for Anthro Weekend Utah 2022, which was Egyptian theme
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inehotep Conopic Jar](/images/blog/inehotep-conopic-jar.jpg)
 

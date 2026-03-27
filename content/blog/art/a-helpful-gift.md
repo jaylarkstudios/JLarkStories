@@ -16,5 +16,4 @@ This is one of the earliest ABDL-themed commissions I remember doing! Both chara
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![A Helpful Gift](/images/blog/a-helpful-gift.png)
 

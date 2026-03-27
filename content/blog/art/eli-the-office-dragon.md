@@ -14,5 +14,4 @@ Eli wanted to see how he'd look in something pretty but formal, and I think it t
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli the Office Dragon](/images/blog/eli-the-office-dragon.jpg)
 

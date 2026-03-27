@@ -16,5 +16,4 @@ Click here for more details!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![April Art Giveaway!](/images/blog/april-art-giveaway.jpg)
 

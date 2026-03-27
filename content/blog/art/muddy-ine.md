@@ -14,5 +14,4 @@ Uh oh. Little Ine had a little too much fun and now gonna need a baff. And you b
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Muddy Ine](/images/blog/muddy-ine.jpg)
 

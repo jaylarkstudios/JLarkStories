@@ -12,5 +12,4 @@ A Secret Santa art piece I made for Pom Pom the blue jay! I had so much fun with
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Pom Pom's Popcorn Garland](/images/blog/pom-poms-popcorn-garland.jpg)
 

@@ -16,5 +16,4 @@ Click here to see photos and a video of the printed double-sided badge!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Pirate Ine](/images/blog/pirate-ine.jpg)
 

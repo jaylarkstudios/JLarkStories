@@ -12,5 +12,4 @@ And here's the ref sheet for the second main character of the short story I'm wo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Fang Ref Sheet](/images/blog/fang-ref-sheet.jpg)
 

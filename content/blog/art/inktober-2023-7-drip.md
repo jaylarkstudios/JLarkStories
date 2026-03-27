@@ -14,5 +14,4 @@ Then flowing… collecting… coalescing… finally to return like the falling r
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 7 - Drip](/images/blog/inktober-2023-7-drip.jpg)
 

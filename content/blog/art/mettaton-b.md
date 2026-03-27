@@ -14,5 +14,4 @@ A commission for Azzy, who requested Mettaton Neo dressed as Mirror B. from Poke
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mettaton B.](/images/blog/mettaton-b.jpg)
 

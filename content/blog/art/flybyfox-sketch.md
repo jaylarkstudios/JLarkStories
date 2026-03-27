@@ -12,5 +12,4 @@ A little gift I made for FlyByFox! He's a VRChat streamer who loves aviation and
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![FlyByFox Sketch](/images/blog/flybyfox-sketch.jpg)
 

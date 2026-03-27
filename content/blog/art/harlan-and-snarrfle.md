@@ -16,5 +16,4 @@ Click here to watch a timelapse of this commission!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Harlan and Snarrfle](/images/blog/harlan-and-snarrfle.jpg)
 

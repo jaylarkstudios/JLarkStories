@@ -12,5 +12,4 @@ A commission update for [ Scarbo](/user/scarbo). Valsa is sporting his ace prid
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Valsa's Modeling Shoot (Ace Shorts Version)](/images/blog/valsas-modeling-shoot-ace-shorts-version.jpg)
 

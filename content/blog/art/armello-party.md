@@ -16,5 +16,4 @@ Featuring Jacob as Magna, Douglas as Sargon, Cosmic as Barnaby, and Ian as Hargr
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Armello Party](/images/blog/armello-party.jpg)
 

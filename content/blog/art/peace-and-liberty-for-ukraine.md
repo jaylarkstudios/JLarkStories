@@ -18,5 +18,4 @@ peace and liberty for Ukraine
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Peace and Liberty for Ukraine](/images/blog/peace-and-liberty-for-ukraine.jpg)
 

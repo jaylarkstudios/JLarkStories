@@ -14,5 +14,4 @@ Merry Christmas all!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Secret Santa](/images/blog/ine-secret-santa.jpg)
 

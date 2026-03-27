@@ -14,5 +14,4 @@ For context: [https://www.twitch.tv/merlekoz/clip.....uBnwAch8YNSVK7](https://ww
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Merle Lark-Oh Encounter](/images/blog/merle-lark-oh-encounter.jpg)
 

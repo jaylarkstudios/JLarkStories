@@ -14,5 +14,4 @@ An updated commission for Scarbo! If you'd like to see the original ABDL version
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Horace the Iron Poet](/images/blog/horace-the-iron-poet.jpg)
 

@@ -14,5 +14,4 @@ Lineart by [ LasmarineEla](/user/lasmarineela), colored with permission for [ 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Anubis in Briefs](/images/blog/anubis-in-briefs.jpg)
 

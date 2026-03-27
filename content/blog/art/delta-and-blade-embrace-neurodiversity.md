@@ -12,5 +12,4 @@ Just finished this lovely commission for Delta and Blade! March 13-19 is Neurodi
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Delta and Blade Embrace Neurodiversity](/images/blog/delta-and-blade-embrace-neurodiversity.jpg)
 

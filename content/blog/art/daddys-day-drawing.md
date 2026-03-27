@@ -14,5 +14,4 @@ A commission for [ masterlupus](/user/masterlupus)! Little Rob made a gift for 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Daddy's Day Drawing](/images/blog/daddys-day-drawing.jpg)
 

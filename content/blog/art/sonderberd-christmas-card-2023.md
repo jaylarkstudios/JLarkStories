@@ -14,5 +14,4 @@ This is my first time making our own family Christmas card, and I'm very happy w
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Sonderberd Christmas Card 2023](/images/blog/sonderberd-christmas-card-2023.jpg)
 

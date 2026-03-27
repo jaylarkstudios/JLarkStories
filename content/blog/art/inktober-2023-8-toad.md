@@ -12,5 +12,4 @@ Look, if this is what it takes...
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 8 - Toad](/images/blog/inktober-2023-8-toad.jpg)
 

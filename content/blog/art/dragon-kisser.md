@@ -14,5 +14,4 @@ Feel free to use, repost, remix, etc. Attribution appreciated but not required. 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dragon Kisser](/images/blog/dragon-kisser.jpg)
 

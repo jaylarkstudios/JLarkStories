@@ -32,5 +32,4 @@ Refsheet by me
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli Dragon Ref Sheet](/images/blog/eli-dragon-ref-sheet.jpg)
 

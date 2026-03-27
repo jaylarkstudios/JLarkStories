@@ -16,5 +16,4 @@ Next >
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine's Muscle Experiment 1](/images/blog/ines-muscle-experiment-1.jpg)
 

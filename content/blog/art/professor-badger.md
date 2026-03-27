@@ -14,5 +14,4 @@ A gift I made a while back for my animation professor in college. I'm very glad 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Professor Badger](/images/blog/professor-badger.jpg)
 

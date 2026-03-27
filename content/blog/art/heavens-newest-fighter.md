@@ -14,5 +14,4 @@ A piece I made to commemorate a loved one who was called home, and who is still 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Heaven's Newest Fighter](/images/blog/heavens-newest-fighter.jpg)
 

@@ -18,5 +18,4 @@ Read this page on awwfeathers.com
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Q&A: Chimera's Wrath 1](/images/blog/qa-chimeras-wrath-1.jpg)
 

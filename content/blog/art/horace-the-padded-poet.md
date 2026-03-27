@@ -16,5 +16,4 @@ Horace and Armello are by League of Geeks.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Horace the Padded Poet](/images/blog/horace-the-padded-poet.jpg)
 

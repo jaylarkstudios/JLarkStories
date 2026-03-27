@@ -16,5 +16,4 @@ Don't ever stop fighting for the liberty of all. ⛓️‍💥
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Juneteenth: Break the Chains](/images/blog/juneteenth-break-the-chains.jpg)
 

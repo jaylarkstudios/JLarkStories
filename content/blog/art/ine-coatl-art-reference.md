@@ -20,5 +20,4 @@ Wow, this thing is ten years old! I am working on an updated ref sheet for Ine, 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Coatl Art Reference](/images/blog/ine-coatl-art-reference.jpg)
 

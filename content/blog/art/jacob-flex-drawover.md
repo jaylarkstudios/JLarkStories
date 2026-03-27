@@ -12,5 +12,4 @@ A draw-over for my pal, Jacob Wyldclaw, showing off the gains he's been making a
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Jacob Flex Drawover](/images/blog/jacob-flex-drawover.jpg)
 

@@ -12,5 +12,4 @@ Here's a birthd-- I mean, bearthday card I drew for someone in my neighborhood! 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Happy Bearthday](/images/blog/happy-bearthday.jpg)
 

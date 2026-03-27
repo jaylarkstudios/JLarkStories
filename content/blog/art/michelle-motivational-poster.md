@@ -14,5 +14,4 @@ A commission for [ lycanlover777](/user/lycanlover777) who wanted to take Miche
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Michelle Motivational Poster](/images/blog/michelle-motivational-poster.jpg)
 

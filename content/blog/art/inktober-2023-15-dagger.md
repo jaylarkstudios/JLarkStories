@@ -12,5 +12,4 @@ Mally the Sap Stinger: This +2 dagger heals its user of 1 point of damage for ev
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 15 - Dagger](/images/blog/inktober-2023-15-dagger.jpg)
 

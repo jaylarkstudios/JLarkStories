@@ -16,5 +16,4 @@ I made this cover art for the song, and I'm pretty pleased with how it turned ou
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Danse Macabre Cover Art](/images/blog/danse-macabre-cover-art.jpg)
 

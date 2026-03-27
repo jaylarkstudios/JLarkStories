@@ -16,5 +16,4 @@ A silly drawing I made on my phone, because I didn't have my tablet on me.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![It's just a dress!](/images/blog/its-just-a-dress.jpg)
 

@@ -12,5 +12,4 @@ I got this poncho a few years ago. It's very nice and comfy, easy to wear around
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Gaucho Ine](/images/blog/gaucho-ine.jpg)
 

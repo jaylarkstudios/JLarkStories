@@ -14,5 +14,4 @@ A surprise gift commissioned by [ lycanlover777](/user/lycanlover777), made by 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Hulking at the Gym](/images/blog/ine-hulking-at-the-gym.jpg)
 

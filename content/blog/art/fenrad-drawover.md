@@ -12,5 +12,4 @@ A drawover commission for [ lycanlover777](/user/lycanlover777), who's been har
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Fenrad Drawover](/images/blog/fenrad-drawover.jpg)
 

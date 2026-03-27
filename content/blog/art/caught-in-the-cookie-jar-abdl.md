@@ -16,5 +16,4 @@ A commission for [ Kakiookami](/user/kakiookami) Thanks a lot!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Caught in the Cookie Jar (ABDL)](/images/blog/caught-in-the-cookie-jar-abdl.jpg)
 

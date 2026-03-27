@@ -18,5 +18,4 @@ Looking forward to many more meals together!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Sonderberd Cooking Journal Cover](/images/blog/sonderberd-cooking-journal-cover.jpg)
 

@@ -16,5 +16,4 @@ Happy Father's Day!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Father's Day Sketches 2022](/images/blog/fathers-day-sketches-2022.jpg)
 

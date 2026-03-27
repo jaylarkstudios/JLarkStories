@@ -16,5 +16,4 @@ A commission for [ Scarbo](/user/scarbo) several years ago. Thanks!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Givette the Fighter](/images/blog/givette-the-fighter.jpg)
 

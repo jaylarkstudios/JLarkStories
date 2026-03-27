@@ -16,5 +16,4 @@ This is the clip the above comic is based on by the way. 😆
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Streaming and Screaming](/images/blog/streaming-and-screaming.jpg)
 

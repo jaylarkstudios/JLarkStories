@@ -12,5 +12,4 @@ Mally drags a long map for an even longer journey. She may love flying and trave
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 5 - Map](/images/blog/inktober-2023-5-map.jpg)
 

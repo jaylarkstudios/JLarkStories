@@ -14,5 +14,4 @@ A gift for Scout, dedicated to Midnight Vixen, who is no longer with us, using l
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Midnight and Scout](/images/blog/midnight-and-scout.jpg)
 

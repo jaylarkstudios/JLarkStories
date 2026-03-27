@@ -12,5 +12,4 @@ Another D&D doodle. Our DM introduced a female minotaur named Cecelia Yak who's 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Cecilia Yak's Bakery](/images/blog/cecilia-yaks-bakery.jpg)
 

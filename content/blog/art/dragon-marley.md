@@ -14,5 +14,4 @@ It's Dragon Marley, delivering one of my favorite lines from the timeless Christ
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dragon Marley](/images/blog/dragon-marley.jpg)
 

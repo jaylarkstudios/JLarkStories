@@ -14,5 +14,4 @@ Dug this one up from a loooooong time ago! Made by [ We-Furry-Few-com](/user/we
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Baby Ine](/images/blog/baby-ine.jpg)
 

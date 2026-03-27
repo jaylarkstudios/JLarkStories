@@ -12,5 +12,4 @@ A gift sketch for Cobalt. This Christmas remember to share a cup of kindness wit
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![A Cup of Kindness](/images/blog/a-cup-of-kindness.jpg)
 

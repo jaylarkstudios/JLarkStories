@@ -14,5 +14,4 @@ This handsome fellow is a colored sketch commission I recently completed for [ 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Flame Skywing Sketch](/images/blog/flame-skywing-sketch.jpg)
 

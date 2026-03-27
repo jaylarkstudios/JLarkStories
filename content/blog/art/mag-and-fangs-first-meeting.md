@@ -16,5 +16,4 @@ This is the short story I've been developing over the past month, and that I'll 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mag and Fang's First Meeting](/images/blog/mag-and-fangs-first-meeting.jpg)
 

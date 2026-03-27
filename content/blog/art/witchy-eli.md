@@ -26,5 +26,4 @@ Click here for ABDL version
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Witchy Eli](/images/blog/witchy-eli.jpg)
 

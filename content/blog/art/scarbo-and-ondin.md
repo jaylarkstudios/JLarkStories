@@ -16,5 +16,4 @@ This is a commission I did years ago of [ Scarbo](/user/scarbo) and his unicorn
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Scarbo and Ondin](/images/blog/scarbo-and-ondin.jpg)
 

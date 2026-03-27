@@ -12,5 +12,4 @@ Here it is! My 2023 art summary! It was such a wild and weird year, which intere
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![2023 Art Summary](/images/blog/2023-art-summary.jpg)
 

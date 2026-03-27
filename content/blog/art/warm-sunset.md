@@ -12,5 +12,4 @@ Just a quick piece to experiment with some of the new features in CLIP Studio, i
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Warm Sunset](/images/blog/warm-sunset.jpg)
 

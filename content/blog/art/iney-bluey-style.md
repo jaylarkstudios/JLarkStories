@@ -12,5 +12,4 @@ Just a fun quick sketch of little Ine in the style of Bluey! (Yes, I've been on 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Iney (Bluey Style)](/images/blog/iney-bluey-style.jpg)
 

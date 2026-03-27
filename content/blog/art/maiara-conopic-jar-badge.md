@@ -14,5 +14,4 @@ My second conopic jar con badge design. The crown turned out especially cool!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maiara Conopic Jar Badge](/images/blog/maiara-conopic-jar-badge.jpg)
 

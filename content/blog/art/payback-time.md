@@ -16,5 +16,4 @@ Based on this video:
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Payback Time!](/images/blog/payback-time.jpg)
 

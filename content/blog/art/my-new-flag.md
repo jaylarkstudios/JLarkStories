@@ -30,5 +30,4 @@ Happy Pride Month! ❤️💜💙
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![My New Flag](/images/blog/my-new-flag.jpg)
 

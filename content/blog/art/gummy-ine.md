@@ -14,5 +14,4 @@ If you'd like to commission your own gummy icon, let me know! I'd love to do mor
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Gummy Ine](/images/blog/gummy-ine.jpg)
 

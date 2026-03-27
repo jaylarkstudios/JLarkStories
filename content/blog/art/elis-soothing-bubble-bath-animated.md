@@ -14,5 +14,4 @@ An animation I made for my new streaming channel hosted by Eli! Check out his sa
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli's Soothing Bubble Bath [Animated]](/images/blog/elis-soothing-bubble-bath-animated.gif)
 

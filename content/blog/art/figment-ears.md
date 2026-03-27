@@ -12,5 +12,4 @@ A little comic about our recent family trip to Disney World. Nothing changes my 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Figment Ears](/images/blog/figment-ears.jpg)
 

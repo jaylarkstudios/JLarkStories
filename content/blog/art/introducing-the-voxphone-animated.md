@@ -14,5 +14,4 @@ summary: "\"Introducing the VoxPhone from VoxTek, with new features designed esp
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Introducing the VoxPhone! [ANIMATED]](/images/blog/introducing-the-voxphone-animated.gif)
 

@@ -14,5 +14,4 @@ Just a quick showcase of the skeleton side of my new Dino-Ine badge! If you'd li
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Raptor Ine Skeleton](/images/blog/raptor-ine-skeleton.jpg)
 

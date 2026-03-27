@@ -16,5 +16,4 @@ An alternate version of the recent commission for [ LasmarineEla](/user/lasmari
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Stargazing Mother (Alternate)](/images/blog/stargazing-mother-alternate.jpg)
 

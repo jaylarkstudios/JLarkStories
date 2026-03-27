@@ -16,5 +16,4 @@ I got this adorable sketch from Ukulele_dogs of little Ine with his big wolf bro
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine and Jacob](/images/blog/little-ine-and-jacob.jpg)
 

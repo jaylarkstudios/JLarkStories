@@ -24,5 +24,4 @@ Artwork by Nova Nocturne
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Jay Lark Sonderberd Art Reference](/images/blog/jay-lark-sonderberd-art-reference.jpg)
 

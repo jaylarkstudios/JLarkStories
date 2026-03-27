@@ -16,5 +16,4 @@ A commission by Celtic Rose.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![A Scarf for Two](/images/blog/a-scarf-for-two.jpg)
 

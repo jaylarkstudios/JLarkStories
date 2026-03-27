@@ -24,5 +24,4 @@ Photos taken by my wife.
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inehotep Costume (AWU 2022)](/images/blog/inehotep-costume-awu-2022.jpg)
 

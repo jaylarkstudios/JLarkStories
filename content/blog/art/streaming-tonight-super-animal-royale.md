@@ -14,5 +14,4 @@ I'll be streaming Super Animal Royale tonight starting around 7pm MT to take adv
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Streaming Tonight! (Super Animal Royale)](/images/blog/streaming-tonight-super-animal-royale.gif)
 

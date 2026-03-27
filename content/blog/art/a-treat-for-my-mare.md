@@ -14,5 +14,4 @@ Here's just a little gift I commissioned for my wife for Valentine's weekend, ma
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![A Treat for My Mare](/images/blog/a-treat-for-my-mare.png)
 

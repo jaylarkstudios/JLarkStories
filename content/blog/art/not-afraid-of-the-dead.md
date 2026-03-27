@@ -12,5 +12,4 @@ Last year when I joined a new D&D campaign with some friends, I drew this to com
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Not Afraid of the Dead](/images/blog/not-afraid-of-the-dead.jpg)
 

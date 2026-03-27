@@ -18,5 +18,4 @@ Check out EliCozyCorner.com to be notified when Eli goes live. See you then!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli's Cozy Corner announcement!](/images/blog/elis-cozy-corner-announcement.jpg)
 

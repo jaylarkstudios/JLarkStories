@@ -14,5 +14,4 @@ And remember... "Our wizard lies!"
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Our Wizard Lies!](/images/blog/our-wizard-lies.jpg)
 

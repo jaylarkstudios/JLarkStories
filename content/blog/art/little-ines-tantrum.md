@@ -16,5 +16,4 @@ This was meant to be a pic of Ine as a little kid, but some people see it and th
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine's Tantrum](/images/blog/little-ines-tantrum.jpg)
 

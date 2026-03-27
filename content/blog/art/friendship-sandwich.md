@@ -16,5 +16,4 @@ All characters belong to [ Ellen-Natalie](/user/ellen-natalie)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Friendship Sandwich](/images/blog/friendship-sandwich.jpg)
 

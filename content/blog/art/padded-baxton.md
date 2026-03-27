@@ -14,5 +14,4 @@ Lark: A commission for PupBaxton!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Padded Baxton](/images/blog/padded-baxton.jpg)
 

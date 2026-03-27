@@ -22,5 +22,4 @@ Artwork by Nova Nocturne
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maiara Sonderberd Art Reference](/images/blog/maiara-sonderberd-art-reference.jpg)
 

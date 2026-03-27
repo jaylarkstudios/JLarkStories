@@ -12,5 +12,4 @@ SQUEEE!! Baby's first fan art!! Faer Xander drew Eli blushing while watching his
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Blushy Eli Fan Art](/images/blog/blushy-eli-fan-art.jpg)
 

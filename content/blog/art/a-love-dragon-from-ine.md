@@ -12,5 +12,4 @@ Twelve years ago I showed up on my then fiancée's doorstep with a Valentine's g
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![A Love Dragon from Ine](/images/blog/a-love-dragon-from-ine.jpg)
 

@@ -14,5 +14,4 @@ Art by DJtheGull!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Smart Badge (AWU 2023)](/images/blog/ine-smart-badge-awu-2023.jpg)
 

@@ -12,5 +12,4 @@ A little icon for myself for February. Ine looks like he's not quite sure how to
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Kisses for Ine](/images/blog/kisses-for-ine.jpg)
 

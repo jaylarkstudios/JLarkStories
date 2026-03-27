@@ -14,5 +14,4 @@ A commission for Vane and Phoenix. Thank you so much, I had a ton of fun with th
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Legendary Flight](/images/blog/legendary-flight.jpg)
 

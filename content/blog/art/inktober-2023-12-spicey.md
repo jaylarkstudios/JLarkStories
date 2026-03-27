@@ -12,5 +12,4 @@ Who would've guessed that one little byte could be so potent! 🔥
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 12 - Spicey](/images/blog/inktober-2023-12-spicey.jpg)
 

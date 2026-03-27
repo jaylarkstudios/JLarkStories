@@ -12,5 +12,4 @@ A personal piece, just cuz I've felt a bit weighed down by the darkness in the w
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Feeling the darkness](/images/blog/feeling-the-darkness.jpg)
 

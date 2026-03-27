@@ -14,5 +14,4 @@ You can see my completed version here!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Cartoon Crushes Template](/images/blog/cartoon-crushes-template.png)
 

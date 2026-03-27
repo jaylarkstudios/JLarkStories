@@ -16,5 +16,4 @@ A commission for [ Scarbo](/user/scarbo)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![The Train Change](/images/blog/the-train-change.jpg)
 

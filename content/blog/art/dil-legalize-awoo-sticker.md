@@ -14,5 +14,4 @@ I'm planning to have this made into a physical sticker and hope to have them rea
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dil Legalize Awoo Sticker](/images/blog/dil-legalize-awoo-sticker.jpg)
 

@@ -14,5 +14,4 @@ A commission I made for Nekronos, the fluffy fire yokai! I had a lot of fun with
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Nekronos in the Flames](/images/blog/nekronos-in-the-flames.jpg)
 

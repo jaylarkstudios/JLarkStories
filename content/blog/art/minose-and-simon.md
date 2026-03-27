@@ -14,5 +14,4 @@ A commission for noutjepsychic. Thank you so much!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Minose and Simon](/images/blog/minose-and-simon.jpg)
 

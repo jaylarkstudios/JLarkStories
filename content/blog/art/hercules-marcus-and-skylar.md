@@ -14,5 +14,4 @@ A Valentines Day gift, commissioned by Marcus for his lady friend! He's got his 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Hercules Marcus and Skylar](/images/blog/hercules-marcus-and-skylar.jpg)
 

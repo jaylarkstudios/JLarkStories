@@ -12,5 +12,4 @@ A commission update for [ Scarbo](/user/scarbo). In this one, Valsa is sporting
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Valsa's Modeling Shoot (Ace Speedo Version)](/images/blog/valsas-modeling-shoot-ace-speedo-version.jpg)
 

@@ -14,5 +14,4 @@ A birthday gift for [ LasmarineEla](/user/lasmarineela)!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Splash Fight with Lasmarin!](/images/blog/splash-fight-with-lasmarin.jpg)
 

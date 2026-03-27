@@ -16,5 +16,4 @@ Made by [ Mouffetter](/user/mouffetter)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Read With Me!](/images/blog/read-with-me.png)
 

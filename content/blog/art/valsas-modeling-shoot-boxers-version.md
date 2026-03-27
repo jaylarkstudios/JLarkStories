@@ -14,5 +14,4 @@ Valsa is ready for his photo shoot! Be sure to get his good side! Ah, who are we
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Valsa's Modeling Shoot (Boxers Version)](/images/blog/valsas-modeling-shoot-boxers-version.jpg)
 

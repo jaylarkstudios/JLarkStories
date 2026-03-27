@@ -14,5 +14,4 @@ Another sticker I finished. Little Ine is a good kid... but sometimes he just ca
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ine Cookie Thief](/images/blog/ine-cookie-thief.jpg)
 

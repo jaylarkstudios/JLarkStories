@@ -12,5 +12,4 @@ A quick Sunday doodle I've been wanting to draw for a while. Representing the yo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Their Mothers Knew](/images/blog/their-mothers-knew.jpg)
 

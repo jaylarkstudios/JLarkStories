@@ -26,5 +26,4 @@ A commission by vulcantanymore, also featuring [ Varilium](/user/varilium).
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Timeout with Tigs](/images/blog/timeout-with-tigs.jpg)
 

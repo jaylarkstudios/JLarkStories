@@ -14,5 +14,4 @@ First time doing a photo paintover. It was fun! I may do more in the future!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![PB Eggs for Easter!](/images/blog/pb-eggs-for-easter.jpg)
 

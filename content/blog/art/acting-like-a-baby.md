@@ -14,5 +14,4 @@ To be clear, Eli's relationship with his father is not meant to represent my own
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Acting like a Baby](/images/blog/acting-like-a-baby.jpg)
 

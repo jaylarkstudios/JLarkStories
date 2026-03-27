@@ -12,5 +12,4 @@ These super cute stickers of Little Ine were made by patchWolf! (Come on Ine, le
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine Stickers by patchWolf](/images/blog/little-ine-stickers-by-patchwolf.jpg)
 

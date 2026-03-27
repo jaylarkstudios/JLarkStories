@@ -12,5 +12,4 @@ And here's my own Secret Santa gift to Raymond Turing! Merry Christmas, and enjo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Raymond and Frosty](/images/blog/raymond-and-frosty.jpg)
 

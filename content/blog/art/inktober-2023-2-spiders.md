@@ -14,5 +14,4 @@ My first entry kinda made me want to stick with the subject of my OC's dreams. A
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 2 - Spiders](/images/blog/inktober-2023-2-spiders.jpg)
 

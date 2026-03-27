@@ -18,5 +18,4 @@ History: Dil was born in India but orphaned at a young age. He was taken in by a
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Dilawar "Dil" Attwell Art Reference](/images/blog/dilawar-dil-attwell-art-reference.jpg)
 

@@ -14,5 +14,4 @@ This rad Halloween icon was made by Happy Fox! Looks excellent!!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Skull Ine Avatar](/images/blog/skull-ine-avatar.jpg)
 

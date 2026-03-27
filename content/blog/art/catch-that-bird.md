@@ -16,5 +16,4 @@ While going through an older phone, I came across this as an unfinished sketch o
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Catch that bird!](/images/blog/catch-that-bird.jpg)
 

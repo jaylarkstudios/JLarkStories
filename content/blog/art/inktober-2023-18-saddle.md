@@ -12,5 +12,4 @@ Someday she'll be too big for this. Best make this moment count! 🥰🪽
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Inktober 2023 18 - Saddle](/images/blog/inktober-2023-18-saddle.jpg)
 

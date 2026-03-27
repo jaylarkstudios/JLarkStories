@@ -18,5 +18,4 @@ A fun sketch of Little Ine and Layton I got a while back from Paprittcha!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Little Ine and Layton](/images/blog/little-ine-and-layton.jpg)
 

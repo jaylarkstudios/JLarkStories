@@ -14,5 +14,4 @@ A gift for [ BarnabyBear](/user/barnabybear), a twitch streamer I really enjoy 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Polar Bear Hug](/images/blog/polar-bear-hug.jpg)
 

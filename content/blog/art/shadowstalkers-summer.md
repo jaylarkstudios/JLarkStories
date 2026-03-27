@@ -14,5 +14,4 @@ Another commission finished! This one of Shadowstalker, the nightwing dragon. Fo
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Shadowstalker's Summer](/images/blog/shadowstalkers-summer.jpg)
 

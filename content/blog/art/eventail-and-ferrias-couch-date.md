@@ -14,5 +14,4 @@ A commission for [ Scarbo](/user/scarbo).
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eventail and Ferria's Couch Date](/images/blog/eventail-and-ferrias-couch-date.jpg)
 

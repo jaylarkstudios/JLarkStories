@@ -12,5 +12,4 @@ Awesome colored sketch by Avelin_Doggo (Telegram) of Eli dressed up as a pop sta
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli the Pop Star](/images/blog/eli-the-pop-star.jpg)
 

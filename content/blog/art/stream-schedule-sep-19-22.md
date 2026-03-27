@@ -14,5 +14,4 @@ I'm starting at 7pm MT on both nights, so follow me on [https://twitch.tv/jlarks
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Stream Schedule (Sep 19, 22)](/images/blog/stream-schedule-sep-19-22.jpg)
 

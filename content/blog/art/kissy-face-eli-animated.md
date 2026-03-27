@@ -12,5 +12,4 @@ A simple animation I made for Eli's stream over at Eli's Cozy Corner! Don't forg
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Kissy Face Eli [Animated]](/images/blog/kissy-face-eli-animated.gif)
 

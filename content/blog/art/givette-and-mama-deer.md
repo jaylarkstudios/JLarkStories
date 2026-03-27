@@ -16,5 +16,4 @@ A commission for [ Scarbo](/user/scarbo)
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Givette and Mama Deer](/images/blog/givette-and-mama-deer.jpg)
 

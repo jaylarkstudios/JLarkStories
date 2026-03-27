@@ -14,5 +14,4 @@ Ine is a proud member of the "No Pinchies" club! Happy St. Patrick's Day all! ðŸ
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Can't Pinch Ine!](/images/blog/cant-pinch-ine.jpg)
 

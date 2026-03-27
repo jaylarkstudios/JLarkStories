@@ -58,5 +58,4 @@ I've loved every day of our life together, and look forward to many, many more t
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Ten Kisses](/images/blog/ten-kisses.jpg)
 

@@ -12,5 +12,4 @@ My wife got her hair cut without telling me! Of course, she's beautiful no matte
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Maiara's Mane Cut](/images/blog/maiaras-mane-cut.jpg)
 

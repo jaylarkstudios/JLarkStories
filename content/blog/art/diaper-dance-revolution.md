@@ -14,5 +14,4 @@ A commission for Faer Xander. Thanks a bunch!
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Diaper Dance Revolution!](/images/blog/diaper-dance-revolution.jpg)
 

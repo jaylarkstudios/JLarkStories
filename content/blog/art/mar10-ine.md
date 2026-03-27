@@ -12,5 +12,4 @@ Ine wishes you all a Super Mar10! May all the pipes you follow lead you to the r
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Mar10 Ine](/images/blog/mar10-ine.jpg)
 

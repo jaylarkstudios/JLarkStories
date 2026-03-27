@@ -18,5 +18,4 @@ History: Home-schooled for much of her childhood, June is still getting used to 
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![June Findel Art Reference](/images/blog/june-findel-art-reference.jpg)
 

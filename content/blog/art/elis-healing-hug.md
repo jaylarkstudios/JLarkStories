@@ -34,5 +34,4 @@ I love you all. 💙🥰
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Eli's Healing Hug](/images/blog/elis-healing-hug.jpg)
 

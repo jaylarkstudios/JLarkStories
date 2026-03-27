@@ -12,5 +12,4 @@ Introducing my character for Species Change Week: it's Bramble the pokey, bouncy
 
 Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
 
-![Bramble the Jackalope](/images/blog/bramble-the-jackalope.jpg)
 
