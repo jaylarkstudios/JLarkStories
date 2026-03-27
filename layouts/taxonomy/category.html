@@ -4,7 +4,8 @@
   <p class="page-description">All posts in the "{{ .Title }}" category.</p>
 </section>
 <section class="post-list">
-  {{ range .Pages.ByDate.Reverse }}
+  {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+  {{ range $paginator.Pages }}
     {{ partial "post-card.html" . }}
   {{ end }}
 </section>

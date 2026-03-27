@@ -4,8 +4,8 @@
   {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
 </section>
 <section class="post-list">
-  {{ $pages := .RegularPagesRecursive.ByDate.Reverse }}
-  {{ range $pages }}
+  {{ $paginator := .Paginate (.RegularPagesRecursive.ByDate.Reverse) }}
+  {{ range $paginator.Pages }}
     {{ partial "post-card.html" . }}
   {{ end }}
 </section>
