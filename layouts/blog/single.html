@@ -1,0 +1,47 @@
+{{ define "main" }}
+<article class="blog-single">
+  <header class="blog-single-header">
+    <h1>{{ .Title }}</h1>
+    <div class="blog-single-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      <span>&middot;</span>
+      <span>{{ .ReadingTime }} min read</span>
+      {{ range .Params.categories }}
+        <a href="{{ "/categories/" | relURL }}{{ . | urlize }}/" class="category-badge">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ with .Params.tags }}
+      <div class="blog-single-tags">
+        {{ range . }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag-pill">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </header>
+
+  {{ with .Params.thumbnail }}
+    <img src="{{ . }}" alt="{{ $.Title }}" class="blog-single-thumbnail">
+  {{ end }}
+
+  <div class="blog-single-content">
+    {{ .Content }}
+  </div>
+
+  <p class="blog-single-author">&mdash; Lark</p>
+
+  <nav class="post-nav">
+    {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" class="post-nav-prev">
+        <span class="post-nav-label">&laquo; Previous</span>
+        <span class="post-nav-title">{{ .Title }}</span>
+      </a>
+    {{ end }}
+    {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" class="post-nav-next">
+        <span class="post-nav-label">Next &raquo;</span>
+        <span class="post-nav-title">{{ .Title }}</span>
+      </a>
+    {{ end }}
+  </nav>
+</article>
+{{ end }}

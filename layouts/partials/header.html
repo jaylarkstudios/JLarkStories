@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-logo">
+      {{ with .Site.Params.logo }}
+        <img src="{{ . }}" alt="{{ $.Site.Title }}">
+      {{ end }}
+      <span class="site-title">{{ .Site.Title }}</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      <span class="hamburger"></span>
+    </button>
+    <nav class="nav-menu">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>

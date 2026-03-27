@@ -1,0 +1,20 @@
+---
+title: "Ine's Muscle Experiment 13"
+date: 2025-11-27T19:10:45+0000
+categories: ["art"]
+tags: ["male", "ine", "hyper", "muscle", "growth", "sequence", "comic", "lab", "experiment", "speedo", "briefs", "confined", "crash", "destruction"]
+thumbnail: "/images/blog/ines-muscle-experiment-13.jpg"
+fa_id: 63130728
+summary: "Suddenly, just when the pressure felt too great, Ine rocketed upward, crashing straight through the ceiling! Dust and debris showered down around him and his..."
+---
+
+Suddenly, just when the pressure felt too great, Ine rocketed upward, crashing straight through the ceiling! Dust and debris showered down around him and his growth finally slowed to a halt, like an explosion that had finally burned through all its fuel.
+
+Part 13 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+
+< Prev | Next >
+
+Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
+
+![Ine's Muscle Experiment 13](/images/blog/ines-muscle-experiment-13.jpg)
+

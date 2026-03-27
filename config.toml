@@ -1,0 +1,69 @@
+baseURL = "https://jlarkstories.com/"
+languageCode = "en-us"
+title = "JLarkStories"
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Navigation menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 2
+
+[[menu.main]]
+  name = "Art"
+  url = "/blog/art/"
+  weight = 3
+
+[[menu.main]]
+  name = "News"
+  url = "/blog/news/"
+  weight = 4
+
+[[menu.main]]
+  name = "Reviews"
+  url = "/blog/reviews/"
+  weight = 5
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 6
+
+# Site parameters
+[params]
+  description = "Art, stories, and creative musings by J. Lark"
+  author = "J. Lark"
+  logo = "/images/logo.png"
+  bio = "Welcome to JLarkStories — a home for my art, creative projects, and thoughts on the things that inspire me."
+
+  [params.social]
+    bluesky = "https://bsky.app/profile/jlarkstories.bsky.social"
+    patreon = "https://www.patreon.com/jlarkstories"
+    youtube = "https://www.youtube.com/@jlarkstories"
+    furaffinity = "https://www.furaffinity.net/user/jlarkstories"
+    telegram = "https://t.me/jlarkstories"
+
+# RSS output
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+# Pagination
+paginate = 10
+
+# Markup
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "dracula"

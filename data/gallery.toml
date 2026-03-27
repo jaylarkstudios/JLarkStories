@@ -1,0 +1,13 @@
+# Add your favorite art pieces here.
+# Each entry needs a title and an image path (relative to /static/).
+# Example:
+#
+# [[pieces]]
+#   title = "Starlit Wanderer"
+#   image = "/images/gallery/starlit-wanderer.jpg"
+#
+# Uncomment and add your own pieces below:
+
+# [[pieces]]
+#   title = "Piece Title"
+#   image = "/images/gallery/filename.jpg"

@@ -1,0 +1,16 @@
+---
+title: "Inktober 2023 18 - Saddle"
+date: 2023-10-19T14:34:44+0000
+categories: ["art"]
+tags: ["inktober", "inktober2023", "sketch", "saddle", "bird", "lark", "flying", "ride", "child", "kidfur", "daughter", "piggy", "back"]
+thumbnail: "/images/blog/inktober-2023-18-saddle.jpg"
+fa_id: 54108695
+summary: "Someday she'll be too big for this. Best make this moment count! 🥰🪽 Check out my webcomic, Aww, Feathers! at https://awwfeathers.comhttps://awwfeathers.com"
+---
+
+Someday she'll be too big for this. Best make this moment count! 🥰🪽
+
+Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
+
+![Inktober 2023 18 - Saddle](/images/blog/inktober-2023-18-saddle.jpg)
+

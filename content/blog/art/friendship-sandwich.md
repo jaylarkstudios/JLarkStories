@@ -1,0 +1,20 @@
+---
+title: "Friendship Sandwich"
+date: 2023-03-21T20:44:43+0000
+categories: ["art"]
+tags: ["furry", "experience", "cat", "catherine", "dawn", "deer", "doe", "vickie", "fox", "vixen", "ronnie", "rabbit", "bunny", "guest", "comic", "webcomic"]
+thumbnail: "/images/blog/friendship-sandwich.jpg"
+fa_id: 51462765
+summary: "Created: Jan 16, 2022 A guest comic I made for the wonderful webcomic, Furry Experience! You want some friendship croutons with that? 😊 All characters belong..."
+---
+
+Created: Jan 16, 2022
+
+A guest comic I made for the wonderful webcomic, Furry Experience! You want some friendship croutons with that? 😊
+
+All characters belong to [ Ellen-Natalie](/user/ellen-natalie)
+
+Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
+
+![Friendship Sandwich](/images/blog/friendship-sandwich.jpg)
+

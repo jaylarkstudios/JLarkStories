@@ -1,0 +1,20 @@
+{{ with .Site.Data.gallery.pieces }}
+<section class="gallery-section">
+  <h2 class="section-heading">Gallery</h2>
+  <div class="gallery-carousel" id="gallery-carousel">
+    <div class="carousel-track">
+      {{ range . }}
+      <div class="carousel-slide">
+        <img src="{{ .image }}" alt="{{ .title }}" loading="lazy">
+        <p class="carousel-caption">{{ .title }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <button class="carousel-btn carousel-prev" aria-label="Previous slide">&lsaquo;</button>
+    <button class="carousel-btn carousel-next" aria-label="Next slide">&rsaquo;</button>
+    <div class="carousel-dots"></div>
+  </div>
+</section>
+{{ else }}
+<!-- Gallery: Add pieces to data/gallery.toml to enable the carousel -->
+{{ end }}
