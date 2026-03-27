@@ -1,7 +1,7 @@
 ---
 title: "Be Nice to My Friends!"
 date: 2025-10-20T21:09:50+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "ine", "awwfeathers", "feathered", "lizard", "reptile", "scaly", "wolf", "canine", "ych", "kid", "young", "abdl", "kidfur", "babyfur", "middlefur", "diaper", "diaperfur", "defend", "protect"]
 thumbnail: "/images/blog/be-nice-to-my-friends.jpg"
 fa_id: 62703175

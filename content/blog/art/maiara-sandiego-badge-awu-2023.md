@@ -1,7 +1,7 @@
 ---
 title: "Maiara Sandiego Badge (AWU 2023)"
 date: 2023-07-07T01:46:38+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["maiara", "sonderberd", "spy", "secret", "agent", "carmen", "sandiego", "theif", "con", "badge", "awu", "anthro", "weekend", "utah", "2023", "ancient", "artifact", "jade", "dolphin", "gadget", "grappling", "gun", "female"]
 thumbnail: "/images/blog/maiara-sandiego-badge-awu-2023.jpg"
 fa_id: 52800711

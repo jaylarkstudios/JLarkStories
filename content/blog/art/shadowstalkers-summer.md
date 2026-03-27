@@ -1,7 +1,7 @@
 ---
 title: "Shadowstalker's Summer"
 date: 2023-03-17T17:19:49+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["wingsoffire", "wof", "dragon", "nightwing", "black", "summer", "sunglasses", "swim", "trunks", "drink", "male"]
 thumbnail: "/images/blog/shadowstalkers-summer.jpg"
 fa_id: 51408852

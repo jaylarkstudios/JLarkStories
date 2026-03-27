@@ -1,7 +1,7 @@
 ---
 title: "Heaven's Newest Fighter"
 date: 2026-02-03T21:04:02+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "hourglass", "dolphin", "orca", "killer", "whale", "tiger", "shark", "cetacean", "aquatic", "karate", "martial", "arts", "ghee", "black", "belt", "fighter", "memorial"]
 thumbnail: "/images/blog/heavens-newest-fighter.jpg"
 fa_id: 63885013

@@ -1,7 +1,7 @@
 ---
 title: "Eli's Pearly Whites [Animated]"
 date: 2025-12-07T01:35:42+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eli", "easter", "dragon", "floof", "noodle", "abdl", "babyfur", "teeth", "brushing", "toothbrush", "toothpaste", "bathroom", "animated", "blue", "cyan", "purple", "flowers"]
 thumbnail: "/images/blog/elis-pearly-whites-animated.gif"
 fa_id: 63234974

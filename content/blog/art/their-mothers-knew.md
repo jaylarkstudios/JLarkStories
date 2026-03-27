@@ -1,7 +1,7 @@
 ---
 title: "Their Mothers Knew"
 date: 2024-11-27T15:19:59+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["lizard", "reptile", "scaly", "battle", "armor", "feathers", "mother", "son", "bookofmormon", "ammonite", "helaman"]
 thumbnail: "/images/blog/their-mothers-knew.jpg"
 fa_id: 58977404

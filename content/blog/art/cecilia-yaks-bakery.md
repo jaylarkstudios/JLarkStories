@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Yak's Bakery"
 date: 2026-03-04T00:13:47+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "cecilia", "yak", "bovine", "cow", "baker", "pastry", "laxative", "black", "white", "comic"]
 thumbnail: "/images/blog/cecilia-yaks-bakery.jpg"
 fa_id: 64206196

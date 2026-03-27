@@ -1,7 +1,7 @@
 ---
 title: "Little Ine's Tantrum"
 date: 2023-03-09T01:13:23+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["little", "ine", "tantrum", "littlefur", "kid", "cry", "whine", "lizard", "reptile", "scaly", "male"]
 thumbnail: "/images/blog/little-ines-tantrum.jpg"
 fa_id: 51299970

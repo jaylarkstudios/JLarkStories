@@ -1,7 +1,7 @@
 ---
 title: "Diapered Minotaur"
 date: 2023-03-22T19:04:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["abdl", "babyfur", "happy", "padded", "minotaur", "dragon", "diaper", "male"]
 thumbnail: "/images/blog/diapered-minotaur.jpg"
 fa_id: 51473933

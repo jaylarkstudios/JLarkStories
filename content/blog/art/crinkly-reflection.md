@@ -1,7 +1,7 @@
 ---
 title: "Crinkly Reflection"
 date: 2023-03-03T21:20:30+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["abdl", "diaper", "mirror", "reflection", "crinkle", "space", "bedroom", "happy", "male"]
 thumbnail: "/images/blog/crinkly-reflection.png"
 fa_id: 51233557

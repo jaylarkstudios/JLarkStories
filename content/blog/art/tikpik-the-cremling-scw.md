@@ -1,7 +1,7 @@
 ---
 title: "tik'pik the cremling (SCW)"
 date: 2023-05-08T11:48:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["species", "change", "week", "scw", "ref", "sheet", "cremling", "insect", "crustacean", "roshar", "stormlight", "chronicles", "brandon", "sanderson", "small", "micro", "male"]
 thumbnail: "/images/blog/tikpik-the-cremling-scw.jpg"
 fa_id: 52072362

@@ -1,7 +1,7 @@
 ---
 title: "Dash and Jerry"
 date: 2023-07-31T23:43:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["rabbit", "bunny", "lagomorph", "dog", "canine", "puppy", "pup", "purple", "red", "pink", "brown", "telegram", "sticker", "lick", "kiss"]
 thumbnail: "/images/blog/dash-and-jerry.jpg"
 fa_id: 53120410

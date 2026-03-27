@@ -1,7 +1,7 @@
 ---
 title: "Introducing the VoxPhone! [ANIMATED]"
 date: 2025-12-07T23:50:46+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "vox", "voxtek", "phone", "smartphone", "tech", "technology", "satire", "evil", "hell", "hellaverse", "hazbin", "hotel", "facebook", "instagram", "youtube", "tiktok", "snapchat", "roblox", "characterai", "chatgpt"]
 thumbnail: "/images/blog/introducing-the-voxphone-animated.gif"
 fa_id: 63245108

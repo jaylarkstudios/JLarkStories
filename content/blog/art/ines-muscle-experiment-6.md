@@ -1,7 +1,7 @@
 ---
 title: "Ine's Muscle Experiment 6"
 date: 2024-01-28T05:05:55+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "muscle", "growth", "sequence", "chest", "pectorals", "pecs", "comic", "lab", "experiment", "speedo", "briefs", "male"]
 thumbnail: "/images/blog/ines-muscle-experiment-6.jpg"
 fa_id: 55323294

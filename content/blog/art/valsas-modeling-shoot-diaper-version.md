@@ -1,7 +1,7 @@
 ---
 title: "Valsa's Modeling Shoot (Diaper Version)"
 date: 2023-03-07T22:30:27+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["western", "dragon", "diaper", "model", "blue", "plaid", "wings", "male"]
 thumbnail: "/images/blog/valsas-modeling-shoot-diaper-version.jpg"
 fa_id: 51286136

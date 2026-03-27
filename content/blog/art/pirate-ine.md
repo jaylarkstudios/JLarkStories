@@ -1,7 +1,7 @@
 ---
 title: "Pirate Ine"
 date: 2025-04-07T15:11:47+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["pirate", "ine", "lizard", "scaly", "reptile", "ship", "coin", "eyepatch", "feathers", "badge", "male"]
 thumbnail: "/images/blog/pirate-ine.jpg"
 fa_id: 60490182

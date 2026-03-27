@@ -1,7 +1,7 @@
 ---
 title: "Scarbo and Ondin"
 date: 2025-04-10T15:13:51+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["unicorn", "sheep", "wings", "pink", "rainbow", "hoof", "male"]
 thumbnail: "/images/blog/scarbo-and-ondin.jpg"
 fa_id: 60525373

@@ -1,7 +1,7 @@
 ---
 title: "Mally Analara Art Reference"
 date: 2023-03-02T15:51:32+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ref", "refsheet", "awwfeathers", "mally", "bird", "avian", "hummingbird", "comic", "webcomic", "blue", "female"]
 thumbnail: "/images/blog/mally-analara-art-reference.jpg"
 fa_id: 51216636

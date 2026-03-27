@@ -1,7 +1,7 @@
 ---
 title: "Professor Badger"
 date: 2026-03-03T02:39:52+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "professor", "badger", "mustelid", "chalk", "pastel", "charcoal", "texture", "paper"]
 thumbnail: "/images/blog/professor-badger.jpg"
 fa_id: 64196311

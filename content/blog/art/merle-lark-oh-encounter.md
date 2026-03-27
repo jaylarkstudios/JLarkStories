@@ -1,7 +1,7 @@
 ---
 title: "Merle Lark-Oh Encounter"
 date: 2025-03-13T14:13:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["pokemon", "merlekoz", "merle", "twitch", "streamer", "nuzlocke", "randomizer", "scream", "videogame", "hooh", "fox", "legendary", "bird", "lark", "male"]
 thumbnail: "/images/blog/merle-lark-oh-encounter.jpg"
 fa_id: 60198311

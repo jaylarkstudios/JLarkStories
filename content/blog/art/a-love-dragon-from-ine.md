@@ -1,7 +1,7 @@
 ---
 title: "A Love Dragon from Ine"
 date: 2024-02-15T00:46:51+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "coatl", "awwfeathers", "love", "dragon", "plush", "plushie", "fursuit", "lizard", "scaly", "reptile", "engagement", "valentines", "day", "male"]
 thumbnail: "/images/blog/a-love-dragon-from-ine.jpg"
 fa_id: 55550348

@@ -1,7 +1,7 @@
 ---
 title: "Fang Ref Sheet"
 date: 2024-10-29T01:24:15+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["fang", "raptor", "skeleton", "reanimated", "dinosaur", "bones", "ref", "sheet"]
 thumbnail: "/images/blog/fang-ref-sheet.jpg"
 fa_id: 58636986

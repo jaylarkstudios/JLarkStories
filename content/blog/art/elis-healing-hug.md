@@ -1,7 +1,7 @@
 ---
 title: "Eli's Healing Hug"
 date: 2026-03-09T00:57:19+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "lark", "secretary", "bird", "jay", "feathers", "monitor", "lizard", "tail", "blue", "eli", "eastern", "dragon", "fluffy", "furry", "cyan", "purple", "pink", "diaper", "abdl", "padded", "hug", "embrace", "healing", "cry", "tears"]
 thumbnail: "/images/blog/elis-healing-hug.jpg"
 fa_id: 64261448

@@ -14,6 +14,13 @@
     <h3 class="post-card-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h3>
+    {{ with .Params.artists }}
+      <div class="post-card-artist">
+        {{ range . }}
+          <a href="{{ "/artists/" | relURL }}{{ . | urlize }}/" class="artist-badge">Artist: {{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
     <p class="post-card-summary">{{ .Summary | truncate 200 }}</p>
     {{ with .Params.tags }}
       <div class="post-card-tags">

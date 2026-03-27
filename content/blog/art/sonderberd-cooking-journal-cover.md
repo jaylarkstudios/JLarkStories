@@ -1,7 +1,7 @@
 ---
 title: "Sonderberd Cooking Journal Cover"
 date: 2024-04-19T16:30:04+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["secretary", "bird", "jay", "lark", "avian", "horse", "equine", "feathers", "hoof", "cooking", "sketch", "charcoal", "marriage", "anniversary", "gift"]
 thumbnail: "/images/blog/sonderberd-cooking-journal-cover.jpg"
 fa_id: 56333494

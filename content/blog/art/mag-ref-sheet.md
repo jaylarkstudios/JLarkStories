@@ -1,7 +1,7 @@
 ---
 title: "Mag Ref Sheet"
 date: 2024-10-18T13:37:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["magpie", "bird", "avian", "feathers", "witch", "hat", "ref", "sheet", "turnaround"]
 thumbnail: "/images/blog/mag-ref-sheet.jpg"
 fa_id: 58510860

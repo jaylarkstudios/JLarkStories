@@ -1,7 +1,7 @@
 ---
 title: "June Findel Art Reference"
 date: 2023-02-28T15:34:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "june", "findel", "dolphin", "pink", "purple", "aquatic", "cetacean", "piano", "music", "comic", "webcomic", "ref", "refsheet", "female"]
 thumbnail: "/images/blog/june-findel-art-reference.jpg"
 fa_id: 51190310

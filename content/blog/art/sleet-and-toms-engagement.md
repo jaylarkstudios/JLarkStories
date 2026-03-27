@@ -1,7 +1,7 @@
 ---
 title: "Sleet and Tom's Engagement"
 date: 2024-01-30T15:10:58+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["corvid", "raven", "crow", "bird", "avian", "cyber", "arctic", "fox", "white", "black", "glasses", "shiny", "ring", "engagement", "wedding", "proposal", "icons", "profile", "avatar", "couple", "male"]
 thumbnail: "/images/blog/sleet-and-toms-engagement.jpg"
 fa_id: 55351339

@@ -1,7 +1,7 @@
 ---
 title: "Trina Conopic Jar Badge"
 date: 2023-03-17T22:13:59+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["bear", "con", "badge", "conopic", "jar", "egyptian", "queen", "hieroglyphics", "symbols", "female"]
 thumbnail: "/images/blog/trina-conopic-jar-badge.jpg"
 fa_id: 51412923

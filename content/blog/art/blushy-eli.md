@@ -1,7 +1,7 @@
 ---
 title: "Blushy Eli"
 date: 2024-06-10T13:18:22+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["eli", "eastern", "dragon", "noodle", "blue", "cyan", "purple", "horns", "ears", "whiskers", "mustache", "smile", "blush", "clouds", "male"]
 thumbnail: "/images/blog/blushy-eli.jpg"
 fa_id: 56958440

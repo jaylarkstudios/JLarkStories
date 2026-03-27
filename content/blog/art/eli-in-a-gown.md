@@ -1,7 +1,7 @@
 ---
 title: "Eli in a Gown"
 date: 2025-10-06T13:38:29+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eastern", "dragon", "dress", "gown", "wedding", "flowers", "bouquet", "sketch", "eli", "femboy", "wings", "feathers", "fur"]
 thumbnail: "/images/blog/eli-in-a-gown.jpg"
 fa_id: 62533765

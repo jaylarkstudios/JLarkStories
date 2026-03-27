@@ -1,7 +1,7 @@
 ---
 title: "Happy Bearthday"
 date: 2025-01-07T01:30:01+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["birthday", "card", "bear", "black", "white", "pen", "ink", "drawing", "grizzly"]
 thumbnail: "/images/blog/happy-bearthday.jpg"
 fa_id: 59432885

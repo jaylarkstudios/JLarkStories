@@ -1,7 +1,7 @@
 ---
 title: "Ocober Night Sky"
 date: 2023-10-08T21:11:04+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["painting", "scenery", "silhouette", "tree", "bats", "moon", "stars", "night", "sky", "acrylic", "canvas"]
 thumbnail: "/images/blog/ocober-night-sky.jpg"
 fa_id: 53973356

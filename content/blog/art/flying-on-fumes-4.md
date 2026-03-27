@@ -1,7 +1,7 @@
 ---
 title: "Flying on Fumes 4"
 date: 2023-03-07T15:28:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "kraal", "falcon", "comic", "webcomic", "bird", "gyrfalcon", "avian", "test", "study", "school", "dog", "canine", "dalmatian", "chris", "male"]
 thumbnail: "/images/blog/flying-on-fumes-4.jpg"
 fa_id: 51281021

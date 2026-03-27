@@ -1,7 +1,7 @@
 ---
 title: "Underwater Dance"
 date: 2024-01-19T15:13:50+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "coatl", "lizard", "reptile", "scaly", "awwfeathers", "june", "dolphin", "swim", "dance", "sketch"]
 thumbnail: "/images/blog/underwater-dance.png"
 fa_id: 55220835

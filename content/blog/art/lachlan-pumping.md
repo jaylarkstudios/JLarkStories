@@ -1,7 +1,7 @@
 ---
 title: "Lachlan Pumping"
 date: 2026-03-09T22:52:52+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "lachlan", "highland", "cow", "bovine", "pumping", "iron", "exercise", "strength", "muscle", "musclefur", "buff"]
 thumbnail: "/images/blog/lachlan-pumping.jpg"
 fa_id: 64271351

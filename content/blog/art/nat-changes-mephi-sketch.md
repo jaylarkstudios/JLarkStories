@@ -1,7 +1,7 @@
 ---
 title: "Nat Changes Mephi Sketch"
 date: 2025-11-09T21:30:55+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "female", "intersex", "skunk", "dragon", "abdl", "diaper", "padded", "change", "changing", "table", "sketch", "black", "white", "couple"]
 thumbnail: "/images/blog/nat-changes-mephi-sketch.jpg"
 fa_id: 62936374

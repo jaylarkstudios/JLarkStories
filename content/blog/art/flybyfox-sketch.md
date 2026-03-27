@@ -1,7 +1,7 @@
 ---
 title: "FlyByFox Sketch"
 date: 2023-09-28T11:03:33+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["flyby", "fox", "aviator", "sketch", "gift", "avatar", "profile", "icon", "male"]
 thumbnail: "/images/blog/flybyfox-sketch.jpg"
 fa_id: 53839384

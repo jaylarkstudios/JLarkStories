@@ -1,7 +1,7 @@
 ---
 title: "April Art Giveaway!"
 date: 2023-04-08T22:45:02+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["art", "giveaway", "pen", "ink", "drawing", "black", "white"]
 thumbnail: "/images/blog/april-art-giveaway.jpg"
 fa_id: 51698123

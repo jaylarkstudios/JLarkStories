@@ -1,7 +1,7 @@
 ---
 title: "Whatever it takes"
 date: 2026-01-01T01:55:27+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eli", "eastern", "dragon", "vent", "shatter", "broken", "glass", "black", "white", "gray", "falling", "healing", "fix", "poem", "poetry"]
 thumbnail: "/images/blog/whatever-it-takes.jpg"
 fa_id: 63509191

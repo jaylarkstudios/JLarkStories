@@ -1,7 +1,7 @@
 ---
 title: "My Childhood Cartoon Crushes!"
 date: 2023-08-05T21:33:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["childhood", "cartoon", "crush", "drawing", "challenge", "template", "cera", "dinosaur", "land", "before", "time", "triceratops", "disney", "fantasia", "ostrich", "ballerina", "marahute", "golden", "eagle", "pokemon", "charmander", "digimon", "biyomon", "scurl", "droptail", "frilled", "lizard", "newt", "redwall", "mattimeo"]
 thumbnail: "/images/blog/my-childhood-cartoon-crushes.png"
 fa_id: 53184343

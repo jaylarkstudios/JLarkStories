@@ -1,7 +1,7 @@
 ---
 title: "Wheeler River Cosplay"
 date: 2024-01-23T20:26:09+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["fox", "river", "armello", "cosplay", "videogame", "archer", "bow", "arrow", "male"]
 thumbnail: "/images/blog/wheeler-river-cosplay.jpg"
 fa_id: 55271135

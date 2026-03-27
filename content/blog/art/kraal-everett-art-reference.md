@@ -1,7 +1,7 @@
 ---
 title: "Kraal Everett Art Reference"
 date: 2023-02-25T22:40:13+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["kraal", "everett", "falcon", "gyrfalcon", "bird", "avian", "awwfeathers", "gray", "brown", "spots", "comic", "webcomic", "ref", "refsheet", "male"]
 thumbnail: "/images/blog/kraal-everett-art-reference.jpg"
 fa_id: 51156791

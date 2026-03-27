@@ -1,7 +1,7 @@
 ---
 title: "Aquaman Dolphin"
 date: 2025-07-28T18:27:57+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "female", "dolphin", "awwfeathers", "june", "aquaman", "super", "hero", "superhero", "comic", "trident", "blush", "halftone"]
 thumbnail: "/images/blog/aquaman-dolphin.jpg"
 fa_id: 61732549

@@ -1,7 +1,7 @@
 ---
 title: "Streaming and Screaming"
 date: 2024-09-27T22:04:05+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["merlekoz", "prawnzo", "nido", "twitch", "stream", "streamer", "comic", "scream", "fox", "male"]
 thumbnail: "/images/blog/streaming-and-screaming.jpg"
 fa_id: 58258333

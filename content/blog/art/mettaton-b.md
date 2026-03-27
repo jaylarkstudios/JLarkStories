@@ -1,7 +1,7 @@
 ---
 title: "Mettaton B."
 date: 2023-03-02T22:11:24+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["undertale", "mettaton", "neo", "mirrorb", "pokemon", "colosseum", "ludicolo", "fanart", "afro", "black", "pink", "male"]
 thumbnail: "/images/blog/mettaton-b.jpg"
 fa_id: 51221479

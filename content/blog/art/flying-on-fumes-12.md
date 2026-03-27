@@ -1,7 +1,7 @@
 ---
 title: "Flying on Fumes 12"
 date: 2023-12-05T19:23:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "kraal", "bird", "avian", "falcon", "gyrfalcon", "chris", "dog", "dalmatian", "comic", "webcomic", "study", "school", "sleep", "blackout", "glasses", "male"]
 thumbnail: "/images/blog/flying-on-fumes-12.jpg"
 fa_id: 54694488

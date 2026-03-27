@@ -1,7 +1,7 @@
 ---
 title: "Raymond and Frosty"
 date: 2024-12-28T16:34:27+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["raymond", "turing", "cat", "cougar", "puma", "snowman", "snow", "winter", "secret", "santa", "male"]
 thumbnail: "/images/blog/raymond-and-frosty.jpg"
 fa_id: 59326592

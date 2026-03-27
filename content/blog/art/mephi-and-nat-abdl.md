@@ -1,7 +1,7 @@
 ---
 title: "Mephi and Nat (ABDL)"
 date: 2025-04-07T22:37:10+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["couple", "skunk", "dragon", "abdl", "diaper", "pamp", "padded", "hug", "nonbinary", "genderfluid", "intersex", "androgenous"]
 thumbnail: "/images/blog/mephi-and-nat-abdl.jpg"
 fa_id: 60495514

@@ -1,7 +1,7 @@
 ---
 title: "Little Ine Says NO!!"
 date: 2024-05-26T19:10:01+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "ine", "little", "kid", "kidfur", "babyfur", "sticker", "yelling", "no", "grumpy", "obstinate", "stubborn", "brat", "male"]
 thumbnail: "/images/blog/little-ine-says-no.jpg"
 fa_id: 56776231

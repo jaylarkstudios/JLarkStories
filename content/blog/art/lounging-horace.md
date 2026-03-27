@@ -1,7 +1,7 @@
 ---
 title: "Lounging Horace"
 date: 2023-03-03T00:06:51+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["horace", "armello", "badger", "fanart", "iron", "poet", "sleep", "male"]
 thumbnail: "/images/blog/lounging-horace.jpg"
 fa_id: 51222825

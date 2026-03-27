@@ -1,7 +1,7 @@
 ---
 title: "Ine's Muscle Experiment 14"
 date: 2025-11-27T19:15:01+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "ine", "hyper", "muscle", "growth", "sequence", "comic", "lab", "experiment", "speedo", "briefs", "confined", "crash", "destruction"]
 thumbnail: "/images/blog/ines-muscle-experiment-14.jpg"
 fa_id: 63130783

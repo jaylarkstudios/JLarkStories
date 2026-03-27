@@ -1,7 +1,7 @@
 ---
 title: "Nat the Dragon"
 date: 2023-12-18T23:53:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["natalia", "nat", "dragon", "provile", "headshot", "orange", "blue", "avatar", "intersex"]
 thumbnail: "/images/blog/nat-the-dragon.jpg"
 fa_id: 54851128

@@ -1,7 +1,7 @@
 ---
 title: "A Gift for Lydia"
 date: 2024-12-28T16:38:02+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["lark", "lydia", "bird", "secretary", "jay", "ostrich", "disney", "fantasia", "trans", "female", "pride", "comic", "scarf", "christmas", "gift", "imaginary", "friend", "trans_female"]
 thumbnail: "/images/blog/a-gift-for-lydia.jpg"
 fa_id: 59326614

@@ -1,7 +1,7 @@
 ---
 title: "Ine Plays Portal - Aug 24"
 date: 2023-08-24T02:35:44+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["twitch", "streaming", "game", "announcement", "portal", "valve", "ine", "lizard", "reptile", "scaly", "male"]
 thumbnail: "/images/blog/ine-plays-portal-aug-24.jpg"
 fa_id: 53412316

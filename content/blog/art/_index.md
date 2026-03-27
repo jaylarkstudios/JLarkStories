@@ -1,4 +1,4 @@
 ---
-title: "Art"
-description: "Paintings, sketches, and visual work."
+title: "My Art"
+description: "Paintings, sketches, and visual work by J. Lark."
 ---

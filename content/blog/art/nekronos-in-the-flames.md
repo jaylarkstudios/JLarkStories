@@ -1,7 +1,7 @@
 ---
 title: "Nekronos in the Flames"
 date: 2026-01-31T22:53:33+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "nekronos", "fire", "demon", "yokai", "fox", "bat", "wings", "flames", "orange", "yellow"]
 thumbnail: "/images/blog/nekronos-in-the-flames.jpg"
 fa_id: 63850729

@@ -1,7 +1,7 @@
 ---
 title: "Scolded Pup"
 date: 2023-03-02T19:09:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["abdl", "littlefur", "babyfur", "wolf", "pup", "hero", "toddler", "kid", "adventurer", "gray", "parent", "scold", "male"]
 thumbnail: "/images/blog/scolded-pup.jpg"
 fa_id: 51218918

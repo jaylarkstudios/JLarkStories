@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 1 - Dream"
 date: 2023-10-03T00:51:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "2023", "dream", "sketch", "ine", "reptile", "lizard", "wings", "feathers", "male"]
 thumbnail: "/images/blog/inktober-2023-1-dream.jpg"
 fa_id: 53897839

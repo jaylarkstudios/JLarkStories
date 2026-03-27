@@ -1,7 +1,7 @@
 ---
 title: "Not Afraid of the Dead"
 date: 2026-03-04T00:12:09+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "drin", "kobold", "ranger", "black", "white", "comic", "undead", "archer", "bow", "arrow", "scared", "afraid"]
 thumbnail: "/images/blog/not-afraid-of-the-dead.jpg"
 fa_id: 64206179

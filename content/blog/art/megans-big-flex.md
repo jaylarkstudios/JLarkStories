@@ -1,7 +1,7 @@
 ---
 title: "Megan's Big Flex"
 date: 2024-08-16T14:39:12+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["muscle", "musclefur", "flex", "biceps", "buff", "bodybuilder", "ych", "female"]
 thumbnail: "/images/blog/megans-big-flex.jpg"
 fa_id: 57775922

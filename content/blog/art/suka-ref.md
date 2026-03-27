@@ -1,7 +1,7 @@
 ---
 title: "Suka Ref"
 date: 2023-03-16T21:04:16+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["scw", "hybrid", "badger", "eagle", "pink", "dance", "ref", "refsheet", "female"]
 thumbnail: "/images/blog/suka-ref.jpg"
 fa_id: 51399019

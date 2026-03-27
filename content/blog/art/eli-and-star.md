@@ -1,7 +1,7 @@
 ---
 title: "Eli and Star"
 date: 2025-11-24T02:50:04+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eli", "eastern", "dragon", "fluffy", "noodle", "blue", "purple", "star", "disney", "wish", "night", "sky"]
 thumbnail: "/images/blog/eli-and-star.jpg"
 fa_id: 63091021

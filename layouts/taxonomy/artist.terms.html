@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="page-header">
+  <h1>Artists</h1>
+  <p class="page-description">Browse guest art by artist.</p>
+</section>
+<div class="taxonomy-terms">
+  {{ range .Pages.ByTitle }}
+    <a href="{{ .Permalink }}" class="taxonomy-term">
+      {{ .Title }}
+      <span class="taxonomy-term-count">{{ len .Pages }}</span>
+    </a>
+  {{ end }}
+</div>
+{{ end }}

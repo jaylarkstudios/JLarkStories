@@ -1,7 +1,7 @@
 ---
 title: "Tenth Featherversary Stream Announcement!"
 date: 2024-05-19T02:25:10+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "aww", "feathers", "comic", "webcomic", "anniversary", "stream", "announcement"]
 thumbnail: "/images/blog/tenth-featherversary-stream-announcement.jpg"
 fa_id: 56684924

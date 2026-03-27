@@ -1,7 +1,7 @@
 ---
 title: "Acting like a Baby"
 date: 2025-06-16T16:28:50+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["eastern", "dragon", "eli", "abdl", "babyfur", "scared", "afraid", "sad", "cry", "crying", "tears", "bottle", "binky", "paci", "pacifier", "diaper", "adult", "shadow", "dad", "father", "yell", "yelling", "male"]
 thumbnail: "/images/blog/acting-like-a-baby.jpg"
 fa_id: 61251153

@@ -17,6 +17,13 @@
         {{ end }}
       </div>
     {{ end }}
+    {{ with .Params.artists }}
+      <div class="blog-single-artist">
+        {{ range . }}
+          <a href="{{ "/artists/" | relURL }}{{ . | urlize }}/" class="artist-badge">Artist: {{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
   </header>
 
   {{ with .Params.thumbnail }}

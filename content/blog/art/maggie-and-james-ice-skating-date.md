@@ -1,7 +1,7 @@
 ---
 title: "Maggie and James Ice Skating Date"
 date: 2025-03-31T14:14:04+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["alligator", "crocodile", "scaly", "reptile", "duck", "mallard", "bird", "avian", "ice", "skate", "date", "birthday", "outdoors", "sky", "night", "stars", "coat", "hat"]
 thumbnail: "/images/blog/maggie-and-james-ice-skating-date.jpg"
 fa_id: 60407178

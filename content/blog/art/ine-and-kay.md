@@ -1,7 +1,7 @@
 ---
 title: "Ine and Kay"
 date: 2024-02-26T20:50:17+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "lizard", "reptile", "scaly", "crocodile", "croc", "alligator", "gator", "hug", "friends", "watercolor"]
 thumbnail: "/images/blog/ine-and-kay.jpg"
 fa_id: 55692503

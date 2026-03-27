@@ -1,7 +1,7 @@
 ---
 title: "Inehotep Conopic Jar"
 date: 2023-03-17T22:08:56+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "lizard", "reptile", "scaly", "con", "badge", "conopic", "jar", "egyptian", "pharaoh", "hieroglyphics", "symbols", "male"]
 thumbnail: "/images/blog/inehotep-conopic-jar.jpg"
 fa_id: 51412827

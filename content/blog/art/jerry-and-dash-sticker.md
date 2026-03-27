@@ -1,7 +1,7 @@
 ---
 title: "Jerry and Dash Sticker"
 date: 2023-04-16T00:42:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["puppy", "dog", "bunny", "rabbit", "lick", "kiss", "couple", "love", "sticker", "purple", "red", "orange", "yellow", "brown", "white"]
 thumbnail: "/images/blog/jerry-and-dash-sticker.jpg"
 fa_id: 51791248

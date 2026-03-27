@@ -1,7 +1,7 @@
 ---
 title: "Daddy's Day Drawing"
 date: 2023-03-17T18:49:18+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["grey", "wolf", "pup", "kid", "kidfur", "little", "littlefur", "toddler", "crayon", "drawing", "daddy", "fathersday", "male"]
 thumbnail: "/images/blog/daddys-day-drawing.jpg"
 fa_id: 51409964

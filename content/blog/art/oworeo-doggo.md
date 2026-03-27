@@ -1,7 +1,7 @@
 ---
 title: "OwOreo Doggo"
 date: 2023-04-27T23:50:05+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dog", "headshot", "profile", "pic", "gray", "red", "oreo", "non_binary"]
 thumbnail: "/images/blog/oworeo-doggo.jpg"
 fa_id: 51942953

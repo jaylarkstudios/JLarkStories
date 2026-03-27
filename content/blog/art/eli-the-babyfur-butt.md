@@ -1,7 +1,7 @@
 ---
 title: "Eli the Babyfur Butt"
 date: 2025-11-17T20:46:28+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eli", "eastern", "dragon", "fluffy", "fur", "blue", "cyan", "purple", "pink", "diaper", "abdl", "babyfur", "baby", "butt", "bum", "padded"]
 thumbnail: "/images/blog/eli-the-babyfur-butt.png"
 fa_id: 63021318

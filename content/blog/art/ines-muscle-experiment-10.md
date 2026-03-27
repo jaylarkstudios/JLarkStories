@@ -1,7 +1,7 @@
 ---
 title: "Ine's Muscle Experiment 10"
 date: 2025-06-30T14:08:13+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "muscle", "growth", "sequence", "tail", "comic", "lab", "experiment", "speedo", "briefs", "male"]
 thumbnail: "/images/blog/ines-muscle-experiment-10.jpg"
 fa_id: 61409717

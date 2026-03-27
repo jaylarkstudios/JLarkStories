@@ -1,7 +1,7 @@
 ---
 title: "Feeling the darkness"
 date: 2024-01-25T12:35:12+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "lizard", "scaly", "reptile", "feathers", "sketch", "black", "white", "dark", "darkness", "tears", "crying", "star", "sad", "pain"]
 thumbnail: "/images/blog/feeling-the-darkness.jpg"
 fa_id: 55290601

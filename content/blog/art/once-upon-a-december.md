@@ -1,7 +1,7 @@
 ---
 title: "Once Upon a December"
 date: 2023-03-16T20:35:17+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["anastasia", "dog", "canine", "german", "shepherd", "ballroom", "gown", "dance", "princess", "human", "anime"]
 thumbnail: "/images/blog/once-upon-a-december.jpg"
 fa_id: 51398559

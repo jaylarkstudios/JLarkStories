@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 7 - Drip"
 date: 2023-10-08T02:07:38+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "dolphin", "water", "droplet", "drip", "micro", "trapped", "female"]
 thumbnail: "/images/blog/inktober-2023-7-drip.jpg"
 fa_id: 53963939

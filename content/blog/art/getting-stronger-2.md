@@ -1,7 +1,7 @@
 ---
 title: "Getting Stronger 2"
 date: 2024-06-04T20:03:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "michelle", "shelly", "hyena", "warthog", "tusks", "lia", "cheetah", "feline", "cat", "spots", "workout", "gym", "smoothie", "slurpie", "phone", "call", "female"]
 thumbnail: "/images/blog/getting-stronger-2.jpg"
 fa_id: 56888354

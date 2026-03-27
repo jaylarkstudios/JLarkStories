@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 2 - Spiders"
 date: 2023-10-03T00:55:56+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "2023", "spiders", "dream", "nightmare", "sketch", "chris", "dog", "dalmatian", "web", "male"]
 thumbnail: "/images/blog/inktober-2023-2-spiders.jpg"
 fa_id: 53897882

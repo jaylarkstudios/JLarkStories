@@ -1,7 +1,7 @@
 ---
 title: "Dual Wielding Raldy"
 date: 2023-07-31T23:35:17+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dragon", "yoyo", "green", "scarf", "jacket", "goggles", "furry", "scaly", "reptile", "tricks", "performance", "male"]
 thumbnail: "/images/blog/dual-wielding-raldy.jpg"
 fa_id: 53120301

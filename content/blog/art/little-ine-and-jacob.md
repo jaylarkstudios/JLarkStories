@@ -1,7 +1,7 @@
 ---
 title: "Little Ine and Jacob"
 date: 2023-03-07T16:46:24+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "littleine", "lizard", "featheredlizard", "scaly", "little", "littlefur", "kidfur", "kid", "wolf", "werewolf", "big", "brother", "swing", "spin", "male"]
 thumbnail: "/images/blog/little-ine-and-jacob.jpg"
 fa_id: 51281744

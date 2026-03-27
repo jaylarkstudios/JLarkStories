@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 4 - Dodge"
 date: 2023-10-05T02:22:21+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "2023", "dodge", "dream", "luchette", "gazelle", "car", "headlights", "sketch", "accident", "trauma", "female"]
 thumbnail: "/images/blog/inktober-2023-4-dodge.jpg"
 fa_id: 53925335

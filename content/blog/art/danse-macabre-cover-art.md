@@ -1,7 +1,7 @@
 ---
 title: "Danse Macabre Cover Art"
 date: 2024-10-29T01:15:50+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: []
 thumbnail: "/images/blog/danse-macabre-cover-art.jpg"
 fa_id: 58636899

@@ -1,7 +1,7 @@
 ---
 title: "Captain June Sticker"
 date: 2025-01-14T15:34:31+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["june", "dolphin", "pirate", "sailor", "sticker", "sword", "hat", "shiver", "flippers", "female"]
 thumbnail: "/images/blog/captain-june-sticker.jpg"
 fa_id: 59516124

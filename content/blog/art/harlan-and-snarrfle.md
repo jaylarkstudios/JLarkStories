@@ -1,7 +1,7 @@
 ---
 title: "Harlan and Snarrfle"
 date: 2023-04-08T23:03:00+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["cross", "fox", "goat", "married", "couple", "piggy", "back", "ride", "carry", "running", "adventure"]
 thumbnail: "/images/blog/harlan-and-snarrfle.jpg"
 fa_id: 51698337

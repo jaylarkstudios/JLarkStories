@@ -1,7 +1,7 @@
 ---
 title: "Mother's Love"
 date: 2023-03-13T19:38:21+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "littleine", "baby", "babyfur", "kidfur", "mother", "mom", "lizard", "reptile", "scaly", "cry", "comfort", "hug"]
 thumbnail: "/images/blog/mothers-love.png"
 fa_id: 51359323

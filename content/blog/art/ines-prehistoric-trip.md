@@ -1,7 +1,7 @@
 ---
 title: "Ine's Prehistoric Trip"
 date: 2023-03-07T16:56:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["tf", "transformation", "ine", "dinosaur", "trex", "scaly", "lizard", "featheredlizard", "duck", "brontosaurus", "apatosaurus", "longneck", "sharptooth", "colored", "sketch"]
 thumbnail: "/images/blog/ines-prehistoric-trip.jpg"
 fa_id: 51281845

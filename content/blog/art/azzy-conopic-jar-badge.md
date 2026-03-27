@@ -1,7 +1,7 @@
 ---
 title: "Azzy Conopic Jar Badge"
 date: 2023-03-17T22:12:31+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["armadillo", "con", "badge", "conopic", "jar", "egyptian", "pharaoh", "hieroglyphics", "symbols", "male"]
 thumbnail: "/images/blog/azzy-conopic-jar-badge.jpg"
 fa_id: 51412897

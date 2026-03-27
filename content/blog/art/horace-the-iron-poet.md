@@ -1,7 +1,7 @@
 ---
 title: "Horace the Iron Poet"
 date: 2025-03-21T02:59:25+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["horace", "iron", "poet", "badger", "armello", "armor", "axe", "warrior", "male"]
 thumbnail: "/images/blog/horace-the-iron-poet.jpg"
 fa_id: 60287235

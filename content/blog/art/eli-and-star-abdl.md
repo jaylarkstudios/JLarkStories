@@ -1,7 +1,7 @@
 ---
 title: "Eli and Star (ABDL)"
 date: 2025-11-24T02:47:37+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eli", "eastern", "dragon", "fluffy", "noodle", "abdl", "diaper", "padded", "pink", "blue", "purple", "star", "disney", "wish", "night", "sky"]
 thumbnail: "/images/blog/eli-and-star-abdl.jpg"
 fa_id: 63090997

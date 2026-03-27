@@ -1,7 +1,7 @@
 ---
 title: "Stargazing Mother (Alternate)"
 date: 2026-03-02T16:39:28+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "garia", "mammal", "pregnant", "pregnancy", "pregfur", "belly", "stars", "aurora", "night"]
 thumbnail: "/images/blog/stargazing-mother-alternate.jpg"
 fa_id: 64189715

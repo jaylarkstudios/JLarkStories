@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 12 - Spicey"
 date: 2023-10-12T23:21:55+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "spicy", "memes", "floppy", "disk", "diskette", "panther", "peacock", "pancock", "feral", "quadruped", "sketch", "male"]
 thumbnail: "/images/blog/inktober-2023-12-spicey.jpg"
 fa_id: 54025926

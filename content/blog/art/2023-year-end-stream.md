@@ -1,7 +1,7 @@
 ---
 title: "2023 Year-end Stream"
 date: 2023-12-29T22:25:34+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["streaming", "announcement", "art", "games", "newyears", "summary", "goals", "jackbox", "spiritfarer"]
 thumbnail: "/images/blog/2023-year-end-stream.jpg"
 fa_id: 54976691

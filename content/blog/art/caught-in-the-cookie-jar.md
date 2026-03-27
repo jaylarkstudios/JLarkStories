@@ -1,7 +1,7 @@
 ---
 title: "Caught in the Cookie Jar"
 date: 2026-01-20T15:28:41+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "taylor", "blackpaw", "jeet", "darjeet", "aquatic", "dragon", "reptile", "scaly", "pup", "cookie", "jar", "steal", "thief", "caught", "mischief", "trouble"]
 thumbnail: "/images/blog/caught-in-the-cookie-jar.jpg"
 fa_id: 63722797

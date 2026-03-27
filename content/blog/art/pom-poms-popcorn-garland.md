@@ -1,7 +1,7 @@
 ---
 title: "Pom Pom's Popcorn Garland"
 date: 2025-12-22T21:27:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "blue", "jay", "pompom", "christmas", "tree", "ornament", "popcorn", "garland", "pine", "evergreen", "night", "stars", "flying"]
 thumbnail: "/images/blog/pom-poms-popcorn-garland.jpg"
 fa_id: 63408632

@@ -1,7 +1,7 @@
 ---
 title: "Eggie Ine"
 date: 2024-12-28T16:29:49+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "ine", "coatl", "lizard", "reptile", "scaly", "baby", "egg", "hatch", "hatchling", "tail", "feathers", "male"]
 thumbnail: "/images/blog/eggie-ine.jpg"
 fa_id: 59326539

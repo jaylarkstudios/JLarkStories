@@ -1,7 +1,7 @@
 ---
 title: "Eventail and Ferria's Couch Date"
 date: 2023-11-21T23:55:55+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["fox", "sergal", "abdl", "diaper", "padded", "couch", "date", "video", "game", "lgbt", "mlm", "gay", "men", "flag", "male"]
 thumbnail: "/images/blog/eventail-and-ferrias-couch-date.jpg"
 fa_id: 54526507

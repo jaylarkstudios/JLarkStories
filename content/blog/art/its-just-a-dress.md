@@ -1,7 +1,7 @@
 ---
 title: "It's just a dress!"
 date: 2025-02-10T15:23:59+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["chris", "dog", "canine", "dalmatian", "dress", "skirt", "comic", "blue", "male"]
 thumbnail: "/images/blog/its-just-a-dress.jpg"
 fa_id: 59831276

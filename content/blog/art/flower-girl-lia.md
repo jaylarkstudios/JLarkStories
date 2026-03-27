@@ -1,7 +1,7 @@
 ---
 title: "Flower Girl Lia"
 date: 2025-04-07T15:08:47+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["flower", "lia", "cheetah", "smelling", "scent", "pen", "ink", "drawing", "physical", "traditional", "female"]
 thumbnail: "/images/blog/flower-girl-lia.jpg"
 fa_id: 60490153

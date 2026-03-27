@@ -1,7 +1,7 @@
 ---
 title: "Little Ine and Layton"
 date: 2023-04-28T00:09:25+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "kid", "kidfur", "little", "littlefur", "lizard", "reptile", "scaly", "layton", "dragon", "blacksmith", "shoulders", "ride", "sketch", "black", "white", "male"]
 thumbnail: "/images/blog/little-ine-and-layton.jpg"
 fa_id: 51943142

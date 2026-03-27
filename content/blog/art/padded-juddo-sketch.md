@@ -1,7 +1,7 @@
 ---
 title: "Padded Juddo Sketch"
 date: 2023-03-16T21:00:18+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["abdl", "deer", "strong", "muscle", "sketch", "diaperfur", "musclefur", "male"]
 thumbnail: "/images/blog/padded-juddo-sketch.jpg"
 fa_id: 51398929

@@ -1,7 +1,7 @@
 ---
 title: "Flying on Fumes 7"
 date: 2023-05-11T12:46:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["aww", "feathers", "coimc", "webcomic", "kraal", "bird", "avian", "falcon", "gyrfalcon", "sargeant", "wolf", "james", "duck", "celtic", "rose", "husky", "cuprin", "raccoon", "chris", "dog", "canine", "dalmatian", "school", "test", "finals"]
 thumbnail: "/images/blog/flying-on-fumes-7.jpg"
 fa_id: 52109164

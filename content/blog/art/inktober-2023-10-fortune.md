@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 10 - Fortune"
 date: 2023-10-11T00:28:19+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "fortune", "money", "cash", "currency", "kraal", "falcon", "bird", "avian", "male"]
 thumbnail: "/images/blog/inktober-2023-10-fortune.jpg"
 fa_id: 54001418

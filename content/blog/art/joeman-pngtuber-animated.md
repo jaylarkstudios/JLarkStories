@@ -1,7 +1,7 @@
 ---
 title: "JoeMan PNGTuber [Animated]"
 date: 2024-05-27T18:07:36+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["animation", "vtuber", "pngtuber", "twitch", "stream", "avatar", "blue", "jackal", "video", "game", "gaming", "controller", "neutral", "happy", "sad", "rage", "angry", "shock", "scared", "fear", "crying", "tears", "male"]
 thumbnail: "/images/blog/joeman-pngtuber-animated.gif"
 fa_id: 56787345

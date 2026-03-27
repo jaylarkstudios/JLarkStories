@@ -1,7 +1,7 @@
 ---
 title: "Little Fær"
 date: 2023-04-10T14:30:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["faer", "fr", "xander", "fox", "baby", "babyfur", "abdl", "diaper", "sonic", "baseball", "hat", "pins", "kid", "kidfur", "argyle", "male"]
 thumbnail: "/images/blog/little-fær.jpg"
 fa_id: 51718908

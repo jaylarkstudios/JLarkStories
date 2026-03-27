@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 11 - Wander"
 date: 2023-10-12T01:07:42+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "giant", "snail", "cheetah", "journey", "wander", "sketch"]
 thumbnail: "/images/blog/inktober-2023-11-wander.jpg"
 fa_id: 54014317

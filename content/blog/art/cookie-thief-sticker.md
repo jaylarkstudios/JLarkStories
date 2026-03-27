@@ -1,7 +1,7 @@
 ---
 title: "Cookie Thief Sticker"
 date: 2023-04-16T00:47:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "lizard", "reptile", "scaly", "feathers", "green", "red", "stealing", "cookies", "cookie", "jar", "naughty", "mischief", "sticker", "male"]
 thumbnail: "/images/blog/cookie-thief-sticker.jpg"
 fa_id: 51791276

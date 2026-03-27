@@ -1,7 +1,7 @@
 ---
 title: "Ine the Little Artist"
 date: 2023-03-07T22:36:29+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["little", "ine", "littleine", "lizard", "reptile", "scaly", "draw", "crayon", "wall", "mischief", "trouble", "male"]
 thumbnail: "/images/blog/ine-the-little-artist.jpg"
 fa_id: 51286228

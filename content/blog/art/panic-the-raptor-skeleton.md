@@ -1,7 +1,7 @@
 ---
 title: "Panic the Raptor Skeleton"
 date: 2025-08-19T13:24:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "panic", "raptor", "badge", "bones", "skeleton", "feathers", "purple", "rock", "sandstone"]
 thumbnail: "/images/blog/panic-the-raptor-skeleton.jpg"
 fa_id: 61988479

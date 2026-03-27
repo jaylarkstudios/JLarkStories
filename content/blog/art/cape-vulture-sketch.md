@@ -1,7 +1,7 @@
 ---
 title: "Cape Vulture Sketch"
 date: 2023-08-05T21:16:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["cape", "vulture", "sketch", "black", "white", "digital", "male"]
 thumbnail: "/images/blog/cape-vulture-sketch.jpg"
 fa_id: 53184094

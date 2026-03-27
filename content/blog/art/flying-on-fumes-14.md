@@ -1,7 +1,7 @@
 ---
 title: "Flying on Fumes 14"
 date: 2024-01-16T15:32:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "kraal", "bird", "avian", "falcon", "gyrfalcon", "chris", "dog", "dalmatian", "comic", "webcomic", "checklist", "interview", "schedule", "male"]
 thumbnail: "/images/blog/flying-on-fumes-14.jpg"
 fa_id: 55185161

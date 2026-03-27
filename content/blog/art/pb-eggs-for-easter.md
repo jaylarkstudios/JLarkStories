@@ -1,7 +1,7 @@
 ---
 title: "PB Eggs for Easter!"
 date: 2023-04-10T23:59:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["photo", "paintover", "easter", "egg", "gift", "peanut", "butter", "chocolate", "reeses", "lark", "bird", "avian", "blue", "white", "excitement", "giant", "candy", "male"]
 thumbnail: "/images/blog/pb-eggs-for-easter.jpg"
 fa_id: 51726323

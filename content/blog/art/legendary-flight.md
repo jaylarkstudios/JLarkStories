@@ -1,7 +1,7 @@
 ---
 title: "Legendary Flight"
 date: 2024-03-26T12:25:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["mawkin", "chozo", "metroid", "pokemon", "lugia", "hooh", "legendary", "birds", "phoenix", "crow", "raven", "flying", "sky", "clouds", "armor", "robe", "black", "fire", "male"]
 thumbnail: "/images/blog/legendary-flight.jpg"
 fa_id: 56037863

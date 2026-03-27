@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 19 - Plump"
 date: 2023-10-20T13:21:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "sketch", "lia", "cheetah", "plump", "big", "girl", "female"]
 thumbnail: "/images/blog/inktober-2023-19-plump.jpg"
 fa_id: 54120195

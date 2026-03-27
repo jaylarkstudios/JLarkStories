@@ -1,7 +1,7 @@
 ---
 title: "Ine Secret Santa"
 date: 2024-12-28T16:32:48+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "coatl", "awwfeathers", "lizard", "scaly", "reptile", "feathers", "green", "red", "secret", "santa", "male"]
 thumbnail: "/images/blog/ine-secret-santa.jpg"
 fa_id: 59326575

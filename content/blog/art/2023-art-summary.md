@@ -1,7 +1,7 @@
 ---
 title: "2023 Art Summary"
 date: 2023-12-30T20:38:57+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["2023", "art", "summary", "lizard", "reptile", "scaly", "bird", "pokemon", "collection", "review"]
 thumbnail: "/images/blog/2023-art-summary.jpg"
 fa_id: 54986898

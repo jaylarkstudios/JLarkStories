@@ -1,7 +1,7 @@
 ---
 title: "Ine's Terrible Fate"
 date: 2025-10-08T00:33:40+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "ine", "coatl", "aww", "featehrs", "lizard", "scaly", "reptile", "majora", "mask", "spooky", "halloween", "badge", "legend", "zelda", "video", "game", "fanart", "green", "purple", "red", "yellow"]
 thumbnail: "/images/blog/ines-terrible-fate.jpg"
 fa_id: 62553748

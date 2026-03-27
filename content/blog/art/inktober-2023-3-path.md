@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 3 - Path"
 date: 2023-10-04T02:37:24+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "2023", "path", "dream", "dil", "dilawar", "panther", "peacock", "pancock", "sketch", "signs", "surreal", "male"]
 thumbnail: "/images/blog/inktober-2023-3-path.jpg"
 fa_id: 53912482

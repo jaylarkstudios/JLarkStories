@@ -1,7 +1,7 @@
 ---
 title: "Ian on Jeopardy!"
 date: 2025-12-20T03:17:57+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "ian", "mcgecko", "gecko", "lizard", "reptile", "green", "orange", "ken", "jennings", "kinder", "goat", "brown", "jeopardy", "gameshow", "tv", "suit", "tie"]
 thumbnail: "/images/blog/ian-on-jeopardy.jpg"
 fa_id: 63379422

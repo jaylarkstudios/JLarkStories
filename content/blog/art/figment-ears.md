@@ -1,7 +1,7 @@
 ---
 title: "Figment Ears"
 date: 2025-03-13T14:25:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["disney", "world", "figment", "epcot", "mickey", "ears", "comic", "lark", "bird", "avian", "horse", "maiara", "equine", "drawover", "dragon", "scaly", "merch"]
 thumbnail: "/images/blog/figment-ears.jpg"
 fa_id: 60198392

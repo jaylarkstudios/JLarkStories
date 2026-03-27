@@ -1,7 +1,7 @@
 ---
 title: "J. Lark Crew Emotes"
 date: 2025-06-11T14:00:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["birds", "horse", "deer", "fawn", "equine", "face", "smile", "emote", "profile", "twitch"]
 thumbnail: "/images/blog/j-lark-crew-emotes.jpg"
 fa_id: 61192708

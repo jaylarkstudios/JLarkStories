@@ -1,7 +1,7 @@
 ---
 title: "Friendship Sandwich"
 date: 2023-03-21T20:44:43+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["furry", "experience", "cat", "catherine", "dawn", "deer", "doe", "vickie", "fox", "vixen", "ronnie", "rabbit", "bunny", "guest", "comic", "webcomic"]
 thumbnail: "/images/blog/friendship-sandwich.jpg"
 fa_id: 51462765

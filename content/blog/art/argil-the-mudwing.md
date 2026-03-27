@@ -1,7 +1,7 @@
 ---
 title: "Argil the Mudwing"
 date: 2023-03-02T17:47:48+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dragon", "mudwing", "wingsoffire", "wof", "brown", "copper", "headshot", "male"]
 thumbnail: "/images/blog/argil-the-mudwing.png"
 fa_id: 51217957

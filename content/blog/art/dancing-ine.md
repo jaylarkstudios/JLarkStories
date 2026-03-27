@@ -1,7 +1,7 @@
 ---
 title: "Dancing Ine"
 date: 2025-07-07T15:26:36+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "ine", "awwfeathers", "lizard", "scaly", "reptile", "dancing", "toothless", "meme", "toony"]
 thumbnail: "/images/blog/dancing-ine.jpg"
 fa_id: 61492144

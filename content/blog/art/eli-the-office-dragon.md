@@ -1,7 +1,7 @@
 ---
 title: "Eli the Office Dragon"
 date: 2025-06-09T23:21:28+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["skirt", "dress", "shirt", "tie", "eastern", "dragon", "manager", "secretary", "office", "femboy", "male"]
 thumbnail: "/images/blog/eli-the-office-dragon.jpg"
 fa_id: 61175896

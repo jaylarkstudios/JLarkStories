@@ -1,7 +1,7 @@
 ---
 title: "TP Pup"
 date: 2023-04-10T18:51:31+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dog", "spots", "pup", "baby", "babyfur", "abdl", "tp", "toilet", "paper", "mischief", "male"]
 thumbnail: "/images/blog/tp-pup.jpg"
 fa_id: 51722092

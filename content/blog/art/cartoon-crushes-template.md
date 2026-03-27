@@ -1,7 +1,7 @@
 ---
 title: "Cartoon Crushes Template"
 date: 2023-08-05T21:30:42+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["download", "template", "drawing", "challenge", "cartoon", "crush"]
 thumbnail: "/images/blog/cartoon-crushes-template.png"
 fa_id: 53184305

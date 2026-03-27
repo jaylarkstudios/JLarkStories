@@ -1,7 +1,7 @@
 ---
 title: "Trainer Ine and Charmander Jakiro"
 date: 2023-08-05T21:19:13+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["photo", "fursuit", "ine", "lizard", "reptile", "scaly", "jakiro", "beardie", "bearded", "dragon", "pokemon", "trainer", "charmander", "pokeball", "cosplay", "costume"]
 thumbnail: "/images/blog/trainer-ine-and-charmander-jakiro.jpg"
 fa_id: 53184127

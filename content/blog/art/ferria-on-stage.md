@@ -1,7 +1,7 @@
 ---
 title: "Ferria on Stage"
 date: 2025-07-04T19:53:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "fox", "kitsune", "rainbow", "tails", "stage", "perform", "dance", "pose", "speedo", "underwear"]
 thumbnail: "/images/blog/ferria-on-stage.jpg"
 fa_id: 61461336

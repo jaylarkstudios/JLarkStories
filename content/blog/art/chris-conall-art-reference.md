@@ -1,7 +1,7 @@
 ---
 title: "Chris Conall Art Reference"
 date: 2023-02-26T00:30:05+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["chris", "connall", "ref", "refsheet", "dog", "canine", "dalmatian", "spots", "black", "white", "sports", "basketball", "comic", "webcomic", "male"]
 thumbnail: "/images/blog/chris-conall-art-reference.jpg"
 fa_id: 51158071

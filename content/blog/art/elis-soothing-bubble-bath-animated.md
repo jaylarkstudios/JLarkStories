@@ -1,7 +1,7 @@
 ---
 title: "Eli's Soothing Bubble Bath [Animated]"
 date: 2026-02-18T01:40:34+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eastern", "dragon", "eli", "bubble", "bath", "soap", "flowers", "tub", "animation", "2d", "fluffy", "blue", "purple", "cyan"]
 thumbnail: "/images/blog/elis-soothing-bubble-bath-animated.gif"
 fa_id: 64049459

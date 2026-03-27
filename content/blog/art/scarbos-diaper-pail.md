@@ -1,7 +1,7 @@
 ---
 title: "Scarbo's Diaper Pail"
 date: 2023-03-17T17:17:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["abdl", "sheep", "diaper", "pail", "diaperfur", "wings", "pink", "hearts", "pajamas", "male"]
 thumbnail: "/images/blog/scarbos-diaper-pail.jpg"
 fa_id: 51408828

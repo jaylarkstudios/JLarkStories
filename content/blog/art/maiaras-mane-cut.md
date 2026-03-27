@@ -1,7 +1,7 @@
 ---
 title: "Maiara's Mane Cut"
 date: 2025-02-10T15:22:30+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["maiara", "horse", "equine", "hair", "cut", "mane", "comic", "female"]
 thumbnail: "/images/blog/maiaras-mane-cut.jpg"
 fa_id: 59831266

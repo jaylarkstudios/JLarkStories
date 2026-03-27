@@ -1,7 +1,7 @@
 ---
 title: "Motivational Ine Poster"
 date: 2023-04-04T01:14:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "ine", "lizard", "reptile", "scaly", "buff", "muscular", "musclefur", "motivational", "poster", "flex", "strong", "male"]
 thumbnail: "/images/blog/motivational-ine-poster.jpg"
 fa_id: 51636306

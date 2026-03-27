@@ -1,7 +1,7 @@
 ---
 title: "Armello Party"
 date: 2023-11-12T02:55:01+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["armello", "video", "game", "cosplay", "fanart", "wolf", "magna", "dog", "corgi", "rat", "sargon", "coyote", "rabbit", "hare", "barnaby", "gecko", "hargrave", "male"]
 thumbnail: "/images/blog/armello-party.jpg"
 fa_id: 54406241

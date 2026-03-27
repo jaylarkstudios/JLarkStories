@@ -1,7 +1,7 @@
 ---
 title: "Bramble the Jackalope"
 date: 2024-05-06T13:32:57+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["bramble", "jackalope", "rabbit", "bunny", "jackrabbit", "antlers", "horns", "deer", "antelope", "cryptid", "legend", "species", "change", "week", "scw", "male"]
 thumbnail: "/images/blog/bramble-the-jackalope.jpg"
 fa_id: 56535050

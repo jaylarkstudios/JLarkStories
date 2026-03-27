@@ -1,7 +1,7 @@
 ---
 title: "Patriotic Ine"
 date: 2024-07-04T18:20:49+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["aww", "feathers", "ine", "lizard", "reptile", "scaly", "us", "united", "states", "america", "merica", "american", "flag", "wave", "fireworks", "red", "white", "blue", "independence", "day", "male"]
 thumbnail: "/images/blog/patriotic-ine.jpg"
 fa_id: 57251495

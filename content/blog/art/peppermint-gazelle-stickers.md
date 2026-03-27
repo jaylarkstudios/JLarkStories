@@ -1,7 +1,7 @@
 ---
 title: "Peppermint Gazelle Stickers"
 date: 2023-03-09T13:19:21+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["peppermint", "gazelle", "telegram", "stickers", "wave", "party", "celebrate", "tired", "exhausted", "hug", "snuggle", "cuddle", "puppet", "non_binary"]
 thumbnail: "/images/blog/peppermint-gazelle-stickers.jpg"
 fa_id: 51304606

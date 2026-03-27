@@ -1,7 +1,7 @@
 ---
 title: "Mag and Fang's First Meeting"
 date: 2024-10-30T23:30:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["mag", "fang", "magpie", "dinosaur", "raptor", "skeleton", "forest", "comic", "graphic", "novel", "bird", "avian", "feathers", "trees"]
 thumbnail: "/images/blog/mag-and-fangs-first-meeting.jpg"
 fa_id: 58660130

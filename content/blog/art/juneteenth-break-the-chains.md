@@ -1,7 +1,7 @@
 ---
 title: "Juneteenth: Break the Chains"
 date: 2025-06-19T16:05:44+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["horse", "equine", "stallion", "male", "june", "nineteenth", "juneteenth", "national", "independence", "day", "break", "chains", "anvil", "blacksmith", "black", "white", "grainy"]
 thumbnail: "/images/blog/juneteenth-break-the-chains.jpg"
 fa_id: 61285542

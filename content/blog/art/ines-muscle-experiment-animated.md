@@ -1,7 +1,7 @@
 ---
 title: "Ine's Muscle Experiment [Animated]"
 date: 2024-03-21T14:33:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "muscle", "growth", "sequence", "comic", "lab", "experiment", "speedo", "briefs", "gif", "animated"]
 thumbnail: "/images/blog/ines-muscle-experiment-animated.gif"
 fa_id: 55979588

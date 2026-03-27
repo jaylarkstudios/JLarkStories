@@ -1,7 +1,7 @@
 ---
 title: "Swimsuit June"
 date: 2024-09-03T14:27:53+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["june", "dolphin", "cetacean", "pink", "purple", "swimsuit", "ocean", "beach", "sand", "flipper", "awwfeathers", "female"]
 thumbnail: "/images/blog/swimsuit-june.jpg"
 fa_id: 57973470

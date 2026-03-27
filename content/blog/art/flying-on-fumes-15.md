@@ -1,7 +1,7 @@
 ---
 title: "Flying on Fumes 15"
 date: 2024-02-06T19:15:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "kraal", "bird", "avian", "falcon", "gyrfalcon", "chris", "dog", "dalmatian", "comic", "webcomic", "breakfast", "eggs", "bacon", "sack", "lunch", "overwhelmed", "crying", "tears", "sob", "gratitude", "male"]
 thumbnail: "/images/blog/flying-on-fumes-15.jpg"
 fa_id: 55442661

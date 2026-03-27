@@ -1,7 +1,7 @@
 ---
 title: "Stained Glass June"
 date: 2025-04-21T13:50:38+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dolphin", "stained", "glass", "window", "june", "aww", "feathers", "pink", "purple", "blue", "river", "water", "ocean", "pattern", "geometric", "abstract", "stylized", "female"]
 thumbnail: "/images/blog/stained-glass-june.jpg"
 fa_id: 60652822

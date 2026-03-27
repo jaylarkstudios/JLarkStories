@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 9 - Bounce"
 date: 2023-10-09T20:30:18+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "dog", "dalmatian", "juggle", "basketball", "baseball", "football", "bowling", "pin", "badminton", "birdie", "male"]
 thumbnail: "/images/blog/inktober-2023-9-bounce.jpg"
 fa_id: 53985231

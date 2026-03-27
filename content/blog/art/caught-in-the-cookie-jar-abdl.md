@@ -1,7 +1,7 @@
 ---
 title: "Caught in the Cookie Jar (ABDL)"
 date: 2026-01-20T15:26:07+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "taylor", "blackpaw", "jeet", "darjeet", "aquatic", "dragon", "reptile", "scaly", "pup", "baby", "diaper", "babyfur", "abdl", "cookie", "jar", "steal", "thief", "caught", "mischief", "trouble"]
 thumbnail: "/images/blog/caught-in-the-cookie-jar-abdl.jpg"
 fa_id: 63722772

@@ -1,7 +1,7 @@
 ---
 title: "Sonderberd Christmas Card 2023"
 date: 2023-12-05T14:13:38+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["christmas", "card", "lights", "trees", "bird", "lark", "jay", "horse", "maiara", "deer", "fawn", "lief", "chick", "trey", "sweater", "holiday", "greetings"]
 thumbnail: "/images/blog/sonderberd-christmas-card-2023.jpg"
 fa_id: 54691359

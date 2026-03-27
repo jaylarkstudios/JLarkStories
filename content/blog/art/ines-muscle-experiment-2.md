@@ -1,7 +1,7 @@
 ---
 title: "Ine's Muscle Experiment 2"
 date: 2023-11-25T21:11:50+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "muscle", "growth", "sequence", "arm", "bicep", "comic", "lab", "experiment", "speedo", "briefs", "male"]
 thumbnail: "/images/blog/ines-muscle-experiment-2.jpg"
 fa_id: 54573353

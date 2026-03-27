@@ -1,7 +1,7 @@
 ---
 title: "Catch that bird!"
 date: 2023-08-28T14:20:25+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["lark", "maiara", "roundup", "catch", "lasso", "rope", "tied", "bound", "bird", "horse", "black", "white", "sketch"]
 thumbnail: "/images/blog/catch-that-bird.jpg"
 fa_id: 53464531

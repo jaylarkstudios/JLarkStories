@@ -1,7 +1,7 @@
 ---
 title: "Iney (Bluey Style)"
 date: 2023-07-09T23:48:02+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "littlefur", "kidfur", "little", "kid", "bluey", "sketch", "black", "white", "ballpoint", "pen", "male"]
 thumbnail: "/images/blog/iney-bluey-style.jpg"
 fa_id: 52838005

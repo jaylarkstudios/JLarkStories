@@ -1,7 +1,7 @@
 ---
 title: "Warm Sunset"
 date: 2024-04-12T11:37:34+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "coatl", "lizard", "feathers", "scaly", "reptile", "sunset", "retro", "film", "male"]
 thumbnail: "/images/blog/warm-sunset.jpg"
 fa_id: 56246646

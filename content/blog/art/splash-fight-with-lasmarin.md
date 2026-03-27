@@ -1,7 +1,7 @@
 ---
 title: "Splash Fight with Lasmarin!"
 date: 2023-04-27T23:29:14+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "lizard", "reptile", "scaly", "little", "littlefur", "kid", "kidfur", "otter", "play", "splash", "fight", "water", "wet", "male"]
 thumbnail: "/images/blog/splash-fight-with-lasmarin.jpg"
 fa_id: 51942719

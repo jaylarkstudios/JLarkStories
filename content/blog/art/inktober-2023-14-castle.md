@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 14 - Castle"
 date: 2023-10-15T02:30:30+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "sketch", "chess", "castle", "rook", "bird", "avian", "horse", "knight", "check", "mate"]
 thumbnail: "/images/blog/inktober-2023-14-castle.jpg"
 fa_id: 54053168

@@ -1,7 +1,7 @@
 ---
 title: "Protect Our Children"
 date: 2023-03-28T17:21:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["protect", "children", "lark", "bird", "avian", "kids", "black", "white"]
 thumbnail: "/images/blog/protect-our-children.jpg"
 fa_id: 51549369

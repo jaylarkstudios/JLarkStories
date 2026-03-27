@@ -1,7 +1,7 @@
 ---
 title: "Dragon Marley"
 date: 2023-12-18T01:48:53+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["christmas", "carol", "dragon", "jacob", "marley", "ghost", "spirit", "haunt", "chains", "scrooge", "charcoal", "black", "white", "male"]
 thumbnail: "/images/blog/dragon-marley.jpg"
 fa_id: 54840071

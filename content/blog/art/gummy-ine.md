@@ -1,7 +1,7 @@
 ---
 title: "Gummy Ine"
 date: 2025-06-30T13:57:28+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["gummy", "gummigoo", "ine", "lizard", "reptile", "scaly", "aww", "feathers", "amazing", "digital", "circus", "icon", "profile", "candy", "pink", "mountain"]
 thumbnail: "/images/blog/gummy-ine.jpg"
 fa_id: 61409637

@@ -1,7 +1,7 @@
 ---
 title: "Getting Stronger 5"
 date: 2024-09-04T11:41:44+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "michelle", "shelly", "hyena", "warthog", "tusks", "lia", "cheetah", "feline", "cat", "spots", "coy", "grin", "pretty", "makeover", "hair", "brush", "grawlix", "swearing", "female"]
 thumbnail: "/images/blog/getting-stronger-5.jpg"
 fa_id: 57984090

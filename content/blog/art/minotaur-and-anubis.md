@@ -1,7 +1,7 @@
 ---
 title: "Minotaur and Anubis"
 date: 2025-07-14T17:42:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "sketch", "anubis", "minotaur", "jackal", "dog", "canine", "bull", "cow", "bovine", "hooves", "underwear", "speedo"]
 thumbnail: "/images/blog/minotaur-and-anubis.jpg"
 fa_id: 61573758

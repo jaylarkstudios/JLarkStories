@@ -1,7 +1,7 @@
 ---
 title: "The Train Change"
 date: 2023-04-13T23:05:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["deer", "sheep", "incontinent", "abdl", "change", "diaper", "train", "plane", "comic", "webcomic", "black", "white", "male"]
 thumbnail: "/images/blog/the-train-change.jpg"
 fa_id: 51764797

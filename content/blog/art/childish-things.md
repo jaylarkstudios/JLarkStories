@@ -1,7 +1,7 @@
 ---
 title: "Childish Things"
 date: 2023-11-28T15:27:02+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "ine", "coatl", "lizard", "scaly", "reptile", "feathers", "plush", "toy", "childish", "sketch", "male"]
 thumbnail: "/images/blog/childish-things.jpg"
 fa_id: 54606588

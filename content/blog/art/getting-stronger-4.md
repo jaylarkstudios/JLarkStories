@@ -1,7 +1,7 @@
 ---
 title: "Getting Stronger 4"
 date: 2024-06-20T13:54:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "michelle", "shelly", "hyena", "warthog", "tusks", "lia", "cheetah", "feline", "cat", "spots", "coy", "grin", "pretty", "makeover", "female"]
 thumbnail: "/images/blog/getting-stronger-4.jpg"
 fa_id: 57079476

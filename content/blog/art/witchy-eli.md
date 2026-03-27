@@ -1,7 +1,7 @@
 ---
 title: "Witchy Eli"
 date: 2025-11-02T21:51:04+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eastern", "dragon", "noodle", "fluffy", "wings", "witch", "broom", "broomstick", "fly", "flying", "moon", "stars", "halloween", "night"]
 thumbnail: "/images/blog/witchy-eli.jpg"
 fa_id: 62860146

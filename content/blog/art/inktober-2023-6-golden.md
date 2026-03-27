@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 6 - Golden"
 date: 2023-10-08T00:18:55+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "hyena", "tusks", "weights", "lifting", "body", "building", "gold", "medals", "female"]
 thumbnail: "/images/blog/inktober-2023-6-golden.jpg"
 fa_id: 53962917

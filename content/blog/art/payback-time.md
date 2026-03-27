@@ -1,7 +1,7 @@
 ---
 title: "Payback Time!"
 date: 2024-09-23T14:01:35+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["silver", "abby", "wolf", "cow", "woofnmoo", "moo", "toy", "nerf", "gun", "payback", "revenge", "vengeance", "comic"]
 thumbnail: "/images/blog/payback-time.jpg"
 fa_id: 58206280

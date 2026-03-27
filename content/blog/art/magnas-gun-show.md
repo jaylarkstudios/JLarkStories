@@ -1,7 +1,7 @@
 ---
 title: "Magna's Gun Show"
 date: 2026-03-09T23:07:27+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "wolf", "magna", "armello", "flex", "biceps", "game", "fanart"]
 thumbnail: "/images/blog/magnas-gun-show.jpg"
 fa_id: 64271536

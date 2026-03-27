@@ -1,7 +1,7 @@
 ---
 title: "Maiara Carey"
 date: 2023-12-01T14:36:17+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["christmas", "music", "maiara", "mariah", "carey", "santa", "outfit", "red", "green", "horse", "snowflake", "sketch", "female"]
 thumbnail: "/images/blog/maiara-carey.jpg"
 fa_id: 54642321

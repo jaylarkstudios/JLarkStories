@@ -1,7 +1,7 @@
 ---
 title: "Feather Vane the Chozo"
 date: 2023-09-25T14:25:31+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["bird", "chozo", "blazing", "phoenix", "fire", "red", "orange", "yellow", "digital", "sketch", "gift", "blush", "male"]
 thumbnail: "/images/blog/feather-vane-the-chozo.jpg"
 fa_id: 53804410

@@ -1,7 +1,7 @@
 ---
 title: "Drin's Speach"
 date: 2026-03-04T00:15:36+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "female", "drin", "kobold", "layton", "dragon", "elephant", "drow", "tiefling", "black", "white", "comic", "ranger", "speach", "motivation", "fail", "facepalm"]
 thumbnail: "/images/blog/drins-speach.jpg"
 fa_id: 64206214

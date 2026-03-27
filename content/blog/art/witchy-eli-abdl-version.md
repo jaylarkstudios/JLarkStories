@@ -1,7 +1,7 @@
 ---
 title: "Witchy Eli (ABDL Version)"
 date: 2025-11-02T21:52:12+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eastern", "dragon", "noodle", "fluffy", "wings", "witch", "broom", "broomstick", "fly", "flying", "moon", "stars", "halloween", "night"]
 thumbnail: "/images/blog/witchy-eli-abdl-version.jpg"
 fa_id: 62860154

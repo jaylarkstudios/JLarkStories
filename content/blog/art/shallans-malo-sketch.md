@@ -1,7 +1,7 @@
 ---
 title: "Shallan's MalO Sketch"
 date: 2025-03-21T13:35:07+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["stormlight", "chronicles", "malo", "scp", "sketch", "photo", "manipulation", "shallan"]
 thumbnail: "/images/blog/shallans-malo-sketch.jpg"
 fa_id: 60290416

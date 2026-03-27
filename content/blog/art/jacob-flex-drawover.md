@@ -1,7 +1,7 @@
 ---
 title: "Jacob Flex Drawover"
 date: 2024-11-27T15:22:06+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["wolf", "muscle", "musclefur", "flex", "arms", "chest", "pecs", "pectorals", "photo", "photography", "drawover", "male"]
 thumbnail: "/images/blog/jacob-flex-drawover.jpg"
 fa_id: 58977423

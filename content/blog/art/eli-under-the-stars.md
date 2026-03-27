@@ -1,7 +1,7 @@
 ---
 title: "Eli Under the Stars"
 date: 2025-12-11T21:27:28+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "eli", "easter", "dragon", "fluffy", "noodle", "stars", "night", "sky", "silhouette"]
 thumbnail: "/images/blog/eli-under-the-stars.jpg"
 fa_id: 63289028

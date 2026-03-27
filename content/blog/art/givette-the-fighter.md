@@ -1,7 +1,7 @@
 ---
 title: "Givette the Fighter"
 date: 2026-02-18T01:20:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "otter", "fighter", "mma", "martial", "arts", "training", "weights", "dummy", "punching"]
 thumbnail: "/images/blog/givette-the-fighter.jpg"
 fa_id: 64049279

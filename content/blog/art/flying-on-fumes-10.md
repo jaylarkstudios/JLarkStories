@@ -1,7 +1,7 @@
 ---
 title: "Flying on Fumes 10"
 date: 2023-10-03T14:32:11+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "kraal", "bird", "avian", "falcon", "gyrfalcon", "chris", "dog", "dalmatian", "dil", "dilawar", "panther", "peacock", "pancock", "ine", "lizard", "reptile", "comic", "webcomic", "study", "school", "board", "game", "male"]
 thumbnail: "/images/blog/flying-on-fumes-10.jpg"
 fa_id: 53903341

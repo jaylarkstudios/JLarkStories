@@ -1,7 +1,7 @@
 ---
 title: "Raptor Ine"
 date: 2025-05-26T19:24:35+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dinosaur", "raptor", "ine", "aww", "feathers", "roar", "growl", "spit", "scaly", "reptile", "prehistoric", "paleo", "jungle", "red", "green", "male"]
 thumbnail: "/images/blog/raptor-ine.jpg"
 fa_id: 61010033

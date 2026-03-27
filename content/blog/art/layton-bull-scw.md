@@ -1,7 +1,7 @@
 ---
 title: "Layton Bull SCW"
 date: 2023-05-12T11:50:30+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male"]
 thumbnail: "/images/blog/layton-bull-scw.jpg"
 fa_id: 52120736

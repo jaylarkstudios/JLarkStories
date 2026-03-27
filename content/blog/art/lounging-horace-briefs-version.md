@@ -1,7 +1,7 @@
 ---
 title: "Lounging Horace (Briefs Version)"
 date: 2023-03-03T00:05:15+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["horace", "armello", "badger", "fanart", "red", "briefs", "iron", "poet", "sleep", "male"]
 thumbnail: "/images/blog/lounging-horace-briefs-version.jpg"
 fa_id: 51222802

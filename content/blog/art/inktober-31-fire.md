@@ -1,7 +1,7 @@
 ---
 title: "Inktober 31 - Fire"
 date: 2023-10-30T11:45:08+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "fire", "firetype", "ine", "lizard", "charizard", "kigurumi", "cosplay", "costume", "halloween", "trickortreat", "little", "kid", "male"]
 thumbnail: "/images/blog/inktober-31-fire.jpg"
 fa_id: 54244386

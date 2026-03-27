@@ -1,7 +1,7 @@
 ---
 title: "Panic the Raptor"
 date: 2025-08-19T13:21:49+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "panic", "raptor", "dino", "dinosaur", "feathers", "teeth", "growl", "snarl", "forest", "yellow", "purple", "green", "badge"]
 thumbnail: "/images/blog/panic-the-raptor.jpg"
 fa_id: 61988458

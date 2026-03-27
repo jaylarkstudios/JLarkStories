@@ -1,7 +1,7 @@
 ---
 title: "T'Lanea Sketch"
 date: 2026-02-26T17:47:18+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "fluffy", "antlers", "wolf", "black", "white", "sketch", "braid", "feral", "quadruped"]
 thumbnail: "/images/blog/tlanea-sketch.jpg"
 fa_id: 64143992

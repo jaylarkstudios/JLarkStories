@@ -1,7 +1,7 @@
 ---
 title: "Ian Deadlift"
 date: 2024-08-16T14:35:21+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["muscle", "musclefur", "lifting", "weights", "deadlift", "barbell", "gecko", "lizard", "scaly", "reptile", "green", "ych", "male"]
 thumbnail: "/images/blog/ian-deadlift.jpg"
 fa_id: 57775882

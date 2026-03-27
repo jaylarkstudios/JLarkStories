@@ -1,7 +1,7 @@
 ---
 title: "Falren the Buckaneer"
 date: 2025-10-09T01:42:35+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["male", "gryphon", "griffin", "bird", "avian", "hybrid", "feathers", "wings", "pirate", "ship", "deck", "ropes", "rigging", "sword", "scarf", "bandana", "ocean", "sea", "sail"]
 thumbnail: "/images/blog/falren-the-buckaneer.jpg"
 fa_id: 62566673

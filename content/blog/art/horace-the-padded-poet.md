@@ -1,7 +1,7 @@
 ---
 title: "Horace the Padded Poet"
 date: 2023-03-16T20:30:23+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["horace", "armello", "armor", "diaper", "abdl", "diaperfur", "ax", "fanart", "badger", "videogame", "male"]
 thumbnail: "/images/blog/horace-the-padded-poet.jpg"
 fa_id: 51398501

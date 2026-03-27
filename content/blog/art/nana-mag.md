@@ -1,7 +1,7 @@
 ---
 title: "Nana Mag"
 date: 2025-11-30T02:53:45+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["female", "highland", "cow", "bovine", "mother", "nanna", "nana", "mag", "maggie", "hooves", "braid", "blonde", "middle", "age"]
 thumbnail: "/images/blog/nana-mag.jpg"
 fa_id: 63157114

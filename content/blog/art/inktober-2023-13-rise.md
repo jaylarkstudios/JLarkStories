@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023 13 - Rise"
 date: 2023-10-14T11:43:12+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["inktober", "inktober2023", "sketch", "gazelle", "chair", "float", "balloons", "rise", "fly", "female"]
 thumbnail: "/images/blog/inktober-2023-13-rise.jpg"
 fa_id: 54043833

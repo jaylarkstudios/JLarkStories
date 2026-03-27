@@ -1,7 +1,7 @@
 ---
 title: "Ine Coatl Art Reference"
 date: 2023-02-25T21:53:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "ine", "coatl", "lizard", "reptile", "refsheet", "reference", "feathers", "green", "red", "stripes", "comic", "webcomic", "male"]
 thumbnail: "/images/blog/ine-coatl-art-reference.jpg"
 fa_id: 51156192

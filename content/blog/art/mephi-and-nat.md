@@ -1,7 +1,7 @@
 ---
 title: "Mephi and Nat"
 date: 2025-04-07T22:42:35+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["couple", "skunk", "dragon", "shorts", "hug", "nonbinary", "genderfluid", "intersex", "androgenous"]
 thumbnail: "/images/blog/mephi-and-nat.jpg"
 fa_id: 60495574

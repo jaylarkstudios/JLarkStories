@@ -1,7 +1,7 @@
 ---
 title: "Flame Skywing Sketch"
 date: 2023-03-06T20:36:27+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["red", "dragon", "flame", "skywing", "wingsoffire", "sketch", "colored", "male"]
 thumbnail: "/images/blog/flame-skywing-sketch.jpg"
 fa_id: 51271725

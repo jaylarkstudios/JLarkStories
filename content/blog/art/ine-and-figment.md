@@ -1,7 +1,7 @@
 ---
 title: "Ine and Figment"
 date: 2025-02-10T15:20:20+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["figment", "dragon", "imagination", "ine", "coatl", "lizard", "reptile", "scaly", "kid", "kidfur", "little", "jump", "fly", "male"]
 thumbnail: "/images/blog/ine-and-figment.jpg"
 fa_id: 59831257

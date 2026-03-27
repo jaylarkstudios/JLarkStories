@@ -1,7 +1,7 @@
 ---
 title: "Dilawar \"Dil\" Attwell Art Reference"
 date: 2023-02-25T22:16:32+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dil", "dilawar", "attwell", "awwfeathers", "panther", "peacock", "pancock", "feral", "quadruped", "green", "blue", "hybrid", "ref", "refsheet", "comic", "webcomic", "male"]
 thumbnail: "/images/blog/dilawar-dil-attwell-art-reference.jpg"
 fa_id: 51156520

@@ -1,7 +1,7 @@
 ---
 title: "Raptor Ine Skeleton"
 date: 2025-05-26T19:27:03+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["skeleton", "dinosaur", "raptor", "ine", "aww", "feathers", "scaly", "reptile", "paleo", "prehistoric", "bones", "stone", "fossil", "red", "brown", "sandstone", "rock", "teeth", "male"]
 thumbnail: "/images/blog/raptor-ine-skeleton.jpg"
 fa_id: 61010069

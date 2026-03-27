@@ -1,7 +1,7 @@
 ---
 title: "Little Ine in the Corner"
 date: 2023-04-16T01:02:42+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["ine", "lizard", "reptile", "scaly", "little", "kid", "abdl", "diaper", "deer", "timeout", "corner", "naughty", "mischief", "punishment", "discipline", "crying", "tantrum", "male"]
 thumbnail: "/images/blog/little-ine-in-the-corner.jpg"
 fa_id: 51791401

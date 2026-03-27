@@ -1,7 +1,7 @@
 ---
 title: "Skeleton Ine"
 date: 2025-04-07T15:13:43+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["skeleton", "ine", "lizard", "scaly", "reptile", "ship", "coin", "eyepatch", "feathers", "badge", "male"]
 thumbnail: "/images/blog/skeleton-ine.jpg"
 fa_id: 60490200

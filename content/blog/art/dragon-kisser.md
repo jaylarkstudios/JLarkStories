@@ -1,7 +1,7 @@
 ---
 title: "Dragon Kisser"
 date: 2023-10-16T19:55:39+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dragon", "boy", "kisser", "meme"]
 thumbnail: "/images/blog/dragon-kisser.jpg"
 fa_id: 54073821

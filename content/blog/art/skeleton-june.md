@@ -1,7 +1,7 @@
 ---
 title: "Skeleton June"
 date: 2025-04-26T18:46:09+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["skeleton", "dolphin", "june", "aww", "feathers", "pirate", "sword", "hat", "bones", "night", "female"]
 thumbnail: "/images/blog/skeleton-june.jpg"
 fa_id: 60713680

@@ -1,7 +1,7 @@
 ---
 title: "My New Flag"
 date: 2025-06-05T21:07:49+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["bird", "lark", "avian", "blue", "jay", "secretary", "stripes", "horse", "maiara", "equine", "brown", "feather", "bi", "bisexual", "flag", "ally", "pride", "lgbtq"]
 thumbnail: "/images/blog/my-new-flag.jpg"
 fa_id: 61129786

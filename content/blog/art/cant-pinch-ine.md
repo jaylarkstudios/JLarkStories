@@ -1,7 +1,7 @@
 ---
 title: "Can't Pinch Ine!"
 date: 2023-03-06T21:02:26+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "ine", "lizard", "feathers", "featheredlizard", "green", "stpatricksday", "holiday", "scaly", "reptile", "male"]
 thumbnail: "/images/blog/cant-pinch-ine.jpg"
 fa_id: 51272169

@@ -1,7 +1,7 @@
 ---
 title: "Mini Comic: Professional Rejector"
 date: 2023-03-30T22:06:50+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["mini", "comic", "doodle", "sketch", "kangaroo", "roo", "bird", "avian", "ostrich", "bachelor", "tax", "rejection"]
 thumbnail: "/images/blog/mini-comic-professional-rejector.jpg"
 fa_id: 51579818

@@ -1,7 +1,7 @@
 ---
 title: "Michelle Motivational Poster"
 date: 2024-09-05T14:24:36+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["motivational", "poster", "michelle", "hyena", "warthog", "tusks", "muscle", "buff", "musclefur", "lifting", "body", "builder", "barbell", "weights", "inspiration", "female"]
 thumbnail: "/images/blog/michelle-motivational-poster.jpg"
 fa_id: 57996916

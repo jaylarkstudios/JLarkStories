@@ -1,7 +1,7 @@
 ---
 title: "Dart Bi Pride Icon"
 date: 2025-06-28T23:20:13+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["dart", "wolf", "dog", "wolfdog", "pride", "bi", "bisexual", "flag", "icon", "profile", "pink", "purple", "blue", "gray"]
 thumbnail: "/images/blog/dart-bi-pride-icon.jpg"
 fa_id: 61392792

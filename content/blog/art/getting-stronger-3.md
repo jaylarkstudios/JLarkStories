@@ -1,7 +1,7 @@
 ---
 title: "Getting Stronger 3"
 date: 2024-06-04T20:08:13+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["awwfeathers", "michelle", "shelly", "hyena", "warthog", "tusks", "lia", "cheetah", "feline", "cat", "spots", "workout", "gym", "class", "hired", "client", "bully", "tiger", "bobcat", "tease", "self", "esteem", "female"]
 thumbnail: "/images/blog/getting-stronger-3.jpg"
 fa_id: 56888410

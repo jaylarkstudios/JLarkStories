@@ -1,7 +1,7 @@
 ---
 title: "A Helpful Gift"
 date: 2023-03-03T21:16:41+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["abdl", "incontinence", "briefs", "diapers", "gift", "raccoon", "sheep", "car", "comic", "dialog", "story", "male"]
 thumbnail: "/images/blog/a-helpful-gift.png"
 fa_id: 51233508

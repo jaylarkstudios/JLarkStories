@@ -1,7 +1,7 @@
 ---
 title: "Givette and Mama Deer"
 date: 2023-03-21T19:32:21+0000
-categories: ["art"]
+categories: ["My Art"]
 tags: ["baby", "babyfur", "diaper", "diaperfur", "change", "white", "otter", "deer", "mother", "female"]
 thumbnail: "/images/blog/givette-and-mama-deer.jpg"
 fa_id: 51461724
