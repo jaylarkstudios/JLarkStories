@@ -4,12 +4,11 @@ date: 2023-03-06T21:58:05+0000
 categories: ["Guest Art"]
 tags: ["ine", "little", "littleine", "lizard", "featheredlizard", "feathers", "reptile", "green", "red", "ref", "refsheet", "littlefur", "kidfur", "male"]
 thumbnail: "/images/blog/little-ine-ref-sheet.png"
+created_date: "Jun 10, 2021"
 artists: ["Shopoke"]
 fa_id: 51272918
-summary: "Created: Jun 10, 2021 \"Hi, I'm Ine! It sounds like \"pine\". I'm seven, and I'm a feathered lizard. I'm a big kid! But... I sometimes cry when I'm sad. But my..."
+summary: "\"Hi, I'm Ine! It sounds like \"pine\". I'm seven, and I'm a feathered lizard. I'm a big kid! But... I sometimes cry when I'm sad. But my..."
 ---
-
-Created: Jun 10, 2021
 
 "Hi, I'm Ine! (It sounds like "pine".) I'm seven, and I'm a feathered lizard. I'm a big kid! But... I sometimes cry when I'm sad. But my mom and dad and friends help me feel better. I love to play with friends, especially swimming and video games! If you have a pool, please invite me to your next party, okay? I promise to bring some cookies to share!"
 

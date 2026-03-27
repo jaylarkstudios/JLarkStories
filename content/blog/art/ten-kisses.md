@@ -4,11 +4,10 @@ date: 2023-03-10T20:45:08+0000
 categories: ["My Art"]
 tags: ["ten", "kisses", "wedding", "anniversary", "lark", "maiara", "bird", "avian", "horse", "flowers", "drawings", "sketches"]
 thumbnail: "/images/blog/ten-kisses.jpg"
+created_date: "Apr 18, 2022"
 fa_id: 51321612
-summary: "Created: Apr 18, 2022 Ten Kisses 1. A kiss to commemorate the day we were wed. 2. A kiss to remember countless moments of sweetness. 3. A kiss of comfort..."
+summary: "Ten Kisses 1. A kiss to commemorate the day we were wed. 2. A kiss to remember countless moments of sweetness. 3. A kiss of comfort..."
 ---
-
-Created: Apr 18, 2022
 
 Ten Kisses
 

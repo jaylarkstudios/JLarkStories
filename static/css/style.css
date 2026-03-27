@@ -608,6 +608,13 @@ p {
   margin-bottom: 2rem;
 }
 
+.blog-single-created-date {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
 .blog-single-content {
   font-size: 1.05rem;
   line-height: 1.8;

@@ -4,12 +4,11 @@ date: 2023-03-02T22:35:40+0000
 categories: ["Guest Art"]
 tags: ["eastern", "dragon", "ref", "refsheet", "blue", "purple", "wings", "feathers", "male"]
 thumbnail: "/images/blog/eli-dragon-ref-sheet.jpg"
+created_date: "Aug 21, 2020"
 artists: ["Tuxedo Dragon"]
 fa_id: 51221781
-summary: "Created: Aug 21, 2020 Name: Eli Gender: Male, Demiboy Age: Young adult Species: Winged Eastern Dragon Likes: Caring friends, hugging soft things, hand-crafted..."
+summary: "Name: Eli Gender: Male, Demiboy Age: Young adult Species: Winged Eastern Dragon Likes: Caring friends, hugging soft things, hand-crafted..."
 ---
-
-Created: Aug 21, 2020
 
 Name: Eli
 

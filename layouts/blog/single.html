@@ -30,6 +30,10 @@
     <img src="{{ . }}" alt="{{ $.Title }}" class="blog-single-thumbnail">
   {{ end }}
 
+  {{ with .Params.created_date }}
+    <p class="blog-single-created-date">Originally created {{ . }}.</p>
+  {{ end }}
+
   <div class="blog-single-content">
     {{ .Content }}
   </div>

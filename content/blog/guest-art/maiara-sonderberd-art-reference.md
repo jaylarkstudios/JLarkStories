@@ -4,12 +4,11 @@ date: 2023-03-20T15:26:02+0000
 categories: ["Guest Art"]
 tags: ["maiara", "sonderberd", "brown", "horse", "equine", "ref", "refsheet", "feather", "lasso", "bracelet", "female"]
 thumbnail: "/images/blog/maiara-sonderberd-art-reference.jpg"
+created_date: "~2017"
 artists: ["Nova Nocturne"]
 fa_id: 51445677
-summary: "Created: ~2017 Name: Maiara Sonderberd Species: Horse Relationship: Married to Lark Maiara is always wearing the silver bracelet on her left wrist. It's what..."
+summary: "Name: Maiara Sonderberd Species: Horse Relationship: Married to Lark Maiara is always wearing the silver bracelet on her left wrist. It's what..."
 ---
-
-Created: ~2017
 
 Name: Maiara Sonderberd
 

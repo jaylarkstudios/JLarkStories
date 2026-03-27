@@ -4,12 +4,11 @@ date: 2023-03-20T15:34:16+0000
 categories: ["Guest Art"]
 tags: ["lark", "sonderberd", "secretary", "bird", "blue", "jay", "artist", "bracelet", "male"]
 thumbnail: "/images/blog/jay-lark-sonderberd-art-reference.jpg"
+created_date: "~2017"
 artists: ["Nova Nocturne"]
 fa_id: 51445763
-summary: "Created: ~2017 Name: Jay Lark Sonderberd goes by \"Lark\" Species: secretary bird, blue jay, monitor lizard hybrid he's not part lark; Lark is just his name..."
+summary: "Name: Jay Lark Sonderberd goes by \"Lark\" Species: secretary bird, blue jay, monitor lizard hybrid he's not part lark; Lark is just his name..."
 ---
-
-Created: ~2017
 
 Name: Jay Lark Sonderberd (goes by "Lark")
 
