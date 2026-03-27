@@ -11,7 +11,3 @@ summary: "Created: August 26, 2022 A sticker commission I did for Dash and Jerry
 Created: August 26, 2022
 
 A sticker commission I did for Dash and Jerry, a sweet bunny and a good puppy!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

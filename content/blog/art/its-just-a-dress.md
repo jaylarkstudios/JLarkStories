@@ -13,7 +13,3 @@ summary: "\"Seriously, chill. It's just a dress!\" While cis and straight, Chris
 While cis and straight, Chris doesn't mind wearing something a little out of the ordinary for him, especially if it's to make a point, such as not judging people for what they wear!
 
 A silly drawing I made on my phone, because I didn't have my tablet on me.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

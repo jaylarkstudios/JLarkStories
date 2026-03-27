@@ -11,7 +11,3 @@ summary: "Wishing you and yours a Merry Christmas from the Sonderberd Family! �
 Wishing you and yours a Merry Christmas from the Sonderberd Family! 🎄❄️
 
 This is my first time making our own family Christmas card, and I'm very happy with how it turned out! 😊
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

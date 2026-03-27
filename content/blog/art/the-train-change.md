@@ -13,7 +13,3 @@ Created: Aug 18, 2022
 Juddo the deer is incontinent, and self-conscious sometimes about wearing diapers, especially when he's out in public. Fortunately he has a very caring and understanding friend!
 
 A commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

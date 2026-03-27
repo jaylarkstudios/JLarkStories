@@ -11,7 +11,3 @@ summary: "Natalia the dragon! Though she usually goes by Nat. I think she's cute
 Natalia the dragon! (Though she usually goes by Nat.) I think she's cute, don't you? ^^
 
 A quick headshot for Scarbo. Enjoy!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

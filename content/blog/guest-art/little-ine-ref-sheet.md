@@ -16,7 +16,3 @@ Created: Jun 10, 2021
 This is very special to me! As you may know, Ine (as an adult) is both a main character in my webcomic Aww, Feathers!, but he also is the character that I most often use to represent myself personally. I use him a lot when interacting with friends in the furry fandom. As I became more acquainted with the ABDL and Littlefur community within the fandom, I felt like expressing my own child-like side through a younger version of Ine, simply dubbed "Little Ine" to differentiate from the adult version who appears in my comic. Drawing or commissoning pics of Little Ine always makes me feel incredibly warm and happy!
 
 Art by [ Shopoke](/user/shopoke), ref sheet by me.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

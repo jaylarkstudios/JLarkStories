@@ -13,7 +13,3 @@ Created: December 10, 2021
 Hiya Fær! What's that big grin for? He's probably excited about his new Sonic themed diapers his daddy got him! Gotta go fast! Haha!
 
 A commission for Faer_Xander
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

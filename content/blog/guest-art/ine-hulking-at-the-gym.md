@@ -12,7 +12,3 @@ summary: "Wow, those protein shakes are no joke! 💪😁💦 A surprise gift co
 Wow, those protein shakes are no joke! 💪😁💦
 
 A surprise gift commissioned by [ lycanlover777](/user/lycanlover777), made by Venjii! Thanks a ton bro! (Many tons, hehe!)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "Oh Ine... you should have known better than to back-talk your sitter..
 Oh Ine... you should have known better than to back-talk your sitter... Fortunately Juddo is very patient. Just be good in your timeout and you'll be out before you know it.
 
 Personal art by me. Juddo belongs to [ Scarbo](/user/scarbo).
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

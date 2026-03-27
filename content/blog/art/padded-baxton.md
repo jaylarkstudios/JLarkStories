@@ -11,7 +11,3 @@ summary: "Why so blushy, Baxton? You look adorable! 😊 Lark: A commission for 
 Why so blushy, Baxton? You look adorable! 😊
 
 Lark: A commission for PupBaxton!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

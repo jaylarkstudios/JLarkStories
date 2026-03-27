@@ -9,7 +9,3 @@ summary: "Here's the first character ref sheet for our little nature witch, one 
 ---
 
 Here's the first character ref sheet for our little nature witch, one of the main characters of a short story I'm working on! (Not sure yet if the final thing will be color or black and white, but I'm hoping for color.)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "circa June, 2018 A commission I made for Nekronos, the fluffy fire yok
 circa June, 2018
 
 A commission I made for Nekronos, the fluffy fire yokai! I had a lot of fun with the shapes of the flames on this one! 🔥
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

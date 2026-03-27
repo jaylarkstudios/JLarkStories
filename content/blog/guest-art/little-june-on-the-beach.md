@@ -12,7 +12,3 @@ summary: "Helping out a friend. 😊 Styled after the turtle scene from Disney's
 Helping out a friend. 😊 Styled after the turtle scene from Disney's Moana! 🐢 Even as a child, she has a kind an caring heart! 🥰
 
 Art by [ DaisySun](/user/daisysun)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

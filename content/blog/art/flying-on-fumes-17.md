@@ -13,7 +13,3 @@ summary: "“Keep smiling, keep shining, knowing you can always count on me, for
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

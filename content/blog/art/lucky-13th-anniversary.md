@@ -9,7 +9,3 @@ summary: "Happy 13th Anniversary to my beautiful wife and loving companion throu
 ---
 
 Happy 13th Anniversary to my beautiful wife and loving companion through thick and thin! Nothing can stop us now! 🌩️
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "A commission update for Scarbo/user/scarbo. In this one, Valsa is spor
 ---
 
 A commission update for [ Scarbo](/user/scarbo). In this one, Valsa is sporting his ace pride on his speedo. Time to hit the pool!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

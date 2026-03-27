@@ -10,7 +10,3 @@ summary: "These super cute stickers of Little Ine were made by patchWolf! Come o
 ---
 
 These super cute stickers of Little Ine were made by patchWolf! (Come on Ine, learn to share your toys...)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -21,7 +21,3 @@ https://www.youtube.com/watch?v=DU70EKsKj8o&t=252s
 https://www.youtube.com/watch?v=1RKcGvxy-f4&t=96s
 
 Photos taken by my wife.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

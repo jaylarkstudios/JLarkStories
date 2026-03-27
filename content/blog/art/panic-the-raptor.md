@@ -9,7 +9,3 @@ summary: "The front half of a badge trade done for Happy Fox as a gift for her h
 ---
 
 The front half of a badge trade done for Happy Fox as a gift for her hubby Panic, the raptor. I love his colors!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

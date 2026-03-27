@@ -11,7 +11,3 @@ summary: "\"Hey, you look like you've been working too hard. So I scheduled a fl
 "Hey, you look like you've been working too hard. So I scheduled a fluffy hug break for you right after your next meeting. If you need anything else, just let me know!"
 
 Eli wanted to see how he'd look in something pretty but formal, and I think it turned out so cute! He might not mind an office job if he could dress like this every day! =^_^=
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

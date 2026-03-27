@@ -13,7 +13,3 @@ Without warning, Ine suddenly felt his chest explode outward again!! Caught off 
 Part 11 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

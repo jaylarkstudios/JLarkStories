@@ -9,7 +9,3 @@ summary: "A little gift I made for FlyByFox! He's a VRChat streamer who loves av
 ---
 
 A little gift I made for FlyByFox! He's a VRChat streamer who loves aviation and root beer and is an overall fun and wholesome foxxo! You can checkout his streams at [https://twitch.tv/flybyfox](https://twitch.tv/flybyfox)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -13,7 +13,3 @@ Arms now even, Ine's left leg suddenly followed, expanding in both girth and len
 Part 4 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

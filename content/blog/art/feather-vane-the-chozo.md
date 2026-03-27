@@ -9,7 +9,3 @@ summary: "And a gift for Feather Vane the Chozo as well to finish off the pair o
 ---
 
 And a gift for Feather Vane the Chozo as well to finish off the pair of lovebirds!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

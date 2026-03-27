@@ -11,7 +11,3 @@ summary: "Inktober 2 - Spiders My first entry kinda made me want to stick with t
 Inktober 2 - Spiders
 
 My first entry kinda made me want to stick with the subject of my OC's dreams. And speaking of dreams, Chris doesn't like this one. Because he really doesn't like spiders! It's a childhood fear he never could get over. 🕷️ 😱
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

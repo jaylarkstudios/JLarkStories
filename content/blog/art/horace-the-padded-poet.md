@@ -13,7 +13,3 @@ Created: Aug 21, 2021
 It's Horace, the Iron Poet from Armello! Except now he's the Padded Poet, tee-hee! He doesn't seem to mind the extra protection! And if anyone thinks he looks silly this way, they might just think twice before saying so to his face. He's still got that axe, after all! A commission for [ Scarbo](/user/scarbo)
 
 Horace and Armello are by League of Geeks.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

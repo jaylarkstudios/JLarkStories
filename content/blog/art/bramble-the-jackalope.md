@@ -9,7 +9,3 @@ summary: "Introducing my character for Species Change Week: it's Bramble the pok
 ---
 
 Introducing my character for Species Change Week: it's Bramble the pokey, bouncy, fuzz-butt! (Also known as a jackalope. 🐰🦌) To everyone else participating, hope you have a fun week!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

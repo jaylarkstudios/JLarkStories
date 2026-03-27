@@ -11,7 +11,3 @@ summary: "Created: October 12, 2022 I was on a vulture kick a while back. 😄 A
 Created: October 12, 2022
 
 I was on a vulture kick a while back. 😄 Actually, I've loved vultures for a long time, so I finally got around to drawing one! This lad is a cape vulture, and he's pleased to meet you! 😊
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

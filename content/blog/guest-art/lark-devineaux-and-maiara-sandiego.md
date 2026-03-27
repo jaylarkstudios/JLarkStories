@@ -12,7 +12,3 @@ summary: "\"La jument rouge! No matter where you flee, I will always be close on
 "La jument rouge! No matter where you flee, I will always be close on your tail!"
 
 A delightful commission by [ DrakeMagick](/user/drakemagick) of Lark and Maiara dressed as Chase Deineaux and Carmen Sandiego, just in time for this year's spy themed Anthro Weekend Utah!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

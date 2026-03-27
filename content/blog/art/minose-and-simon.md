@@ -11,7 +11,3 @@ summary: "Minose and Simon are just having a chill afternoon hangout together. S
 Minose and Simon are just having a chill afternoon hangout together. Simon looks like he doesn't quite get the concept of "hanging out," but fortunately for him, Minose is a good teacher. ^^
 
 A commission for noutjepsychic. Thank you so much!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

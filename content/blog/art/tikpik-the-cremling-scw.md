@@ -11,7 +11,3 @@ summary: "Introducing my character for this year's Species Change Week: tik'pik,
 Introducing my character for this year's Species Change Week: tik'pik, the cremling, a species of insect/crustacean from the world of Roshar by Brandon Sanderson.
 
 He's very smol.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

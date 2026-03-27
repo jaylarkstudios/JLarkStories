@@ -11,7 +11,3 @@ summary: "Created: Oct 2, 2022 This handsome fellow is a colored sketch commissi
 Created: Oct 2, 2022
 
 This handsome fellow is a colored sketch commission I recently completed for [ Argil MudWing](/user/ashcarso)! I've said it before, but I'll say it again: it's always a good day when I get to draw a dragon! 😄✏️🐲
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

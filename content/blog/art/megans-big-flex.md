@@ -13,7 +13,3 @@ Created: February 2019
 Megan the wolf is a powerful lady! She can give great hugs, but she can just as easily knock you out, so be nice! 😉
 
 A commission for Jacob Wyldclaw.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

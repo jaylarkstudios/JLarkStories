@@ -9,7 +9,3 @@ summary: "Boop binkies with your buddy! A commission for Asa and Shadow. What a 
 ---
 
 Boop binkies with your buddy! A commission for Asa and Shadow. What a couple of cuties!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

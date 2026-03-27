@@ -10,7 +10,3 @@ summary: "I received a Secret Santa gift from Korvin, who made Eli look a bit mo
 ---
 
 I received a Secret Santa gift from Korvin, who made Eli look a bit more like a feral dragon! I like it! I think he looks very cute and friendly this way! 🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

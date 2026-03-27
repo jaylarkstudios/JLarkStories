@@ -9,7 +9,3 @@ summary: "Here it is! My 2023 art summary! It was such a wild and weird year, wh
 ---
 
 Here it is! My 2023 art summary! It was such a wild and weird year, which interestingly I think is reflected in the range of artwork I did. Here's looking forward to 2024!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

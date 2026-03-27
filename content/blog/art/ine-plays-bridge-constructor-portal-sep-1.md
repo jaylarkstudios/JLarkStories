@@ -11,7 +11,3 @@ summary: "Now we're thinking with bridges! Er... portals? Why not both! Ine's pl
 Now we're thinking with bridges! Er... portals? Why not both!
 
 Ine's playing Bridge Constructor Portal tonight on [https://twitch.tv/jlarkstories](https://twitch.tv/jlarkstories) starting at 7pm MT! Come help him figure out how to get the subjects from point A to point B, or at least point Not-Dead!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

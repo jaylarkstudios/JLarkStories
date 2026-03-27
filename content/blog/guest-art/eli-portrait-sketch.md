@@ -14,7 +14,3 @@ Created: Aug 25, 2022
 When you call Eli cute, he gets really shy and bashful. But he likes it. 😳😊
 
 Art by [ NattiKay](/user/nattikay)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

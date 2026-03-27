@@ -13,7 +13,3 @@ circa February 2019
 Lachlan can see you staring even through those shaggy bangs of his!
 
 A commission for Ash from several years ago.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

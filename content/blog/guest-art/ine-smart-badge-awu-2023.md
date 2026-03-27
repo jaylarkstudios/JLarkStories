@@ -12,7 +12,3 @@ summary: "Agent Ine Smart is ready for his first big mission! He'll be reporting
 Agent Ine Smart is ready for his first big mission! He'll be reporting to AWU 2023 next week, so keep a sharp eye out!
 
 Art by DJtheGull!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

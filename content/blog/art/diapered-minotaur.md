@@ -11,7 +11,3 @@ summary: "This big guy might seem intimidating at first. But deep down he's a re
 This big guy might seem intimidating at first. But deep down he's a real sweetheart. A sweetheart who loves his new dragon diapeys! Just look how absolutely tickled he is!
 
 A commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

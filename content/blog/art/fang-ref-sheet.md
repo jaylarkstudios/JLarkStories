@@ -9,7 +9,3 @@ summary: "And here's the ref sheet for the second main character of the short st
 ---
 
 And here's the ref sheet for the second main character of the short story I'm working on, Fang the reanimated raptor skeleton! He was fun to put together!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

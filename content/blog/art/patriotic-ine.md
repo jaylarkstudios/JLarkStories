@@ -11,7 +11,3 @@ summary: "Happy Independence Day to my friends in the United States! While our c
 Happy Independence Day to my friends in the United States! While our country is flawed, and has not always lived up to the ideals upon which is was founded, we have the responsibility and the ability to continue to promote liberty and justice for all. Challenges lie ahead, but so does opportunity.
 
 Happy 4th all! 🫡🇺🇸
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

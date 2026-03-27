@@ -11,7 +11,3 @@ summary: "\"You've met with a terrible fate, haven't you?\" My badge design for 
 "You've met with a terrible fate, haven't you?"
 
 My badge design for Spooktacufur, which I'll be attending later this year! What I thought would be a relatively simple design turned out more detailed and interesting than I thought! I really love how it turned out! 😈
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

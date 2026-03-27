@@ -11,7 +11,3 @@ summary: "Created: Feb 11, 2022 A Valentines Day gift, commissioned by Marcus fo
 Created: Feb 11, 2022
 
 A Valentines Day gift, commissioned by Marcus for his lady friend! He's got his eye on someone special, that's the gospel truth! 😉♥️ I had a really fun time with this one! I love drawing couples, and also love Hercules, so win-win! 💪😁
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

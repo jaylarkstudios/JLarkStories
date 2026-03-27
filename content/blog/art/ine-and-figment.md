@@ -11,7 +11,3 @@ summary: "\"That's the spirit! Let your imagination soar!!\" One of the most bel
 "That's the spirit! Let your imagination soar!!"
 
 One of the most beloved Disney characters at Disney World is also one of the most underutilized by Disney. And that is Figment, the adorable little dragon with a big imagination! Given how important my own imagination was to me as a kid and is now as a writer, I just had to do a quick tribute to this loveable fellow!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

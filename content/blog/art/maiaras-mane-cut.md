@@ -9,7 +9,3 @@ summary: "My wife got her hair cut without telling me! Of course, she's beautifu
 ---
 
 My wife got her hair cut without telling me! Of course, she's beautiful no matter the length of her mane, but it still took me by surprise! 😮🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

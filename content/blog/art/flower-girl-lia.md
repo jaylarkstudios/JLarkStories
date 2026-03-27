@@ -9,7 +9,3 @@ summary: "Spring is here, and Lia's enjoying the return of the flowers and their
 ---
 
 Spring is here, and Lia's enjoying the return of the flowers and their many unique scents!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

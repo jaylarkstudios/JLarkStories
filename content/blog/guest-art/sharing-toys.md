@@ -12,7 +12,3 @@ summary: "It's baby Eli and baby Ine! Awww! It's so nice to share fun toys with 
 It's baby Eli and baby Ine! Awww! It's so nice to share fun toys with a friend!
 
 A commission by mysticabnormalities on Telegram (an account that no longer exists, so if you recognize the name or art style, please let me know!)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

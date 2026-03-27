@@ -13,7 +13,3 @@ Thinking for a moment the process was done, Ine suddenly felt a tightening near 
 Part 7 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

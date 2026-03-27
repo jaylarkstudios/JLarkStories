@@ -9,7 +9,3 @@ summary: "Just finished these adorable and fun telegram stickers of Peppermint t
 ---
 
 Just finished these adorable and fun telegram stickers of Peppermint the gazelle (and one for Peppermint Junior, lol!) for [ whitehart](/user/whitehart)! The puppet sticker was especially fun to work on. Very unique! 😁
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

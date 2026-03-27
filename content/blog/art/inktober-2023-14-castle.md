@@ -11,7 +11,3 @@ summary: "Check your mate! ♟️ She'll probably jump over at the last second. 
 Check your mate! ♟️
 
 (She'll probably jump over at the last second. She's coy like that.)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

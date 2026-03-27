@@ -9,7 +9,3 @@ summary: "Truly a dream come true. He is his father's son after all! 😋🍦 Ch
 ---
 
 Truly a dream come true. He is his father's son after all! 😋🍦
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

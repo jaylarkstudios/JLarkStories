@@ -11,7 +11,3 @@ summary: "Corvids are known to collect shinies, of course. But this raven had a 
 Corvids are known to collect shinies, of course. But this raven had a very good reason to give one up. 🥰
 
 A gift for [ TomIsAwesome](/user/tomisawesome) the raven and [ SleetTheFox](/user/sleetthefox) the arctic fox to celebrate their engagement! Congratulations you guys! 💙
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

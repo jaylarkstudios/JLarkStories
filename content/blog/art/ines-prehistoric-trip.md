@@ -13,7 +13,3 @@ Created: Feb 2, 2022
 Time travel, transformation powers, and an excellent baker in any circumstance or time period… is there anything Daisy can't do? 😄
 
 My half of an art trade with [ jamesdragon](/user/jamesdragon). Not originally meant as a Macro March piece, but hey, it fits!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

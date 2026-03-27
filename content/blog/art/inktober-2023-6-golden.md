@@ -11,7 +11,3 @@ summary: "Gold may be shiny, but it's also heavy. Almost as heavy as the crushin
 Gold may be shiny, but it's also heavy. Almost as heavy as the crushing weight of expectation. Michelle normally doesn't mind a challenge, but some weights are too much to bear.
 
 🏋️‍♀️😰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

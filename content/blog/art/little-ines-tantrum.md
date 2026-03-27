@@ -13,7 +13,3 @@ Created: Nov 21, 2021
 Aww, poor guy... Little Ine's momma just told him he's gonna have to clean all the crayon off the wall he just colored on. He wasn't very happy about that. Something tells me though that this isn't going to get him out of it hehe!
 
 This was meant to be a pic of Ine as a little kid, but some people see it and think he looks grown up and is just acting like a kid. That works too, heh.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

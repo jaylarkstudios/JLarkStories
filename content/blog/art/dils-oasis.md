@@ -11,7 +11,3 @@ summary: "When somebody says \"Your comic would be more successful if it had mor
 When somebody says "Your comic would be more successful if it had more nudity."
 
 Dil has been naked this entire time!! Are you not entertained?! 😂
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

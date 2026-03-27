@@ -11,7 +11,3 @@ summary: "circa November 2018 Years ago I drew these little guys to put on the c
 circa November 2018
 
 Years ago I drew these little guys to put on the certificates for a Pinewood Derby hosted by my church. Pretty simple, but I think they turned out cute. ^^
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

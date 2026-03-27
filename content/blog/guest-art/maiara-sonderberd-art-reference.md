@@ -20,7 +20,3 @@ Relationship: Married to Lark
 Maiara is always wearing the silver bracelet on her left wrist. It's what she uses in place of a wedding ring.Meet my lovely horsewife, Maiara! ^v^ We've been married for nearly eleven years now and she's been such a wonderful support to me every day we've been together, including all of my creative and personal endeavors. 💙
 
 Artwork by Nova Nocturne
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

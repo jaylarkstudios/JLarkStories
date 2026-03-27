@@ -9,7 +9,3 @@ summary: "Ine's taking a prehistoric walk on the wild side! Ine often gets confu
 ---
 
 Ine's taking a prehistoric walk on the wild side! Ine often gets confused for a raptor, which is understandable given his feathered-reptilian appearance. So for Species Change Week this year I decided to give him a dino makeover! This will also serve as the front of my badge for Furever West this year!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

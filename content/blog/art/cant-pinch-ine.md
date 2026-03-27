@@ -11,7 +11,3 @@ summary: "Created: Mar 17, 2022 Ine is a proud member of the \"No Pinchies\" clu
 Created: Mar 17, 2022
 
 Ine is a proud member of the "No Pinchies" club! Happy St. Patrick's Day all! 🍀
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

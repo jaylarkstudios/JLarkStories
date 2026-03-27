@@ -15,7 +15,3 @@ I really loved doing Kraal's happy face on the last panel. Poor guy really deser
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

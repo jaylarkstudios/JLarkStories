@@ -19,7 +19,3 @@ History: When Chris was fourteen his family took the missionary discussions and 
 ----
 
 Chris is roommates with Kraal and rounds out the four characters of Aww, Feathers! who live in number 20 of Apple Orchard Apartments. He has the distinction of being the only among them who doesn't have feathers. 😛 He was also the hardest for me to draw when I was first starting out with the comic. 😅
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

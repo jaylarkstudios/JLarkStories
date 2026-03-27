@@ -23,7 +23,3 @@ Here in my garden of magic!
 I was feeling sad about missing so many Halloween activities I had planned this year due to being so sick. So I worked on a personal piece today of my fluffy boy Eli, which really cheered me up. 🥰 I hope you enjoyed your Halloween, my little witches and warlocks! Keep those spooky embers glowing until next year! 🎃
 
 Click here for non-ABDL version
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "Last year I made this template for drawing my childhood cartoon crushe
 Last year I made this template for drawing my childhood cartoon crushes. Feel free to use it for your own! Note that the word "crush" can also mean some sense of connection or even just a desire to be friends or hang out with a character. It doesn't have to mean romantic interest. (Though it can!)
 
 You can see my completed version here!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

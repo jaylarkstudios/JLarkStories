@@ -9,7 +9,3 @@ summary: "I was practicing some figure drawing recently and really liked how one
 ---
 
 I was practicing some figure drawing recently and really liked how one of the poses came out, so I wanted to turn it into a simple but polished piece of June looking confident and lovely. Just in time for summer to end, haha! Though being a dolphin, she probably doesn't mind a little cold plunge.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

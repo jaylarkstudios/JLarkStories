@@ -11,7 +11,3 @@ summary: "Trapped… drowning… dissolving… washing away… Then flowing… c
 Trapped… drowning… dissolving… washing away…
 
 Then flowing… collecting… coalescing… finally to return like the falling rain.💧
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

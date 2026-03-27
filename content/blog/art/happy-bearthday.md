@@ -9,7 +9,3 @@ summary: "Here's a birthd-- I mean, bearthday card I drew for someone in my neig
 ---
 
 Here's a birthd-- I mean, bearthday card I drew for someone in my neighborhood! Come and get your big, warm hug! 🐻🎉
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -13,7 +13,3 @@ Created: June 19, 2022
 Of all the things I've ever been, a dad is one of my favorites. 💙
 
 Happy Father's Day!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

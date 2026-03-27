@@ -11,7 +11,3 @@ summary: "I finally watched Amazing Digital Circus over the weekend, and I thoro
 I finally watched Amazing Digital Circus over the weekend, and I thoroughly enjoyed it! And I had to make a Gummigoo inspired pic of Ine which was fun! 😂
 
 If you'd like to commission your own gummy icon, let me know! I'd love to do more! 🍬
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

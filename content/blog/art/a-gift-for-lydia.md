@@ -17,7 +17,3 @@ It probably wasn't Disney's intention to do a scene featuring a flock of trans f
 When you learn something unexpected about someone you care about, chances are they're in a vulnerable place. Whatever conversations may follow, make sure to lead with unconditional love. That, more than anything else, is what will make the world better. 💙
 
 Btw, here's the segment I'm referring to for anyone who may be unfamiliar: [https://www.youtube.com/watch?v=2RGrCyDAVuk](https://www.youtube.com/watch?v=2RGrCyDAVuk)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

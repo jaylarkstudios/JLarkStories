@@ -9,7 +9,3 @@ summary: "A draw-over for my pal, Jacob Wyldclaw, showing off the gains he's bee
 ---
 
 A draw-over for my pal, Jacob Wyldclaw, showing off the gains he's been making at the gym! Good job bro, your doing great!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

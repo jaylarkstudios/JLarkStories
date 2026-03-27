@@ -9,7 +9,3 @@ summary: "Here we see a rare glimpse of the elusive Push-me-pull-Dil! He seems t
 ---
 
 Here we see a rare glimpse of the elusive Push-me-pull-Dil! He seems to be torn between two paths. Have you ever felt that way? ⬅️🤔 ➡️
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

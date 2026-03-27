@@ -13,7 +13,3 @@ I'm hosting a giveaway for a 5"x7" pen & ink drawing! (Est value $30 USD.) Multi
 The winner will be selected on April 19th, and the image will be completed by May 31st at the latest.
 
 Click here for more details!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -14,7 +14,3 @@ Created: July 18, 2022
 Is it ice cream sandwich season yet? Eh, who am I kidding, it's always ice cream sandwich season! 😋
 
 A commission by [ DragonessDeanna](/user/dragonessdeanna).
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

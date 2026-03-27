@@ -14,7 +14,3 @@ Created: July 27, 2022
 Eli has a secret dream... He thinks it would be so cool to sit in a giant glass of soda! Just think of how cool and bubbly it would feel on your skin! And if it's a flavor you happen to like, you can just take a sip whenever you want!
 
 Drawn in pencil by Zena Nightsky
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

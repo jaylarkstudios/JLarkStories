@@ -9,7 +9,3 @@ summary: "A quick Sunday doodle I've been wanting to draw for a while. Represent
 ---
 
 A quick Sunday doodle I've been wanting to draw for a while. Representing the youth in the Book of Mormon (Alma 56) who defended their people and were protected by God for their faith in Him, as taught by their mothers. 💚
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

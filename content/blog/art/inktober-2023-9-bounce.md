@@ -9,7 +9,3 @@ summary: "Chris's philosophy is why settle for just one thing? Especially when y
 ---
 
 Chris's philosophy is why settle for just one thing? Especially when you enjoy them all! Just be careful not to let any of them bounce! 🏀⚾🏈
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

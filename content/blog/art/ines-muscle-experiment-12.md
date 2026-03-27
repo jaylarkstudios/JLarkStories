@@ -13,7 +13,3 @@ As if triggering some runaway chain reaction, Ine felt his body begin to expand 
 Part 12 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

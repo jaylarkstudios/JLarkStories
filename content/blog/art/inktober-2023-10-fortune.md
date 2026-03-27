@@ -9,7 +9,3 @@ summary: "If you can get your paws on an authentic Kraal Buck, you'll have a for
 ---
 
 If you can get your paws on an authentic Kraal Buck, you'll have a fortune on your hands! How big of a fortune? That's left as an exercise for the spender. 🧮
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

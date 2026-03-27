@@ -11,7 +11,3 @@ summary: "That shouldn't be too hard... Happy St. Paddy's Day! Check out my webc
 That shouldn't be too hard...
 
 Happy St. Paddy's Day!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

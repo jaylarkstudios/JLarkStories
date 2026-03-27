@@ -11,7 +11,3 @@ summary: "Created: Feb 19, 2022 A commission for Azzy, who requested Mettaton Ne
 Created: Feb 19, 2022
 
 A commission for Azzy, who requested Mettaton Neo dressed as Mirror B. from Pokemon Colosseum and Mettagram (his own Undertale OC) as Ludicolo. A little strange? Perhaps. Fabulous? Definitely! Fun to draw? Absolutely!! 😂
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

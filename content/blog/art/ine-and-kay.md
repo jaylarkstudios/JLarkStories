@@ -11,7 +11,3 @@ summary: "A gift for my friend, Kay Dracorex as thanks for her support and encou
 A gift for my friend, Kay Dracorex as thanks for her support and encouragement over the years. 💚
 
 Also, my first semi-serious attempt at digital watercolor. It's different, but kind of fun!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

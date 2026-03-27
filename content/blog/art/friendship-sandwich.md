@@ -13,7 +13,3 @@ Created: Jan 16, 2022
 A guest comic I made for the wonderful webcomic, Furry Experience! You want some friendship croutons with that? 😊
 
 All characters belong to [ Ellen-Natalie](/user/ellen-natalie)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

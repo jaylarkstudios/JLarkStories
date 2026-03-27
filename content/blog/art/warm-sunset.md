@@ -9,7 +9,3 @@ summary: "Just a quick piece to experiment with some of the new features in CLIP
 ---
 
 Just a quick piece to experiment with some of the new features in CLIP Studio, including shading assist and retro film filter. Kind of fun, and I think the end result is pretty cool!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -13,7 +13,3 @@ Yes it was on his to-do list. Right before getting dressed for bed and then pass
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

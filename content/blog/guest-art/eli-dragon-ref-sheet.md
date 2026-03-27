@@ -30,7 +30,3 @@ Click here for ABDL version
 Artwork by Tuxedo Dragon
 
 Refsheet by me
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

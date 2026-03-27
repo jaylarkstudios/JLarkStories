@@ -12,7 +12,3 @@ summary: "Few things are as invigorating as diving head first into the deep blue
 Few things are as invigorating as diving head first into the deep blue!
 
 Special thanks to [ Temiree](/user/temiree) for giving me permission to ink and color his sketch!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

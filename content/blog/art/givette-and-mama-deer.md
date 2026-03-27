@@ -13,7 +13,3 @@ Created: May 11, 2019
 This little one is Givette, the white otter. She was adopted by a feral doe who took care of her and raised her to adulthood. I wonder how much practice it took to be able to do the diaper tapes with hooves!
 
 A commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

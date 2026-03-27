@@ -13,7 +13,3 @@ Created: July 27, 2022
 An art commission I made for Harlan and Snarrfle, ordered during AWU 2022. They're off on a grand adventure! 😄
 
 Click here to watch a timelapse of this commission!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -13,7 +13,3 @@ A visit from the wishing star!! 💫🤩 Everybody make a wish!
 Yes, the movie Wish was very subpar as Disney films go. There were a lot of things I didn't like about it. But I did really love the character Star for it's childlike demeanor, whimsical energy, and desire to make everyone's fondest dreams come true! 🥰
 
 🔗 ABDL Version
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

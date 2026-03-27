@@ -9,7 +9,3 @@ summary: "Lia is normally on the petite side, but today she's looking a bit plum
 ---
 
 Lia is normally on the petite side, but today she's looking a bit plump. Just goes to show you can be pretty at any size! 😊
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

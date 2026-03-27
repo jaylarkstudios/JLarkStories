@@ -11,7 +11,3 @@ summary: "Falren the gryphon is ready for adventure upon the high seas! Another 
 Falren the gryphon is ready for adventure upon the high seas!
 
 Another pirate themed commission, this one for Sefris! Than you so much!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

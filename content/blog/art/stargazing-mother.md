@@ -13,7 +13,3 @@ A soon-to-be mother lies on a grassy hill, watching the stars above and anticipa
 A commission for [ LasmarineEla](/user/lasmarineela) of his original species, the Garia, who tend to get very large when they're expecting! It's my first time drawing a pregnancy-related piece, and I'm grateful for the opportunity! 🥰
 
 🔗 Alternate Version
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

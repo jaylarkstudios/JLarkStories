@@ -9,7 +9,3 @@ summary: "Ine wishes you all a Super Mar10! May all the pipes you follow lead yo
 ---
 
 Ine wishes you all a Super Mar10! May all the pipes you follow lead you to the right castle!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

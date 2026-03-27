@@ -13,7 +13,3 @@ Created: Aug 12, 2018
 A day late, but happy belated Unicorn Day!
 
 This is a commission I did years ago of [ Scarbo](/user/scarbo) and his unicorn pal Ondin!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

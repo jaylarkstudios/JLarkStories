@@ -13,7 +13,3 @@ Ine's right leg filled out next, its sudden increase in weight causing his foot 
 Part 5 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

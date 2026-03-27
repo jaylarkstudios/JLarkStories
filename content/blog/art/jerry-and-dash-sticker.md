@@ -13,7 +13,3 @@ Created: Aug 26, 2022
 Puppy loves his bunny! 💗
 
 A sticker commission for Jerry.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

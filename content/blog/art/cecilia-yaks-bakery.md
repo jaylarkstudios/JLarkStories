@@ -9,7 +9,3 @@ summary: "Another D&D doodle. Our DM introduced a female minotaur named Cecelia 
 ---
 
 Another D&D doodle. Our DM introduced a female minotaur named Cecelia Yak who's a baker who makes pastries with... interesting side effects. Get it?!?! 🤭🥐
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

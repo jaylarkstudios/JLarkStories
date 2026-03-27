@@ -11,7 +11,3 @@ summary: "Nat the dragon is changing her little stinker. 🥰 He'll return the f
 Nat the dragon is changing her little stinker. 🥰 He'll return the favor for her later.
 
 A sketch for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

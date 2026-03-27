@@ -12,7 +12,3 @@ summary: "It's Baby Ine's birthday!! And he gets that whole cake all to himself!
 It's Baby Ine's birthday!! And he gets that whole cake all to himself! Hope you enjoy it little guy! 😊
 
 Art by VesselBossaNova
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

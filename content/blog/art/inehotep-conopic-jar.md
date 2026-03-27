@@ -11,7 +11,3 @@ summary: "Created: Jun 21, 2022 A con badge design I made for Anthro Weekend Uta
 Created: Jun 21, 2022
 
 A con badge design I made for Anthro Weekend Utah 2022, which was Egyptian themed! I took commissions for this style of badge and made a few more. They were really fun!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

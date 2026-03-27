@@ -11,7 +11,3 @@ summary: "There are those who stay with us, long after they are gone. 💜 A gif
 There are those who stay with us, long after they are gone. 💜
 
 A gift for Scout, dedicated to Midnight Vixen, who is no longer with us, using lyrics from the song Midnight, which he wrote in her memory: [https://swdesigns.uwu.ai/#music](https://swdesigns.uwu.ai/#music)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

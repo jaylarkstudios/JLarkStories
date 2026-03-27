@@ -13,7 +13,3 @@ Created: Nov 23, 2017
 When Cuprin was having some trouble wetting the bed as an adult, he was embarassed at the thought of wearing diapers again. But Scarbo helped him feel less self-conscious about it and also helped him find some incontinence briefs that were discreet and comfortable. What a good friend!
 
 This is one of the earliest ABDL-themed commissions I remember doing! Both characters belong to [ Scarbo](/user/scarbo).
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

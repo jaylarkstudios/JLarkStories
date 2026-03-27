@@ -11,7 +11,3 @@ summary: "I had to immortalize this clip from Merle's recent Pokemon randomizer 
 I had to immortalize this clip from Merle's recent Pokemon randomizer stream because apparently I can't back down from a dumb comic idea. 🤣
 
 For context: [https://www.twitch.tv/merlekoz/clip.....uBnwAch8YNSVK7](https://www.twitch.tv/merlekoz/clip/CrazyPeppyOtterGivePLZ-aNuBnwAch8YNSVK7)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

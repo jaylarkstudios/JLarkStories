@@ -15,7 +15,3 @@ The dust settled, and Ine was sticking halfway out the ceiling into the fresh ai
 Part 14 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

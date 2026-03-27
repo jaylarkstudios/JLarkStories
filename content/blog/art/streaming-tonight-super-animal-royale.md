@@ -11,7 +11,3 @@ summary: "I'll be streaming Super Animal Royale tonight starting around 7pm MT t
 I'll be streaming Super Animal Royale tonight starting around 7pm MT to take advantage of the last night of their summer event! Gonna keep it pretty casual, so stop by and say hi at
 
 [https://www.twitch.tv/jlarkstories](https://www.twitch.tv/jlarkstories)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

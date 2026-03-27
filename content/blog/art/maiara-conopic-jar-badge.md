@@ -11,7 +11,3 @@ summary: "Created: Jul 1, 2022 My second conopic jar con badge design. The crown
 Created: Jul 1, 2022
 
 My second conopic jar con badge design. The crown turned out especially cool!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

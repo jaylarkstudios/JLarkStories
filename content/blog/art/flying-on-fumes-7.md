@@ -17,7 +17,3 @@ Featuring cameos by [ Juntarhenogu](/user/pikminpedia), [ DragonessDeanna](/us
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

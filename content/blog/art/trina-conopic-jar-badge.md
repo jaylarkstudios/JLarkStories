@@ -11,7 +11,3 @@ summary: "Created: Jul 30, 2022 And one more conopic jar con badge design, this 
 Created: Jul 30, 2022
 
 And one more conopic jar con badge design, this one for Trina the bear. This was definitely the most unique headdress! Very cool!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

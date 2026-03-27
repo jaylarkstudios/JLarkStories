@@ -11,7 +11,3 @@ summary: "Dil is just exercising a bit of low-key vigilantism! Legalize Awoo!! I
 Dil is just exercising a bit of low-key vigilantism! Legalize Awoo!!
 
 I'm planning to have this made into a physical sticker and hope to have them ready by AWU this year! So keep an eye out for that!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

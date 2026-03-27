@@ -13,7 +13,3 @@ Ine's heart--also larger to support his new size--pounded in his chest, until it
 Part 8 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

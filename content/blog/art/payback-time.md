@@ -13,7 +13,3 @@ Just a silly doodle for Abby and Silver. Remember: don't start something you can
 Based on this video:
 
 [https://www.youtube.com/watch?v=QYSpGLdUqDQ](https://www.youtube.com/watch?v=QYSpGLdUqDQ)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

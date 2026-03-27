@@ -11,7 +11,3 @@ summary: "Created: Mar 3, 2022 Couldn't be more delighted with this adorable ske
 Created: Mar 3, 2022
 
 Couldn't be more delighted with this adorable sketch I got from [ DaisySun](/user/daisysun) of Little Ine hanging with his big buddy, [ Talon Windstryke](/user/reederda)! Happy Macro March! Be sure to celebrate with ridiculously large sweets! 😁🍪
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

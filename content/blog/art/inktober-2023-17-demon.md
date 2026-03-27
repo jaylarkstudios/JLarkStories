@@ -9,7 +9,3 @@ summary: "Michelle already shared some characteristics with the Oni, so why not 
 ---
 
 Michelle already shared some characteristics with the Oni, so why not just go full demon mode? 👹
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

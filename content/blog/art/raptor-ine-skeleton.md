@@ -11,7 +11,3 @@ summary: "One of Ine's long lost relatives was recently unearthed! What a beauti
 One of Ine's long lost relatives was recently unearthed! What a beautiful specimen!
 
 Just a quick showcase of the skeleton side of my new Dino-Ine badge! If you'd like your own double-sided con badge (dinosaur or pirate on one side, skeleton on the other), message me for details!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

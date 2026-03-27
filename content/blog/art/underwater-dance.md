@@ -11,7 +11,3 @@ summary: "Maiara commissioned this amazing sketch from The Dammitch! 🤩 She sh
 Maiara commissioned this amazing sketch from The Dammitch! 🤩 She ships Ine and June for some reason... 🤔 (Man, Ine wishes he had a beach bod like that!)
 
 Mitch is a great character artist! You can find him over at twitch.tv/thedammitch
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

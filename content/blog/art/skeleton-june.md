@@ -11,7 +11,3 @@ summary: "Another double-sided cursed pirate badge is complete! This one of June
 Another double-sided cursed pirate badge is complete! This one of June the dolphin. (The front side of this badge will use url=https://www.furaffinity.net/view/59516124/]this image[/url].)
 
 I have more slots available! Half body (like this one) is $60, full body is $75. Free pickup at Anthro Weekend Utah. Comment or message me if interested!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

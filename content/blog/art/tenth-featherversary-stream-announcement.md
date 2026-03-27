@@ -15,7 +15,3 @@ I'll be doing a live reading of the whole story so far, and giving away characte
 If you're not already following me on twitch, be sure to do so in order to be notified when the event begins at [https://twitch.tv/jlarkstories](https://twitch.tv/jlarkstories)
 
 Hope to see you there!!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -26,7 +26,3 @@ Stal is normally shy and soft-spoken. However, he's fiercely loyal to his friend
 In another roleplay, Stal discovered that he has some mountain lion in his ancestry. While it doesn't show in his physical appearance, he found he has the ability to roar like one when the situation calls for it.
 
 Art by Celtic Rose
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -14,7 +14,3 @@ Created: July 28, 2022
 Eli can be a bit sensitive at times. But I mean, who wouldn't be if they dropped their ice cream on the ground and it was their favorite flavor? But one thing that helps him feel better is a great big hug from teddy!
 
 Made by [ Felix_the_Gray](/user/felixthegray)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

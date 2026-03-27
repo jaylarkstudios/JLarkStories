@@ -9,7 +9,3 @@ summary: "A gift for my friend, Blazing Phoenix the Chozo. Such a precious, hand
 ---
 
 A gift for my friend, Blazing Phoenix the Chozo. Such a precious, handsome birb! ^>^
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

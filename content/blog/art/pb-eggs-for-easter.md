@@ -11,7 +11,3 @@ summary: "My amazing horse wife gave me these two GINORMOUS Reese's peanut butte
 My amazing horse wife gave me these two GINORMOUS Reese's peanut butter eggs for Easter! 😋🤤 So I just had to show you my honest reaction!
 
 First time doing a photo paintover. It was fun! I may do more in the future!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

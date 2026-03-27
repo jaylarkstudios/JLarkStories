@@ -11,7 +11,3 @@ summary: "Eli makes sure to brush his teeth every night to make them sparkle lik
 Eli makes sure to brush his teeth every night to make them sparkle like the stars! His favorite toothpaste is bubblegum flavored!
 
 Been a while since I tried something animated. It's simple, but it brings the image to life in a subtle way! This will be used as one of several transition scenes during Eli's streams, which you can follow at elicozycorner.com!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

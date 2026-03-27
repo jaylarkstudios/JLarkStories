@@ -9,7 +9,3 @@ summary: "Just finished this lovely commission for Delta and Blade! March 13-19 
 ---
 
 Just finished this lovely commission for Delta and Blade! March 13-19 is Neurodiversity Celebration Week, and they are celebrating each other and all the ways in which our differences make us all beautiful! 😊
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

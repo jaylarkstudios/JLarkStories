@@ -15,7 +15,3 @@ What's the quickest you were ever able to finish your own exams? The way schedul
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

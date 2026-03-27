@@ -13,7 +13,3 @@ Created: Oct 2, 2022
 What are you doing, Spencer? Getting into the TP again? D'awww, but who can be mad at such a cute little guy!
 
 A commission for Revir the Foxcat on telegram!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

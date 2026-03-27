@@ -11,7 +11,3 @@ summary: "Inktober 1 - Dream One recurring dream of Ine's is one where he sudden
 Inktober 1 - Dream
 
 One recurring dream of Ine's is one where he suddenly has more feathers than usual, or sometimes even wings. Must be his avian ancestry. Or jealousy at his kid brother who ended up with more than he has. 😛
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -10,7 +10,3 @@ summary: "An icon for my wife, Maiara, made by OrbitalFox as a raffle prize duri
 ---
 
 An icon for my wife, Maiara, made by OrbitalFox as a raffle prize during MerleKoz's subathon! She looks very pretty, as always. 💙
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

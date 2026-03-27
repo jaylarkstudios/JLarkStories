@@ -13,7 +13,3 @@ circa February 2019
 This is what you get when you carry a shield around all day that's almost as big as you are!
 
 A commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

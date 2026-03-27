@@ -14,7 +14,3 @@ Circa Nov. 2021
 Me and my mare enjoying an afternoon out in the crisp autumn air. Don't worry, if this scarf doesn't keep you warm enough, my wings will. 💙
 
 A commission by Celtic Rose.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -15,7 +15,3 @@ Burnout is real. Take care of yourselves. I hope you all made it through your ow
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "Oops, my hand slipped and I made a stupid thing. 🤭 Feel free to use
 Oops, my hand slipped and I made a stupid thing. 🤭
 
 Feel free to use, repost, remix, etc. Attribution appreciated but not required. Not allowed to use for commercial purposes or to be altered in order to promote politics, hatred, discrimination, or illegal activity. Just be cool basically.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

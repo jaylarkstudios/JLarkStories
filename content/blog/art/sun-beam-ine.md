@@ -13,7 +13,3 @@ Created: Mar 6, 2022
 Little Ine, singing enthusiastically in his Primary class at church!
 
 For those unfamiliar, this is a favorite song amongst children in the Church of Jesus Christ of Latter-day Saints, and it's practically tradition to jump out of your seat on the word "beam!" I've even found that this tradition holds across different nations and languages! 😂
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

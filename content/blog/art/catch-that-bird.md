@@ -13,7 +13,3 @@ summary: "\"Got ya! You're mine!\" 😈 \"Oh no. Whatever will I do.\" 😏 Whil
 "Oh no. Whatever will I do." 😏
 
 While going through an older phone, I came across this as an unfinished sketch on my drawing app. I can't believe I forgot this existed. So I just had to polish it up and show it off! 😁
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

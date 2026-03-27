@@ -15,7 +15,3 @@ Created: Mar 16, 2022
 peace and liberty for Ukraine
 
 🇺🇦🕊
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

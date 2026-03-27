@@ -14,7 +14,3 @@ Created: July 18, 2022
 Maiara's mummy outfit looks amazing, especially considering the theme for AWU 2022! 😁
 
 A commission by [ DragonessDeanna](/user/dragonessdeanna)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

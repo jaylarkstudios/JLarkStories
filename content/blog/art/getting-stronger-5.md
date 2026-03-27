@@ -15,7 +15,3 @@ I may have had a little too much fun with the grawlix on that last panel! ğŸ¤¬ğŸ
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "Created: Jan 14, 2019 Scarbo is dropping a used diaper into the garbag
 Created: Jan 14, 2019
 
 Scarbo is dropping a used diaper into the garbage pail, happy that he was able to wear it. Also, don'tcha just love his pretty pink pajamas? ^^ A commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

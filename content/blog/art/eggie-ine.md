@@ -9,7 +9,3 @@ summary: "A bit late posting this here, but I leveled up recently, so here's a p
 ---
 
 A bit late posting this here, but I leveled up recently, so here's a pic of Ine coming out of his shell, tail first!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

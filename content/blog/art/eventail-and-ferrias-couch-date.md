@@ -11,7 +11,3 @@ summary: "Eventail the sergal and his boyfriend Ferria the fox enjoy a relaxing 
 Eventail the sergal and his boyfriend Ferria the fox enjoy a relaxing evening playing video games while padded on the couch. Eventail is incontinent, while Ferria is not, but sometimes wears diapers anyway as a show of support for Eventail.
 
 A commission for [ Scarbo](/user/scarbo).
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

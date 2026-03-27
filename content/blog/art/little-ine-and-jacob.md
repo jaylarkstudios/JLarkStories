@@ -13,7 +13,3 @@ Created: Mar 17, 2022
 "Faster, Jacob, faster!" 😄
 
 I got this adorable sketch from Ukulele_dogs of little Ine with his big wolf bro, [ Wyldclaw](/user/wyldclaw)! (Be sure not to let go, or he might fly off to the next neighborhood!)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

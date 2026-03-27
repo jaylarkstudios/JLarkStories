@@ -15,7 +15,3 @@ I loved doing the expressions on these two pages. Especially Lia's coy kitty fac
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

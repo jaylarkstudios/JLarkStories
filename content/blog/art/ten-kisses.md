@@ -55,7 +55,3 @@ many more years to come!
 Happy 10th Anniversary!A gift for my wife for our 10th anniversary last year. 💓 I left one of these drawings around the house each day for the ten days leading up to our anniversary, then put them among the flowers shown at the bottom for the day itself.
 
 I've loved every day of our life together, and look forward to many, many more to come! 🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

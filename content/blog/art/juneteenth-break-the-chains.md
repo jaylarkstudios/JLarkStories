@@ -13,7 +13,3 @@ Created: June 19, 2021
 Happy Juneteenth.
 
 Don't ever stop fighting for the liberty of all. ⛓️‍💥
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

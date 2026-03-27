@@ -21,7 +21,3 @@ Don’t condemn. Listen.
 Don’t mock. Defend.
 
 Don’t assume. Learn.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

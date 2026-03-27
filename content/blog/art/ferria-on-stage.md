@@ -11,7 +11,3 @@ summary: "Ferria the fox loves to perform! In this production, he's playing the 
 Ferria the fox loves to perform! In this production, he's playing the role of a kitsune with multi-colored tails!
 
 A commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

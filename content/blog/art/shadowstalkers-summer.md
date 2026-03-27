@@ -11,7 +11,3 @@ summary: "Created: May 2, 2022 Another commission finished! This one of Shadowst
 Created: May 2, 2022
 
 Another commission finished! This one of Shadowstalker, the nightwing dragon. For such a dark name though, he sure enjoys the sun! Anyone else looking forward to the warmer months? 😎🥤
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

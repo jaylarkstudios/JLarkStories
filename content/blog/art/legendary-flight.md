@@ -11,7 +11,3 @@ summary: "Feather Vane and Blazing Phoenix, the Mawkin warriors, sit atop their 
 Feather Vane and Blazing Phoenix, the Mawkin warriors, sit atop their legendary mounts, Lugia and Ho-oh, ready to do battle, or perhaps just enjoy the amazing view!
 
 A commission for Vane and Phoenix. Thank you so much, I had a ton of fun with this one!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

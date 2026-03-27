@@ -9,7 +9,3 @@ summary: "Don't let so-called limitations hold you back. Use what you have and r
 ---
 
 Don't let so-called limitations hold you back. Use what you have and rise to every challenge, no matter how impossible!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

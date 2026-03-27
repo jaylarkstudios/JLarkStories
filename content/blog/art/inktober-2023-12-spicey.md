@@ -9,7 +9,3 @@ summary: "Who would've guessed that one little byte could be so potent! 🔥 Che
 ---
 
 Who would've guessed that one little byte could be so potent! 🔥
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

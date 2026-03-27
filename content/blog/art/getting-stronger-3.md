@@ -15,7 +15,3 @@ No seriously, gimme a shout if you're a Michelle fan. I know you're out there! L
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

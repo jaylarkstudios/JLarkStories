@@ -13,7 +13,3 @@ Created: February 2019
 Ian's getting ready to deadlift. And by the look of those arms, it won't be the first time! 😤
 
 A commission for Ian McGecko!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "Ine is officially ready for Halloween! Though let's be honest, he's go
 Ine is officially ready for Halloween! (Though let's be honest, he's gonna find an excuse to wear it later too!)
 
 I took a bit of a break from Inktober to finish the next comic page, but I decided to do one final entry. Hope you enjoy!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

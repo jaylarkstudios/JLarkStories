@@ -9,7 +9,3 @@ summary: "A little icon for myself for February. Ine looks like he's not quite s
 ---
 
 A little icon for myself for February. Ine looks like he's not quite sure how to handle all the attention! 💋😳
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

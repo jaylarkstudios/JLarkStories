@@ -11,7 +11,3 @@ summary: "My beardie and I, six years ago for Halloween. 🥰 She was very good 
 My beardie and I, six years ago for Halloween. 🥰 She was very good at putting up with my silliness, lol!
 
 I miss her. But I'm happy for the fun times we had with her!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

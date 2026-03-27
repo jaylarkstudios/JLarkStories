@@ -14,7 +14,3 @@ Created: Aug 29, 2022
 Eli says yes, he is big and strong! That's what makes him so good at giving hugs!
 
 Made by [ Mouffetter](/user/mouffetter)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

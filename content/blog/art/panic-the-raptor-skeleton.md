@@ -9,7 +9,3 @@ summary: "The back half of a badge trade done for Happy Fox as a gift for her hu
 ---
 
 The back half of a badge trade done for Happy Fox as a gift for her hubby Panic, the raptor. Good thing his feathers survived the fossilization process!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

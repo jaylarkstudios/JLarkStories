@@ -11,7 +11,3 @@ summary: "Created: Dec 1, 2021 Juddo the deer is definitely a big boy. Just goes
 Created: Dec 1, 2021
 
 Juddo the deer is definitely a big boy. Just goes to show that sometimes big boys wear diapers too! ^^ A quick sketch commission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

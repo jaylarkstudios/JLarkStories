@@ -11,7 +11,3 @@ summary: "Layton's got no beef with his new form. He seems to be taking the situ
 Layton's got no beef with his new form. He seems to be taking the situation by the horns. I will not apologize.
 
 A commission for Layton for Species Change Week!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

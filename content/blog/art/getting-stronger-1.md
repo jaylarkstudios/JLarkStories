@@ -15,7 +15,3 @@ A brand new chapter has begun, and look who's back! (Not talking about the mean 
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

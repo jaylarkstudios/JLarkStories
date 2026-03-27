@@ -9,7 +9,3 @@ summary: "Mally the Sap Stinger: This +2 dagger heals its user of 1 point of dam
 ---
 
 Mally the Sap Stinger: This +2 dagger heals its user of 1 point of damage for every damage dealt to plant-based enemies. 🗡️🥀
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "Another birthday gift, this one for Zena Nightsky, a good doggo who lo
 ---
 
 Another birthday gift, this one for Zena Nightsky, a good doggo who loves Oreos! (Don't worry about the whole "dogs can't eat chocolate" thing. Zena developed a tolerance for them years ago, lol!)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

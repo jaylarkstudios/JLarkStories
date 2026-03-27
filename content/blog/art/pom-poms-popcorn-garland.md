@@ -9,7 +9,3 @@ summary: "A Secret Santa art piece I made for Pom Pom the blue jay! I had so muc
 ---
 
 A Secret Santa art piece I made for Pom Pom the blue jay! I had so much fun with this one! Got to experiment with some new brushes! And also I just like drawing birds. ^>^
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

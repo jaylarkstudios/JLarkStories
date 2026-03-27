@@ -15,7 +15,3 @@ As a parent, learning of another school shooting in the US hurt me very deeply. 
 Protecting our children needs to be at the forefront.
 
 This depravity needs to stop.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

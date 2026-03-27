@@ -9,7 +9,3 @@ summary: "Be not afraid. And thanks for all the fish. 😇 🐬 Check out my web
 ---
 
 Be not afraid. And thanks for all the fish.  😇 🐬
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

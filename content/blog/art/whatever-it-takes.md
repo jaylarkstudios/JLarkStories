@@ -15,7 +15,3 @@ One of the most valuable life skills I've developed is the ability to say "I'm n
 And I'm determined to be.
 
 Whatever it takes.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

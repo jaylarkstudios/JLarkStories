@@ -14,7 +14,3 @@ Created: Aug 28, 2022
 Little Ine says, "Hey! This is my favorite story. It has dragons in it! Wanna read with me? I'm really good at doing the voices!"
 
 Made by [ Mouffetter](/user/mouffetter)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

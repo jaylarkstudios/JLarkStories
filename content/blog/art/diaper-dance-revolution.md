@@ -11,7 +11,3 @@ summary: "Dance like no one's watching! Little Faer is rocking out in the arcade
 Dance like no one's watching! Little Faer is rocking out in the arcade! I had way too much fun with this one! 😄🕺🕹️
 
 A commission for Faer Xander. Thanks a bunch!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

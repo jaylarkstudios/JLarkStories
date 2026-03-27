@@ -15,7 +15,3 @@ Designing Ine and Dil's "chimera" forms was a lot of fun! 😈 Who do you think 
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "Someday she'll be too big for this. Best make this moment count! 🥰�
 ---
 
 Someday she'll be too big for this. Best make this moment count! 🥰🪽
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

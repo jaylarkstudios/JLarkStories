@@ -9,7 +9,3 @@ summary: "Just a fun quick sketch of little Ine in the style of Bluey! Yes, I've
 ---
 
 Just a fun quick sketch of little Ine in the style of Bluey! (Yes, I've been on another Bluey kick lately.) I might color this. We'll see. Still cute either way! 🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -12,7 +12,3 @@ summary: "The Egyptian god of the underworld is dressed lightly for the heat! Li
 The Egyptian god of the underworld is dressed lightly for the heat!
 
 Lineart by [ LasmarineEla](/user/lasmarineela), colored with permission for [ Scarbo](/user/scarbo)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

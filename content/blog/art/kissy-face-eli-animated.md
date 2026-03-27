@@ -9,7 +9,3 @@ summary: "A simple animation I made for Eli's stream over at Eli's Cozy Corner! 
 ---
 
 A simple animation I made for Eli's stream over at Eli's Cozy Corner! Don't forget to ask for some fluffy goodnight kisses when you come visit! 😘
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -12,7 +12,3 @@ summary: "Created: Jan 30, 2022 Here's just a little gift I commissioned for my 
 Created: Jan 30, 2022
 
 Here's just a little gift I commissioned for my wife for Valentine's weekend, made by Larry the Raccoon. A sweet gift for a sweet mare! 🦅♥️🐎
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

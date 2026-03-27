@@ -15,7 +15,3 @@ Pretty happy with the foreshortening on Chris' hand. As usual, photo references 
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

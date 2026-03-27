@@ -11,7 +11,3 @@ summary: "My very own \"horse of a different color\" playing the part of Elphaba
 My very own "horse of a different color" playing the part of Elphaba! We saw Wicked for Good yesterday, and really liked it! Go see it!
 
 And remember... "Our wizard lies!"
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

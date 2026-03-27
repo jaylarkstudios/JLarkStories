@@ -12,7 +12,3 @@ summary: "Wow Ine, if you get much bigger your head will completely disappear! �
 Wow Ine, if you get much bigger your head will completely disappear! 🤣 A gift from my friend [ lycanlover777](/user/lycanlover777). Thanks buddy!
 
 Made by somnusfox on BlueSky!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

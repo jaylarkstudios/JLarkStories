@@ -11,7 +11,3 @@ summary: "A gif of the muscle growth commission I did for lycanlover777/user/lyc
 A gif of the muscle growth commission I did for [ lycanlover777](/user/lycanlover777) because it's fun to see it all put together!
 
 If you'd like to see the individual images, you can start the sequence here!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

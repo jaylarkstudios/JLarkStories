@@ -11,7 +11,3 @@ summary: "Catch me on stream this week! Tuesday I'll be doing comic work for the
 Catch me on stream this week! Tuesday I'll be doing comic work for the next page of Aww, Feathers! then Friday Ine will be diving back in to Little Nightmares. (If he doesn't chicken out!)
 
 I'm starting at 7pm MT on both nights, so follow me on [https://twitch.tv/jlarkstories](https://twitch.tv/jlarkstories) to be notified when I'm live!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

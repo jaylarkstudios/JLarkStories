@@ -11,7 +11,3 @@ summary: "Created: August 29, 2023 Another sticker I finished. Little Ine is a g
 Created: August 29, 2023
 
 Another sticker I finished. Little Ine is a good kid... but sometimes he just can't resist those tempting sweets. Please don't tell Mom! 🤫
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

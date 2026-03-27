@@ -15,7 +15,3 @@ Had a lot of fun designing the in-world game that they're playing! (Game design 
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

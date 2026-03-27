@@ -11,7 +11,3 @@ summary: "Yikes! Little Ine is in a bit of an obstinate mood! For his sake, let'
 Yikes! Little Ine is in a bit of an obstinate mood! For his sake, let's hope the one watching him for today is in a patient one!
 
 A personal sticker, made by me!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -13,7 +13,3 @@ How to draw Aquaman... THE WRONG WAY!! Featuring Dolphin Momoa, and a rather sta
 Inspired by the recent episode of The Wrong Way, the hilarious show where cartoonists draw copyrighted characters while trying to not get sued!
 
 You can see the episode here: [https://youtu.be/Rfap23Thlu8](https://youtu.be/Rfap23Thlu8)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

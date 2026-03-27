@@ -17,7 +17,3 @@ Oh she'll snag some souveneirs (but she never steals from dealers!)
 Tell me where! In AWU! Is Maiara Sandiego!
 
 A badge for my wife by DJtheGull!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

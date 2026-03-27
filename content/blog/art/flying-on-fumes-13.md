@@ -15,7 +15,3 @@ You ever have a roommate do something like this for you? If not (or heck, even i
 Read this page on awwfeathers.com
 
 <<< First | << Chapter | < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

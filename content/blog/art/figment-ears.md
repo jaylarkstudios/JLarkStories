@@ -9,7 +9,3 @@ summary: "A little comic about our recent family trip to Disney World. Nothing c
 ---
 
 A little comic about our recent family trip to Disney World. Nothing changes my tune quite like adorable purple dragon merch. 😅
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

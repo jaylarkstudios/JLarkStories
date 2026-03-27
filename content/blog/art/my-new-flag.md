@@ -27,7 +27,3 @@ With love,
 Lark, a.k.a. "Bi bi birdie" 😁
 
 Happy Pride Month! ❤️💜💙
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "To celebrate AWU's announcement of next year's theme, Ine will be subj
 To celebrate AWU's announcement of next year's theme, Ine will be subjected to a series of tests. Join the observation deck tomorrow at 6pm MT at [https://twitch.tv/jlarkstories](https://twitch.tv/jlarkstories) to judge his performance.
 
 You monster.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

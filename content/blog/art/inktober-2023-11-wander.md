@@ -9,7 +9,3 @@ summary: "Not every journey needs to be fast or short. Sometimes it's nice to ta
 ---
 
 Not every journey needs to be fast or short. Sometimes it's nice to take life at a slower pace. 🐌
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

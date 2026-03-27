@@ -23,7 +23,3 @@ Charmander - Not for the first time, I found that Charmander is weirdly difficul
 Byiomon - While I loved Pokemon growing up, once I discovered Digimon I quickly gained a new top show! The digimon companions seemed more like friends than pets. And my favorite was the adorable and sweet Biyomon! (It helps that her champion and ultimate forms are awesome!)
 
 Scurl - I've gone into detail before about my favorite character from the Redwall series: Scurl Droptail. He's described as a newt in the book Mattimeo, but in the TV show he's a frilled lizard. I credit him with first turning me into a fan of scaly characters!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "Created March 2, 2020 A gift I made a while back for my animation prof
 Created March 2, 2020
 
 A gift I made a while back for my animation professor in college. I'm very glad I captured his warm and encouraging smile! He expected a lot from his students, but he was also always there to support them (even the ones who were furries!)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

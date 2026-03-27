@@ -12,7 +12,3 @@ summary: "Happy Dragon Appreciation Day! On this day I just thought I'd revisit 
 Happy Dragon Appreciation Day! On this day I just thought I'd revisit some art I got of our own little dragon, Jakiro, who earned her wings several years ago. She was a great companion. 🧡
 
 This adorable piece was made by Happy Foxx!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

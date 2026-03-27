@@ -11,7 +11,3 @@ summary: "Created: Jul 30, 2022 Another conopic jar con badge design, this one f
 Created: Jul 30, 2022
 
 Another conopic jar con badge design, this one for Azzy!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

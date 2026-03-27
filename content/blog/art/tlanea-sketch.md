@@ -11,7 +11,3 @@ summary: "Created June 2, 2018 A character I created for a one-off rp with a fri
 Created June 2, 2018
 
 A character I created for a one-off rp with a friend. I haven't done much with her since, but I still like her design. Fluffy antler woof is cute!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

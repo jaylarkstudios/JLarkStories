@@ -31,7 +31,3 @@ For Aww, Feathers! I'll continue to post pages from the archive while deciding w
 Thanks to those who took the time to read. Thank you to everyone who's supported and encouraged me over the years.
 
 I love you all. 💙🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

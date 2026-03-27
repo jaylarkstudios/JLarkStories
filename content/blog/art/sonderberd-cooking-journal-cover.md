@@ -15,7 +15,3 @@ Twelve years is a long time to be with anyone. But it's been a wonderful adventu
 We love cooking and baking for each other, so I started putting together a binder for collecting some of our family's favorite recipes, as well as some that have been passed down from our own respective families. This is the picture I put in the cover! I experimented with some digital charcoal brushes. It's not perfect, but it was fun to try out. ^^
 
 Looking forward to many more meals together!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

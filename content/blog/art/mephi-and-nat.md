@@ -11,7 +11,3 @@ summary: "A normie version of Mephi and Nat's couple's pic. 😊 Click here for 
 A normie version of Mephi and Nat's couple's pic. 😊
 
 Click here for the ABDL version.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

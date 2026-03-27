@@ -11,7 +11,3 @@ summary: "Horace, the Iron Poet, is armored up and ready to battle for the thron
 Horace, the Iron Poet, is armored up and ready to battle for the throne!
 
 An updated commission for Scarbo! If you'd like to see the original ABDL version, click here.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

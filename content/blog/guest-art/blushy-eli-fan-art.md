@@ -10,7 +10,3 @@ summary: "SQUEEE!! Baby's first fan art!! Faer Xander drew Eli blushing while wa
 ---
 
 SQUEEE!! Baby's first fan art!! Faer Xander drew Eli blushing while watching his stream last night! He says it's because Eli ate a blush berry in Critter Cove! 😛🍓 Thank you so much! This means a lot! 🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "It's the J. Lark Crew! I've added emotes of the members of my family t
 ---
 
 It's the J. Lark Crew! I've added emotes of the members of my family to my twitch streams, mostly so they can identify themselves when commenting using my wife's account, lol!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

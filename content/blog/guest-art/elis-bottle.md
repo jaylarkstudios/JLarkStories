@@ -14,7 +14,3 @@ Created: March 25, 2021
 Eli sure loves his bottle! ^^ He usually doesn't milk in it though. He likes to fill it with diet soda! Don't tell anyone! 🤫
 
 A gift from [ Scarbo](/user/scarbo) made by AnmiaDeRosa
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

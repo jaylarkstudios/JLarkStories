@@ -9,7 +9,3 @@ summary: "A personal piece I did over the weekend of Eli, my blushy noodle boi. 
 ---
 
 A personal piece I did over the weekend of Eli, my blushy noodle boi. It's my first fully colored piece I've done of him. I love him; I should draw him more often! 🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

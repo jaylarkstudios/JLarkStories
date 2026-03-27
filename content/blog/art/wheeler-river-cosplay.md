@@ -11,7 +11,3 @@ summary: "Finished a commission! It's Wheeler Fox, cosplaying as River, the Howl
 Finished a commission! It's Wheeler Fox, cosplaying as River, the Howling Arrow from Armello! Or would it be the wa-pa-pa-pa-pa-pa-pa-powing arrow?
 
 😉🦊🏹
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

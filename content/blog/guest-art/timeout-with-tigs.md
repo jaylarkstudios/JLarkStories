@@ -24,7 +24,3 @@ summary: "\"It's your fault we're in trouble!\" \"It is not! It was your idea!\"
 Little Ine and Tigs got busted. When will they learn that the wall is not a canvas? Probably never, hehe!
 
 A commission by vulcantanymore, also featuring [ Varilium](/user/varilium).
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

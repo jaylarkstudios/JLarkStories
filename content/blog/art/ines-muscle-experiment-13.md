@@ -13,7 +13,3 @@ Suddenly, just when the pressure felt too great, Ine rocketed upward, crashing s
 Part 13 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
 
 < Prev | Next >
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -13,7 +13,3 @@ Created: Feb 17, 2018
 Played Armello with some friends the other night, which was fun as always! And I was reminded of this commission I made a while back. I dug it out, and honestly, I'm still very happy with it, even five years later!
 
 Featuring Jacob as Magna, Douglas as Sargon, Cosmic as Barnaby, and Ian as Hargrave!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "A personal piece, just cuz I've felt a bit weighed down by the darknes
 ---
 
 A personal piece, just cuz I've felt a bit weighed down by the darkness in the world. I'll be okay. But please, wherever you are, stand up against hate, and stand up for those who are affected by it.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

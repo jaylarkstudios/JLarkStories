@@ -13,7 +13,3 @@ Created: Apr 26, 2022
 🎶 "…Hear this song and remember, soon you'll be home with me, once upon a December."
 
 A commission I just finished for Marcus and his lady, based on the film Anastasia. I loved doing the outfits and background on this one! 😄
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

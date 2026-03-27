@@ -11,7 +11,3 @@ summary: "I received this Secret Santa gift art of Ine from SchneeWolf! Thank yo
 I received this Secret Santa gift art of Ine from SchneeWolf! Thank you very much!
 
 Merry Christmas all!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

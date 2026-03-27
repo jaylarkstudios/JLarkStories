@@ -13,7 +13,3 @@ Taylor, the little jeet pup, tried to sneak himself a little treat... or two. Un
 A commission for [ Kakiookami](/user/kakiookami) Thanks a lot!
 
 🔗non-ABDL Version
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -45,7 +45,3 @@ Always!"
 —Phil Collins
 
 A personal art piece of Ine and his mother. I'm so happy with how this turned out! 🥲💙
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

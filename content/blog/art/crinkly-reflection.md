@@ -13,7 +13,3 @@ Created: Oct 24, 2019
 Scarbo is a happy diaper sheep! 😊 He loves the way they look and feel, and even the way they crinkle!
 
 A commission for [ Scarbo](/user/scarbo).
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

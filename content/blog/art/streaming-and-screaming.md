@@ -13,7 +13,3 @@ I made a silly thing based on something MerleKoz said during one of prawnzo's st
 (Find them both on twitch!)
 
 This is the clip the above comic is based on by the way. 😆
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

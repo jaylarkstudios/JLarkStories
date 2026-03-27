@@ -9,7 +9,3 @@ summary: "I got this poncho a few years ago. It's very nice and comfy, easy to w
 ---
 
 I got this poncho a few years ago. It's very nice and comfy, easy to wear around the house, and it looks super cool!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

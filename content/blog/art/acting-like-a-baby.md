@@ -11,7 +11,3 @@ summary: "\"My daddy didn't understand me growing up... He wanted me to be a big
 "My daddy didn't understand me growing up... He wanted me to be a big, brave, strong dragon. But I was always shy and anxious. Using baby items helped me feel more confident and less anxious. I thought that would make him happy… but it didn't. 😢"
 
 To be clear, Eli's relationship with his father is not meant to represent my own. No parent is perfect, but my dad was and still is loving and supportive. I'm not totally sure what exactly prompted me to draw this. I suppose it could be a feeling of empathy for those who are made to feel ashamed of their interests, even when they are harmless or make them feel more comfortable being themselves. All I know is, I want to be a safe person for those like Eli who don't have a supportive family.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -30,7 +30,3 @@ Eli mostly identifies as male, but enjoys some things typically considered "girl
 Artwork by Tuxedo Dragon
 
 Refsheet by me
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

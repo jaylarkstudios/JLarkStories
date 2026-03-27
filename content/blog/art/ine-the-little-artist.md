@@ -11,7 +11,3 @@ summary: "Created: Nov 06, 2021 Uh oh! Looks like Little Ine forgot to only colo
 Created: Nov 06, 2021
 
 Uh oh! Looks like Little Ine forgot to only color on the paper. Ine's a good kid most of the time, but everyone makes mistakes once in a while!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

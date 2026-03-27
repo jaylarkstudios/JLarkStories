@@ -11,7 +11,3 @@ summary: "“Business!” cried the Ghost, wringing its hands again. “Mankind 
 “Business!” cried the Ghost, wringing its hands again. “Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were all my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business!” (A Christmas Carol, by Charles Dickens)
 
 It's Dragon Marley, delivering one of my favorite lines from the timeless Christmas tale! A Christmas Carol is one of my favorite stories, perhaps because it delivers such a perfect blend of spookiness and hope. As the blessed day of Christmas draws ever nearer, don't forget the fate of poor Marley... Don't forget your fellow travelers along this mortal journey. Wishing you and yours a very Merry (and hopefully haunting-free) Christmas!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

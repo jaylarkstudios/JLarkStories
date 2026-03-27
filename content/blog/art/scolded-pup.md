@@ -11,7 +11,3 @@ summary: "Created: Jan 17, 2022 A drawing I did for masterlupus/user/masterlupus
 Created: Jan 17, 2022
 
 A drawing I did for [ masterlupus](/user/masterlupus)! This little wolf pup is on a quest to vanquish scary monsters and save the day! But his parents think he just has an overactive imagination and want him to settle down. Hang in there little hero!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

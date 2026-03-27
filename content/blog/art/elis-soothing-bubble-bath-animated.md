@@ -11,7 +11,3 @@ summary: "Eli loves a warm bubble bath before bed, especially the way the floral
 Eli loves a warm bubble bath before bed, especially the way the floral-scented soap makes his fur smell! 😊🌸
 
 An animation I made for my new streaming channel hosted by Eli! Check out his safe spot for unwinding at the end of your hectic day at Eli's Cozy Corner!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

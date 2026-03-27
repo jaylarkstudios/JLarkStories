@@ -14,7 +14,3 @@ Created: Nov 30, 2022
 "Oh hey! You caught me in the middle of a workout. You can stay and watch if you want to. Umm, maybe don't stare though...? 😅"
 
 Made by [ donttouchmylasagna](/user/donttouchmylasagna)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "I was just playing around and accidentally made gremlin Dil. I kinda d
 ---
 
 I was just playing around and accidentally made gremlin Dil. I kinda dig it though!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

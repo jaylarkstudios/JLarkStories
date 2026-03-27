@@ -11,7 +11,3 @@ summary: "The night of the accident that cost Luchette her legs is a memory that
 The night of the accident that cost Luchette her legs is a memory that returns to her often, in waking moments and in dreams. She sometimes still blames herself for not dodging out of the way.
 
 Sorry, that one got a bit dark, no pun intended. 😅
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -10,7 +10,3 @@ summary: "Awesome colored sketch by Avelin_Doggo Telegram of Eli dressed up as a
 ---
 
 Awesome colored sketch by Avelin_Doggo (Telegram) of Eli dressed up as a pop star! He would absolutely adore that outfit!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

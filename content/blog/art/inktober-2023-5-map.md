@@ -9,7 +9,3 @@ summary: "Mally drags a long map for an even longer journey. She may love flying
 ---
 
 Mally drags a long map for an even longer journey. She may love flying and travel, but maybe she should just use GPS! 🌏
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -9,7 +9,3 @@ summary: "A drawover commission for lycanlover777/user/lycanlover777, who's been
 ---
 
 A drawover commission for [ lycanlover777](/user/lycanlover777), who's been hard at work building himself into the lunborn he's always wanted to be! 💪😁
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

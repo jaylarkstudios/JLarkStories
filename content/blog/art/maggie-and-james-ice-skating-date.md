@@ -11,7 +11,3 @@ summary: "A birthday gift from James to Maggie! Thank you so much for letting me
 A birthday gift from James to Maggie! Thank you so much for letting me draw this special piece for you! You two are so cute together! Enjoy your special day!
 
 🦆🐊🥰
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

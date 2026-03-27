@@ -9,7 +9,3 @@ summary: "Look, if this is what it takes... Check out my webcomic, Aww, Feathers
 ---
 
 Look, if this is what it takes...
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

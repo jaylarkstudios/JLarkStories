@@ -13,7 +13,3 @@ My friend Scarbo just released this spooky single in time for Halloween! It's an
 [https://open.spotify.com/album/3KXB.....Tx6lVwwADVIlzA](https://open.spotify.com/album/3KXBqdMHgdhkecCoH5cgsw?si=FMpW8Q9hTx6lVwwADVIlzA)
 
 I made this cover art for the song, and I'm pretty pleased with how it turned out! 😁💀
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

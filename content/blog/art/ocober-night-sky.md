@@ -11,7 +11,3 @@ summary: "My wife and I attended a painting class for date night on Friday. It w
 My wife and I attended a painting class for date night on Friday. It was fun! Here's mine. 🦇 🌝
 
 Made with acrylic on canvas.
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

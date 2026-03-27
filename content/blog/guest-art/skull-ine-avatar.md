@@ -12,7 +12,3 @@ summary: "Trick-or-Treat! Smell Ine's feet! Give him something good to eat! Or e
 Trick-or-Treat! Smell Ine's feet! Give him something good to eat! (Or else!!) 😈🎃
 
 This rad Halloween icon was made by Happy Fox! Looks excellent!!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

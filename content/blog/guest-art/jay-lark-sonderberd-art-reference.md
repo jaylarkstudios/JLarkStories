@@ -22,7 +22,3 @@ Lark is always wearing the silver anklet on his left leg. It's what he uses in p
 I picked the surname "Sonderberd" because the word "sonder" means "the profound feeling of realizing that everyone, including strangers passed in the street, has a life as complex as one's own, which they are constantly living despite one's personal lack of awareness of it." I love the idea that everyone around us has their own story, just as meaningful to them as our own is to us, and I try to capture that feeling in the stories I tell through comics and artwork.
 
 Artwork by Nova Nocturne
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

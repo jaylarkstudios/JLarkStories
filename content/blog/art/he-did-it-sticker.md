@@ -9,7 +9,3 @@ summary: "Completed a new sticker! Seems appropriate for mother's day, right? ðŸ
 ---
 
 Completed a new sticker! Seems appropriate for mother's day, right? ðŸ¤£
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

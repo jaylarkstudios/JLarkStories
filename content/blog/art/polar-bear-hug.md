@@ -11,7 +11,3 @@ summary: "Momma Bee coming in for a big bear hug! 🥰 A gift for BarnabyBear/us
 Momma Bee coming in for a big bear hug! 🥰
 
 A gift for [ BarnabyBear](/user/barnabybear), a twitch streamer I really enjoy watching. Check her out at [https://www.twitch.tv/hiyabaileybear](https://www.twitch.tv/hiyabaileybear)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

@@ -11,7 +11,3 @@ summary: "circa August 2017 A piece I made to commemorate a loved one who was ca
 circa August 2017
 
 A piece I made to commemorate a loved one who was called home, and who is still missed by our family. 💔 Until we meet again. 🤗
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

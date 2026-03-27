@@ -9,7 +9,3 @@ summary: "A gift sketch for Cobalt. This Christmas remember to share a cup of ki
 ---
 
 A gift sketch for Cobalt. This Christmas remember to share a cup of kindness with a friend or loved one (and don't forget the marshmallows!)
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

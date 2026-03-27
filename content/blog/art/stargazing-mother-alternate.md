@@ -13,7 +13,3 @@ As she lie watching the stars, the soon-to-be mother feels the child within her 
 An alternate version of the recent commission for [ LasmarineEla](/user/lasmarineela). Just for fun I decided to one that showed the baby kicking! 🥰
 
 🔗 Original Version
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

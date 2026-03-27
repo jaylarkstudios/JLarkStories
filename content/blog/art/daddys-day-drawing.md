@@ -11,7 +11,3 @@ summary: "Created: May 11, 2022 A commission for masterlupus/user/masterlupus! L
 Created: May 11, 2022
 
 A commission for [ masterlupus](/user/masterlupus)! Little Rob made a gift for his daddy! 😊 That's definitely going on the fridge!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

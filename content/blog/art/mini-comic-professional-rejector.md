@@ -11,7 +11,3 @@ summary: "Learned something silly and thought I'd do a quick doodle of it. Happy
 Learned something silly and thought I'd do a quick doodle of it.
 
 Happy tax season! 😂
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

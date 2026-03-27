@@ -9,7 +9,3 @@ summary: "Dumb sticker I made for myself. Now you have that song stuck in your h
 ---
 
 Dumb sticker I made for myself. Now you have that song stuck in your head. You're welcome! 😜🕺
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

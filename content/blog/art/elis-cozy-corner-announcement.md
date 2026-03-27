@@ -15,7 +15,3 @@ It will be hosted by Eli, my floofy dragon boy. Eli is a very special character 
 Note that this new channel of mine is ABDL/Babyfur friendly. While all content will be SFW, stories and artwork may sometimes feature those themes, and viewers are welcome to discuss them in chat. If that's not your thing, but you can be kind to those simply being themselves, you're welcome to join our cozy crew! 🤗
 
 Check out EliCozyCorner.com to be notified when Eli goes live. See you then!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

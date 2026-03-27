@@ -9,7 +9,3 @@ summary: "Last year when I joined a new D&D campaign with some friends, I drew t
 ---
 
 Last year when I joined a new D&D campaign with some friends, I drew this to commemorate our first session. Drin, my kobold ranger, very quickly had to try to overcome his fears when faced with a small group of undead. 😨🧟‍♂️
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

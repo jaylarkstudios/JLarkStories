@@ -13,7 +13,3 @@ Created: Oct 02, 2022
 Givette the white otter is training in martial arts!
 
 A commission for [ Scarbo](/user/scarbo) several years ago. Thanks!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

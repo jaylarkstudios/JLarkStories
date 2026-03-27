@@ -13,7 +13,3 @@ Created: August 12, 2023
 Raldy is rocking the dog and walking the baby, at the same time! …Wait, reverse that. 😁🪀 A commission for [ Raldy Blayzer](/user/chiefscarneck), ordered at AWU! Thanks again!
 
 Watch the timelapse here!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-

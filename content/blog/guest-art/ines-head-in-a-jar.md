@@ -12,7 +12,3 @@ summary: "This isn't what Ine had in mind when he said he wanted to get a head s
 This isn't what Ine had in mind when he said he wanted to get a head start on Halloween. 😱😂
 
 A spooky and hilarious YCH commission by [ VCR-Bunny](/user/vcr-bunny)! (I just gave it a darker background, with the artist's permission.) Checkout their FA post to get your own head in a jar!
-
-Check out my webcomic, Aww, Feathers! at [https://awwfeathers.com](https://awwfeathers.com)
-
-
