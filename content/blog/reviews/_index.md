@@ -1,6 +1,6 @@
 ---
 title: "Reviews"
-description: "Recommendations and media reviews."
+description: "Media reviews and recommendations."
 ---
 
 Here are some of the webcomics (in alphabetical order) that I enjoy and recommend to others. Each has a brief description, as well as an informal rating; I'm not a ratings board of course, but I do offer my opinion for which ones are family-friendly and which ones are better suited for a more mature audience:

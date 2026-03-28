@@ -1,4 +1,4 @@
 ---
 title: "News"
-description: "Updates on projects and events."
+description: "Announcements about events or personal updates."
 ---

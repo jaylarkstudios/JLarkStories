@@ -149,6 +149,92 @@ p {
   background: var(--accent-glow);
 }
 
+/* Search */
+
+.search-wrapper {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.search-input {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  width: 180px;
+  outline: none;
+  transition: border-color var(--transition), width var(--transition);
+}
+
+.search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.search-input:focus {
+  border-color: var(--accent);
+  width: 240px;
+}
+
+.search-results {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  min-width: 280px;
+  margin-top: 0.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  z-index: 200;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.search-results.active {
+  display: block;
+}
+
+.search-result-item {
+  display: block;
+  padding: 0.6rem 0.75rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+  transition: background var(--transition);
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover {
+  background: var(--accent-glow);
+}
+
+.search-result-title {
+  display: block;
+  color: var(--text-primary);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.search-result-tags {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin-top: 0.15rem;
+}
+
+.search-no-results {
+  padding: 0.75rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
 /* Hamburger (mobile) */
 
 .nav-toggle {
@@ -681,6 +767,24 @@ p {
   font-size: 1.05rem;
 }
 
+.random-post-link {
+  display: inline-block;
+  margin-top: 0.75rem;
+  color: var(--accent);
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+.random-post-link::before {
+  content: "\1F3B2 ";
+}
+
+.random-post-link:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
 /* ---- Single Page (About, etc.) ---- */
 
 .single-page {
@@ -850,6 +954,24 @@ p {
 /* ---- Responsive ---- */
 
 @media (max-width: 768px) {
+  .search-wrapper {
+    order: 3;
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+
+  .search-input {
+    width: 100%;
+  }
+
+  .search-input:focus {
+    width: 100%;
+  }
+
+  .header-inner {
+    flex-wrap: wrap;
+  }
+
   .nav-toggle {
     display: block;
   }

@@ -1,4 +1,4 @@
 ---
 title: "Guest Art"
-description: "Art by talented artists who have drawn, commissioned, or gifted pieces featuring my characters."
+description: "Art by other artists commissioned by me or of my characters."
 ---

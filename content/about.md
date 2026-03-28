@@ -1,9 +1,8 @@
 ---
-title: "About"
-description: "About J. Lark and JLarkStories."
+title: "About Me and This Site"
 ---
 
-## Hey, I'm Lark!
+## Hi, I'm Lark!
 
 I'm an artist and creator who loves bringing characters and stories to life through illustration. JLarkStories is my personal space for sharing art, talking about creative projects, and recommending the media that inspires me.
 

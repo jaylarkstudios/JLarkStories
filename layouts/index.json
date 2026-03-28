@@ -1,0 +1,12 @@
+{{- $pages := where .Site.RegularPages "Section" "blog" -}}
+[
+{{- range $i, $page := $pages -}}
+  {{- if $i }},{{ end }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "summary": {{ $page.Summary | plainify | jsonify }},
+    "tags": {{ $page.Params.tags | default slice | jsonify }},
+    "url": {{ $page.Permalink | jsonify }}
+  }
+{{- end }}
+]

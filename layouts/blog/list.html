@@ -2,6 +2,12 @@
 <section class="page-header">
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+  {{ $pages := .RegularPagesRecursive }}
+  {{ if $pages }}
+    {{ $urls := slice }}
+    {{ range $pages }}{{ $urls = $urls | append .Permalink }}{{ end }}
+    <a href="#" class="random-post-link" data-urls='{{ $urls | jsonify }}'>Random Post</a>
+  {{ end }}
 </section>
 <section class="post-list">
   {{ $paginator := .Paginate (.RegularPagesRecursive.ByDate.Reverse) }}
