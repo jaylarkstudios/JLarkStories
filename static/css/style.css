@@ -278,28 +278,30 @@ p {
   font-size: 0.9rem;
 }
 
-/* ---- Gallery Carousel ---- */
+/* ---- Gallery Marquee ---- */
 
 .gallery-section {
   margin-bottom: 3rem;
 }
 
 .gallery-carousel {
-  position: relative;
   overflow: hidden;
   border-radius: var(--radius-lg);
-  background: var(--bg-card);
-  border: 1px solid var(--border);
 }
 
 .carousel-track {
   display: flex;
-  transition: transform 0.5s ease;
+  gap: 1rem;
+  width: max-content;
+  animation: marquee linear infinite;
+}
+
+.carousel-track:hover {
+  animation-play-state: paused;
 }
 
 .carousel-slide {
-  min-width: 100%;
-  position: relative;
+  flex-shrink: 0;
 }
 
 .carousel-slide a {
@@ -308,68 +310,15 @@ p {
 
 .carousel-slide img {
   display: block;
-  width: 100%;
-  height: auto;
-  max-height: 50vh;
-  object-fit: contain;
-  max-width: none;
+  height: 200px;
+  width: auto;
+  border-radius: var(--radius-lg);
+  object-fit: cover;
 }
 
-
-.carousel-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(10, 14, 26, 0.7);
-  color: #fff;
-  border: 1px solid var(--border);
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  font-size: 1.5rem;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background var(--transition), border-color var(--transition);
-  z-index: 2;
-}
-
-.carousel-btn:hover {
-  background: rgba(74, 158, 255, 0.3);
-  border-color: var(--accent);
-}
-
-.carousel-prev { left: 1rem; }
-.carousel-next { right: 1rem; }
-
-.carousel-dots {
-  display: flex;
-  justify-content: center;
-  gap: 0.5rem;
-  padding: 1rem;
-  background: var(--bg-card);
-}
-
-.carousel-dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--border);
-  border: none;
-  cursor: pointer;
-  transition: background var(--transition);
-}
-
-.carousel-dot.active {
-  background: var(--accent);
-}
-
-.carousel-empty {
-  padding: 4rem 2rem;
-  text-align: center;
-  color: var(--text-muted);
-  font-style: italic;
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 
 /* ---- Post Cards ---- */

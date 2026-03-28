@@ -1,8 +1,18 @@
 {{ with .Site.Data.gallery.posts }}
 <section class="gallery-section">
-  <h2 class="section-heading">Gallery</h2>
-  <div class="gallery-carousel" id="gallery-carousel">
-    <div class="carousel-track">
+  <h2 class="section-heading">A Few Favorites</h2>
+  <div class="gallery-carousel">
+    <div class="carousel-track" style="animation-duration: {{ mul (len .) 5 }}s">
+      {{ range . }}
+        {{ $page := $.Site.GetPage . }}
+        {{ with $page }}
+        <div class="carousel-slide">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
+          </a>
+        </div>
+        {{ end }}
+      {{ end }}
       {{ range . }}
         {{ $page := $.Site.GetPage . }}
         {{ with $page }}
@@ -14,9 +24,6 @@
         {{ end }}
       {{ end }}
     </div>
-    <button class="carousel-btn carousel-prev" aria-label="Previous slide">&lsaquo;</button>
-    <button class="carousel-btn carousel-next" aria-label="Next slide">&rsaquo;</button>
-    <div class="carousel-dots"></div>
   </div>
 </section>
 {{ else }}
