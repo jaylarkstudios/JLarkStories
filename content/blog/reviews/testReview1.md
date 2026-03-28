@@ -1,6 +1,7 @@
 ---
 title: "Test Review article"
 date: 2026-02-10
+draft: true
 categories: ["reviews"]
 tags: ["books", "art", "learning"]
 thumbnail: ""
