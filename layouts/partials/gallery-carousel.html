@@ -1,13 +1,18 @@
-{{ with .Site.Data.gallery.pieces }}
+{{ with .Site.Data.gallery.posts }}
 <section class="gallery-section">
   <h2 class="section-heading">Gallery</h2>
   <div class="gallery-carousel" id="gallery-carousel">
     <div class="carousel-track">
       {{ range . }}
-      <div class="carousel-slide">
-        <img src="{{ .image }}" alt="{{ .title }}" loading="lazy">
-        <p class="carousel-caption">{{ .title }}</p>
-      </div>
+        {{ $page := $.Site.GetPage . }}
+        {{ with $page }}
+        <div class="carousel-slide">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
+          </a>
+          <p class="carousel-caption">{{ .Title }}</p>
+        </div>
+        {{ end }}
       {{ end }}
     </div>
     <button class="carousel-btn carousel-prev" aria-label="Previous slide">&lsaquo;</button>
@@ -16,5 +21,5 @@
   </div>
 </section>
 {{ else }}
-<!-- Gallery: Add pieces to data/gallery.toml to enable the carousel -->
+<!-- Gallery: Add posts to data/gallery.toml to enable the carousel -->
 {{ end }}

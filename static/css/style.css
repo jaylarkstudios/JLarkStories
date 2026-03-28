@@ -302,10 +302,17 @@ p {
   position: relative;
 }
 
+.carousel-slide a {
+  display: block;
+}
+
 .carousel-slide img {
+  display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
+  height: auto;
+  max-height: 50vh;
+  object-fit: contain;
+  max-width: none;
 }
 
 .carousel-caption {

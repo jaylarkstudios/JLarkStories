@@ -11,8 +11,9 @@ document.addEventListener('DOMContentLoaded', function () {
   if (slides.length === 0) return;
 
   var current = 0;
-  var autoInterval = null;
+  var autoTimer = null;
   var autoDelay = 5000;
+  var paused = false;
 
   // Build dot indicators
   for (var i = 0; i < slides.length; i++) {
@@ -43,6 +44,22 @@ document.addEventListener('DOMContentLoaded', function () {
     showSlide(current - 1);
   }
 
+  // Auto-advance using setTimeout to avoid stacking
+  function scheduleNext() {
+    clearTimeout(autoTimer);
+    if (!paused) {
+      autoTimer = setTimeout(function () {
+        nextSlide();
+        scheduleNext();
+      }, autoDelay);
+    }
+  }
+
+  function resetAuto() {
+    clearTimeout(autoTimer);
+    scheduleNext();
+  }
+
   // Button handlers
   prevBtn.addEventListener('click', function () {
     prevSlide();
@@ -63,23 +80,16 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  // Auto-advance
-  function startAuto() {
-    autoInterval = setInterval(nextSlide, autoDelay);
-  }
-
-  function stopAuto() {
-    clearInterval(autoInterval);
-  }
-
-  function resetAuto() {
-    stopAuto();
-    startAuto();
-  }
-
   // Pause on hover
-  carousel.addEventListener('mouseenter', stopAuto);
-  carousel.addEventListener('mouseleave', startAuto);
+  carousel.addEventListener('mouseenter', function () {
+    paused = true;
+    clearTimeout(autoTimer);
+  });
+
+  carousel.addEventListener('mouseleave', function () {
+    paused = false;
+    scheduleNext();
+  });
 
   // Touch/swipe support
   var touchStartX = 0;
@@ -115,5 +125,5 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   // Start
-  startAuto();
+  scheduleNext();
 });

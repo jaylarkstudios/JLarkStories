@@ -1,13 +1,11 @@
-# Add your favorite art pieces here.
-# Each entry needs a title and an image path (relative to /static/).
-# Example:
-#
-# [[pieces]]
-#   title = "Starlit Wanderer"
-#   image = "/images/gallery/starlit-wanderer.jpg"
-#
-# Uncomment and add your own pieces below:
+# Add your favorite art posts here (no trailing slash).
+# The carousel will use each post's thumbnail and title automatically.
 
-# [[pieces]]
-#   title = "Piece Title"
-#   image = "/images/gallery/filename.jpg"
+posts = [
+  "/blog/art/elis-healing-hug",
+  "/blog/art/pom-poms-popcorn-garland",
+  "/blog/art/ines-terrible-fate",
+  "/blog/art/stained-glass-june",
+  "/blog/art/maggie-and-james-ice-skating-date",
+  "/blog/art/fenrad-drawover",
+]
