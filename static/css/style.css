@@ -315,16 +315,6 @@ p {
   max-width: none;
 }
 
-.carousel-caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 1rem 1.5rem;
-  background: linear-gradient(transparent, rgba(10, 14, 26, 0.9));
-  color: #fff;
-  font-size: 1rem;
-}
 
 .carousel-btn {
   position: absolute;
