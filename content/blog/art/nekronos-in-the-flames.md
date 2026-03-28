@@ -6,7 +6,7 @@ tags: ["male", "nekronos", "fire", "demon", "yokai", "fox", "bat", "wings", "fla
 thumbnail: "/images/blog/nekronos-in-the-flames.jpg"
 created_date: "circa June, 2018"
 fa_id: 63850729
-summary: "A commission I made for Nekronos, the fluffy fire yokai! I had a lot of fun with the shapes of the flames on this one! 🔥 Check out my..."
+summary: "A commission I made for Nekronos, the fluffy fire yokai! I had a lot of fun with the shapes of the flames on this one! 🔥"
 ---
 
 A commission I made for Nekronos, the fluffy fire yokai! I had a lot of fun with the shapes of the flames on this one! 🔥

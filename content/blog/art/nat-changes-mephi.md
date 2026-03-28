@@ -12,4 +12,4 @@ Nat the dragon is changing her little stinker. 🥰 He'll return the favor for h
 
 Colored version of the sketch I did previously. They like diapeys in fun colors! I also adjusted the lines to make the diaper more poofy! ^^
 
-A sketch for [ Scarbo](/user/scarbo)
+A sketch for Scarbo

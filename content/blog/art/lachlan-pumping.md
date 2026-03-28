@@ -6,7 +6,7 @@ tags: ["male", "lachlan", "highland", "cow", "bovine", "pumping", "iron", "exerc
 thumbnail: "/images/blog/lachlan-pumping.jpg"
 created_date: "circa February 2019"
 fa_id: 64271351
-summary: "Lachlan can see you staring even through those shaggy bangs of his! A commission for Ash from several years ago. Check out my webcomic,..."
+summary: "Lachlan can see you staring even through those shaggy bangs of his! A commission for Ash from several years ago."
 ---
 
 Lachlan can see you staring even through those shaggy bangs of his!

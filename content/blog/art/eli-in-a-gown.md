@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["male", "eastern", "dragon", "dress", "gown", "wedding", "flowers", "bouquet", "sketch", "eli", "femboy", "wings", "feathers", "fur"]
 thumbnail: "/images/blog/eli-in-a-gown.jpg"
 fa_id: 62533765
-summary: "A quick sketch I did of Eli in a gown. Doesn't he look purty! 😊💐 Check out my webcomic, Aww, Feathers! at https://awwfeathers.comhttps://awwfeathers.com"
+summary: "A quick sketch I did of Eli in a gown. Doesn't he look purty! 😊💐"
 ---
 
 A quick sketch I did of Eli in a gown. Doesn't he look purty! 😊💐

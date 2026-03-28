@@ -10,6 +10,6 @@ summary: "Suddenly, just when the pressure felt too great, Ine rocketed upward, 
 
 Suddenly, just when the pressure felt too great, Ine rocketed upward, crashing straight through the ceiling! Dust and debris showered down around him and his growth finally slowed to a halt, like an explosion that had finally burned through all its fuel.
 
-Part 13 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 13 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

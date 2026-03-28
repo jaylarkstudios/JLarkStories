@@ -12,4 +12,4 @@ summary: "Is it ice cream sandwich season yet? Eh, who am I kidding, it's always
 
 Is it ice cream sandwich season yet? Eh, who am I kidding, it's always ice cream sandwich season! 😋
 
-A commission by [ DragonessDeanna](/user/dragonessdeanna).
+A commission by DragonessDeanna.

@@ -10,4 +10,4 @@ summary: "\"When I became a man I put away childish things, including the fear o
 
 "When I became a man I put away childish things, including the fear of childishness and the desire to be very grown up." —C.S. Lewis
 
-A beautiful sketch by [ DaisySun](/user/daisysun)
+A beautiful sketch by DaisySun

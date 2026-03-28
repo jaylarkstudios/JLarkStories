@@ -12,4 +12,4 @@ summary: "Eli can be a bit sensitive at times. But I mean, who wouldn't be if th
 
 Eli can be a bit sensitive at times. But I mean, who wouldn't be if they dropped their ice cream on the ground and it was their favorite flavor? But one thing that helps him feel better is a great big hug from teddy!
 
-Made by [ Felix_the_Gray](/user/felixthegray)
+Made by Felix_the_Gray

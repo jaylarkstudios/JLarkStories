@@ -10,6 +10,6 @@ summary: "Ine turned to flex his other arm, admiring the way his muscles swelled
 
 Ine turned to flex his other arm, admiring the way his muscles swelled and rippled with every movement. He grinned excitedly as he tensed his arm and watched his bicep bulge. Meanwhile, nearby he heard his friend say with an excited giggle, "Looking good! Now, time for phase two!"
 
-Part 9 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 9 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

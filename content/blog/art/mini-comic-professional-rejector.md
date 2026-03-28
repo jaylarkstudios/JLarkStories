@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["mini", "comic", "doodle", "sketch", "kangaroo", "roo", "bird", "avian", "ostrich", "bachelor", "tax", "rejection"]
 thumbnail: "/images/blog/mini-comic-professional-rejector.jpg"
 fa_id: 51579818
-summary: "Learned something silly and thought I'd do a quick doodle of it. Happy tax season! 😂 Check out my webcomic, Aww, Feathers! at..."
+summary: "Learned something silly and thought I'd do a quick doodle of it. Happy tax season! 😂"
 ---
 
 Learned something silly and thought I'd do a quick doodle of it.

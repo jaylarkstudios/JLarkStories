@@ -6,7 +6,7 @@ tags: ["ine", "coatl", "spy", "secret", "agent", "get", "smart", "scaly", "repti
 thumbnail: "/images/blog/ine-smart-badge-awu-2023.jpg"
 artists: ["DJtheGull"]
 fa_id: 52800690
-summary: "Agent Ine Smart is ready for his first big mission! He'll be reporting to AWU 2023 next week, so keep a sharp eye out! Art by DJtheGull! Check out my webcomic,..."
+summary: "Agent Ine Smart is ready for his first big mission! He'll be reporting to AWU 2023 next week, so keep a sharp eye out! Art by DJtheGull!"
 ---
 
 Agent Ine Smart is ready for his first big mission! He'll be reporting to AWU 2023 next week, so keep a sharp eye out!

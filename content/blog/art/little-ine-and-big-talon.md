@@ -6,7 +6,7 @@ tags: ["macro", "dragon", "talon", "ine", "littleine", "kid", "littlefur", "cook
 thumbnail: "/images/blog/little-ine-and-big-talon.png"
 created_date: "Mar 3, 2022"
 fa_id: 51229978
-summary: "Couldn't be more delighted with this adorable sketch I got from DaisySun/user/daisysun of Little Ine hanging with his big buddy, Talon..."
+summary: "Couldn't be more delighted with this adorable sketch I got from DaisySun of Little Ine hanging with his big buddy, Talon..."
 ---
 
-Couldn't be more delighted with this adorable sketch I got from [ DaisySun](/user/daisysun) of Little Ine hanging with his big buddy, [ Talon Windstryke](/user/reederda)! Happy Macro March! Be sure to celebrate with ridiculously large sweets! 😁🍪
+Couldn't be more delighted with this adorable sketch I got from DaisySun of Little Ine hanging with his big buddy, Talon Windstryke! Happy Macro March! Be sure to celebrate with ridiculously large sweets! 😁🍪

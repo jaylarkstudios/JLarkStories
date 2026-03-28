@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["awwfeathers", "ine", "coatl", "lizard", "reptile", "scaly", "baby", "egg", "hatch", "hatchling", "tail", "feathers", "male"]
 thumbnail: "/images/blog/eggie-ine.jpg"
 fa_id: 59326539
-summary: "A bit late posting this here, but I leveled up recently, so here's a pic of Ine coming out of his shell, tail first! Check out my webcomic, Aww, Feathers! at..."
+summary: "A bit late posting this here, but I leveled up recently, so here's a pic of Ine coming out of his shell, tail first!"
 ---
 
 A bit late posting this here, but I leveled up recently, so here's a pic of Ine coming out of his shell, tail first!

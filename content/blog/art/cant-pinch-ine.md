@@ -6,7 +6,7 @@ tags: ["awwfeathers", "ine", "lizard", "feathers", "featheredlizard", "green", "
 thumbnail: "/images/blog/cant-pinch-ine.jpg"
 created_date: "Mar 17, 2022"
 fa_id: 51272169
-summary: "Ine is a proud member of the \"No Pinchies\" club! Happy St. Patrick's Day all! 🍀 Check out my webcomic, Aww, Feathers! at..."
+summary: "Ine is a proud member of the \"No Pinchies\" club! Happy St. Patrick's Day all! 🍀"
 ---
 
 Ine is a proud member of the "No Pinchies" club! Happy St. Patrick's Day all! 🍀

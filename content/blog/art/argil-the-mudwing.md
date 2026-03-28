@@ -6,7 +6,7 @@ tags: ["dragon", "mudwing", "wingsoffire", "wof", "brown", "copper", "headshot",
 thumbnail: "/images/blog/argil-the-mudwing.png"
 created_date: "Jan 15, 2022"
 fa_id: 51217957
-summary: "A colored headshot commission for Argil MudWing/user/ashcarso of his Wings of Fire OC, Argil of the Mudwings! Thanks for letting me draw..."
+summary: "A colored headshot commission for Argil MudWing of his Wings of Fire OC, Argil of the Mudwings! Thanks for letting me draw..."
 ---
 
-A colored headshot commission for [ Argil MudWing](/user/ashcarso) of his Wings of Fire OC, Argil of the Mudwings! Thanks for letting me draw your handsome boy! And a huge thank you to Tui T. Sutherland for creating such a rich and inspiring world of dragons!
+A colored headshot commission for Argil MudWing of his Wings of Fire OC, Argil of the Mudwings! Thanks for letting me draw your handsome boy! And a huge thank you to Tui T. Sutherland for creating such a rich and inspiring world of dragons!

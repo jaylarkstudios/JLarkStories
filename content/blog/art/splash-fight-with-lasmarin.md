@@ -10,4 +10,4 @@ summary: "Little Ine and his buddy Lasmarin are having a splash fight. Looks lik
 
 Little Ine and his buddy Lasmarin are having a splash fight. Looks like Las is letting Ine win. Being an otter though, he doesn't really mind. 😄
 
-A birthday gift for [ LasmarineEla](/user/lasmarineela)!
+A birthday gift for LasmarineEla!

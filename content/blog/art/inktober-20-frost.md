@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["inktober", "inktober2023", "sketch", "giant", "ice", "cream", "frost", "bird", "avian", "kid", "dream", "male"]
 thumbnail: "/images/blog/inktober-20-frost.jpg"
 fa_id: 54131793
-summary: "Truly a dream come true. He is his father's son after all! 😋🍦 Check out my webcomic, Aww, Feathers! at https://awwfeathers.comhttps://awwfeathers.com"
+summary: "Truly a dream come true. He is his father's son after all! 😋🍦"
 ---
 
 Truly a dream come true. He is his father's son after all! 😋🍦

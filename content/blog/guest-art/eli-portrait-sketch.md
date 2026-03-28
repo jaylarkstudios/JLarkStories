@@ -7,9 +7,9 @@ thumbnail: "/images/blog/eli-portrait-sketch.jpg"
 created_date: "Aug 25, 2022"
 artists: ["NattiKay"]
 fa_id: 51722457
-summary: "When you call Eli cute, he gets really shy and bashful. But he likes it. 😳😊 Art by NattiKay/user/nattikay Check out my webcomic, Aww,..."
+summary: "When you call Eli cute, he gets really shy and bashful. But he likes it. 😳😊 Art by NattiKay"
 ---
 
 When you call Eli cute, he gets really shy and bashful. But he likes it. 😳😊
 
-Art by [ NattiKay](/user/nattikay)
+Art by NattiKay

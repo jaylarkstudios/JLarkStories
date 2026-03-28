@@ -6,9 +6,9 @@ tags: ["unicorn", "sheep", "wings", "pink", "rainbow", "hoof", "male"]
 thumbnail: "/images/blog/scarbo-and-ondin.jpg"
 created_date: "Aug 12, 2018"
 fa_id: 60525373
-summary: "A day late, but happy belated Unicorn Day! This is a commission I did years ago of Scarbo/user/scarbo and his unicorn pal Ondin! Check..."
+summary: "A day late, but happy belated Unicorn Day! This is a commission I did years ago of Scarbo and his unicorn pal Ondin! Check..."
 ---
 
 A day late, but happy belated Unicorn Day!
 
-This is a commission I did years ago of [ Scarbo](/user/scarbo) and his unicorn pal Ondin!
+This is a commission I did years ago of Scarbo and his unicorn pal Ondin!

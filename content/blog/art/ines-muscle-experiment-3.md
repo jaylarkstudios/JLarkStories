@@ -10,6 +10,6 @@ summary: "A moment later Ine's left arm ballooned outward, countering the sudden
 
 A moment later Ine's left arm ballooned outward, countering the sudden increase of weight on his right side, but making him feel like some sort of skinny-legged, scaly gorilla...
 
-Part 3 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 3 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["bird", "chozo", "blazing", "phoenix", "fire", "red", "orange", "yellow", "digital", "sketch", "gift", "blush", "male"]
 thumbnail: "/images/blog/feather-vane-the-chozo.jpg"
 fa_id: 53804410
-summary: "And a gift for Feather Vane the Chozo as well to finish off the pair of lovebirds! Check out my webcomic, Aww, Feathers! at..."
+summary: "And a gift for Feather Vane the Chozo as well to finish off the pair of lovebirds!"
 ---
 
 And a gift for Feather Vane the Chozo as well to finish off the pair of lovebirds!

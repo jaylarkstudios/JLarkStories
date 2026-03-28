@@ -6,9 +6,9 @@ tags: ["ine", "coatl", "lizard", "feathers", "head", "jar", "beheaded", "bone", 
 thumbnail: "/images/blog/ines-head-in-a-jar.jpg"
 artists: ["VCR-Bunny"]
 fa_id: 58628671
-summary: "This isn't what Ine had in mind when he said he wanted to get a head start on Halloween. 😱😂 A spooky and hilarious YCH commission by VCR-Bunny/user/vcr-bunny!..."
+summary: "This isn't what Ine had in mind when he said he wanted to get a head start on Halloween. 😱😂 A spooky and hilarious YCH commission by VCR-Bunny!..."
 ---
 
 This isn't what Ine had in mind when he said he wanted to get a head start on Halloween. 😱😂
 
-A spooky and hilarious YCH commission by [ VCR-Bunny](/user/vcr-bunny)! (I just gave it a darker background, with the artist's permission.) Checkout their FA post to get your own head in a jar!
+A spooky and hilarious YCH commission by VCR-Bunny! (I just gave it a darker background, with the artist's permission.) Checkout their FA post to get your own head in a jar!

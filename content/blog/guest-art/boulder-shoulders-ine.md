@@ -6,9 +6,9 @@ tags: ["male", "ine", "awwfeathers", "lizard", "scaly", "reptile", "feathers", "
 thumbnail: "/images/blog/boulder-shoulders-ine.jpg"
 artists: ["somnusfox"]
 fa_id: 61493942
-summary: "Wow Ine, if you get much bigger your head will completely disappear! 🤣 A gift from my friend lycanlover777/user/lycanlover777. Thanks buddy! Made by somnusfox..."
+summary: "Wow Ine, if you get much bigger your head will completely disappear! 🤣 A gift from my friend lycanlover777. Thanks buddy! Made by somnusfox..."
 ---
 
-Wow Ine, if you get much bigger your head will completely disappear! 🤣 A gift from my friend [ lycanlover777](/user/lycanlover777). Thanks buddy!
+Wow Ine, if you get much bigger your head will completely disappear! 🤣 A gift from my friend lycanlover777. Thanks buddy!
 
 Made by somnusfox on BlueSky!

@@ -6,7 +6,7 @@ tags: ["little", "ine", "lizard", "scaly", "reptile", "kidfur", "littlefur", "sw
 thumbnail: "/images/blog/little-ine-stickers-by-patchwolf.jpg"
 artists: ["patchWolf"]
 fa_id: 51374795
-summary: "These super cute stickers of Little Ine were made by patchWolf! Come on Ine, learn to share your toys... Check out my webcomic, Aww, Feathers! at..."
+summary: "These super cute stickers of Little Ine were made by patchWolf! Come on Ine, learn to share your toys..."
 ---
 
 These super cute stickers of Little Ine were made by patchWolf! (Come on Ine, learn to share your toys...)

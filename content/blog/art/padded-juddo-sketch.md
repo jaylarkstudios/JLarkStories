@@ -9,4 +9,4 @@ fa_id: 51398929
 summary: "Juddo the deer is definitely a big boy. Just goes to show that sometimes big boys wear diapers too! ^^ A quick sketch commission for..."
 ---
 
-Juddo the deer is definitely a big boy. Just goes to show that sometimes big boys wear diapers too! ^^ A quick sketch commission for [ Scarbo](/user/scarbo)
+Juddo the deer is definitely a big boy. Just goes to show that sometimes big boys wear diapers too! ^^ A quick sketch commission for Scarbo

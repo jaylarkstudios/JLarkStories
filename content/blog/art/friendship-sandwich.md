@@ -11,4 +11,4 @@ summary: "A guest comic I made for the wonderful webcomic, Furry Experience! You
 
 A guest comic I made for the wonderful webcomic, Furry Experience! You want some friendship croutons with that? 😊
 
-All characters belong to [ Ellen-Natalie](/user/ellen-natalie)
+All characters belong to Ellen-Natalie

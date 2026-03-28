@@ -6,9 +6,9 @@ tags: ["otter", "temiree", "dive", "ocean", "water", "sky", "clouds", "speedo", 
 thumbnail: "/images/blog/diving-tem.jpg"
 artists: ["Temiree"]
 fa_id: 60287253
-summary: "Few things are as invigorating as diving head first into the deep blue! Special thanks to Temiree/user/temiree for giving me permission to ink and color his..."
+summary: "Few things are as invigorating as diving head first into the deep blue! Special thanks to Temiree for giving me permission to ink and color his..."
 ---
 
 Few things are as invigorating as diving head first into the deep blue!
 
-Special thanks to [ Temiree](/user/temiree) for giving me permission to ink and color his sketch!
+Special thanks to Temiree for giving me permission to ink and color his sketch!

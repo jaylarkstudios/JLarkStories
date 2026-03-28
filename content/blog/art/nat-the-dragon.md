@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["natalia", "nat", "dragon", "provile", "headshot", "orange", "blue", "avatar", "intersex"]
 thumbnail: "/images/blog/nat-the-dragon.jpg"
 fa_id: 54851128
-summary: "Natalia the dragon! Though she usually goes by Nat. I think she's cute, don't you? ^^ A quick headshot for Scarbo. Enjoy! Check out my webcomic, Aww, Feathers!..."
+summary: "Natalia the dragon! Though she usually goes by Nat. I think she's cute, don't you? ^^ A quick headshot for Scarbo. Enjoy!"
 ---
 
 Natalia the dragon! (Though she usually goes by Nat.) I think she's cute, don't you? ^^

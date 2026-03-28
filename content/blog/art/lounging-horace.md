@@ -8,4 +8,4 @@ fa_id: 51222825
 summary: "Horace the Iron Poet is taking a well deserved nap. It must feel great to get out of all that armor after battling for Armello! An alternate version of..."
 ---
 
-Horace the Iron Poet is taking a well deserved nap. It must feel great to get out of all that armor after battling for Armello! An alternate version of [ Scarbo](/user/scarbo)'s commission.
+Horace the Iron Poet is taking a well deserved nap. It must feel great to get out of all that armor after battling for Armello! An alternate version of Scarbo's commission.

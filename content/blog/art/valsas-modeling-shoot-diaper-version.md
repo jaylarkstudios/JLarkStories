@@ -9,4 +9,4 @@ fa_id: 51286136
 summary: "Valsa the dragon also models a bunch of different types of diapers. Here's just one example. He looks so handsome and confident! A..."
 ---
 
-Valsa the dragon also models a bunch of different types of diapers. Here's just one example. He looks so handsome and confident! A commission for [ Scarbo](/user/scarbo).
+Valsa the dragon also models a bunch of different types of diapers. Here's just one example. He looks so handsome and confident! A commission for Scarbo.

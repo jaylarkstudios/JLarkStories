@@ -11,4 +11,4 @@ summary: "Awww, it's Ine as a little baby! Looks like he's playing pat-a-cake. T
 
 Awww, it's Ine as a little baby! Looks like he's playing pat-a-cake. Throw it in the oven for lizard and me! n_n
 
-Dug this one up from a loooooong time ago! Made by [ We-Furry-Few-com](/user/we-furry-few-com)
+Dug this one up from a loooooong time ago! Made by We-Furry-Few-com

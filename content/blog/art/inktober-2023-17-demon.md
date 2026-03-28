@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["inktober", "inktober2023", "sketch", "michelle", "hyena", "warthog", "tusks", "demon", "japanese", "oni", "female"]
 thumbnail: "/images/blog/inktober-2023-17-demon.jpg"
 fa_id: 54095458
-summary: "Michelle already shared some characteristics with the Oni, so why not just go full demon mode? 👹 Check out my webcomic, Aww, Feathers! at..."
+summary: "Michelle already shared some characteristics with the Oni, so why not just go full demon mode? 👹"
 ---
 
 Michelle already shared some characteristics with the Oni, so why not just go full demon mode? 👹

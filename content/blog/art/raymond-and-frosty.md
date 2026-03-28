@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["raymond", "turing", "cat", "cougar", "puma", "snowman", "snow", "winter", "secret", "santa", "male"]
 thumbnail: "/images/blog/raymond-and-frosty.jpg"
 fa_id: 59326592
-summary: "And here's my own Secret Santa gift to Raymond Turing! Merry Christmas, and enjoy the snow! ⛄️❄️ Check out my webcomic, Aww, Feathers! at..."
+summary: "And here's my own Secret Santa gift to Raymond Turing! Merry Christmas, and enjoy the snow! ⛄️❄️"
 ---
 
 And here's my own Secret Santa gift to Raymond Turing! Merry Christmas, and enjoy the snow! ⛄️❄️

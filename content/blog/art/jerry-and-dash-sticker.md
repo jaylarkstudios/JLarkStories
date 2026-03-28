@@ -6,7 +6,7 @@ tags: ["puppy", "dog", "bunny", "rabbit", "lick", "kiss", "couple", "love", "sti
 thumbnail: "/images/blog/jerry-and-dash-sticker.jpg"
 created_date: "Aug 26, 2022"
 fa_id: 51791248
-summary: "Puppy loves his bunny! 💗 A sticker commission for Jerry. Check out my webcomic, Aww, Feathers! at..."
+summary: "Puppy loves his bunny! 💗 A sticker commission for Jerry."
 ---
 
 Puppy loves his bunny! 💗

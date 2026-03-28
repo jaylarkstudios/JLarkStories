@@ -10,6 +10,6 @@ summary: "Ine's buddy Jacob asked if he would agree to let him run some experime
 
 Ine's buddy Jacob asked if he would agree to let him run some experiments on him in his muscle growth lab. Ine agreed, perhaps not realizing that he was in for quite the ride...
 
-Part 1 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 1 of a muscle growth sequence commission for lycanlover777
 
 Next >

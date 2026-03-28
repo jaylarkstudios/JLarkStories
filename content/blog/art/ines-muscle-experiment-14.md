@@ -12,6 +12,6 @@ The dust settled, and Ine was sticking halfway out the ceiling into the fresh ai
 
 "Woops..." Jacob replied. "That does was stronger than I expected!" He sounded more excited than sorry though. And as Ine began to examine the results, he couldn't blame him!
 
-Part 14 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 14 of a muscle growth sequence commission for lycanlover777
 
 < Prev

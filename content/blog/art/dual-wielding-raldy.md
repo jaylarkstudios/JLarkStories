@@ -9,6 +9,6 @@ fa_id: 53120301
 summary: "Raldy is rocking the dog and walking the baby, at the same time! …Wait, reverse that. 😁🪀 A commission for Raldy..."
 ---
 
-Raldy is rocking the dog and walking the baby, at the same time! …Wait, reverse that. 😁🪀 A commission for [ Raldy Blayzer](/user/chiefscarneck), ordered at AWU! Thanks again!
+Raldy is rocking the dog and walking the baby, at the same time! …Wait, reverse that. 😁🪀 A commission for Raldy Blayzer, ordered at AWU! Thanks again!
 
 Watch the timelapse here!

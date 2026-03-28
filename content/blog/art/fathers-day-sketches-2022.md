@@ -6,7 +6,7 @@ tags: ["fathers", "day", "dad", "kids", "children", "son", "daughter", "lark", "
 thumbnail: "/images/blog/fathers-day-sketches-2022.jpg"
 created_date: "June 19, 2022"
 fa_id: 52563375
-summary: "Of all the things I've ever been, a dad is one of my favorites. 💙 Happy Father's Day! Check out my webcomic, Aww, Feathers! at..."
+summary: "Of all the things I've ever been, a dad is one of my favorites. 💙 Happy Father's Day!"
 ---
 
 Of all the things I've ever been, a dad is one of my favorites. 💙

@@ -10,6 +10,6 @@ summary: "As she lie watching the stars, the soon-to-be mother feels the child w
 
 As she lie watching the stars, the soon-to-be mother feels the child within her stir and kick, as if eagerly anticipating their time to see the world outside. 💞
 
-An alternate version of the recent commission for [ LasmarineEla](/user/lasmarineela). Just for fun I decided to one that showed the baby kicking! 🥰
+An alternate version of the recent commission for LasmarineEla. Just for fun I decided to one that showed the baby kicking! 🥰
 
 🔗 Original Version

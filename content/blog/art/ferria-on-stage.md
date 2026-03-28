@@ -5,9 +5,9 @@ categories: ["My Art"]
 tags: ["male", "fox", "kitsune", "rainbow", "tails", "stage", "perform", "dance", "pose", "speedo", "underwear"]
 thumbnail: "/images/blog/ferria-on-stage.jpg"
 fa_id: 61461336
-summary: "Ferria the fox loves to perform! In this production, he's playing the role of a kitsune with multi-colored tails! A commission for Scarbo/user/scarbo Check out..."
+summary: "Ferria the fox loves to perform! In this production, he's playing the role of a kitsune with multi-colored tails! A commission for Scarbo"
 ---
 
 Ferria the fox loves to perform! In this production, he's playing the role of a kitsune with multi-colored tails!
 
-A commission for [ Scarbo](/user/scarbo)
+A commission for Scarbo

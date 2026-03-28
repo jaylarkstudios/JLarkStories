@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["western", "dragon", "underwear", "model", "briefs", "speedo", "ace", "pride", "flag", "wings", "male"]
 thumbnail: "/images/blog/valsas-modeling-shoot-ace-speedo-version.jpg"
 fa_id: 51636185
-summary: "A commission update for Scarbo/user/scarbo. In this one, Valsa is sporting his ace pride on his speedo. Time to hit the pool! Check out my webcomic, Aww,..."
+summary: "A commission update for Scarbo. In this one, Valsa is sporting his ace pride on his speedo. Time to hit the pool!"
 ---
 
-A commission update for [ Scarbo](/user/scarbo). In this one, Valsa is sporting his ace pride on his speedo. Time to hit the pool!
+A commission update for Scarbo. In this one, Valsa is sporting his ace pride on his speedo. Time to hit the pool!

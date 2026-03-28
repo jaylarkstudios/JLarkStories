@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["couple", "skunk", "dragon", "shorts", "hug", "nonbinary", "genderfluid", "intersex", "androgenous"]
 thumbnail: "/images/blog/mephi-and-nat.jpg"
 fa_id: 60495574
-summary: "A normie version of Mephi and Nat's couple's pic. 😊 Click here for the ABDL version. Check out my webcomic, Aww, Feathers! at..."
+summary: "A normie version of Mephi and Nat's couple's pic. 😊 Click here for the ABDL version."
 ---
 
 A normie version of Mephi and Nat's couple's pic. 😊

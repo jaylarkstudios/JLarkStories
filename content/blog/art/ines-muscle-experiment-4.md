@@ -10,6 +10,6 @@ summary: "Arms now even, Ine's left leg suddenly followed, expanding in both gir
 
 Arms now even, Ine's left leg suddenly followed, expanding in both girth and length, rocketing him up off the floor with his still regular-sized right leg dangling uselessly in the air!
 
-Part 4 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 4 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

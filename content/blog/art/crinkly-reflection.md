@@ -11,4 +11,4 @@ summary: "Scarbo is a happy diaper sheep! 😊 He loves the way they look and fe
 
 Scarbo is a happy diaper sheep! 😊 He loves the way they look and feel, and even the way they crinkle!
 
-A commission for [ Scarbo](/user/scarbo).
+A commission for Scarbo.

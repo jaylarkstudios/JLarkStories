@@ -10,6 +10,6 @@ summary: "Ine stood on the tiled floor of Jacob's lab, waiting for something to 
 
 Ine stood on the tiled floor of Jacob's lab, waiting for something to happen. He didn't have to wait long however before his right arm suddenly exploded outward, instantly filling out with muscle and causing him to nearly tip over!
 
-Part 2 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 2 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

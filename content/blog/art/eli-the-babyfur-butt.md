@@ -5,11 +5,11 @@ categories: ["My Art"]
 tags: ["male", "eli", "eastern", "dragon", "fluffy", "fur", "blue", "cyan", "purple", "pink", "diaper", "abdl", "babyfur", "baby", "butt", "bum", "padded"]
 thumbnail: "/images/blog/eli-the-babyfur-butt.png"
 fa_id: 63021318
-summary: "Eli's not a babyfur... Just a babyfur BUTT!! 🤭 A funny YCH by LunaTheCute/user/lunathecute Check out my webcomic, Aww, Feathers! at..."
+summary: "Eli's not a babyfur... Just a babyfur BUTT!! 🤭 A funny YCH by LunaTheCute"
 ---
 
 Eli's not a babyfur...
 
 Just a babyfur BUTT!! 🤭
 
-A funny YCH by [ LunaTheCute](/user/lunathecute)
+A funny YCH by LunaTheCute

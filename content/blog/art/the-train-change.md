@@ -11,4 +11,4 @@ summary: "Juddo the deer is incontinent, and self-conscious sometimes about wear
 
 Juddo the deer is incontinent, and self-conscious sometimes about wearing diapers, especially when he's out in public. Fortunately he has a very caring and understanding friend!
 
-A commission for [ Scarbo](/user/scarbo)
+A commission for Scarbo

@@ -6,7 +6,7 @@ tags: ["baby", "babyfur", "diaper", "abdl", "ine", "lizard", "reptile", "scaly",
 thumbnail: "/images/blog/baby-ines-smash-cake.jpg"
 artists: ["VesselBossaNova"]
 fa_id: 54703735
-summary: "It's Baby Ine's birthday!! And he gets that whole cake all to himself! Hope you enjoy it little guy! 😊 Art by VesselBossaNova Check out my webcomic, Aww,..."
+summary: "It's Baby Ine's birthday!! And he gets that whole cake all to himself! Hope you enjoy it little guy! 😊 Art by VesselBossaNova"
 ---
 
 It's Baby Ine's birthday!! And he gets that whole cake all to himself! Hope you enjoy it little guy! 😊

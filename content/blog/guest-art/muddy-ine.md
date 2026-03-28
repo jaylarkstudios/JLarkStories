@@ -10,4 +10,4 @@ fa_id: 51373678
 summary: "Uh oh. Little Ine had a little too much fun and now gonna need a baff. And you better believe his momma's gunna have a few words. 😠😅 Art..."
 ---
 
-Uh oh. Little Ine had a little too much fun and now gonna need a baff. And you better believe his momma's gunna have a few words. 😠😅 Art by [ masterlupus](/user/masterlupus)!
+Uh oh. Little Ine had a little too much fun and now gonna need a baff. And you better believe his momma's gunna have a few words. 😠😅 Art by masterlupus!

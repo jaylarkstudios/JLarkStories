@@ -12,4 +12,4 @@ summary: "Eli sure loves his bottle! ^^ He usually doesn't milk in it though. He
 
 Eli sure loves his bottle! ^^ He usually doesn't milk in it though. He likes to fill it with diet soda! Don't tell anyone! 🤫
 
-A gift from [ Scarbo](/user/scarbo) made by AnmiaDeRosa
+A gift from Scarbo made by AnmiaDeRosa

@@ -12,4 +12,4 @@ summary: "Maiara's mummy outfit looks amazing, especially considering the theme 
 
 Maiara's mummy outfit looks amazing, especially considering the theme for AWU 2022! 😁
 
-A commission by [ DragonessDeanna](/user/dragonessdeanna)
+A commission by DragonessDeanna

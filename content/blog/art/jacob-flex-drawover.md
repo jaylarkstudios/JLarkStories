@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["wolf", "muscle", "musclefur", "flex", "arms", "chest", "pecs", "pectorals", "photo", "photography", "drawover", "male"]
 thumbnail: "/images/blog/jacob-flex-drawover.jpg"
 fa_id: 58977423
-summary: "A draw-over for my pal, Jacob Wyldclaw, showing off the gains he's been making at the gym! Good job bro, your doing great! Check out my webcomic, Aww,..."
+summary: "A draw-over for my pal, Jacob Wyldclaw, showing off the gains he's been making at the gym! Good job bro, your doing great!"
 ---
 
 A draw-over for my pal, Jacob Wyldclaw, showing off the gains he's been making at the gym! Good job bro, your doing great!

@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["bird", "chozo", "blazing", "phoenix", "fire", "red", "orange", "yellow", "digital", "sketch", "gift", "blush", "male"]
 thumbnail: "/images/blog/blazing-phoenix-the-chozo.jpg"
 fa_id: 53499859
-summary: "A gift for my friend, Blazing Phoenix the Chozo. Such a precious, handsome birb! ^>^ Check out my webcomic, Aww, Feathers! at..."
+summary: "A gift for my friend, Blazing Phoenix the Chozo. Such a precious, handsome birb! ^>^"
 ---
 
 A gift for my friend, Blazing Phoenix the Chozo. Such a precious, handsome birb! ^>^

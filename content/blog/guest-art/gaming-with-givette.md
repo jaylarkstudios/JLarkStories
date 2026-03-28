@@ -10,4 +10,4 @@ fa_id: 51410180
 summary: "Little Ine's having a blast playing games with his sitter. He loves racing games, especially when she lets him win! A commission by The..."
 ---
 
-Little Ine's having a blast playing games with his sitter. He loves racing games, especially when she lets him win! A commission by The Maned Attraction, Givette the otter by [ Scarbo](/user/scarbo)
+Little Ine's having a blast playing games with his sitter. He loves racing games, especially when she lets him win! A commission by The Maned Attraction, Givette the otter by Scarbo

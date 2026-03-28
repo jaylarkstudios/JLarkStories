@@ -10,6 +10,6 @@ summary: "\"Wait, phase two...?\" Ine said, freezing in place. What does he mean
 
 "Wait, phase two...?" Ine said, freezing in place. What does he mean by phase two?? He felt his heart beating faster in anticipation. Or maybe for some other reason...
 
-Part 10 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 10 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

@@ -6,9 +6,9 @@ tags: ["female", "wolf", "magna", "armello", "flex", "biceps", "game", "fanart"]
 thumbnail: "/images/blog/magnas-gun-show.jpg"
 created_date: "circa February 2019"
 fa_id: 64271536
-summary: "This is what you get when you carry a shield around all day that's almost as big as you are! A commission for Scarbo/user/scarbo Check out..."
+summary: "This is what you get when you carry a shield around all day that's almost as big as you are! A commission for Scarbo"
 ---
 
 This is what you get when you carry a shield around all day that's almost as big as you are!
 
-A commission for [ Scarbo](/user/scarbo)
+A commission for Scarbo

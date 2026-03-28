@@ -9,4 +9,4 @@ fa_id: 51408828
 summary: "Scarbo is dropping a used diaper into the garbage pail, happy that he was able to wear it. Also, don'tcha just love his pretty pink..."
 ---
 
-Scarbo is dropping a used diaper into the garbage pail, happy that he was able to wear it. Also, don'tcha just love his pretty pink pajamas? ^^ A commission for [ Scarbo](/user/scarbo)
+Scarbo is dropping a used diaper into the garbage pail, happy that he was able to wear it. Also, don'tcha just love his pretty pink pajamas? ^^ A commission for Scarbo

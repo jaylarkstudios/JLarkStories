@@ -6,9 +6,9 @@ tags: ["male", "anubis", "jackal", "dog", "canine", "egypt", "egyptian", "god", 
 thumbnail: "/images/blog/anubis-in-briefs.jpg"
 artists: ["LasmarineEla"]
 fa_id: 62786151
-summary: "The Egyptian god of the underworld is dressed lightly for the heat! Lineart by LasmarineEla/user/lasmarineela, colored with permission for Scarbo/user/scarbo..."
+summary: "The Egyptian god of the underworld is dressed lightly for the heat! Lineart by LasmarineEla, colored with permission for Scarbo..."
 ---
 
 The Egyptian god of the underworld is dressed lightly for the heat!
 
-Lineart by [ LasmarineEla](/user/lasmarineela), colored with permission for [ Scarbo](/user/scarbo)
+Lineart by LasmarineEla, colored with permission for Scarbo

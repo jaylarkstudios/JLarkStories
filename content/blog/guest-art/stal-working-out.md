@@ -12,4 +12,4 @@ summary: "\"Oh hey! You caught me in the middle of a workout. You can stay and w
 
 "Oh hey! You caught me in the middle of a workout. You can stay and watch if you want to. Umm, maybe don't stare though...? 😅"
 
-Made by [ donttouchmylasagna](/user/donttouchmylasagna)
+Made by donttouchmylasagna

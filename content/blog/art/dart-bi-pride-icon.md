@@ -10,4 +10,4 @@ summary: "A bi pride icon for Dart! Thanks for letting me do this for you, espec
 
 A bi pride icon for Dart! Thanks for letting me do this for you, especially during pride month. Be proud of who you are!
 
-A commission for [ Dartboardwolf](/user/dartboardwolf)
+A commission for Dartboardwolf

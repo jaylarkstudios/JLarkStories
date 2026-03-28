@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["painting", "scenery", "silhouette", "tree", "bats", "moon", "stars", "night", "sky", "acrylic", "canvas"]
 thumbnail: "/images/blog/ocober-night-sky.jpg"
 fa_id: 53973356
-summary: "My wife and I attended a painting class for date night on Friday. It was fun! Here's mine. 🦇 🌝 Made with acrylic on canvas. Check out my webcomic, Aww,..."
+summary: "My wife and I attended a painting class for date night on Friday. It was fun! Here's mine. 🦇 🌝 Made with acrylic on canvas."
 ---
 
 My wife and I attended a painting class for date night on Friday. It was fun! Here's mine. 🦇 🌝

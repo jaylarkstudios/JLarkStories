@@ -6,9 +6,9 @@ tags: ["male", "ine", "coatl", "awwfeathers", "muscle", "musclefur", "flex", "gy
 thumbnail: "/images/blog/ine-hulking-at-the-gym.jpg"
 artists: ["Venjii"]
 fa_id: 63804874
-summary: "Wow, those protein shakes are no joke! 💪😁💦 A surprise gift commissioned by lycanlover777/user/lycanlover777, made by Venjii! Thanks a ton bro! Many tons, hehe!..."
+summary: "Wow, those protein shakes are no joke! 💪😁💦 A surprise gift commissioned by lycanlover777, made by Venjii! Thanks a ton bro! Many tons, hehe!..."
 ---
 
 Wow, those protein shakes are no joke! 💪😁💦
 
-A surprise gift commissioned by [ lycanlover777](/user/lycanlover777), made by Venjii! Thanks a ton bro! (Many tons, hehe!)
+A surprise gift commissioned by lycanlover777, made by Venjii! Thanks a ton bro! (Many tons, hehe!)

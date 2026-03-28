@@ -10,6 +10,6 @@ summary: "With both arms and legs grown to more than double their previous size,
 
 With both arms and legs grown to more than double their previous size, Ine's chest was beginning to feel tight with the strain of lifting it all. Then suddenly, that tightness became more and more intense... until he felt a surge of strength as his chest and abdomen exploded outward!
 
-Part 6 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 6 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >

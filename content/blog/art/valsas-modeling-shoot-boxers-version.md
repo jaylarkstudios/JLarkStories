@@ -9,4 +9,4 @@ fa_id: 51286099
 summary: "Valsa is ready for his photo shoot! Be sure to get his good side! Ah, who are we kidding. Every side is his good side! 😉 A commission for..."
 ---
 
-Valsa is ready for his photo shoot! Be sure to get his good side! Ah, who are we kidding. Every side is his good side! 😉 A commission for [ Scarbo](/user/scarbo). I'm very pleased with the body proportions on this one!
+Valsa is ready for his photo shoot! Be sure to get his good side! Ah, who are we kidding. Every side is his good side! 😉 A commission for Scarbo. I'm very pleased with the body proportions on this one!

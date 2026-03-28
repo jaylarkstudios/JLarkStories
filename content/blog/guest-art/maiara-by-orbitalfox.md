@@ -6,7 +6,7 @@ tags: ["female", "maiara", "horse", "equine", "avatar", "profile", "pic", "icon"
 thumbnail: "/images/blog/maiara-by-orbitalfox.jpg"
 artists: ["OrbitalFox"]
 fa_id: 62905209
-summary: "An icon for my wife, Maiara, made by OrbitalFox as a raffle prize during MerleKoz's subathon! She looks very pretty, as always. 💙 Check out my webcomic, Aww,..."
+summary: "An icon for my wife, Maiara, made by OrbitalFox as a raffle prize during MerleKoz's subathon! She looks very pretty, as always. 💙"
 ---
 
 An icon for my wife, Maiara, made by OrbitalFox as a raffle prize during MerleKoz's subathon! She looks very pretty, as always. 💙

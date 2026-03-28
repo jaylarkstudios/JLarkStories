@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["inktober", "inktober2023", "sketch", "saddle", "bird", "lark", "flying", "ride", "child", "kidfur", "daughter", "piggy", "back"]
 thumbnail: "/images/blog/inktober-2023-18-saddle.jpg"
 fa_id: 54108695
-summary: "Someday she'll be too big for this. Best make this moment count! 🥰🪽 Check out my webcomic, Aww, Feathers! at https://awwfeathers.comhttps://awwfeathers.com"
+summary: "Someday she'll be too big for this. Best make this moment count! 🥰🪽"
 ---
 
 Someday she'll be too big for this. Best make this moment count! 🥰🪽

@@ -12,4 +12,4 @@ summary: "Little Ine says, \"Hey! This is my favorite story. It has dragons in i
 
 Little Ine says, "Hey! This is my favorite story. It has dragons in it! Wanna read with me? I'm really good at doing the voices!"
 
-Made by [ Mouffetter](/user/mouffetter)
+Made by Mouffetter

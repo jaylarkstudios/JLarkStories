@@ -6,7 +6,7 @@ tags: ["ine", "awwfeathers", "reptile", "scaly", "lizard", "celebrate", "birthda
 thumbnail: "/images/blog/happy-birthday-ine.jpg"
 artists: ["DouglasCorgi"]
 fa_id: 54715906
-summary: "A birthday gift from my buddy, DouglasCorgi! Thanks so much! Check out my webcomic, Aww, Feathers! at https://awwfeathers.comhttps://awwfeathers.com"
+summary: "A birthday gift from my buddy, DouglasCorgi! Thanks so much!"
 ---
 
 A birthday gift from my buddy, DouglasCorgi! Thanks so much!

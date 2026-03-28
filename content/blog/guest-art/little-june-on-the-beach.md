@@ -6,9 +6,9 @@ tags: ["little", "june", "dolphin", "kidfur", "littlefur", "babyfur", "sea", "tu
 thumbnail: "/images/blog/little-june-on-the-beach.jpg"
 artists: ["DaisySun"]
 fa_id: 52731663
-summary: "Helping out a friend. 😊 Styled after the turtle scene from Disney's Moana! 🐢 Even as a child, she has a kind an caring heart! 🥰 Art by DaisySun/user/daisysun..."
+summary: "Helping out a friend. 😊 Styled after the turtle scene from Disney's Moana! 🐢 Even as a child, she has a kind an caring heart! 🥰 Art by DaisySun..."
 ---
 
 Helping out a friend. 😊 Styled after the turtle scene from Disney's Moana! 🐢 Even as a child, she has a kind an caring heart! 🥰
 
-Art by [ DaisySun](/user/daisysun)
+Art by DaisySun

@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["maiara", "horse", "equine", "hair", "cut", "mane", "comic", "female"]
 thumbnail: "/images/blog/maiaras-mane-cut.jpg"
 fa_id: 59831266
-summary: "My wife got her hair cut without telling me! Of course, she's beautiful no matter the length of her mane, but it still took me by surprise! 😮🥰 Check out my..."
+summary: "My wife got her hair cut without telling me! Of course, she's beautiful no matter the length of her mane, but it still took me by surprise! 😮🥰"
 ---
 
 My wife got her hair cut without telling me! Of course, she's beautiful no matter the length of her mane, but it still took me by surprise! 😮🥰

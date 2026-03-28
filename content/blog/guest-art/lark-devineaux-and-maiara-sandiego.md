@@ -6,9 +6,9 @@ tags: ["chase", "devineaux", "carmen", "sandiego", "lark", "maiara", "bird", "ho
 thumbnail: "/images/blog/lark-devineaux-and-maiara-sandiego.jpg"
 artists: ["DrakeMagick"]
 fa_id: 53051593
-summary: "\"La jument rouge! No matter where you flee, I will always be close on your tail!\" A delightful commission by DrakeMagick/user/drakemagick of Lark and Maiara..."
+summary: "\"La jument rouge! No matter where you flee, I will always be close on your tail!\" A delightful commission by DrakeMagick of Lark and Maiara..."
 ---
 
 "La jument rouge! No matter where you flee, I will always be close on your tail!"
 
-A delightful commission by [ DrakeMagick](/user/drakemagick) of Lark and Maiara dressed as Chase Deineaux and Carmen Sandiego, just in time for this year's spy themed Anthro Weekend Utah!
+A delightful commission by DrakeMagick of Lark and Maiara dressed as Chase Deineaux and Carmen Sandiego, just in time for this year's spy themed Anthro Weekend Utah!

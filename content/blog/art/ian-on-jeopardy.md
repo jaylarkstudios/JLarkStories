@@ -10,4 +10,4 @@ summary: "Ian the gecko achieved his lifelong dream of appearing on the hit game
 
 Ian the gecko achieved his lifelong dream of appearing on the hit gameshow Jeopardy and meeting his hero, the GOAT himself, Ken Jennings! Ian asked me to depict Ken as a breed called the Kinder goat because it originates from Washington State, which is where Ken was born!
 
-A commission for [ Ian McGecko](/user/ianthegecko)
+A commission for Ian McGecko

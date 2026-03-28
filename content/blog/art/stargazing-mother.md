@@ -10,6 +10,6 @@ summary: "A soon-to-be mother lies on a grassy hill, watching the stars above an
 
 A soon-to-be mother lies on a grassy hill, watching the stars above and anticipating the arrival of her own gift from the heavens. 💞
 
-A commission for [ LasmarineEla](/user/lasmarineela) of his original species, the Garia, who tend to get very large when they're expecting! It's my first time drawing a pregnancy-related piece, and I'm grateful for the opportunity! 🥰
+A commission for LasmarineEla of his original species, the Garia, who tend to get very large when they're expecting! It's my first time drawing a pregnancy-related piece, and I'm grateful for the opportunity! 🥰
 
 🔗 Alternate Version

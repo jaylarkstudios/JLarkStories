@@ -6,7 +6,7 @@ tags: ["muscle", "musclefur", "lifting", "weights", "deadlift", "barbell", "geck
 thumbnail: "/images/blog/ian-deadlift.jpg"
 created_date: "February 2019"
 fa_id: 57775882
-summary: "Ian's getting ready to deadlift. And by the look of those arms, it won't be the first time! 😤 A commission for Ian McGecko! Check out my..."
+summary: "Ian's getting ready to deadlift. And by the look of those arms, it won't be the first time! 😤 A commission for Ian McGecko!"
 ---
 
 Ian's getting ready to deadlift. And by the look of those arms, it won't be the first time! 😤

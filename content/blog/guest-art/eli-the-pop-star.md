@@ -6,7 +6,7 @@ tags: ["male", "femboy", "eli", "eastern", "dragon", "pop", "star", "chibi", "an
 thumbnail: "/images/blog/eli-the-pop-star.jpg"
 artists: ["Avelin_Doggo"]
 fa_id: 63034962
-summary: "Awesome colored sketch by Avelin_Doggo Telegram of Eli dressed up as a pop star! He would absolutely adore that outfit! Check out my webcomic, Aww, Feathers!..."
+summary: "Awesome colored sketch by Avelin_Doggo Telegram of Eli dressed up as a pop star! He would absolutely adore that outfit!"
 ---
 
 Awesome colored sketch by Avelin_Doggo (Telegram) of Eli dressed up as a pop star! He would absolutely adore that outfit!

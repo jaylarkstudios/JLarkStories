@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["male", "eastern", "dragon", "eli", "animation", "2d", "fluffy", "blue", "purple", "cyan", "kiss", "pucker", "hearts"]
 thumbnail: "/images/blog/kissy-face-eli-animated.gif"
 fa_id: 64066473
-summary: "A simple animation I made for Eli's stream over at Eli's Cozy Corner! Don't forget to ask for some fluffy goodnight kisses when you come visit! 😘 Check out my..."
+summary: "A simple animation I made for Eli's stream over at Eli's Cozy Corner! Don't forget to ask for some fluffy goodnight kisses when you come visit! 😘"
 ---
 
 A simple animation I made for Eli's stream over at Eli's Cozy Corner! Don't forget to ask for some fluffy goodnight kisses when you come visit! 😘

@@ -10,6 +10,6 @@ summary: "Taylor, the little jeet pup, tried to sneak himself a little treat... 
 
 Taylor, the little jeet pup, tried to sneak himself a little treat... or two. Unfortunately he was caught in the act!
 
-A commission for [ Kakiookami](/user/kakiookami) Thanks a lot!
+A commission for Kakiookami Thanks a lot!
 
 🔗ABDL Version

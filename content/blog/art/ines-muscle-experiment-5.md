@@ -10,6 +10,6 @@ summary: "Ine's right leg filled out next, its sudden increase in weight causing
 
 Ine's right leg filled out next, its sudden increase in weight causing his foot to crash down to the floor!
 
-Part 5 of a muscle growth sequence commission for [ lycanlover777](/user/lycanlover777)
+Part 5 of a muscle growth sequence commission for lycanlover777
 
 < Prev | Next >
