@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+</section>
+{{ with .Content }}
+  <section class="reviews-intro">
+    {{ . }}
+  </section>
+{{ end }}
+<section class="post-list">
+  {{ $paginator := .Paginate (.RegularPagesRecursive.ByDate.Reverse) }}
+  {{ range $paginator.Pages }}
+    {{ partial "post-card.html" . }}
+  {{ end }}
+</section>
+{{ partial "pagination.html" . }}
+{{ end }}
