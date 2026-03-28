@@ -715,7 +715,7 @@ p {
 .post-nav {
   display: flex;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 1.5rem;
   margin-top: 3rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
@@ -729,12 +729,14 @@ p {
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  max-width: 45%;
+  flex: 1;
+  text-decoration: none;
   transition: border-color var(--transition);
 }
 
 .post-nav a:hover {
   border-color: var(--accent);
+  text-decoration: none;
 }
 
 .post-nav-label {
@@ -749,9 +751,15 @@ p {
   font-size: 0.95rem;
 }
 
+.post-nav-random {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  align-self: stretch;
+}
+
 .post-nav-next {
   text-align: right;
-  margin-left: auto;
 }
 
 /* ---- Page Header ---- */

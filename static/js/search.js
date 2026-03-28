@@ -1,5 +1,19 @@
 document.addEventListener('DOMContentLoaded', function () {
   // --- Search ---
+  // --- Random Post ---
+  document.querySelectorAll('.random-post-link').forEach(function (link) {
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      try {
+        var urls = JSON.parse(link.getAttribute('data-urls'));
+        if (urls && urls.length) {
+          window.location.href = urls[Math.floor(Math.random() * urls.length)];
+        }
+      } catch (err) {}
+    });
+  });
+
+  // --- Search ---
   var input = document.querySelector('.search-input');
   var resultsContainer = document.querySelector('.search-results');
   if (!input || !resultsContainer) return;
@@ -79,16 +93,4 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  // --- Random Post ---
-  document.querySelectorAll('.random-post-link').forEach(function (link) {
-    link.addEventListener('click', function (e) {
-      e.preventDefault();
-      try {
-        var urls = JSON.parse(link.getAttribute('data-urls'));
-        if (urls && urls.length) {
-          window.location.href = urls[Math.floor(Math.random() * urls.length)];
-        }
-      } catch (err) {}
-    });
-  });
 });

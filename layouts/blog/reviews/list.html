@@ -6,7 +6,7 @@
   {{ if $pages }}
     {{ $urls := slice }}
     {{ range $pages }}{{ $urls = $urls | append .Permalink }}{{ end }}
-    <a href="#" class="random-post-link" data-urls='{{ $urls | jsonify }}'>Random Post</a>
+    <a href="#" class="random-post-link" {{ printf "data-urls=%s" ($urls | jsonify) | safeHTMLAttr }}>Random Post</a>
   {{ end }}
 </section>
 {{ with .Content }}

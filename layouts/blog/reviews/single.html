@@ -51,6 +51,11 @@
         <span class="post-nav-title">{{ .Title }}</span>
       </a>
     {{ end }}
+    {{ $urls := slice }}
+    {{ range .CurrentSection.RegularPages }}{{ $urls = $urls | append .Permalink }}{{ end }}
+    <a href="#" class="post-nav-random random-post-link" {{ printf "data-urls=%s" ($urls | jsonify) | safeHTMLAttr }}>
+      <span class="post-nav-label">Random</span>
+    </a>
     {{ with .NextInSection }}
       <a href="{{ .Permalink }}" class="post-nav-next">
         <span class="post-nav-label">Next &raquo;</span>
