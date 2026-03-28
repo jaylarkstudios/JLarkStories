@@ -517,11 +517,6 @@ p {
   background: var(--accent-glow);
 }
 
-.social-links .social-link svg {
-  width: 20px;
-  height: 20px;
-}
-
 /* ---- Single Blog Post ---- */
 
 .blog-single {
@@ -820,11 +815,6 @@ p {
 
 .footer-social .social-link:hover {
   color: var(--accent);
-}
-
-.footer-social .social-link svg {
-  width: 18px;
-  height: 18px;
 }
 
 .footer-info {
