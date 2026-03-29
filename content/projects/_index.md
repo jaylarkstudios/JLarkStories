@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "Long-running projects and creative endeavors."
+description: "My longer-running creative projects."
 ---
