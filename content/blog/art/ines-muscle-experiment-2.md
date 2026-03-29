@@ -6,10 +6,10 @@ tags: ["ine", "muscle", "growth", "sequence", "arm", "bicep", "comic", "lab", "e
 thumbnail: "/images/blog/ines-muscle-experiment-2.jpg"
 fa_id: 54573353
 summary: "Ine stood on the tiled floor of Jacob's lab, waiting for something to happen. He didn't have to wait long however before his right arm suddenly exploded..."
+previous: "/blog/art/ines-muscle-experiment-1/"
+next: "/blog/art/ines-muscle-experiment-3/"
 ---
 
 Ine stood on the tiled floor of Jacob's lab, waiting for something to happen. He didn't have to wait long however before his right arm suddenly exploded outward, instantly filling out with muscle and causing him to nearly tip over!
 
 Part 2 of a muscle growth sequence commission for lycanlover777
-
-< Prev | Next >

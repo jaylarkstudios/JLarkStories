@@ -56,6 +56,17 @@
     {{ .Content }}
   </div>
 
+  {{ if or .Params.previous .Params.next }}
+    <nav class="sequence-nav">
+      {{ with .Params.previous }}
+        <a href="{{ . }}" class="sequence-nav-link sequence-nav-prev">&lsaquo; Prev</a>
+      {{ end }}
+      {{ with .Params.next }}
+        <a href="{{ . }}" class="sequence-nav-link sequence-nav-next">Next &rsaquo;</a>
+      {{ end }}
+    </nav>
+  {{ end }}
+
   <p class="blog-single-author">&mdash; Lark</p>
 
   <nav class="post-nav">

@@ -6,10 +6,10 @@ tags: ["male", "ine", "hyper", "muscle", "growth", "sequence", "comic", "lab", "
 thumbnail: "/images/blog/ines-muscle-experiment-13.jpg"
 fa_id: 63130728
 summary: "Suddenly, just when the pressure felt too great, Ine rocketed upward, crashing straight through the ceiling! Dust and debris showered down around him and his..."
+previous: "/blog/art/ines-muscle-experiment-12/"
+next: "/blog/art/ines-muscle-experiment-14/"
 ---
 
 Suddenly, just when the pressure felt too great, Ine rocketed upward, crashing straight through the ceiling! Dust and debris showered down around him and his growth finally slowed to a halt, like an explosion that had finally burned through all its fuel.
 
 Part 13 of a muscle growth sequence commission for lycanlover777
-
-< Prev | Next >

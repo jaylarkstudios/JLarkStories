@@ -711,6 +711,31 @@ p {
   font-style: italic;
 }
 
+/* Sequence navigation */
+
+.sequence-nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.sequence-nav-link {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.85rem;
+  color: var(--accent);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  transition: border-color var(--transition), color var(--transition);
+}
+
+.sequence-nav-link:hover {
+  border-color: var(--accent);
+  color: var(--accent-hover);
+  text-decoration: none;
+}
+
 /* Post navigation */
 
 .post-nav {

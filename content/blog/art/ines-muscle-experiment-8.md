@@ -6,10 +6,10 @@ tags: ["ine", "muscle", "growth", "sequence", "tail", "comic", "lab", "experimen
 thumbnail: "/images/blog/ines-muscle-experiment-8.jpg"
 fa_id: 55948917
 summary: "Ine's heart--also larger to support his new size--pounded in his chest, until it gradually slowed and stabilized. He felt whatever enhanced biological process..."
+previous: "/blog/art/ines-muscle-experiment-7/"
+next: "/blog/art/ines-muscle-experiment-9/"
 ---
 
 Ine's heart--also larger to support his new size--pounded in his chest, until it gradually slowed and stabilized. He felt whatever enhanced biological process that had caused the transformation go dormant. He stood and began to stretch and flex. And he grinned delightedly at the sight of each rippling muscle. The experiment was a success!
 
 Part 8 of a muscle growth sequence commission for lycanlover777
-
-< Prev | Next >

@@ -6,10 +6,9 @@ tags: ["ine", "muscle", "growth", "sequence", "comic", "lab", "experiment", "spe
 thumbnail: "/images/blog/ines-muscle-experiment-1.jpg"
 fa_id: 54573271
 summary: "Ine's buddy Jacob asked if he would agree to let him run some experiments on him in his muscle growth lab. Ine agreed, perhaps not realizing that he was in for..."
+next: "/blog/art/ines-muscle-experiment-2/"
 ---
 
 Ine's buddy Jacob asked if he would agree to let him run some experiments on him in his muscle growth lab. Ine agreed, perhaps not realizing that he was in for quite the ride...
 
 Part 1 of a muscle growth sequence commission for lycanlover777
-
-Next >

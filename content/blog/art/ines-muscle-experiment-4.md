@@ -6,10 +6,10 @@ tags: ["ine", "muscle", "growth", "sequence", "arm", "bicep", "comic", "lab", "e
 thumbnail: "/images/blog/ines-muscle-experiment-4.jpg"
 fa_id: 55127651
 summary: "Arms now even, Ine's left leg suddenly followed, expanding in both girth and length, rocketing him up off the floor with his still regular-sized right leg..."
+previous: "/blog/art/ines-muscle-experiment-3/"
+next: "/blog/art/ines-muscle-experiment-5/"
 ---
 
 Arms now even, Ine's left leg suddenly followed, expanding in both girth and length, rocketing him up off the floor with his still regular-sized right leg dangling uselessly in the air!
 
 Part 4 of a muscle growth sequence commission for lycanlover777
-
-< Prev | Next >

@@ -6,10 +6,10 @@ tags: ["ine", "muscle", "growth", "sequence", "tail", "comic", "lab", "experimen
 thumbnail: "/images/blog/ines-muscle-experiment-10.jpg"
 fa_id: 61409717
 summary: "\"Wait, phase two...?\" Ine said, freezing in place. What does he mean by phase two?? He felt his heart beating faster in anticipation. Or maybe for some other..."
+previous: "/blog/art/ines-muscle-experiment-9/"
+next: "/blog/art/ines-muscle-experiment-11/"
 ---
 
 "Wait, phase two...?" Ine said, freezing in place. What does he mean by phase two?? He felt his heart beating faster in anticipation. Or maybe for some other reason...
 
 Part 10 of a muscle growth sequence commission for lycanlover777
-
-< Prev | Next >
