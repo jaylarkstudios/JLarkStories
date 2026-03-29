@@ -422,6 +422,8 @@ p {
   overflow: hidden;
   display: flex;
   transition: border-color var(--transition), box-shadow var(--transition);
+  position: relative;
+  cursor: pointer;
 }
 
 .post-card:hover {
@@ -466,6 +468,13 @@ p {
   color: var(--text-muted);
 }
 
+.post-card .category-badge,
+.post-card .tag-pill,
+.post-card .artist-badge {
+  position: relative;
+  z-index: 1;
+}
+
 .category-badge {
   background: var(--accent-dim);
   color: var(--accent-hover);
@@ -489,6 +498,12 @@ p {
 .post-card-title a {
   color: #fff;
   text-decoration: none;
+}
+
+.post-card-title a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
 }
 
 .post-card-title a:hover {
@@ -1106,13 +1121,14 @@ p {
   .project-card-thumbnail {
     width: 100%;
     height: auto;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: auto;
   }
 
   .project-card-thumbnail img {
     width: 100%;
-    height: 100%;
+    height: auto;
     max-width: none;
+    object-fit: contain;
   }
 
   .blog-single-header h1 {
