@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "furry", "parenting"]
 link: "https://www.litterboxcomics.com/"
-rating: ["PG"]
+ratings: ["PG"]
 warnings: ["occasional language", "rude humor"]
 summary: "A feline couple raising their two little boys alongside the parents of several other species. Lots of pop culture references. Hilarious and incredibly..."
 ---

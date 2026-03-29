@@ -24,6 +24,24 @@
         {{ end }}
       </div>
     {{ end }}
+    {{ with .Params.link }}
+      <div class="review-link">
+        <span class="review-field-label">Website:</span> <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a>
+      </div>
+    {{ end }}
+    {{ with .Params.ratings }}
+      <div class="review-rating">
+        <span class="review-field-label">Rating:</span>
+        {{ range . }}
+          <a href="{{ "/ratings/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+    {{ with .Params.warnings }}
+      <div class="review-warnings">
+        <span class="warnings-label">Content Warnings:</span> {{ delimit . ", " }}
+      </div>
+    {{ end }}
   </header>
 
   {{ with .Params.thumbnail }}

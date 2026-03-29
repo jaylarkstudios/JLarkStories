@@ -2,13 +2,18 @@
 <section class="page-header">
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
-  {{ $pages := .RegularPagesRecursive }}
-  {{ if $pages }}
-    {{ $urls := slice }}
-    {{ range $pages }}{{ $urls = $urls | append .Permalink }}{{ end }}
-    <a href="#" class="random-post-link" {{ printf "data-urls=%s" ($urls | jsonify) | safeHTMLAttr }}>Random Post</a>
-  {{ end }}
 </section>
+{{ with .Content }}
+  <section class="reviews-intro">
+    {{ . }}
+  </section>
+{{ end }}
+{{ $pages := .RegularPagesRecursive }}
+{{ if $pages }}
+  {{ $urls := slice }}
+  {{ range $pages }}{{ $urls = $urls | append .Permalink }}{{ end }}
+  <a href="#" class="random-post-link" {{ printf "data-urls=%s" ($urls | jsonify) | safeHTMLAttr }}>Random Post</a>
+{{ end }}
 <section class="post-list">
   {{ $paginator := .Paginate (.RegularPagesRecursive.ByDate.Reverse) }}
   {{ range $paginator.Pages }}

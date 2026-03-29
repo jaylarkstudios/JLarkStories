@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="page-header">
+  <h1>Rating: {{ .Title }}</h1>
+  <p class="page-description">All posts rated "{{ .Title }}".</p>
+</section>
+<section class="post-list">
+  {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+  {{ range $paginator.Pages }}
+    {{ partial "post-card.html" . }}
+  {{ end }}
+</section>
+{{ partial "pagination.html" . }}
+{{ end }}

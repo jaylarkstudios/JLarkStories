@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "comedy"]
 link: "https://www.ozfoxes.com/fauxpas/"
-rating: ["PG"]
+ratings: ["PG"]
 warnings: ["mild suggestive themes"]
 summary: "A family of foxes living in an Australian human home with along with other animals. They frequently interact with other animals from the wild are ofte..."
 ---

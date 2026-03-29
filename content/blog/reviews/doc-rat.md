@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "comedy", "drama", "furry"]
 link: "https://www.docrat.com.au/"
-rating: ["PG"]
+ratings: ["PG"]
 warnings: ["violence"]
 summary: "A rat practicing medicine and living in Australia. The story takes place in a society of animals that are intelligent and civilized, but that still pr..."
 ---

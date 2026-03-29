@@ -22,9 +22,11 @@
         <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a>
       </div>
     {{ end }}
-    {{ with .Params.rating }}
+    {{ with .Params.ratings }}
       <div class="review-rating">
-        <a href="{{ "/ratings/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
+        {{ range . }}
+          <a href="{{ "/ratings/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
+        {{ end }}
       </div>
     {{ end }}
     {{ with .Params.warnings }}

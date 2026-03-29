@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "furry", "gaming", "paranormal"]
 link: "https://www.savestatecomic.com/"
-rating: ["G"]
+ratings: ["G"]
 summary: "A couple of canine siblings take up residence in a slightly haunted mansion to set up a top rate gaming den. Spooky things sometimes happen in the man..."
 ---
 

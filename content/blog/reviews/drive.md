@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "sci-fi", "space opera"]
 link: "https://www.drivecomic.com/"
-rating: ["PG"]
+ratings: ["PG"]
 warnings: ["mild language", "violence", "one instance of rear nudity"]
 summary: "\"The story is serious, the characters are hilarious\" (Jeff Kapalka). Drive takes place in a future in which humans steal faster than light travel and..."
 ---
