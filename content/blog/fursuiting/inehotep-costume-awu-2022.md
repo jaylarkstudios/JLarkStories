@@ -1,7 +1,7 @@
 ---
 title: "Inehotep Costume (AWU 2022)"
 date: 2023-04-07T14:39:47+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: ["ine", "awwfeathers", "fursuit", "pharaoh", "awu", "anthro", "weekend", "utah", "egyptian", "indiana", "jones", "bones", "inehotep", "snake", "staff", "cobra", "feathers", "lizard", "reptile", "scaly", "male"]
 thumbnail: "/images/blog/inehotep-costume-awu-2022.jpg"
 fa_id: 51679586

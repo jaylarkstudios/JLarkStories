@@ -36,14 +36,19 @@ title = "JLarkStories"
   weight = 5
 
 [[menu.main]]
+  name = "Fursuiting"
+  url = "/blog/fursuiting/"
+  weight = 6
+
+[[menu.main]]
   name = "Reviews"
   url = "/blog/reviews/"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 7
+  weight = 8
 
 # Site parameters
 [params]

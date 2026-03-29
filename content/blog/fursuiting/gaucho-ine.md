@@ -1,7 +1,7 @@
 ---
 title: "Gaucho Ine"
 date: 2024-11-26T12:25:23+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: ["fursuit", "ine", "awwfeathers", "scaly", "reptile", "lizard", "green", "red", "feathers", "poncho", "wolf", "cowboy", "hat", "gaucho", "photography", "male"]
 thumbnail: "/images/blog/gaucho-ine.jpg"
 fa_id: 58964837
