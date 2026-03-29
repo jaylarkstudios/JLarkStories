@@ -798,6 +798,10 @@ p {
   color: var(--accent-hover);
 }
 
+.post-nav .random-post-link {
+  margin-bottom: 0;
+}
+
 /* ---- Single Page (About, etc.) ---- */
 
 .single-page {
@@ -1043,6 +1047,7 @@ p {
 
   .post-nav a {
     max-width: 100%;
+    flex: none;
   }
 }
 
