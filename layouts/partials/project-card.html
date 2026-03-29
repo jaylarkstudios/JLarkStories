@@ -1,7 +1,7 @@
 <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" class="project-card">
   {{ with .Params.thumbnail }}
     <div class="project-card-thumbnail">
-      <img src="{{ . }}" alt="{{ $.Title }}">
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
     </div>
   {{ end }}
   <div class="project-card-content">

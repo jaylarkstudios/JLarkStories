@@ -4,11 +4,20 @@
   {{- partial "head.html" . -}}
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
   {{- partial "header.html" . -}}
-  <main class="content-wrapper">
+  <main id="main-content" class="content-wrapper">
     {{- block "main" . }}{{ end -}}
   </main>
   {{- partial "footer.html" . -}}
+
+  <a href="#" class="back-to-top" aria-label="Back to top">&uarr;</a>
+
+  <div class="lightbox-overlay" role="dialog" aria-label="Image viewer">
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <img src="" alt="">
+  </div>
+
   <script src="/js/search.js"></script>
   <script>
     // Mobile menu toggle
@@ -19,6 +28,52 @@
         toggle.addEventListener('click', function() {
           nav.classList.toggle('active');
           toggle.classList.toggle('active');
+        });
+      }
+
+      // Back to top
+      const backToTop = document.querySelector('.back-to-top');
+      if (backToTop) {
+        window.addEventListener('scroll', function() {
+          backToTop.classList.toggle('visible', window.scrollY > 400);
+        });
+        backToTop.addEventListener('click', function(e) {
+          e.preventDefault();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+
+      // Lightbox
+      const overlay = document.querySelector('.lightbox-overlay');
+      const lightboxImg = overlay ? overlay.querySelector('img') : null;
+      const closeBtn = overlay ? overlay.querySelector('.lightbox-close') : null;
+
+      if (overlay && lightboxImg) {
+        document.querySelectorAll('.blog-single-thumbnail, .blog-single-content img, .single-content img').forEach(function(img) {
+          img.style.cursor = 'zoom-in';
+          img.addEventListener('click', function() {
+            lightboxImg.src = this.src;
+            lightboxImg.alt = this.alt;
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
+          });
+        });
+
+        function closeLightbox() {
+          overlay.classList.remove('active');
+          document.body.style.overflow = '';
+        }
+
+        overlay.addEventListener('click', function(e) {
+          if (e.target === overlay) closeLightbox();
+        });
+
+        if (closeBtn) closeBtn.addEventListener('click', closeLightbox);
+
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && overlay.classList.contains('active')) {
+            closeLightbox();
+          }
         });
       }
     });

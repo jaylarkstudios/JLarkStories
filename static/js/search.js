@@ -62,15 +62,29 @@ document.addEventListener('DOMContentLoaded', function () {
     return div.innerHTML;
   }
 
+  var focusedIndex = -1;
+
   function closeResults() {
     resultsContainer.classList.remove('active');
     resultsContainer.innerHTML = '';
+    focusedIndex = -1;
+  }
+
+  function updateFocus() {
+    var items = resultsContainer.querySelectorAll('.search-result-item');
+    items.forEach(function (item, i) {
+      item.classList.toggle('focused', i === focusedIndex);
+    });
+    if (focusedIndex >= 0 && items[focusedIndex]) {
+      items[focusedIndex].scrollIntoView({ block: 'nearest' });
+    }
   }
 
   var debounceTimer;
   input.addEventListener('input', function () {
     var query = input.value.trim();
     clearTimeout(debounceTimer);
+    focusedIndex = -1;
     if (!query) { closeResults(); return; }
     debounceTimer = setTimeout(function () {
       loadIndex().then(function () {
@@ -81,7 +95,26 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   input.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') {
+    var items = resultsContainer.querySelectorAll('.search-result-item');
+
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (items.length) {
+        focusedIndex = (focusedIndex + 1) % items.length;
+        updateFocus();
+      }
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (items.length) {
+        focusedIndex = focusedIndex <= 0 ? items.length - 1 : focusedIndex - 1;
+        updateFocus();
+      }
+    } else if (e.key === 'Enter') {
+      if (focusedIndex >= 0 && items[focusedIndex]) {
+        e.preventDefault();
+        items[focusedIndex].click();
+      }
+    } else if (e.key === 'Escape') {
       closeResults();
       input.blur();
     }
