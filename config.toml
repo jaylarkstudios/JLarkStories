@@ -21,34 +21,39 @@ title = "JLarkStories"
   weight = 2
 
 [[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[[menu.main]]
   name = "My Art"
   url = "/blog/art/"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Guest Art"
   url = "/blog/guest-art/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "News"
   url = "/blog/news/"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Fursuiting"
   url = "/blog/fursuiting/"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Reviews"
   url = "/blog/reviews/"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 8
+  weight = 9
 
 # Site parameters
 [params]

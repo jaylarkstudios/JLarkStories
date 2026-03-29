@@ -564,6 +564,70 @@ p {
   color: var(--accent-hover);
 }
 
+/* ---- Project Cards ---- */
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.project-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  text-decoration: none;
+  transition: border-color var(--transition), box-shadow var(--transition);
+}
+
+.project-card:hover {
+  border-color: var(--accent-dim);
+  box-shadow: 0 2px 12px var(--accent-glow);
+}
+
+.project-card-thumbnail {
+  flex-shrink: 0;
+  width: 240px;
+  height: 240px;
+  overflow: hidden;
+}
+
+.project-card-thumbnail img {
+  display: block;
+  width: 240px;
+  height: 240px;
+  max-width: none;
+  object-fit: cover;
+}
+
+.project-card-content {
+  padding: 1.25rem 1.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card-title {
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.project-card:hover .project-card-title {
+  color: var(--accent);
+}
+
+.project-card-desc {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.project-card-desc p:last-child {
+  margin-bottom: 0;
+}
+
 /* ---- Recent Posts (Home) ---- */
 
 .recent-posts {
@@ -1057,6 +1121,21 @@ p {
   }
 
   .post-card-thumbnail img {
+    width: 200px;
+    height: 200px;
+    max-width: none;
+  }
+
+  .project-card {
+    flex-direction: column;
+  }
+
+  .project-card-thumbnail {
+    width: 200px;
+    height: 200px;
+  }
+
+  .project-card-thumbnail img {
     width: 200px;
     height: 200px;
     max-width: none;

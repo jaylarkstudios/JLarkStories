@@ -1,0 +1,11 @@
+<a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" class="project-card">
+  {{ with .Params.thumbnail }}
+    <div class="project-card-thumbnail">
+      <img src="{{ . }}" alt="{{ $.Title }}">
+    </div>
+  {{ end }}
+  <div class="project-card-content">
+    <h3 class="project-card-title">{{ .Title }}</h3>
+    <div class="project-card-desc">{{ .Content }}</div>
+  </div>
+</a>
