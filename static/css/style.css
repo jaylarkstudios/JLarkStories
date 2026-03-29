@@ -154,6 +154,7 @@ p {
 .search-wrapper {
   position: relative;
   flex-shrink: 0;
+  margin: 0 1rem;
 }
 
 .search-input {
@@ -286,7 +287,7 @@ p {
 
 .hero {
   text-align: center;
-  padding: 4rem 1rem 3rem;
+  padding: 2.5rem 1rem 1.5rem;
 }
 
 .hero-logo {
@@ -963,9 +964,8 @@ p {
 
 @media (max-width: 768px) {
   .search-wrapper {
-    order: 3;
-    width: 100%;
-    margin-top: 0.5rem;
+    flex: 1 1 100px;
+    min-width: 100px;
   }
 
   .search-input {
@@ -976,8 +976,8 @@ p {
     width: 100%;
   }
 
-  .header-inner {
-    flex-wrap: wrap;
+  .site-logo img {
+    height: 45px;
   }
 
   .nav-toggle {
@@ -1119,5 +1119,13 @@ p {
 
   .footer-social {
     gap: 0.5rem;
+  }
+
+  .site-logo img {
+    height: 36px;
+  }
+
+  .search-wrapper {
+    min-width: 80px;
   }
 }
