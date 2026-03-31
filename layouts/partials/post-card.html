@@ -1,4 +1,4 @@
-<article class="post-card">
+<article class="post-card" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
   {{ with .Params.thumbnail }}
     <a href="{{ $.Permalink }}" class="post-card-thumbnail">
       <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">

@@ -1106,6 +1106,15 @@ p {
     max-width: none;
   }
 
+  .post-card-thumbnail .cw-blur-wrapper > img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .prefs-modal {
+    max-height: 90vh;
+  }
+
   .project-card {
     flex-direction: column;
   }
@@ -1383,6 +1392,231 @@ p {
 .page-404 .home-link:hover {
   background: var(--accent-hover);
   color: #fff;
+}
+
+/* ---- Content Warnings ---- */
+
+.cw-blur-wrapper {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.cw-blur-wrapper.cw-active {
+  cursor: pointer;
+}
+
+.cw-blur-wrapper.cw-active > img {
+  filter: blur(20px) brightness(0.5);
+  transition: filter 0.3s ease;
+  pointer-events: none;
+}
+
+.cw-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  color: #fff;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.cw-blur-wrapper.cw-active .cw-overlay {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.cw-blur-wrapper:not(.cw-active) .cw-overlay {
+  display: none;
+}
+
+.cw-overlay-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.cw-overlay-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.cw-overlay-action {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.post-card-thumbnail .cw-blur-wrapper {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.post-card-thumbnail .cw-blur-wrapper > img {
+  width: 240px;
+  height: 240px;
+  max-width: none;
+  object-fit: cover;
+}
+
+.blog-single .cw-blur-wrapper {
+  display: block;
+  border-radius: var(--radius-lg);
+  max-width: 100%;
+}
+
+.blog-single .cw-blur-wrapper > img {
+  margin-bottom: 0;
+}
+
+/* ---- Preferences Modal ---- */
+
+.prefs-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1001;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.prefs-modal-overlay[hidden] {
+  display: none;
+}
+
+.prefs-modal {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  max-width: 500px;
+  width: 100%;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.prefs-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.prefs-modal-header h2 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.prefs-modal-close {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 1;
+}
+
+.prefs-modal-close:hover {
+  color: #fff;
+}
+
+.prefs-modal-body {
+  padding: 1.25rem 1.5rem;
+}
+
+.prefs-modal-body > p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.prefs-modal-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.prefs-checkbox-label {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: border-color var(--transition);
+}
+
+.prefs-checkbox-label:hover {
+  border-color: var(--accent-dim);
+}
+
+.prefs-checkbox {
+  accent-color: var(--accent);
+  width: 18px;
+  height: 18px;
+}
+
+.prefs-checkbox-label > span:first-of-type {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.prefs-description {
+  width: 100%;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  padding-left: 26px;
+}
+
+.prefs-modal-footer {
+  padding: 1rem 1.5rem;
+  border-top: 1px solid var(--border);
+  text-align: right;
+}
+
+.prefs-modal-save {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.prefs-modal-save:hover {
+  background: var(--accent-hover);
+}
+
+.prefs-link {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0;
+  margin-top: 0.5rem;
+  display: inline-block;
+  transition: color var(--transition);
+  font-family: inherit;
+}
+
+.prefs-link:hover {
+  color: var(--accent);
 }
 
 /* ---- Lightbox ---- */

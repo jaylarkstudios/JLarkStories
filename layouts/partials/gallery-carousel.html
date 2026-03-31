@@ -2,11 +2,11 @@
 <section class="gallery-section">
   <h2 class="section-heading">A Few Favorites</h2>
   <div class="gallery-carousel">
-    <div class="carousel-track" style="animation-duration: {{ mul (len .) 5 }}s">
+    <div class="carousel-track" style="animation-duration: {{ mul (len .) 5 }}s" data-slide-count="{{ len . }}" data-seconds-per-slide="5">
       {{ range . }}
         {{ $page := $.Site.GetPage . }}
         {{ with $page }}
-        <div class="carousel-slide">
+        <div class="carousel-slide" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
           <a href="{{ .Permalink }}">
             <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
           </a>
@@ -16,7 +16,7 @@
       {{ range . }}
         {{ $page := $.Site.GetPage . }}
         {{ with $page }}
-        <div class="carousel-slide">
+        <div class="carousel-slide" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
           <a href="{{ .Permalink }}">
             <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
           </a>

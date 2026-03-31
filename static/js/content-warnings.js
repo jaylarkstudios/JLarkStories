@@ -1,0 +1,228 @@
+document.addEventListener('DOMContentLoaded', function() {
+  var hideableGroups = window.__HIDEABLE_TAGS__;
+  if (!hideableGroups || !hideableGroups.length) return;
+
+  var STORAGE_KEY = 'jls-hidden-tags';
+
+  function getHiddenLabels() {
+    try {
+      var stored = localStorage.getItem(STORAGE_KEY);
+      return stored ? JSON.parse(stored) : [];
+    } catch(e) { return []; }
+  }
+
+  function saveHiddenLabels(labels) {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(labels));
+    } catch(e) {}
+  }
+
+  function getHiddenTagSet() {
+    var hiddenLabels = getHiddenLabels();
+    var tagSet = {};
+    hideableGroups.forEach(function(group) {
+      if (hiddenLabels.indexOf(group.label) !== -1) {
+        group.tags.forEach(function(tag) {
+          tagSet[tag.toLowerCase()] = true;
+        });
+      }
+    });
+    return tagSet;
+  }
+
+  function getMatchingLabels(postTags) {
+    var hiddenLabels = getHiddenLabels();
+    var matches = [];
+    hideableGroups.forEach(function(group) {
+      if (hiddenLabels.indexOf(group.label) === -1) return;
+      var hasMatch = group.tags.some(function(tag) {
+        return postTags.indexOf(tag.toLowerCase()) !== -1;
+      });
+      if (hasMatch) matches.push(group.label);
+    });
+    return matches;
+  }
+
+  function parseTags(el) {
+    var raw = el.getAttribute('data-tags');
+    if (!raw) return [];
+    return raw.split(',').map(function(t) { return t.trim().toLowerCase(); });
+  }
+
+  function shouldHide(el) {
+    var tags = parseTags(el);
+    if (!tags.length || (tags.length === 1 && tags[0] === '')) return false;
+    var hiddenTags = getHiddenTagSet();
+    return tags.some(function(t) { return hiddenTags[t]; });
+  }
+
+  function wrapImageWithBlur(img, matchingLabels) {
+    if (img.closest('.cw-blur-wrapper')) return;
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'cw-blur-wrapper cw-active';
+    wrapper.setAttribute('role', 'button');
+    wrapper.setAttribute('tabindex', '0');
+    wrapper.setAttribute('aria-label', 'Hidden content: ' + matchingLabels.join(', ') + '. Press to reveal.');
+
+    img.parentNode.insertBefore(wrapper, img);
+    wrapper.appendChild(img);
+
+    var overlay = document.createElement('div');
+    overlay.className = 'cw-overlay';
+    overlay.innerHTML =
+      '<span class="cw-overlay-icon">&#128065;&#xFE0E;</span>' +
+      '<span class="cw-overlay-text">Hidden (' + matchingLabels.join(', ') + ')</span>' +
+      '<span class="cw-overlay-action">Click to view</span>';
+    wrapper.appendChild(overlay);
+
+    function reveal(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      wrapper.classList.remove('cw-active');
+      wrapper.removeAttribute('role');
+      wrapper.removeAttribute('tabindex');
+      wrapper.removeAttribute('aria-label');
+    }
+
+    wrapper.addEventListener('click', reveal);
+    wrapper.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        reveal(e);
+      }
+    });
+  }
+
+  // Apply hiding to post card thumbnails
+  function processPostCards() {
+    document.querySelectorAll('.post-card[data-tags]').forEach(function(card) {
+      if (!shouldHide(card)) return;
+      var matchingLabels = getMatchingLabels(parseTags(card));
+      var img = card.querySelector('.post-card-thumbnail img');
+      if (img) wrapImageWithBlur(img, matchingLabels);
+    });
+  }
+
+  // Apply hiding to blog single page images
+  function processBlogSingle() {
+    var article = document.querySelector('.blog-single[data-tags]');
+    if (!article || !shouldHide(article)) return;
+    var matchingLabels = getMatchingLabels(parseTags(article));
+
+    var thumbnail = article.querySelector('.blog-single-thumbnail');
+    if (thumbnail) wrapImageWithBlur(thumbnail, matchingLabels);
+
+    article.querySelectorAll('.blog-single-content img').forEach(function(img) {
+      wrapImageWithBlur(img, matchingLabels);
+    });
+  }
+
+  // Remove hidden slides from carousel and recalculate animation
+  function processCarousel() {
+    var track = document.querySelector('.carousel-track');
+    if (!track) return;
+
+    var slides = track.querySelectorAll('.carousel-slide[data-tags]');
+    var removedCount = 0;
+
+    slides.forEach(function(slide) {
+      if (shouldHide(slide)) {
+        slide.remove();
+        removedCount++;
+      }
+    });
+
+    if (removedCount > 0) {
+      var originalCount = parseInt(track.getAttribute('data-slide-count'), 10) || 0;
+      var secondsPerSlide = parseInt(track.getAttribute('data-seconds-per-slide'), 10) || 5;
+      var uniqueRemoved = removedCount / 2;
+      var remainingCount = originalCount - uniqueRemoved;
+
+      if (remainingCount <= 0) {
+        var section = track.closest('.gallery-section');
+        if (section) section.style.display = 'none';
+      } else {
+        track.style.animationDuration = (remainingCount * secondsPerSlide) + 's';
+      }
+    }
+  }
+
+  // Preferences modal
+  function initModal() {
+    var modal = document.getElementById('prefs-modal');
+    var openBtn = document.getElementById('open-prefs-modal');
+    var closeBtn = modal ? modal.querySelector('.prefs-modal-close') : null;
+    var saveBtn = document.getElementById('prefs-save');
+    var optionsContainer = document.getElementById('prefs-options');
+
+    if (!modal || !openBtn || !optionsContainer) return;
+
+    var hiddenLabels = getHiddenLabels();
+    hideableGroups.forEach(function(group) {
+      var label = document.createElement('label');
+      label.className = 'prefs-checkbox-label';
+
+      var checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.className = 'prefs-checkbox';
+      checkbox.value = group.label;
+      checkbox.checked = hiddenLabels.indexOf(group.label) !== -1;
+
+      var text = document.createElement('span');
+      text.textContent = group.label;
+
+      var desc = document.createElement('span');
+      desc.className = 'prefs-description';
+      desc.textContent = group.description || '';
+
+      label.appendChild(checkbox);
+      label.appendChild(text);
+      label.appendChild(desc);
+      optionsContainer.appendChild(label);
+    });
+
+    function openModal() {
+      modal.hidden = false;
+      var firstFocusable = modal.querySelector('input, button');
+      if (firstFocusable) firstFocusable.focus();
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+      modal.hidden = true;
+      document.body.style.overflow = '';
+      openBtn.focus();
+    }
+
+    openBtn.addEventListener('click', openModal);
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) closeModal();
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && !modal.hidden) {
+        closeModal();
+      }
+    });
+
+    if (saveBtn) {
+      saveBtn.addEventListener('click', function() {
+        var checked = [];
+        optionsContainer.querySelectorAll('.prefs-checkbox:checked').forEach(function(cb) {
+          checked.push(cb.value);
+        });
+        saveHiddenLabels(checked);
+        closeModal();
+        window.location.reload();
+      });
+    }
+  }
+
+  processPostCards();
+  processBlogSingle();
+  processCarousel();
+  initModal();
+});

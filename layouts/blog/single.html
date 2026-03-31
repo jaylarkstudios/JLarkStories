@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="blog-single">
+<article class="blog-single" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
   <header class="blog-single-header">
     <h1>{{ .Title }}</h1>
     <div class="blog-single-meta">

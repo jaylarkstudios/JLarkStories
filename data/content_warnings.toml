@@ -1,0 +1,33 @@
+# Tags that can be hidden by users via the Preferences modal.
+# Each [[hideable]] entry becomes one checkbox in the modal.
+# "label" is what the user sees; "tags" lists matching tag values (case-insensitive).
+
+[[hideable]]
+label = "Underwear"
+description = "Characters in underwear or other revealing attire."
+tags = ["underwear", "panties", "briefs", "boxers", "speedo"]
+
+[[hideable]]
+label = "Swimwear"
+description = "Characters in a swimsuit."
+tags = ["swimwear", "swimsuit", "trunks", "bikini", "speedo"]
+
+[[hideable]]
+label = "PG Nudity"
+description = "Nude characters who normally wear clothes or with prominent butt or breasts."
+tags = ["swimwear", "swimsuit", "trunks", "bikini", "speedo"]
+
+[[hideable]]
+label = "ABDL/Babyfur"
+description = "Characters wearing diapers or in a mentally regressed state."
+tags = ["abdl", "babyfur", "diaper", "padded"]
+
+[[hideable]]
+label = "Musclefur"
+description = "Characters with very prominent muscles."
+tags = ["musclefur", "muscle"]
+
+[[hideable]]
+label = "Pregfur"
+description = "Characters depicted as pregnant."
+tags = ["pregfur", "pregnant", "pregnancy"]

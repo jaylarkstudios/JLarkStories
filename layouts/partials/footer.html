@@ -36,6 +36,9 @@
           RSS Feed
         </a>
       {{ end }}
+      {{ if .Site.Data.content_warnings.hideable }}
+        <button type="button" class="prefs-link" id="open-prefs-modal" aria-haspopup="dialog">Preferences</button>
+      {{ end }}
     </div>
   </div>
 </footer>
