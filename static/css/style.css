@@ -1011,18 +1011,6 @@ p {
   font-size: 0.85rem;
 }
 
-.footer-info .rss-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
-  color: var(--text-muted);
-  margin-top: 0.5rem;
-}
-
-.footer-info .rss-link:hover {
-  color: var(--accent);
-}
-
 /* ---- Utilities ---- */
 
 .sr-only {

@@ -27,15 +27,15 @@
           FurTrack
         </a>{{ end }}
       {{ end }}
-    </div>
-    <div class="footer-info">
-      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
       {{ with .OutputFormats.Get "RSS" }}
-        <a href="{{ .Permalink }}" class="rss-link">
+        <a href="{{ .Permalink }}" class="social-link rss-link" title="RSS Feed">
           <img src="/images/rss_white.png" alt="RSS" width="25" height="25">
           RSS Feed
         </a>
       {{ end }}
+    </div>
+    <div class="footer-info">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
       {{ if .Site.Data.content_warnings.hideable }}
         <button type="button" class="prefs-link" id="open-prefs-modal" aria-haspopup="dialog">Preferences</button>
       {{ end }}
