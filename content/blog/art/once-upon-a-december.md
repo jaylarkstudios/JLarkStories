@@ -7,6 +7,7 @@ thumbnail: "/images/blog/once-upon-a-december.jpg"
 created_date: "Apr 26, 2022"
 fa_id: 51398559
 summary: "🎶 \"…Hear this song and remember, soon you'll be home with me, once upon a December.\" A commission I just finished for Marcus and his..."
+timelapse: https://www.youtube.com/watch?v=ebm5Mk2AHVQ
 ---
 
 🎶 "…Hear this song and remember, soon you'll be home with me, once upon a December."

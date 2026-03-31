@@ -56,6 +56,21 @@
     {{ .Content }}
   </div>
 
+  {{ with .Params.timelapse }}
+    {{ $videoID := . }}
+    {{ if findRE `youtube\.com/watch\?v=` . }}
+      {{ $videoID = replaceRE `.*[?&]v=([^&]+).*` "$1" . }}
+    {{ else if findRE `youtu\.be/` . }}
+      {{ $videoID = replaceRE `.*youtu\.be/([^?]+).*` "$1" . }}
+    {{ end }}
+    <section class="timelapse-section">
+      <h2>Timelapse</h2>
+      <div class="timelapse-embed">
+        <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </section>
+  {{ end }}
+
   {{ if or .Params.previous .Params.next }}
     <nav class="sequence-nav">
       {{ with .Params.previous }}
