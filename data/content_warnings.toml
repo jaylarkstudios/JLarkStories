@@ -5,7 +5,7 @@
 [[hideable]]
 label = "Underwear"
 description = "Characters in underwear or other revealing attire other than swimwear."
-tags = ["underwear", "panties", "briefs", "boxers", "speedo"]
+tags = ["underwear", "panties", "briefs", "boxers", "speedo", "lingerie"]
 
 [[hideable]]
 label = "Swimwear"
