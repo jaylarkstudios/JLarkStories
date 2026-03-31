@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (!hideableGroups || !hideableGroups.length) return;
 
   var STORAGE_KEY = 'jls-hidden-tags';
+  var SEEN_KEY = 'jls-prefs-seen';
 
   function getHiddenLabels() {
     try {
@@ -189,22 +190,26 @@ document.addEventListener('DOMContentLoaded', function() {
       document.body.style.overflow = 'hidden';
     }
 
-    function closeModal() {
+    var openedByButton = false;
+
+    function dismissModal() {
       modal.hidden = true;
       document.body.style.overflow = '';
-      openBtn.focus();
+      if (openedByButton) openBtn.focus();
+      openedByButton = false;
+      try { localStorage.setItem(SEEN_KEY, '1'); } catch(e) {}
     }
 
     openBtn.addEventListener('click', openModal);
-    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    if (closeBtn) closeBtn.addEventListener('click', dismissModal);
 
     modal.addEventListener('click', function(e) {
-      if (e.target === modal) closeModal();
+      if (e.target === modal) dismissModal();
     });
 
     document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape' && !modal.hidden) {
-        closeModal();
+        dismissModal();
       }
     });
 
@@ -215,10 +220,15 @@ document.addEventListener('DOMContentLoaded', function() {
           checked.push(cb.value);
         });
         saveHiddenLabels(checked);
-        closeModal();
+        dismissModal();
         window.location.reload();
       });
     }
+
+    // Auto-open on first visit
+    try {
+      if (!localStorage.getItem(SEEN_KEY)) openModal();
+    } catch(e) {}
   }
 
   processPostCards();
