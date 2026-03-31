@@ -2,15 +2,19 @@
 {{ if gt $paginator.TotalPages 1 }}
 <nav class="pagination" aria-label="Page navigation">
   {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.First.URL }}" class="pagination-link pagination-first">&laquo;&laquo; First</a>
     <a href="{{ $paginator.Prev.URL }}" class="pagination-link pagination-prev">&laquo; Newer</a>
   {{ else }}
+    <span class="pagination-link pagination-first disabled">&laquo;&laquo; First</span>
     <span class="pagination-link pagination-prev disabled">&laquo; Newer</span>
   {{ end }}
   <span class="pagination-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
   {{ if $paginator.HasNext }}
     <a href="{{ $paginator.Next.URL }}" class="pagination-link pagination-next">Older &raquo;</a>
+    <a href="{{ $paginator.Last.URL }}" class="pagination-link pagination-last">Last &raquo;&raquo;</a>
   {{ else }}
     <span class="pagination-link pagination-next disabled">Older &raquo;</span>
+    <span class="pagination-link pagination-last disabled">Last &raquo;&raquo;</span>
   {{ end }}
 </nav>
 {{ end }}
