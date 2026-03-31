@@ -4,6 +4,8 @@ date: 2016-12-23T11:19:32+0000
 categories: ["My Art"]
 tags: ["anthro", "comic", "comicstrip", "falcon", "furry", "gyrfalcon", "humor", "joke", "math", "webcomic", "fermat"]
 thumbnail: "/images/blog/math-jokes-2.jpg"
+next: "/blog/art/math-jokes-3/"
+previous: "/blog/art/math-jokes-1/"
 da_id: 652845348
 summary: "Sorry I've been slacking off on dA! I'll be sure to post the rest of this high quality intellectual humor before the end of the year when we start updating the..."
 ---

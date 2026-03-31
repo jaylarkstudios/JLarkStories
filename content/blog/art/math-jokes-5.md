@@ -4,6 +4,7 @@ date: 2017-01-03T12:14:01+0000
 categories: ["My Art"]
 tags: ["anthro", "chris", "comic", "dalmatian", "dil", "dog", "falcon", "furry", "gyrfalcon", "humor", "joke", "math", "panther", "peacock", "pun", "webcomic", "kraal", "dilawar", "awwfeathers"]
 thumbnail: "/images/blog/math-jokes-5.jpg"
+previous: "/blog/art/math-jokes-4/"
 da_id: 655153280
 summary: "We now return to our regularly scheduled program! Thank you for indulging me during the break. I really, really, really needed it! We had some awesome guest..."
 ---

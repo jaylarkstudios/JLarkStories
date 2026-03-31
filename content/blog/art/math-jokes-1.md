@@ -4,6 +4,7 @@ date: 2016-12-06T15:05:29+0000
 categories: ["My Art"]
 tags: ["anthro", "comic", "comicstrip", "dalmatian", "dog", "falcon", "furry", "gyrfalcon", "jokes", "math", "webcomic"]
 thumbnail: "/images/blog/math-jokes-1.jpg"
+next: "/blog/art/math-jokes-2/"
 da_id: 649752814
 summary: "Sorry it's been a while since updating the comic on dA. We're right in the middle of a guest comic event over on the main site! I decided I'd share these..."
 ---
