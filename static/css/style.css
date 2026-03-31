@@ -772,6 +772,33 @@ p {
   margin-bottom: 0.3rem;
 }
 
+/* Timelapse embed */
+
+.timelapse-section {
+  margin-top: 2rem;
+}
+
+.timelapse-section h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.timelapse-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
+.timelapse-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* Sequence navigation */
 
 .sequence-nav {
