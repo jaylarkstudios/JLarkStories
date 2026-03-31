@@ -772,14 +772,6 @@ p {
   margin-bottom: 0.3rem;
 }
 
-.blog-single-author {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border);
-  color: var(--text-secondary);
-  font-style: italic;
-}
-
 /* Sequence navigation */
 
 .sequence-nav {
