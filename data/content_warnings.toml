@@ -4,7 +4,7 @@
 
 [[hideable]]
 label = "Underwear"
-description = "Characters in underwear or other revealing attire."
+description = "Characters in underwear or other revealing attire other than swimwear."
 tags = ["underwear", "panties", "briefs", "boxers", "speedo"]
 
 [[hideable]]
@@ -15,7 +15,7 @@ tags = ["swimwear", "swimsuit", "trunks", "bikini", "speedo"]
 [[hideable]]
 label = "PG Nudity"
 description = "Nude characters who normally wear clothes or with prominent butt or breasts."
-tags = ["swimwear", "swimsuit", "trunks", "bikini", "speedo"]
+tags = ["nude", "nudity", "naked"]
 
 [[hideable]]
 label = "ABDL/Babyfur"
