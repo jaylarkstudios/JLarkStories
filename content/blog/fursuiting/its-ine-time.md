@@ -1,7 +1,7 @@
 ---
 title: "It's Ine Time"
 date: 2011-11-03T07:32:09+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/its-ine-time.jpg"
 da_id: 266916669

@@ -1,7 +1,7 @@
 ---
 title: "Ine's claws"
 date: 2011-08-30T03:19:39+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/ines-claws.jpg"
 da_id: 255775774

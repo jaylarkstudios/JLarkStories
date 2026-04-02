@@ -1,7 +1,7 @@
 ---
 title: "Ine Plays Bridge Constructor Portal - Sep 1"
 date: 2023-09-01T23:49:25+0000
-categories: ["My Art"]
+categories: ["News"]
 tags: ["twitch", "streaming", "game", "announcement", "portal", "valve", "ine", "lizard", "reptile", "scaly", "male"]
 thumbnail: "/images/blog/ine-plays-bridge-constructor-portal-sep-1.jpg"
 fa_id: 53519653

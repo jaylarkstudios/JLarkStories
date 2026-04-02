@@ -1,7 +1,7 @@
 ---
 title: "Aww, Feathers! on Indiegogo"
 date: 2015-09-25T01:06:59+0000
-categories: ["My Art"]
+categories: ["News"]
 tags: ["anthro", "campaign", "comic", "furry", "webcomic", "indiegogo", "awwfeathers"]
 thumbnail: "/images/blog/aww-feathers-on-indiegogo.png"
 da_id: 562308186

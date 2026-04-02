@@ -1,7 +1,7 @@
 ---
 title: "Streaming Tonight! (Super Animal Royale)"
 date: 2023-08-01T21:22:35+0000
-categories: ["My Art"]
+categories: ["News"]
 tags: ["super", "animal", "royale", "animation", "gif", "lizard", "ine", "streaming", "announcement", "twitch", "male"]
 thumbnail: "/images/blog/streaming-tonight-super-animal-royale.gif"
 fa_id: 53132422

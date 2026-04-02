@@ -1,7 +1,7 @@
 ---
 title: "Eli's Cozy Corner announcement!"
 date: 2025-12-27T15:10:14+0000
-categories: ["My Art"]
+categories: ["News"]
 tags: ["male", "eli", "eastern", "dragon", "fluffy", "noodle", "stars", "night", "sky", "announcement", "twitch", "stream", "bedtime", "story"]
 thumbnail: "/images/blog/elis-cozy-corner-announcement.jpg"
 fa_id: 63460125

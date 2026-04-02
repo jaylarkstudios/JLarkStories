@@ -1,7 +1,7 @@
 ---
 title: "Ine's Debut"
 date: 2011-11-01T06:08:38+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/ines-debut.jpg"
 da_id: 266517276

@@ -1,7 +1,7 @@
 ---
 title: "Ine's tail"
 date: 2011-07-05T15:38:51+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/ines-tail.jpg"
 da_id: 216772876
