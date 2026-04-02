@@ -1,7 +1,7 @@
 ---
 title: "Shake a Tail Feather"
 date: 2011-07-05T15:33:28+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/shake-a-tail-feather.jpg"
 da_id: 216772190

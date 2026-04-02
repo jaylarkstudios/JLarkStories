@@ -1,7 +1,7 @@
 ---
 title: "A Love Dragon For You"
 date: 2012-03-04T06:36:55+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/a-love-dragon-for-you.jpg"
 da_id: 288490561

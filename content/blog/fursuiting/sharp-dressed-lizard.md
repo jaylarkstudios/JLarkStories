@@ -1,7 +1,7 @@
 ---
 title: "Sharp Dressed Lizard!"
 date: 2012-04-12T17:24:16+0000
-categories: ["My Art"]
+categories: ["Fursuiting"]
 tags: []
 thumbnail: "/images/blog/sharp-dressed-lizard.jpg"
 da_id: 295654176
