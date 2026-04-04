@@ -2,7 +2,7 @@
 title: "Do Not Feed the Hatchlings"
 date: 2013-06-15T20:51:33+0000
 categories: ["My Art"]
-tags: []
+tags: ["dragon", "hatchling", "baby", "digital", "humor"]
 thumbnail: "/images/blog/do-not-feed-the-hatchlings.jpg"
 da_id: 378205519
 summary: "Hydroa learns the hard way why you shouldn't try to feed wild dragon hatchlings. Mama is not pleased... So, do any of you remember when I offered to do free..."

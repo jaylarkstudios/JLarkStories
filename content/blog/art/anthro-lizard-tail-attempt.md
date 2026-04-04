@@ -2,7 +2,7 @@
 title: "Anthro lizard tail attempt"
 date: 2010-12-30T02:34:10+0000
 categories: ["My Art"]
-tags: []
+tags: ["anthro", "lizard", "reptile", "tail", "anatomy", "sketch", "pencil"]
 thumbnail: "/images/blog/anthro-lizard-tail-attempt.jpg"
 da_id: 191440037
 summary: "This is just a quick sketch; I'm trying to get the tail to look right when viewed from behind, especially where the tail connects to the rest of the body. To..."

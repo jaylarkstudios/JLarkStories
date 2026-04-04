@@ -2,7 +2,7 @@
 title: "Baby Ine Figurine"
 date: 2012-06-25T00:35:35+0000
 categories: ["My Art"]
-tags: []
+tags: ["ine", "coatl", "lizard", "reptile", "baby", "figurine", "sculpture", "clay"]
 thumbnail: "/images/blog/baby-ine-figurine.jpg"
 da_id: 310478797
 summary: "My wife and I were playing with baking clay the other day as a stay-at-home date. I'd been wanting to give clay a try and finally got the chance. I'm quite..."

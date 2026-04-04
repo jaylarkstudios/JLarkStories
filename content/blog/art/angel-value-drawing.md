@@ -2,7 +2,7 @@
 title: "Angel Value Drawing"
 date: 2010-11-07T00:40:51+0000
 categories: ["My Art"]
-tags: []
+tags: ["angel", "value", "crosshatch", "pencil", "assignment"]
 thumbnail: "/images/blog/angel-value-drawing.jpg"
 da_id: 185282621
 summary: "This was a cool one! We needed to take some work of art and do a simplified value drawing of it using only four or five values. It was like a pen/ink drawing,..."

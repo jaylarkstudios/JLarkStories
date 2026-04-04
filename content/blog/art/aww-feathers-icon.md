@@ -2,7 +2,7 @@
 title: "Aww Feathers Icon"
 date: 2013-08-17T19:23:23+0000
 categories: ["My Art"]
-tags: []
+tags: ["ine", "coatl", "lizard", "reptile", "icon", "awwfeathers", "digital", "male"]
 thumbnail: "/images/blog/aww-feathers-icon.png"
 da_id: 393953277
 summary: "More preparation for my upcoming comic, \"Aww, Feathers!\" This time an icon, to be used for the comic's twitter and facebook pages, featuring Ine looking..."

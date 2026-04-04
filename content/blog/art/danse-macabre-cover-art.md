@@ -2,7 +2,7 @@
 title: "Danse Macabre Cover Art"
 date: 2024-10-29T01:15:50+0000
 categories: ["My Art"]
-tags: []
+tags: ["pixel", "8bit", "skull", "bird", "skeleton", "halloween", "spooky", "music", "cover", "album", "black", "white", "red"]
 thumbnail: "/images/blog/danse-macabre-cover-art.jpg"
 fa_id: 58636899
 summary: "My friend Scarbo just released this spooky single in time for Halloween! It's an 8-bit version of Danse Macabre and it sounds super cool! You can give it a..."
