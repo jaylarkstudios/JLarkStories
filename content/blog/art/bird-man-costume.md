@@ -2,7 +2,7 @@
 title: "Bird-man Costume"
 date: 2009-11-01T21:38:13+0000
 categories: ["My Art"]
-tags: []
+tags: ["bird", "costume", "halloween", "mask", "feathers", "photo", "staff"]
 thumbnail: "/images/blog/bird-man-costume.jpg"
 da_id: 142191077
 summary: "Here's what I went as for Halloween '09! I was wandering through the craft store one day and this idea started to materialize in my mind. So I figured, what..."

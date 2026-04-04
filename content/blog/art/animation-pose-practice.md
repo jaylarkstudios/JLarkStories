@@ -2,7 +2,7 @@
 title: "Animation Pose Practice"
 date: 2011-09-11T03:24:18+0000
 categories: ["My Art"]
-tags: []
+tags: ["animation", "3d", "pose", "practice", "slideshow"]
 thumbnail: "/images/blog/animation-pose-practice.gif"
 da_id: 257801923
 summary: "This is Norman, a free 3D model used for pose practice acquired from this site:..."

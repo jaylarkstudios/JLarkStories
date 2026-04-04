@@ -2,7 +2,7 @@
 title: "3D Rrougath"
 date: 2011-02-26T01:09:49+0000
 categories: ["My Art"]
-tags: []
+tags: ["rrougath", "spider", "dragon", "monster", "3d", "render", "green", "forest", "web"]
 thumbnail: "/images/blog/3d-rrougath.jpg"
 da_id: 198861830
 summary: "Viola! He is finished! >:3 Well, I once heard that 90% of the time you spend on a project is spent on the last 10% of said project, and I think that came..."

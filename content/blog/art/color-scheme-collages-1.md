@@ -2,7 +2,7 @@
 title: "Color Scheme Collages 1"
 date: 2010-10-23T04:04:05+0000
 categories: ["My Art"]
-tags: []
+tags: ["collage", "color", "abstract", "assignment", "mixed", "media"]
 thumbnail: "/images/blog/color-scheme-collages-1.jpg"
 da_id: 183599771
 summary: "For an assignment in my art class we needed to make 12 miniature collages, each one representing a different color scheme... I got all the cut outs for all my..."

@@ -2,7 +2,7 @@
 title: "Dil Character Sheet"
 date: 2013-10-25T00:27:48+0000
 categories: ["My Art"]
-tags: ["pancock"]
+tags: ["pancock", "dil", "dilawar", "panther", "peacock", "refsheet", "pencil", "male"]
 thumbnail: "/images/blog/dil-character-sheet.jpg"
 da_id: 409310996
 summary: "A new character! Dil is the second character from \"Aww, Feathers!\" to get a character sheet. Dil's full name is Dilawar, which is an Indian name from India,..."

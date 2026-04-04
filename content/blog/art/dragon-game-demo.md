@@ -2,7 +2,7 @@
 title: "Dragon Game Demo"
 date: 2011-12-12T07:50:42+0000
 categories: ["My Art"]
-tags: []
+tags: ["dragon", "3d", "game", "demo", "render", "green"]
 thumbnail: "/images/blog/dragon-game-demo.jpg"
 da_id: 273573842
 summary: "This was my final project for my Computer Graphics class! For our final, we had to make a video game. So here's mine! This is just a screenshot obviously. If..."

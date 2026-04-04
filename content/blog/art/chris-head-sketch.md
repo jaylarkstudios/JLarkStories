@@ -2,7 +2,7 @@
 title: "Chris Head Sketch"
 date: 2014-02-01T00:31:14+0000
 categories: ["My Art"]
-tags: []
+tags: ["chris", "head", "sketch", "pencil", "dog", "dalmatian"]
 thumbnail: "/images/blog/chris-head-sketch.jpg"
 da_id: 430914672
 summary: "A sketch of Chris, the fourth Aww, Feathers! character to be introduced, and the last one for now until we get more underway. Dog faces have always given me..."

@@ -2,7 +2,7 @@
 title: "Bird Sketches"
 date: 2010-11-07T00:45:04+0000
 categories: ["My Art"]
-tags: []
+tags: ["bird", "sketch", "pencil", "study", "wings"]
 thumbnail: "/images/blog/bird-sketches.jpg"
 da_id: 185283053
 summary: "A few drawings from my sketchbook. Lately I've been drawing birds out of Andrew Zuckerman's aptly titled book, \"Bird.\" The photographs in it are stunning;..."

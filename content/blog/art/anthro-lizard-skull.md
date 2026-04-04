@@ -2,7 +2,7 @@
 title: "Anthro-lizard skull"
 date: 2010-08-02T13:39:56+0000
 categories: ["My Art"]
-tags: []
+tags: ["anthro", "lizard", "skull", "anatomy", "sketch", "pencil"]
 thumbnail: "/images/blog/anthro-lizard-skull.jpg"
 da_id: 173697158
 summary: "Making these anthro-lizard people of mine is definitely an idea I'd like to run with, so I'm taking a bit of an analytical approach by looking at the anatomy..."

@@ -2,7 +2,7 @@
 title: "Anthro bird sketch"
 date: 2009-12-30T16:10:44+0000
 categories: ["My Art"]
-tags: []
+tags: ["anthro", "bird", "feathers", "sketch", "pencil"]
 thumbnail: "/images/blog/anthro-bird-sketch.jpg"
 da_id: 148565413
 summary: "Another anthro sketch, yay! This one didn't turn out quite how I wanted it, but it's a good start I think. Please leave comments/sugguestions, 'cuz I really..."
