@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "comedy", "nature"]
 link: "https://www.flattbear.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["mild language", "occasional implied nudity"]
 summary: "Duff the bear and his loyal friend Carl the snake befriend a family of humans who operate a bed and breakfast. Full of puns and slapstick humor and wi..."
 ---

@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "fantasy"]
 link: "https://www.gocomics.com/phoebe-and-her-unicorn"
-ratings: ["G"]
+rating: "G"
 warnings: ["bullying", "occasional potty humor"]
 summary: "A young girl befriends a vain unicorn, Marigold, who accompanies her to elementary school, spends time with her at home, and learns about these funny..."
 ---

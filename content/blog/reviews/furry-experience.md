@@ -5,7 +5,7 @@ date: 2026-03-28
 categories: ["Reviews"]
 tags: ["comedy", "drama", "furry", "LDS", "webcomic"]
 link: "https://furryexperience.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["mild suggestive themes"]
 summary: "Furry characters attending school in Utah Valley. Lots of humor, a touch of drama, and plenty of commentary and good-natured satire on Utah Latter-day Saint culture."
 ---

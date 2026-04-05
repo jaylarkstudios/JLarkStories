@@ -1221,13 +1221,42 @@ p {
   color: #fff;
 }
 
+.review-my-rating {
+  margin-top: 0.5rem;
+}
+
+.review-external-links {
+  margin-top: 0.5rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.review-external-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.review-external-link:hover {
+  text-decoration: underline;
+}
+
 .review-warnings {
   margin-top: 0.5rem;
   color: var(--text-muted);
   font-size: 0.85rem;
 }
 
-.warnings-label,
+.review-score {
+  margin-top: 0.5rem;
+}
+
+.warnings-label {
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-size: 1rem;
+}
+
 .review-field-label {
   font-weight: 600;
   color: var(--text-secondary);

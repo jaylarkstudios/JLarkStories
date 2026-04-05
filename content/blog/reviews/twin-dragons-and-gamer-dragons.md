@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "furry", "gaming", "urban fantasy"]
 link: "https://www.twindragonscomic.com/"
-ratings: ["G"]
+rating: "G"
 warnings: ["bullying"]
 summary: "Kay and Kaya are two school-age dragon kids living in a world where humans and anthropomorphic animals called \"hybrids\" coexist. They navigate the typ..."
 ---

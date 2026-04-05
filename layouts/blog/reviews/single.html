@@ -22,16 +22,35 @@
         <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a>
       </div>
     {{ end }}
-    {{ with .Params.ratings }}
+    {{ with .Params.rating }}
       <div class="review-rating">
-        {{ range . }}
-          <a href="{{ "/ratings/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
+        <span class="review-field-label">Rating:</span>
+        <a href="{{ "/rating/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
+      </div>
+    {{ end }}
+    {{ with .Params.my_rating }}
+      <div class="review-my-rating">
+        <span class="review-field-label">My Rating:</span> {{ . }}
+      </div>
+    {{ end }}
+    {{ if or .Params.imdb .Params.tomatoes }}
+      <div class="review-external-links">
+        {{ with .Params.imdb }}
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="review-external-link">IMDB</a>
+        {{ end }}
+        {{ with .Params.tomatoes }}
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="review-external-link">Rotten Tomatoes</a>
         {{ end }}
       </div>
     {{ end }}
     {{ with .Params.warnings }}
       <div class="review-warnings">
         <span class="warnings-label">Content Warnings:</span> {{ delimit . ", " }}
+      </div>
+    {{ end }}
+    {{ with .Params.score }}
+      <div class="review-score">
+        <span class="review-field-label">My Score:</span> {{ . }}
       </div>
     {{ end }}
   </header>

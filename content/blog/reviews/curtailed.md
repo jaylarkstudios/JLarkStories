@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["autobio", "comedy", "furry", "gaming"]
 link: "https://www.curtailedcomic.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["language", "suggestive themes"]
 summary: "A collection of comics based on the life of a young furry couple. Lots of gaming references. Often sarcastic, and occasionally mean-spirited, but most..."
 ---

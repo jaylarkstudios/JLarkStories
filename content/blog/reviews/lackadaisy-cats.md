@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "drama", "furry", "horror"]
 link: "https://lackadaisycats.com/"
-ratings: ["T"]
+rating: "T"
 warnings: ["alcohol", "strong language", "violence", "blood", "scary images"]
 summary: "Takes place during Prohibition era United States and featuring an entirely feline cast. Rival moonshine operations battle for dominance, often resorti..."
 ---

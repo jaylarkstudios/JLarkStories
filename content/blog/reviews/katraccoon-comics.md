@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "comedy", "gifs"]
 link: "https://katswenski.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["some language", "occasional suggestive themes"]
 summary: "A collection of comics that add hilarious context to well-known or trendy gifs, particularly those featuring funny and/or adorable animal antics! Occa..."
 ---

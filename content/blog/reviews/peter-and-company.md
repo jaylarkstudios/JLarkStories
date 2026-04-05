@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "drama", "furry"]
 link: "https://peterandcompany.com/"
-ratings: ["G"]
+rating: "G"
 warnings: ["mild violence"]
 summary: "A world in which a child's imaginary friend is sometimes actually a guardian angel, seen only by the child and always nearby to help those with a part..."
 ---

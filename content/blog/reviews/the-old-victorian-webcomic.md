@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["autobio", "comedy", "drama", "furry"]
 link: "https://theoldvictorianwebcomic.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["suggestive themes"]
 summary: "A furry couple living in an old victorian house while they work on fixing it up and celebrate their life together: the ups and the downs. Based on sto..."
 ---

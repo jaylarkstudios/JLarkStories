@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["childhood", "comedy"]
 link: "https://www.gocomics.com/crabgrass"
-ratings: ["G"]
+rating: "G"
 warnings: ["comic mischief"]
 summary: "Kevin and Miles are just two kids living life to the fullest in the suburbs. They frequently get into trouble, but always have each other's backs. The..."
 ---
