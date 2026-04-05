@@ -4,7 +4,8 @@ date: 2026-03-31
 categories: ["Reviews"]
 tags: ["film", "family", "comedy", "animals", "animated", "cgi", "pixar", "disney"]
 thumbnail: "/images/blog/reviews/hoppers.jpg"
-link: "https://www.imdb.com/title/tt26443616"
+imdb: "https://www.imdb.com/title/tt26443616"
+tomatoes: "https://www.rottentomatoes.com/m/hoppers"
 rating: "PG"
 score: "A - Would hoppily watch again!"
 warnings: ["action, peril, implied death"]
