@@ -36,10 +36,10 @@
     {{ if or .Params.imdb .Params.tomatoes }}
       <div class="review-external-links">
         {{ with .Params.imdb }}
-          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="review-external-link">IMDB</a>
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="review-external-link">IMDb</a>
         {{ end }}
         {{ with .Params.tomatoes }}
-          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="review-external-link">Rotten Tomatoes</a>
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="review-external-link">Tomatoes</a>
         {{ end }}
       </div>
     {{ end }}
