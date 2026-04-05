@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "comedy", "parenting"]
 link: "https://www.fowllanguagecomics.com/"
-ratings: ["T"]
+rating: "T"
 warnings: ["strong language", "crude humor", "suggestive themes"]
 summary: "A comic about a a family of ducks, drawn in a loose cartoony style and full of relatable observations on the struggles of parenting and adult life. Fa..."
 ---

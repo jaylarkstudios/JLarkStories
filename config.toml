@@ -7,7 +7,7 @@ title = "JLarkStories"
   category = "categories"
   tag = "tags"
   artist = "artists"
-  rating = "ratings"
+  rating = "rating"
 
 # Navigation menu
 [[menu.main]]

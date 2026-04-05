@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "comedy", "furry", "politics"]
 link: "https://kevinandkell.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["violence"]
 summary: "The world's longest running daily webcomic! Takes place in a world where animals are intelligent and have formed civil society, but sometimes give in..."
 ---

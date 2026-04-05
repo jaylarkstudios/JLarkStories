@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["comedy", "gaming"]
 link: "https://www.awkwardzombie.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["mild language", "occasional blood"]
 summary: "A collection of comics in which the artist, Katie, inserts herself into the games she's currently playing, usually to make humorous observations on th..."
 ---

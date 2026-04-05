@@ -5,7 +5,7 @@ categories: ["Reviews"]
 tags: ["film", "family", "comedy", "animals", "animated", "cgi", "pixar", "disney"]
 thumbnail: "/images/blog/reviews/hoppers.jpg"
 link: "https://www.imdb.com/title/tt26443616"
-ratings: ["PG"]
+rating: "PG"
 score: "A - Would hoppily watch again!"
 warnings: ["action, peril, implied death"]
 summary: "Hoppers is about a young woman, Mabel, who loves animals and nature and uses technology to inhabit an artificial beaver body, allowing her to communicate with animals and experience life as one of them. It's a fun and heartfelt story that feels like a return to the classic Pixar formula of telling relatable, character-driven stories through a non-human lens, reminiscent of Toy Story and A Bug's Life."

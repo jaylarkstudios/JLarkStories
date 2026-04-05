@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["adventure", "comedy", "furry"]
 link: "https://cloudscratcher.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["mild language", "violence"]
 summary: "A ragtag group aboard a sky-ship faces off against foes from the Serpent Kingdom, some of which are bumbling and humorous, but others are deadly serio..."
 ---

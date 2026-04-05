@@ -5,7 +5,7 @@ draft: true
 categories: ["Reviews"]
 tags: ["animals", "drama", "post-apocalyptic"]
 link: "https://www.scurrycomic.com/"
-ratings: ["PG"]
+rating: "PG"
 warnings: ["violence", "scary images"]
 summary: "A community of rodents living in an abandoned human house are beginning to run short on supplies and must embark into the dangerous world outside to s..."
 ---
