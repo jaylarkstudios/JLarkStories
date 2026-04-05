@@ -1,8 +1,9 @@
 ---
 title: "Furry Experience"
+draft: true
 date: 2026-03-28
 categories: ["Reviews"]
-tags: ["comedy", "drama", "furry", "LDS"]
+tags: ["comedy", "drama", "furry", "LDS", "webcomic"]
 link: "https://furryexperience.com/"
 ratings: ["PG"]
 warnings: ["mild suggestive themes"]
