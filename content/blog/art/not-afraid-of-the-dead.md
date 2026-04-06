@@ -5,6 +5,7 @@ categories: ["My Art"]
 tags: ["male", "drin", "kobold", "ranger", "black", "white", "comic", "undead", "archer", "bow", "arrow", "scared", "afraid"]
 thumbnail: "/images/blog/not-afraid-of-the-dead.jpg"
 fa_id: 64206179
+next: "/blog/art/cecilia-yaks-bakery/"
 summary: "Last year when I joined a new D&D campaign with some friends, I drew this to commemorate our first session. Drin, my kobold ranger, very quickly had to try to..."
 ---
 
