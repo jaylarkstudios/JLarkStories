@@ -200,7 +200,10 @@ document.addEventListener('DOMContentLoaded', function() {
       try { localStorage.setItem(SEEN_KEY, '1'); } catch(e) {}
     }
 
-    openBtn.addEventListener('click', openModal);
+    openBtn.addEventListener('click', function() {
+      openedByButton = true;
+      openModal();
+    });
     if (closeBtn) closeBtn.addEventListener('click', dismissModal);
 
     modal.addEventListener('click', function(e) {
@@ -225,10 +228,30 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }
 
-    // Auto-open on first visit
-    try {
-      if (!localStorage.getItem(SEEN_KEY)) openModal();
-    } catch(e) {}
+    // Show preferences banner for first-time visitors
+    var banner = document.getElementById('prefs-banner');
+    var bannerOpenBtn = document.getElementById('prefs-banner-open');
+    var bannerCloseBtn = document.getElementById('prefs-banner-close');
+
+    function dismissBanner() {
+      if (banner) banner.hidden = true;
+      try { localStorage.setItem(SEEN_KEY, '1'); } catch(e) {}
+    }
+
+    if (banner && bannerOpenBtn && bannerCloseBtn) {
+      try {
+        if (!localStorage.getItem(SEEN_KEY)) {
+          banner.hidden = false;
+        }
+      } catch(e) {}
+
+      bannerOpenBtn.addEventListener('click', function() {
+        dismissBanner();
+        openModal();
+      });
+
+      bannerCloseBtn.addEventListener('click', dismissBanner);
+    }
   }
 
   processPostCards();

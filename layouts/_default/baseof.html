@@ -5,6 +5,14 @@
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
+  {{ if .Site.Data.content_warnings.hideable }}
+  <div class="prefs-banner" id="prefs-banner" hidden>
+    <div class="prefs-banner-inner">
+      <button type="button" class="prefs-banner-text" id="prefs-banner-open">Click here to choose what content you see.</button>
+      <button type="button" class="prefs-banner-close" id="prefs-banner-close" aria-label="Dismiss content preferences banner">&times;</button>
+    </div>
+  </div>
+  {{ end }}
   {{- partial "header.html" . -}}
   <main id="main-content" class="content-wrapper">
     {{- block "main" . }}{{ end -}}
