@@ -723,6 +723,14 @@ p {
   display: inline-block;
 }
 
+.image-description summary::after {
+  content: ' \2192';
+}
+
+.image-description[open] summary::after {
+  content: ' \2193';
+}
+
 .image-description summary:hover {
   color: var(--accent-hover);
 }
