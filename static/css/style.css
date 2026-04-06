@@ -1526,6 +1526,61 @@ p {
   margin-bottom: 0;
 }
 
+/* ---- Preferences Banner ---- */
+
+.prefs-banner {
+  background: var(--accent-dim);
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
+
+.prefs-banner[hidden] {
+  display: none;
+}
+
+.prefs-banner-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.prefs-banner-text {
+  background: none;
+  border: none;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color var(--transition);
+}
+
+.prefs-banner-text:hover {
+  color: var(--accent-hover);
+}
+
+.prefs-banner-close {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 0.125rem 0.25rem;
+  line-height: 1;
+  flex-shrink: 0;
+  transition: color var(--transition);
+}
+
+.prefs-banner-close:hover {
+  color: #fff;
+}
+
 /* ---- Preferences Modal ---- */
 
 .prefs-modal-overlay {
