@@ -17,6 +17,26 @@
         {{ end }}
       </div>
     {{ end }}
+    {{ if or .Params.fa_id .Params.bsky_id .Params.furtrack_id }}
+      <div class="art-links">
+        <span class="art-links-label">Links:</span>
+        {{ with .Params.fa_id }}
+          <a href="https://www.furaffinity.net/view/{{ . }}/" target="_blank" rel="noopener noreferrer" class="art-link">
+            <img src="/images/furaffinity_white.png" alt="" width="16" height="16">FurAffinity
+          </a>
+        {{ end }}
+        {{ with .Params.bsky_id }}
+          <a href="https://bsky.app/profile/jlarkstories.com/post/{{ . }}" target="_blank" rel="noopener noreferrer" class="art-link">
+            <img src="/images/bsky_white.png" alt="" width="16" height="16">Bluesky
+          </a>
+        {{ end }}
+        {{ with .Params.furtrack_id }}
+          <a href="https://www.furtrack.com/p/{{ . }}" target="_blank" rel="noopener noreferrer" class="art-link">
+            <img src="/images/globe_white.png" alt="" width="16" height="16">FurTrack
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
     {{ with .Params.artists }}
       <div class="blog-single-artist">
         {{ range . }}
