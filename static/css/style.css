@@ -1225,6 +1225,36 @@ p {
   margin-top: 0.5rem;
 }
 
+.art-links {
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.art-links-label {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.art-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.art-link:hover {
+  text-decoration: underline;
+}
+
+.art-link img {
+  opacity: 0.85;
+}
+
 .review-external-links {
   margin-top: 0.5rem;
   display: flex;
