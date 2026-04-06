@@ -14,7 +14,7 @@ tags = ["swimwear", "swimsuit", "trunks", "bikini", "speedo"]
 
 [[hideable]]
 label = "PG Nudity"
-description = "Nude characters who normally wear clothes or with prominent butt or breasts."
+description = "Non-explicit nudity in characters who normally wear clothes or with prominent butt or breasts."
 tags = ["nude", "nudity", "naked"]
 
 [[hideable]]
