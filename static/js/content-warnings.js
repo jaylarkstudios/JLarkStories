@@ -171,14 +171,33 @@ document.addEventListener('DOMContentLoaded', function() {
       checkbox.checked = hiddenLabels.indexOf(group.label) !== -1;
 
       var text = document.createElement('span');
+      text.className = 'prefs-label-text';
       text.textContent = group.label;
+
+      var toggleWrap = document.createElement('span');
+      toggleWrap.className = 'prefs-toggle-wrap';
+
+      var toggleText = document.createElement('span');
+      toggleText.className = 'prefs-toggle-text';
+      toggleText.textContent = checkbox.checked ? 'Hide' : 'Show';
+
+      var toggle = document.createElement('span');
+      toggle.className = 'prefs-toggle';
+
+      toggleWrap.appendChild(toggleText);
+      toggleWrap.appendChild(toggle);
 
       var desc = document.createElement('span');
       desc.className = 'prefs-description';
       desc.textContent = group.description || '';
 
+      checkbox.addEventListener('change', function() {
+        toggleText.textContent = this.checked ? 'Hide' : 'Show';
+      });
+
       label.appendChild(checkbox);
       label.appendChild(text);
+      label.appendChild(toggleWrap);
       label.appendChild(desc);
       optionsContainer.appendChild(label);
     });

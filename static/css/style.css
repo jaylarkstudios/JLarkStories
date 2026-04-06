@@ -1669,21 +1669,83 @@ p {
 }
 
 .prefs-checkbox {
-  accent-color: var(--accent);
-  width: 18px;
-  height: 18px;
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
 }
 
-.prefs-checkbox-label > span:first-of-type {
+.prefs-label-text {
+  flex: 1;
   font-weight: 600;
   color: var(--text-primary);
+}
+
+.prefs-toggle-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.prefs-toggle-text {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  min-width: 2rem;
+  text-align: right;
+}
+
+.prefs-checkbox:not(:checked) ~ .prefs-toggle-wrap .prefs-toggle-text {
+  color: var(--accent);
+}
+
+.prefs-checkbox:checked ~ .prefs-toggle-wrap .prefs-toggle-text {
+  color: var(--text-muted);
+}
+
+.prefs-toggle {
+  position: relative;
+  width: 40px;
+  height: 22px;
+  background: var(--accent);
+  border-radius: 11px;
+  transition: background var(--transition);
+  flex-shrink: 0;
+}
+
+.prefs-toggle::after {
+  content: '';
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border-radius: 50%;
+  transition: transform var(--transition);
+  transform: translateX(18px);
+}
+
+.prefs-checkbox:checked ~ .prefs-toggle-wrap .prefs-toggle {
+  background: var(--text-muted);
+}
+
+.prefs-checkbox:checked ~ .prefs-toggle-wrap .prefs-toggle::after {
+  transform: translateX(0);
+}
+
+.prefs-checkbox:focus-visible ~ .prefs-toggle-wrap .prefs-toggle {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 .prefs-description {
   width: 100%;
   font-size: 0.8rem;
   color: var(--text-secondary);
-  padding-left: 26px;
 }
 
 .prefs-modal-footer {
