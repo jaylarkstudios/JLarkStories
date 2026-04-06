@@ -56,7 +56,14 @@
   </header>
 
   {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="{{ $.Title }}" class="blog-single-thumbnail">
+    <img src="{{ . }}" alt="{{ with $.Params.description }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" class="blog-single-thumbnail">
+  {{ end }}
+
+  {{ with .Params.description }}
+    <details class="image-description">
+      <summary>Description</summary>
+      <p>{{ . }}</p>
+    </details>
   {{ end }}
 
   <div class="blog-single-content">
