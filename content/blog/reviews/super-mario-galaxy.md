@@ -1,22 +1,38 @@
 ---
-title: "Hoppers"
-date: 2026-03-31
+title: "The Super Mario Galaxy Movie"
+draft: true
+date: 2026-04-06
 categories: ["Reviews"]
-tags: ["film", "family", "comedy", "animals", "animated", "cgi", "pixar", "disney"]
-thumbnail: "/images/blog/reviews/hoppers.jpg"
-imdb: "https://www.imdb.com/title/tt26443616"
-tomatoes: "https://www.rottentomatoes.com/m/hoppers"
+tags: ["film", "family", "comedy", "video game", "animated", "cgi", "illumination"]
+thumbnail: "/images/blog/reviews/marioGalaxy.jpg"
+imdb: "https://www.imdb.com/title/tt28650488"
+tomatoes: "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie"
 rating: "PG"
-score: "A"
-warnings: ["action, peril, implied death"]
+score: "B"
+warnings: ["cartoon violence"]
 summary: "Hoppers is about a young woman, Mabel, who loves animals and nature and uses technology to inhabit an artificial beaver body, allowing her to communicate with animals and experience life as one of them. It's a fun and heartfelt story that feels like a return to the classic Pixar formula of telling relatable, character-driven stories through a non-human lens, reminiscent of Toy Story and A Bug's Life."
 ---
 
-*Hoppers* is about a young woman, Mabel, who loves animals and nature and uses technology to inhabit an artificial beaver body, allowing her to communicate with animals and experience life as one of them. It’s a fun and heartfelt story that feels like a return to the classic Pixar formula of telling relatable, character-driven stories through a non-human lens, reminiscent of *Toy Story* and *A Bug’s Life*.
+*The Super Mario Galaxy Movie* is visually stunning and chock full of references and Easter eggs that Nintendo fans will appreciate. However, it struggles due to an underdeveloped story and inconsistent character motivations. Still, the strengths of the visual effects, intricate worlds, and fan-favorite characters manage to make it an enjoyable journey for most viewers who liked the first movie.
 
 ### (Spoilers Ahead!)
 
 ## Synopsis
+
+
+
+Visually stunning
+I loved all the Easter eggs hidden among the background and secondary characters, the subtle (and not-so-subtle) nods to different Mario games and other Nintendo properties, and the really cool worlds visited. There was always something going on that the careful watcher could appreciate, and I think it will be fun to watch it again to see what I missed on the first viewing!
+That said, the many different worlds visited is related to this movie's biggest weakness: it felt very disjointed. The heroes  were constantly moving from place to place, and as cool as each location was, we didn't stick around in any of them long enough for it to feel like we'd fully appreciated it. I felt like they could have cut the number of locations in half and still have plenty of material for a good movie, and then have plenty of material for the next one. Instead, it kind of felt like a speedrun through as many different Mario-related venues as possible.
+Not only did the worlds feel disjointed, so did Bowser's character arc. They were clearly going for a "maybe he's reformed" kind of storyline. They could have very easily gone the "He pretended to be good so he could get out but then he stabbed them all in the back" route. Or they could have gone with, "He was on the verge of changing his ways, but then then allure of power drew him back to his evil ways." Either would have worked. Instead, they went with a kind of half-baked, middle-of-the-road version in which he did a very bad job of pretending he'd reformed, Luigi somehow believed him, he tricked Mario into turning him big again, he revealed that he actually was reformed to the point that he was actually willing to sacrifice himself for the Mario Bros, then when rescued by his son he told him not to kill them, then immediately showed no hesitation about trying to kill them himself later. It was kind of a mess.
+Bowser and Junior's relationship was kind of sweet but also kind of awkward, in that it seemed that his son was the one influencing him to return to his evil ways. Maybe that was supposed to be a funny subversion, but it didn't really land for me.
+I loved seeing Fox McCloud. There was no reason for him to be there, but I loved every moment he was on screen anyway. He did a great job of pulling off that dashing space rogue character, without being obnoxious or pointlessly rude to the other characters. He was cocky, but genuinely friendly, which reminded me of his character in Star Fox Adventures.
+Speaking of Star Fox Adventures, when Fox and the gang crash landed on a planet inhabited by dinosaurs (a Dinosaur Planet, if you will) I wondered for the briefest of moments if a certain other space fox, of the more feminine persuasion, would make an appearance... Alas, it wasn't to be. Perhaps my teenage proto-furry crush will make an appearance in a future Star Fox movie.
+I loved Yoshi. It was adorable how all his different vocalizations and mannerisms were worked into the film.
+I also loved how Mario, Luigi, and Yoshi were all unfailingly loyal to each other. Luigi could have been jealous of Yoshi, or Mario could have gotten carried away with is new dinosaur pal and neglected Luigi, but neither ever happened. The Mario Bros stick together, and Yoshi was as as good as a member of their family from the moment he appeared. Which was probably a good thing, since any drama between them would have been another thing this movie would have had to keep track of, and it already had a lot going on!
+I liked seeing ROB, Birdo, the Pikmin, Baby Mario and Luigi, and the Piantas, even if they weren't around for very long.
+
+
 
 Mabel uses the titular “Hopper” technology to find out why all the animals left the Beaverton Glade and coax them to return in order to stop a highway from being built over the little patch of nature she grew to love with her grandmother. She learns that the animals were driven away from the area by the mayor, who’s passionate about the highway project. The animals set up a community made of many species, and while crowded, they are able to live in relative harmony and accomplish great things through cooperation. Things go south when Mabel explains what’s happening to the glade to a council of animal leaders, and to her dismay, they decide they’re going to “squish” the mayor. Mabel and her new animal friends then pivot to trying to save the mayor’s life because, while they wanted the project stopped, they didn’t want to resort to violence. In the attempt however, the animal leaders capture Mabel and the mayor, and the insect king, Titus, steals the hopper technology and uses it to create an artificial body resembling the mayor, planning to destroy the humans of Beaverton using the same human technology that drove the animals out of the glade. Mabel and the mayor work together, along with the friendlier animals, to stop Titus and save the city.
 
