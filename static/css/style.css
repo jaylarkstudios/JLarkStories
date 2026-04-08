@@ -1915,3 +1915,43 @@ p {
 .nav-flash {
   animation: nav-flash 0.3s ease;
 }
+
+/* ==========================================
+   Pride Month Theme (June)
+   ========================================== */
+
+body.pride-theme h1,
+body.pride-theme h2,
+body.pride-theme h3,
+body.pride-theme h4,
+body.pride-theme h5,
+body.pride-theme h6,
+body.pride-theme .site-title,
+body.pride-theme .post-card-title a {
+  background: linear-gradient(
+    90deg,
+    #e40303, #ff8c00, #ffed00,
+    #008026, #004dff, #750787
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: fit-content;
+}
+
+body.pride-theme .section-heading,
+body.pride-theme .hero h1,
+body.pride-theme .hero h2 {
+  margin-inline: auto;
+}
+
+body.pride-theme .post-card-title a:hover {
+  background: linear-gradient(
+    90deg,
+    #ff6666, #ffb366, #fff566,
+    #66b366, #6699ff, #b366cc
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

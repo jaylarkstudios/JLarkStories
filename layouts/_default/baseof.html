@@ -4,6 +4,15 @@
   {{- partial "head.html" . -}}
 </head>
 <body>
+  <script>
+    (function() {
+      var params = new URLSearchParams(window.location.search);
+      var theme = params.get('theme');
+      if (theme === 'pride' || (theme !== 'normal' && new Date().getMonth() === 5)) {
+        document.body.classList.add('pride-theme');
+      }
+    })();
+  </script>
   <a href="#main-content" class="skip-link">Skip to main content</a>
   {{ if .Site.Data.content_warnings.hideable }}
   <div class="prefs-banner" id="prefs-banner" hidden>
