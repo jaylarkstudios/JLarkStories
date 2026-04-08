@@ -3,7 +3,7 @@ title: "Eli the Big Dragon"
 date: 2023-04-13T23:11:45+0000
 categories: ["Guest Art"]
 tags: ["eli", "easern", "dragon", "feathers", "wings", "cyan", "purple", "abdl", "diaper", "confident", "male"]
-thumbnail: "/images/blog/eli-the-big-dragon.png"
+thumbnail: "/images/blog/eli-the-big-dragon.jpg"
 created_date: "Aug 29, 2022"
 artists: ["Mouffetter"]
 fa_id: 51764874

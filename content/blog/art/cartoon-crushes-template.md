@@ -3,7 +3,7 @@ title: "Cartoon Crushes Template"
 date: 2023-08-05T21:30:42+0000
 categories: ["My Art"]
 tags: ["download", "template", "drawing", "challenge", "cartoon", "crush"]
-thumbnail: "/images/blog/cartoon-crushes-template.png"
+thumbnail: "/images/blog/cartoon-crushes-template.jpg"
 fa_id: 53184305
 summary: "Last year I made this template for drawing my childhood cartoon crushes. Feel free to use it for your own! Note that the word \"crush\" can also mean some sense..."
 ---

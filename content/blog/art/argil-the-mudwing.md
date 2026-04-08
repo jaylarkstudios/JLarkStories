@@ -3,7 +3,7 @@ title: "Argil the Mudwing"
 date: 2023-03-02T17:47:48+0000
 categories: ["My Art"]
 tags: ["dragon", "mudwing", "wingsoffire", "wof", "brown", "copper", "headshot", "male"]
-thumbnail: "/images/blog/argil-the-mudwing.png"
+thumbnail: "/images/blog/argil-the-mudwing.jpg"
 created_date: "Jan 15, 2022"
 fa_id: 51217957
 summary: "A colored headshot commission for Argil MudWing of his Wings of Fire OC, Argil of the Mudwings! Thanks for letting me draw..."

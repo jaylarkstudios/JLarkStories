@@ -3,7 +3,7 @@ title: "Little Ine Ref Sheet"
 date: 2023-03-06T21:58:05+0000
 categories: ["Guest Art"]
 tags: ["ine", "little", "littleine", "lizard", "featheredlizard", "feathers", "reptile", "green", "red", "ref", "refsheet", "littlefur", "kidfur", "male"]
-thumbnail: "/images/blog/little-ine-ref-sheet.png"
+thumbnail: "/images/blog/little-ine-ref-sheet.jpg"
 created_date: "Jun 10, 2021"
 artists: ["Shopoke"]
 fa_id: 51272918

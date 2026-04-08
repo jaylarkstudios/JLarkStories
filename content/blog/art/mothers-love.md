@@ -3,7 +3,7 @@ title: "Mother's Love"
 date: 2023-03-13T19:38:21+0000
 categories: ["My Art"]
 tags: ["ine", "littleine", "baby", "babyfur", "kidfur", "mother", "mom", "lizard", "reptile", "scaly", "cry", "comfort", "hug"]
-thumbnail: "/images/blog/mothers-love.png"
+thumbnail: "/images/blog/mothers-love.jpg"
 created_date: "Aug 15, 2022"
 fa_id: 51359323
 summary: "\"Come stop your crying, it will be alright. Just take my hand, hold it tight. I will protect you from all around you. I will be here...."

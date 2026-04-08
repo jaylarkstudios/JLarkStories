@@ -3,7 +3,7 @@ title: "Furvilla Ine"
 date: 2016-06-25T22:01:36+0000
 categories: ["My Art"]
 tags: ["anthro", "aww", "feathers", "furry", "ine", "lizard", "furvilla"]
-thumbnail: "/images/blog/furvilla-ine.png"
+thumbnail: "/images/blog/furvilla-ine.jpg"
 da_id: 617668588
 summary: "Have you heard of Furvilla? I'm not quite sure what it is yet, but apparently it's some sort of social game that's in development. You can find more info about..."
 ---

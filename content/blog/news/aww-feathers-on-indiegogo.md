@@ -3,7 +3,7 @@ title: "Aww, Feathers! on Indiegogo"
 date: 2015-09-25T01:06:59+0000
 categories: ["News"]
 tags: ["anthro", "campaign", "comic", "furry", "webcomic", "indiegogo", "awwfeathers"]
-thumbnail: "/images/blog/aww-feathers-on-indiegogo.png"
+thumbnail: "/images/blog/aww-feathers-on-indiegogo.jpg"
 da_id: 562308186
 summary: "Book 1 of Aww, Feathers! is now on Indiegogo! You can view the campaign and video here:..."
 ---

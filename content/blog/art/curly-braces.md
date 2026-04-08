@@ -3,7 +3,7 @@ title: "Curly Braces"
 date: 2014-01-09T03:42:25+0000
 categories: ["My Art"]
 tags: ["programming", "hacker", "braces", "digital", "female", "pony"]
-thumbnail: "/images/blog/curly-braces.png"
+thumbnail: "/images/blog/curly-braces.jpg"
 da_id: 425699497
 summary: "My very first pony piece. I feel like this is some sort of rite of passage or something... <_< >_> BRO HOOF!!..."
 ---

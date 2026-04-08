@@ -3,7 +3,7 @@ title: "FE Guest Comic 2013"
 date: 2013-08-17T16:12:28+0000
 categories: ["My Art"]
 tags: []
-thumbnail: "/images/blog/fe-guest-comic-2013.png"
+thumbnail: "/images/blog/fe-guest-comic-2013.jpg"
 da_id: 389531279
 summary: "The creator of the webcomic Furry Experience held a guest comic event, and this is my entry! If you're unfamiliar with the comic, you should definitely check..."
 ---

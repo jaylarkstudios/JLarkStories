@@ -3,7 +3,7 @@ title: "Talon Reindeer Icon"
 date: 2014-12-11T23:46:54+0000
 categories: ["My Art"]
 tags: ["antlers", "avatar", "christmas", "dragon", "icon", "reindeer", "rudolph"]
-thumbnail: "/images/blog/talon-reindeer-icon.png"
+thumbnail: "/images/blog/talon-reindeer-icon.jpg"
 da_id: 499688916
 summary: "\"All of the other dragons used to laugh and call him names. But he didn't care!\" :-P Free icon commish for reederdahttps://reederda.deviantart.com. Want your..."
 ---

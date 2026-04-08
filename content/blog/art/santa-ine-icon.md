@@ -3,7 +3,7 @@ title: "Santa Ine Icon"
 date: 2013-12-01T05:09:31+0000
 categories: ["My Art"]
 tags: []
-thumbnail: "/images/blog/santa-ine-icon.png"
+thumbnail: "/images/blog/santa-ine-icon.jpg"
 da_id: 416033956
 summary: "In the spirit of the Christmas season, Ine has ditched the mostache and donned some festive attire! The hat's a bit small on him, but he doesn't mind! I'm..."
 ---

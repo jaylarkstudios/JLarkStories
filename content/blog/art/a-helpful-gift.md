@@ -3,7 +3,7 @@ title: "A Helpful Gift"
 date: 2023-03-03T21:16:41+0000
 categories: ["My Art"]
 tags: ["abdl", "incontinence", "briefs", "diapers", "gift", "raccoon", "sheep", "car", "comic", "dialog", "story", "male"]
-thumbnail: "/images/blog/a-helpful-gift.png"
+thumbnail: "/images/blog/a-helpful-gift.jpg"
 created_date: "Nov 23, 2017"
 fa_id: 51233508
 summary: "When Cuprin was having some trouble wetting the bed as an adult, he was embarassed at the thought of wearing diapers again. But Scarbo..."
