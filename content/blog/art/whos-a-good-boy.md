@@ -3,7 +3,7 @@ title: "Who's a Good Boy!"
 date: 2016-02-20T22:05:28+0000
 categories: ["My Art"]
 tags: ["anthro", "bone", "corgi", "dog", "furry"]
-thumbnail: "/images/blog/whos-a-good-boy.png"
+thumbnail: "/images/blog/whos-a-good-boy.jpg"
 da_id: 592048042
 summary: "Digital portrait for DouglasCollierhttps://douglascollier.deviantart.com. Naaaaaww, lookit 'im! He looks so cute and happy! Nearly finished with Indiegogo..."
 ---

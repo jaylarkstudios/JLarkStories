@@ -3,7 +3,7 @@ title: "Stal Working Out"
 date: 2024-08-23T14:03:00+0000
 categories: ["Guest Art"]
 tags: ["stal", "horse", "stallion", "muscle", "musclefur", "barbell", "lifting", "bodybuilder", "pecs", "buff", "shorts", "workout", "male"]
-thumbnail: "/images/blog/stal-working-out.png"
+thumbnail: "/images/blog/stal-working-out.jpg"
 created_date: "Nov 30, 2022"
 artists: ["donttouchmylasagna"]
 fa_id: 57841133

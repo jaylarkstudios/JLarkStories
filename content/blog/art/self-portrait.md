@@ -3,7 +3,7 @@ title: "Self Portrait"
 date: 2014-01-11T04:27:08+0000
 categories: ["My Art"]
 tags: []
-thumbnail: "/images/blog/self-portrait.png"
+thumbnail: "/images/blog/self-portrait.jpg"
 da_id: 426113421
 summary: "Explanation: Eheheh, I seem to have stumped people with this one! This was an experiment that I did not too long ago, inspired by the following video:..."
 ---

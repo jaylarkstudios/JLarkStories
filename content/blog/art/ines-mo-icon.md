@@ -3,7 +3,7 @@ title: "Ine's Mo Icon"
 date: 2013-11-02T03:43:26+0000
 categories: ["My Art"]
 tags: []
-thumbnail: "/images/blog/ines-mo-icon.png"
+thumbnail: "/images/blog/ines-mo-icon.jpg"
 da_id: 410974307
 summary: "Well, after scraping off all that pink paint, look what suddenly sprouted on Ine's upper lip! Movember, that magically manly month, is now upon us! Ine will be..."
 ---
