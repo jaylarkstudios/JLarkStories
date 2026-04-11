@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-14.jpg"
 patreon_id: 18942972
 summary: "More practice with one-point perspective."
 ---
-draft: true
-
 More practice with one-point perspective.
 
 ![Drawing Course Notes 14](/images/blog/drawing-course-notes-14.jpg)

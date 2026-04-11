@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-15-cyberpunk.jpg"
 patreon_id: 42832039
 summary: "Shoxic the Toxtricity is his own power source! That makes oc_tober number 15!"
 ---
-draft: true
-
 Shoxic the Toxtricity is his own power source! That makes #oc_tober number 15!
 
 ![O.C.tober #15 - Cyberpunk](/images/blog/october-15-cyberpunk.jpg)

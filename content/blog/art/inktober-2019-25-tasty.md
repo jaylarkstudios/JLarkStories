@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-25-tasty.jpg"
 patreon_id: 31050816
 summary: "The only time Mrs. Dragon has tasted duck is when giving her adopted son a bath! A silly and cute idea for today's Inktober theme, \"Tasty\"! 😜 A commission for..."
 ---
-draft: true
-
 The only time Mrs. Dragon has tasted duck is when giving her adopted son a bath! A silly and cute idea for today's #Inktober theme, "Tasty"! 😜 A commission for @TheTFDuck!
 
 ![Inktober 2019 #25 - Tasty](/images/blog/inktober-2019-25-tasty.jpg)

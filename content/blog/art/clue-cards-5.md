@@ -8,8 +8,6 @@ thumbnail: "/images/blog/clue-cards-5.jpg"
 patreon_id: 28631421
 summary: "The Colonel can make a meal out of anything! Well, almost anything… Good grief, but it's been hot lately! I daresay hot enough to melt a rubber chicken!..."
 ---
-draft: true
-
 The Colonel can make a meal out of anything! Well, almost anything…
 
 Good grief, but it's been hot lately! I daresay hot enough to melt a rubber chicken!

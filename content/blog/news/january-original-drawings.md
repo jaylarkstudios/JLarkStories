@@ -7,8 +7,6 @@ tags: []
 patreon_id: 24172714
 summary: "Original drawings from the Inked Feathers collection will be sent out at the end of this month! If you have any requests for which one you'd like, please..."
 ---
-draft: true
-
 Original drawings from the *Inked Feathers* collection will be sent out at the end of this month! If you have any requests for which one you'd like, please choose from the list below, which includes the four entries from this month plus a couple extras from previous months. If you have no preference, you'll be sent one as a surprise!
 
 [Little Ine](https://www.patreon.com/posts/inked-feathers-23829574) 

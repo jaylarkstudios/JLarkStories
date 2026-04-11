@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-requests-and-commissions.jpg"
 patreon_id: 30325725
 summary: "Big news! I will be participating in Inktober again this year, but this time I will attempt to follow the official prompts, and to complete one drawing per..."
 ---
-draft: true
-
 Big news! I will be participating in Inktober again this year, but this time I will attempt to follow the official prompts, *and* to complete one drawing per day! (I take Sundays off, so I'll double up on another day to make up for it.)
 
 I am also taking commissions for Inktober! (Though if you're a Patreon subscriber, you may already be getting one or more this month for your continued support! See below.) For $5, you may choose one of the official prompts as well as a character to be paired with that prompt. The resulting drawing will be open to my interpretation, meaning it will be somewhat of a surprise. For $10, you can choose what it will look like, as long as it still fits within the theme for that day. Whatever you choose, for an additional $2, the original 5"x7" pen and ink drawing will be sent to you in the mail! (If you order multiple, you only need to pay the shipping once.)

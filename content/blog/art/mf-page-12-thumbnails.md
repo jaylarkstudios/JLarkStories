@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mf-page-12-thumbnails.jpg"
 patreon_id: 120714181
 summary: "Mag did what she felt she had to... but doesn't seem very happy about it. Neither does Fang. 😢"
 ---
-draft: true
-
 Mag did what she felt she had to... but doesn't seem very happy about it. Neither does Fang. 😢
 
 ![M&F: Page 12 Thumbnails](/images/blog/mf-page-12-thumbnails.jpg)

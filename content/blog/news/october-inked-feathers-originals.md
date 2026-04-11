@@ -7,8 +7,6 @@ tags: ["inkedfeathersoriginals"]
 patreon_id: 31252103
 summary: "It's time to send out original Inked Feathers drawings for the month of October! There are a lot to choose from this time because many of this year's Inktober..."
 ---
-draft: true
-
 It's time to send out original Inked Feathers drawings for the month of October! There are a lot to choose from this time because many of this year's Inktober drawings are included! Click the link below to see which ones are available.
 
 **Remember**, unlike previous months, this month every patron at the $5 level or higher gets to pick a drawing, those at $10 get two and those at $15 get three! If you made any specific Inktober requests you'll be sent those drawings. If you have any requests leftover, you can pick from the remaining available drawings. Let me know which you would like in a comment or message by **Thursday, November 7th**, or don't pick and they'll be a surprise!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-confession.jpg"
 patreon_id: 59600605
 summary: "My boy's grasp on the concept of \"secret\" isn't nearly as advanced as his appreciation for flatulence-related humor. Read on the website:..."
 ---
-draft: true
-
 My boy's grasp on the concept of "secret" isn't nearly as advanced as his appreciation for flatulence-related humor.
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic014/](https://awwfeathers.com/bonuscomics/bonuscomic014/)

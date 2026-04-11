@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 70373888
 summary: "Greetings folks! Man, what happened to the time? The third quarter of 2022 is already nearly done. But I wanted to let you all know what the plans are for..."
 ---
-draft: true
-
 Greetings folks! Man, what happened to the time? The third quarter of 2022 is already nearly done. But I wanted to let you all know what the plans are for whatever's left of it!.
 
 **The Next Chapter of *****Aww, Feathers!***

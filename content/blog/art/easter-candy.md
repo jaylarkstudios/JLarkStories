@@ -8,8 +8,6 @@ thumbnail: "/images/blog/easter-candy.jpg"
 patreon_id: 26463076
 summary: "Ooooh, peanut butter eggs... my kryptonite... Comic delayed on account of Easter Candy. I'm sure we can think of at least a few reasons that makes sense... No..."
 ---
-draft: true
-
 Ooooh, peanut butter eggs... my kryptonite... Comic delayed on account of Easter Candy. I'm sure we can think of at least a few reasons that makes sense...
 
 No actually, lately I've been working on a two-week schedule, so when I wasn't able to complete a page last week, it meant this week would be a bye week as well. As per yoosh however, I've got a little something for the gap. This one is based on real events, which I'm sure comes as no surprise to those who know about my sweet-tooth. Er... sweet-beak?

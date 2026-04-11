@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-17-antihero.jpg"
 patreon_id: 42870776
 summary: "OCtober 17 is a sergal mercenary. Would that make him the cheese that bites back? 😛 The simplest explanation I've heard for what makes someone an \"antihero\" is..."
 ---
-draft: true
-
 OCtober 17 is a sergal mercenary. Would that make him the cheese that bites back? 😛
 
 The simplest explanation I've heard for what makes someone an "antihero" is someone who does heroic deeds for unheroic reasons, or someone who does unheroic deeds for heroic reasons. I chose the first interpretation for the this one.  A seemingly gallant knight who is motivated by riches rather than chivalry.

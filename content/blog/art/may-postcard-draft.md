@@ -8,8 +8,6 @@ thumbnail: "/images/blog/may-postcard-draft.jpg"
 patreon_id: 5115083
 summary: "The May patron postcard is gonna be so cool! But don't take my word for it. Take it from your friendly neighborhood Spider Dil! \"Spider Dil! Spider Dil! Does..."
 ---
-draft: true
-
 The May patron postcard is gonna be so cool! But don't take my word for it. Take it from your friendly neighborhood Spider Dil!
 
 "Spider Dil! Spider Dil! Does whatever a spider will!"

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-3.jpg"
 patreon_id: 5862433
 summary: "idk. Bunch of randomness."
 ---
-draft: true
-
 idk. Bunch of randomness.
 
 ![Sketchbook 3](/images/blog/sketchbook-3.jpg)

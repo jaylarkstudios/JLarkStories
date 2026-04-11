@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-7.jpg"
 patreon_id: 6959084
 summary: "What? Kraal is evolving! http://inejwstine.deviantart.com/art/Pidgey-Kraal-638809729http://inejwstine.deviantart.com/art/Pidgey-Kraal-638809729"
 ---
-draft: true
-
 What? Kraal is evolving!
 
 [http://inejwstine.deviantart.com/art/Pidgey-Kraal-638809729](http://inejwstine.deviantart.com/art/Pidgey-Kraal-638809729)

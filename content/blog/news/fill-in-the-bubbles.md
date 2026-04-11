@@ -7,8 +7,6 @@ tags: []
 patreon_id: 17526272
 summary: "!Nonehttp://www.awwfeathers.com/files/FITB_laundry.png?lang=eng !Nonehttp://www.awwfeathers.com/files/FITB_fish.png?lang=eng..."
 ---
-draft: true
-
 ![None](http://www.awwfeathers.com/files/FITB_laundry.png?lang=eng)
 
 ![None](http://www.awwfeathers.com/files/FITB_fish.png?lang=eng)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/professional-update.jpg"
 patreon_id: 4867601
 summary: "For some reason they wanted to be paid in Bawks? I'll have to look up the exchange rate......"
 ---
-draft: true
-
 For some reason they wanted to be paid in Bawks?  I'll have to look up the exchange rate...
 
 [http://www.awwfeathers.com/comics/2270484/professional-update/](http://www.awwfeathers.com/comics/2270484/professional-update/)

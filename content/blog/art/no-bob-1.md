@@ -8,8 +8,6 @@ thumbnail: "/images/blog/no-bob-1.jpg"
 patreon_id: 14622143
 summary: "None of your business, Bob!! http://www.awwfeathers.com/comics/2455068/no-bob-1/http://www.awwfeathers.com/comics/2455068/no-bob-1/"
 ---
-draft: true
-
 None of your business, Bob!!
 
 [http://www.awwfeathers.com/comics/2455068/no-bob-1/](http://www.awwfeathers.com/comics/2455068/no-bob-1/)

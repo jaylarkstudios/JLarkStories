@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-22-western.jpg"
 patreon_id: 43093610
 summary: "All you varmints best watch yourselves, cuz this coyote is here to clean up this town! This OCtober prompt is 22, Western!"
 ---
-draft: true
-
 All you varmints best watch yourselves, cuz this coyote is here to clean up this town! This OCtober prompt is 22, Western!
 
 ![O.C.tober #22 - Western](/images/blog/october-22-western.jpg)

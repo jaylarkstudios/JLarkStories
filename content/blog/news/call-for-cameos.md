@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 81202255
 summary: "Edit: All slots are now full. Thank you so much! To those who are interested in a future cameo appearance, keep an eye out! Some may be only available to..."
 ---
-draft: true
-
 **Edit:** All slots are now full. Thank you so much! To those who are interested in a future cameo appearance, keep an eye out! Some may be only available to patrons at a certain level or higher, while others may be available to patrons at any level (like this one). But they will *always* be made available to patrons first!
 
 Greetings! This is a quick message to let you all know that there's an opportunity to appear in an upcoming page of *Aww, Feathers!* If selected, your character would appear in the background of a future comic page. Here are some examples from previous pages:

@@ -7,8 +7,6 @@ tags: []
 patreon_id: 15855664
 summary: "EDIT: Patreon has decided NOT to move forward with the new fees! See my newest news post about what this means for supporters moving forward:..."
 ---
-draft: true
-
 **EDIT:  Patreon has decided NOT to move forward with the new fees! See my newest news post about what this means for supporters moving forward: [https://www.patreon.com/posts/15866365](https://www.patreon.com/posts/15866365)
 
 You may have heard about upcoming changes to Patreon's fee structure. If you haven't, I speak on it briefly **[here](https://www.patreon.com/posts/patreons-fee-15790717)**. A lot of people--creators and patrons alike--are unhappy with the proposed changes. I don't really like them either. I've reached out to Patreon with my feedback, and I encourage everyone else to do the same. (But be respectful!)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/awu-panel.jpg"
 patreon_id: 14622161
 summary: "Time to whip out the lasso... http://www.awwfeathers.com/comics/2506634/awu-panel/http://www.awwfeathers.com/comics/2506634/awu-panel/"
 ---
-draft: true
-
 Time to whip out the lasso...
 
 [http://www.awwfeathers.com/comics/2506634/awu-panel/](http://www.awwfeathers.com/comics/2506634/awu-panel/)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-32.jpg"
 patreon_id: 11869773
 summary: "Bottom left: not a bad representation of the amount of sleep I've been getting lately."
 ---
-draft: true
-
 Bottom left: not a bad representation of the amount of sleep I've been getting lately.
 
 ![Sketchbook 32](/images/blog/sketchbook-32.jpg)

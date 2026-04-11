@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-4-freeze.jpg"
 patreon_id: 30504239
 summary: "CRITICAL ERROR. SYSTEM FROZEN. ESCAPE ROUTINE NOT FOUND. REBOOT SEQUENCE UNAVAILABLE. INITIATING HIBERNATE MODE. ESTIMATED END DATE: UNDEFINED. I approached..."
 ---
-draft: true
-
 CRITICAL ERROR. SYSTEM FROZEN. ESCAPE ROUTINE NOT FOUND. REBOOT SEQUENCE  UNAVAILABLE. INITIATING HIBERNATE MODE. ESTIMATED END DATE: UNDEFINED.
 
 I approached today's #Inktober prompt, "Freeze", from a different angle. I like spooky stuff, and don't get to make it very often, so I hope you like it!

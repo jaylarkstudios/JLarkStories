@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-15-hilda.jpg"
 patreon_id: 57480169
 summary: "We've reached the halfway point! It's OcTOONber 15, featuring Kraal drawn in the style of the thunderbird from Hilda! His smaller, more cuddly form. Commission..."
 ---
-draft: true
-
 We've reached the halfway point! It's OcTOONber 15, featuring Kraal drawn in the style of the thunderbird from Hilda! (His smaller, more cuddly form.)
 
 Commission slots still available!

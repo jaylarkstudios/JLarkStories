@@ -8,8 +8,6 @@ thumbnail: "/images/blog/quiet-weekend-comic-anouncement.jpg"
 patreon_id: 52768115
 summary: "I'm sure Miara is speaking for everyone watching this space right about now. 😅 Joking aside though, I did get some comic work done over the weekend, and in the..."
 ---
-draft: true
-
 I'm sure Miara is speaking for everyone watching this space right about now. 😅
 
 Joking aside though, I did get some comic work done over the weekend, and in the process have planned out the rest of the progress needed to finish up the next chapter. I'm happy to announce that it's planned to begin the first week of August! 😁

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/you-matter.jpg"
 patreon_id: 38161939
 summary: "God is an artist, and he paints with many colors. 🎨 We are better together. I've been thinking for a while about what to say and how to say it. I knew I wanted..."
 ---
-draft: true
-
 God is an artist, and he paints with many colors. 🎨 We are better together.
 
 I've been thinking for a while about what to say and how to say it. I knew I wanted to say *something*, so I finally created this. I hope it adequately conveys my feelings. I truly do love and value members of all races, nationalities, orientations, etc. Our differences make us and the world we live in beautiful!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/your-guide-to-aww-feathers-patreon-rewards.jpg"
 patreon_id: 17791559
 summary: "This is a detailed explanation of your Aww, Feathers! Patreon rewards and how to take advantage of them! Please note that rewards are subject to change. Any..."
 ---
-draft: true
-
 This is a detailed explanation of your *Aww, Feathers!* Patreon rewards and how to take advantage of them! Please note that rewards are subject to change. Any changes will be announced ahead of time to allow you to plan accordingly. This post will also be kept up to date to reflect any changes.
 
 ### Patreon Tiers

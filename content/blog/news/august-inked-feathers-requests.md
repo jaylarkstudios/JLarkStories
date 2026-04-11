@@ -7,8 +7,6 @@ tags: ["inkedfeathersrequests"]
 patreon_id: 29402954
 summary: "Hey Silver members! It's time to pick your original drawing! You may choose one of the Inked Feathers drawings from August, or one of the remaining ones from..."
 ---
-draft: true
-
 Hey Silver members! It's time to pick your original drawing! You may choose one of the Inked Feathers drawings from August, or one of the remaining ones from previous months listed below. If you'd like a specific one, please let me know by Saturday.
 
 This month's entries:

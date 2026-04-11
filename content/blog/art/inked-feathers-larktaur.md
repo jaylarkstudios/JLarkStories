@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-larktaur.jpg"
 patreon_id: 27891340
 summary: "What the... I don't remember my butt being THAT big! Well, you could say I have an affinity for horses. 😉 And with that, the month of Taursday comes to a..."
 ---
-draft: true
-
 What the... I don't remember my butt being THAT big!
 
 Well, you could say I have an affinity for horses. 😉 And with that, the month of Taursday comes to a close! I hope you enjoyed this month's theme! What will the theme be for next month? It's a mystery... 🕵️‍♀️

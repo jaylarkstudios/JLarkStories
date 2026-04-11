@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketch-new-years-dance.jpg"
 patreon_id: 23579149
 summary: "Lark and Maiara's first appearance in a Sketchbook Club entry! The year is drawing rapidly to a close, and so is this first year's collection of exclusive..."
 ---
-draft: true
-
 Lark and Maiara's first appearance in a Sketchbook Club entry! The year is drawing rapidly to a close, and so is this first year's collection of exclusive sketchbook entries. I hope you've enjoyed them! I plan to continue the collection next year, but I'm also open to any feedback or suggestions. Is there something you'd like to see? Something you'd like to have done differently? Let me know!
 
 Enjoy these last few days of 2018!!

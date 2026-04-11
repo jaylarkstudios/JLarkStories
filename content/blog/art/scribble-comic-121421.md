@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-121421.jpg"
 patreon_id: 59999326
 summary: "We had our lunch catered at work yesterday, but apparently the frog eye salad was bad. Luckily, I ordered the potato salad. 😅"
 ---
-draft: true
-
 We had our lunch catered at work yesterday, but apparently the frog eye salad was bad. (Luckily, I ordered the potato salad. 😅)
 
 ![Scribble Comic - 12/14/21](/images/blog/scribble-comic-121421.jpg)

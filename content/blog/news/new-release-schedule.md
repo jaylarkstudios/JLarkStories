@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 96100694
 summary: "Hey folks! I have two exciting announcements! First off, I've been making good progress on my comic pages, so I've decided to up my release schedule from one..."
 ---
-draft: true
-
 Hey folks! I have two exciting announcements!
 
 First off, I've been making good progress on my comic pages, so I've decided to up my release schedule from one new page per month to two! Now you'll get a NEW page of Aww, Feathers! on the first and third Tuesdays of every month!

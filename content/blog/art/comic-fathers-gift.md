@@ -8,8 +8,6 @@ thumbnail: "/images/blog/comic-fathers-gift.jpg"
 patreon_id: 67747338
 summary: "When Mommy's happy, Daddy's happy, so for goodness sake, keep your mom happy!! Wishing all the other dads out there a happy Father's Day this weekend! Read on..."
 ---
-draft: true
-
 When Mommy's happy, Daddy's happy, so for goodness sake, keep your mom happy!!
 
 Wishing all the other dads out there a happy Father's Day this weekend!

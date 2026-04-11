@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inside-junes-head.jpg"
 patreon_id: 3864125
 summary: "Poor Sadness June looks so deflated... http://www.awwfeathers.com/comics/2222895/inside-junes-head/http://www.awwfeathers.com/comics/2222895/inside-junes-head/"
 ---
-draft: true
-
 Poor Sadness June looks so deflated...
 
 [http://www.awwfeathers.com/comics/2222895/inside-junes-head/](http://www.awwfeathers.com/comics/2222895/inside-junes-head/)

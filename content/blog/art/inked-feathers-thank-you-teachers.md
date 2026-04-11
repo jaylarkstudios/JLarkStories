@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-thank-you-teachers.jpg"
 patreon_id: 37385370
 summary: "Actually, if Kraal had his way, all of his classes would be online! Online learning is admittedly not an optimal solution for everyone. Still, today Kraal the..."
 ---
-draft: true
-
 Actually, if Kraal had his way, *all* of his classes would be online!
 
 Online learning is admittedly not an optimal solution for everyone. Still, today Kraal the gyrfalcon honors those teachers who've done their best with a difficult situation to ensure their students have every opportunity to continue to learn and progress in their education. Teaching isn't easy, even in the best of times! Thanks for stepping up!

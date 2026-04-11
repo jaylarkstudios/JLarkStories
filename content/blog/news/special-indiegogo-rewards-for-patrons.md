@@ -7,8 +7,6 @@ tags: ["specialdeal"]
 patreon_id: 19238626
 summary: "Hey you lovely people! Here are the promised rewards exclusive to backers on Patreon! To claim them, simply click on the secret link for the reward you want,..."
 ---
-draft: true
-
 Hey you lovely people! Here are the promised rewards exclusive to backers on Patreon! To claim them, simply click on the secret link for the reward you want, and you'll be taken to the Indiegogo campaign page, and your secret perk will be revealed on top of all the other available perks.
 
 These are the rewards that have special discounts applied to them when you use the secret link. Quantities of each are limited, so please don't share the link with others:

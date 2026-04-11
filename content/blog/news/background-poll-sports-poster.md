@@ -7,8 +7,6 @@ tags: ["backgroundpoll"]
 patreon_id: 72521523
 summary: "Hey Awwthusiasts! In an upcoming page, there's a poster in the background that depicts a college athlete. It's small and not too detailed, but I'm letting you..."
 ---
-draft: true
-
 Hey Awwthusiasts!
 
 In an upcoming page, there's a poster in the background that depicts a college athlete. It's small and not too detailed, but I'm letting you help decide the subject! What species should the subject of the poster be? Answer the poll below, and feel free to comment with more specifics.

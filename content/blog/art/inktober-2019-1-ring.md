@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-1-ring.jpg"
 patreon_id: 30423324
 summary: "First drawing for Inktober! The prompt was \"Ring\". I hope the reference is obvious enough! 😂💍 If you're a patron, remember to send in your Inktober requests!..."
 ---
-draft: true
-
 First drawing for #Inktober! The prompt was "Ring". I hope the reference is obvious enough! 😂💍
 
 If you're a patron, remember to send in your Inktober requests! If not, I'm open for Inktober commissions! $5-10 each. Message me to reserve your spot!

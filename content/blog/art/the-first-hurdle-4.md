@@ -8,8 +8,6 @@ thumbnail: "/images/blog/the-first-hurdle-4.jpg"
 patreon_id: 23912639
 summary: "I KNEW that internship would be good for something! Mmhmm. Yeah. Oh yeah, I know some of these words! Also, poor Teko is getting grilled. But maybe there's a..."
 ---
-draft: true
-
 I KNEW that internship would be good for something! 
 
 Mmhmm. Yeah. Oh yeah, I know some of these words! Also, poor Teko is getting grilled. But maybe there's a light at the end of the tunnel... This is the 4th page of the guest story by Brien Sparling! 

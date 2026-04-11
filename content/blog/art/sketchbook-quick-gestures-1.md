@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-quick-gestures.jpg"
 patreon_id: 23775532
 summary: "I want to make sure I stay on top of my gesture drawing skills, so here's a bunch of 30 second poses."
 ---
-draft: true
-
 I want to make sure I stay on top of my gesture drawing skills, so here's a bunch of 30 second poses.
 
 ![Sketchbook: Quick Gestures](/images/blog/sketchbook-quick-gestures.jpg)

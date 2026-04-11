@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-112221.jpg"
 patreon_id: 59074444
 summary: "Never fails to brighten my day. Never. ♥️"
 ---
-draft: true
-
 Never fails to brighten my day. Never. ♥️
 
 ![Scribble comic - 11/22/21](/images/blog/scribble-comic-112221.jpg)

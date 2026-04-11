@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-like-zoinks.jpg"
 patreon_id: 28443829
 summary: "\"We did it gang! We uncovered the culprit behind the crunchy cookie caper!\" \"I would have gotten away with it too if it weren't for you meddlesome kids!\"..."
 ---
-draft: true
-
 "We did it gang! We uncovered the culprit behind the crunchy cookie caper!"
 "I would have gotten away with it too if it weren't for you meddlesome kids!"
 

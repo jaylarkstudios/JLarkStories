@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-10-yogi-bear.jpg"
 patreon_id: 57337976
 summary: "Wendy the roo, drawn for James Duck in the style of Yogi Bear, is ready any time for a friendly game of football. Or rugby. Or volleyball. Or just about..."
 ---
-draft: true
-
 Wendy the roo, drawn for James Duck in the style of Yogi Bear, is ready any time for a friendly game of football. Or rugby. Or volleyball. Or just about anything, really! That brings us to OcTOONber ten!
 
 ![OcTOONber #10 - Yogi Bear](/images/blog/octoonber-10-yogi-bear.jpg)

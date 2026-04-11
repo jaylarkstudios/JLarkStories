@@ -8,8 +8,6 @@ thumbnail: "/images/blog/todo-box.jpg"
 patreon_id: 17940878
 summary: "\"I knew I should have digitized all these...\" Still feeling mostly better. Some residual pain occurs now and then, but I'm working with my GI to keep things..."
 ---
-draft: true
-
 "I knew I should have digitized all these..."
 
  Still feeling mostly better. Some residual pain occurs now and then, but I'm working with my GI to keep things under control. I'm able to work for the time being. However, my long time being sick has left me with a sizable pile of things that need doing.

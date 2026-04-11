@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-10.jpg"
 patreon_id: 6764854
 summary: "More concept sketches for the October postcard. Hmmm... which one, which one...?"
 ---
-draft: true
-
 More concept sketches for the October postcard. Hmmm... which one, which one...?
 
 ![Sketchbook 10](/images/blog/sketchbook-10.jpg)

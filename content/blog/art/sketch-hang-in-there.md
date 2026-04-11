@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketch-hang-in-there.jpg"
 patreon_id: 20296710
 summary: "\"Hey Dil! Betcha can't jump through that tire swing over there!\" \"Hold my La Croak.\" Five seconds later... \"...Dangit. I knew that extra slice of pizza last..."
 ---
-draft: true
-
 "Hey Dil! Betcha can't jump through that tire swing over there!"
 
 "Hold my La Croak."

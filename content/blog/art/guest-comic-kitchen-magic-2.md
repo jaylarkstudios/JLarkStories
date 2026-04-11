@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-kitchen-magic-2.jpg"
 patreon_id: 37292215
 summary: "\"Massed Males Mean Mayhem\" is my new band name. The second page of Brien Sparling's guest comic!..."
 ---
-draft: true
-
 "Massed Males Mean Mayhem" is my new band name.
 
 The second page of Brien Sparling's guest comic!

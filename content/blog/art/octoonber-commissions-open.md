@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-commissions-open.jpg"
 patreon_id: 56679464
 summary: "I will once again be participating in Inktober, and like last year I'm putting my own twist on it! Each day of the month of OcTOONber I will be drawing..."
 ---
-draft: true
-
 I will once again be participating in Inktober, and like last year I'm putting my own twist on it! Each day of the month of OcTOONber I will be drawing characters in a different cartoony style! Feel free to participate with me!
 
 In addition, I'm opening for OcTOONber commissions! Receive a black and white ink drawing of your character drawn in an existing cartoony style! (See prompt list for ideas.) I want to do a variety of styles, so each will only be done once. First come, first served! Just comment or send me a message to claim one! (Open to patrons only until the end of the month. Starting October 1st, these will be open to the public!)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/breakfast-carol.jpg"
 patreon_id: 4126391
 summary: "Me neither Dil. Me neither... http://www.awwfeathers.com/comics/2238771/breakfast-carol/http://www.awwfeathers.com/comics/2238771/breakfast-carol/ You may..."
 ---
-draft: true
-
 Me neither Dil. Me neither...
 
 [http://www.awwfeathers.com/comics/2238771/breakfast-carol/](http://www.awwfeathers.com/comics/2238771/breakfast-carol/)

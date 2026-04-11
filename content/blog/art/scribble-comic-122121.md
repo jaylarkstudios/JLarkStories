@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-122121.jpg"
 patreon_id: 60302391
 summary: "Look, sometimes you need to do what it takes to keep the peace. Besides, there's a gas station nearby that makes amazing thick shakes. 😋🍦"
 ---
-draft: true
-
 Look, sometimes you need to do what it takes to keep the peace. Besides, there's a gas station nearby that makes amazing thick shakes. 😋🍦
 
 ![Scribble Comic - 12/21/21](/images/blog/scribble-comic-122121.jpg)

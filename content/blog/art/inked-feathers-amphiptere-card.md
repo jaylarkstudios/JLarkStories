@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-amphiptere-card.jpg"
 patreon_id: 48066036
 summary: "So funny story... I've actually misplaced a bunch of my traditional art supplies, including the paper I use to create Inked Feathers entries. This is partly..."
 ---
-draft: true
-
 So funny story... I've actually misplaced a bunch of my traditional art supplies, including the paper I use to create Inked Feathers entries. This is partly why it's been a while since the last entry (but only partly 😅). My work space is in need of some good organization anyway, so Spring Cleaning will probably come early this year, and I'm sure my supplies will turn up in the process.
 
 In the meantime though, I did find a bunch of artist trading cards I got forever ago. I drew on a few of them, but then forgot about the rest... until now! So for the time being, I'll use these cards to draw on, and I decided to visit one of my favorite subjects in art: dragons!

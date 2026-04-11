@@ -7,6 +7,4 @@ tags: []
 patreon_id: 6320676
 summary: "Thank you so much for the support this month!"
 ---
-draft: true
-
 Thank you so much for the support this month!

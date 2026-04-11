@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-17-cuphead.jpg"
 patreon_id: 57589487
 summary: "\"This match will get red hot!\" You better believe Nekronos isn't turning in his contract without a fight! Here's OcTOONber 17 in the style of Cuphead!"
 ---
-draft: true
-
 "This match will get red hot!" You better believe Nekronos isn't turning  in his contract without a fight! Here's OcTOONber 17 in the style of  Cuphead!
 
 ![OcTOONber #17 - Cuphead](/images/blog/octoonber-17-cuphead.jpg)

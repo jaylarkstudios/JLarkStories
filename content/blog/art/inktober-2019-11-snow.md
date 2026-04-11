@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-11-snow.jpg"
 patreon_id: 30694092
 summary: "In today's Inktober, Ine just wanted to hold a baby penguin he saw in the \"Snow\" level! He couldn't resist! Perhaps he should have…"
 ---
-draft: true
-
 In today's #Inktober, Ine just wanted to hold a baby penguin he saw in the "Snow" level! He couldn't resist! Perhaps he should have…
 
 ![Inktober 2019 #11 - Snow](/images/blog/inktober-2019-11-snow.jpg)

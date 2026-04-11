@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-11621.jpg"
 patreon_id: 58411315
 summary: "Our neighbor has a border collie named Oreo who sometimes comes to visit and play with our kids. She's very friendly, but not very good at sharing her toys. 😂"
 ---
-draft: true
-
 Our neighbor has a border collie named Oreo who sometimes comes to visit and play with our kids. She's very friendly, but not very good at sharing her toys. 😂
 
 ![Scribble comic - 11/6/21](/images/blog/scribble-comic-11621.jpg)

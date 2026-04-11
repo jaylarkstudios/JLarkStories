@@ -7,6 +7,4 @@ tags: ["poll"]
 patreon_id: 18500801
 summary: "I just won an art raffle, and the prize is a commission of one of my characters turned into a bird! So which completely non-bird Aww, Feathers! character would..."
 ---
-draft: true
-
 I just won an art raffle, and the prize is a commission of one of my characters turned into a bird! So which completely non-bird Aww, Feathers! character would you most like to see turned bird? (Thinking about this question made me realize just how many bird or birdish characters I have, haha!)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/clue-cards-4.jpg"
 patreon_id: 28631311
 summary: "She confiscated that during one of her classes. But that won't stop her from using it! \"But wait,\" I hear someone cry, \"can't she just shoot water out of her..."
 ---
-draft: true
-
 She confiscated that during one of her classes. But that won't stop her from using it!
 
  "But wait," I hear someone cry, "can't she just shoot water out of her blowhole?" No. Cuz that would be gross. Like, super gross. 😝

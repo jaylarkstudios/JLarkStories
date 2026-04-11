@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-61022.jpg"
 patreon_id: 67649568
 summary: "It was an oven in my study yesterday, I tell ya! 🥵🍳"
 ---
-draft: true
-
 It was an oven in my study yesterday, I tell ya! 🥵🍳
 
 ![Scribble comic - 6/10/22](/images/blog/scribble-comic-61022.jpg)

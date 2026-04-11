@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-6-husky.jpg"
 patreon_id: 30568882
 summary: "Who's a good duck? James is a good duck! Yes he is! 😁 Yesterday's Inktober prompt was \"Husky\", and this one was done as a patron reward for James the duck!"
 ---
-draft: true
-
 Who's a good duck? James is a good duck! Yes he is! 😁 Yesterday's #Inktober prompt was "Husky", and this one was done as a patron reward for James the duck!
 
 ![Inktober 2019 #6 - Husky](/images/blog/inktober-2019-6-husky.jpg)

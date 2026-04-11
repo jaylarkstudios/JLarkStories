@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-wild-animal.jpg"
 patreon_id: 37960991
 summary: "What does the fox say? She says thank you to all the kind souls who help animals in need! 🦊♥ Taking a quick break from guest comics to remind you that the..."
 ---
-draft: true
-
 What does the fox say? She says thank you to all the kind souls who help animals in need! 🦊♥
 
 Taking a quick break from guest comics to remind you that the animal sanctuary and education facility, Wild Wonders, is in need of help! Here are a few ways you can serve these critters and those who take care of them:

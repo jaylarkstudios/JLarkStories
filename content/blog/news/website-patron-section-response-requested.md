@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 61513815
 summary: "I've been busy updating AwwFeathers.com, and starting February 1, 2022 it will have a new feature! Beneath each comic page you will see a list of those patrons..."
 ---
-draft: true
-
 I've been busy updating AwwFeathers.com, and starting February 1, 2022 it will have a new feature! Beneath each comic page you will see a list of those patrons who supported the comic during the month that it came out. This will be retroactive, and include everyone who has ever been a patron, and even if you need to take a break from Patreon for a while, your name will remain beneath the pages you supported as a display of my profound gratitude!
 
 Pages published before July 2021 will have names displayed for everyone who was a patron during that time, regardless of tier. Starting July 2021, those at the *Awwthusiast* tier and above (including legacy tiers) will be displayed. In a future update, those at the *Awwrt Lover* tier and above (again, including legacy) will have an icon displayed next to their name.

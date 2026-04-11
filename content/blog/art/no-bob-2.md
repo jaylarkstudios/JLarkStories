@@ -8,8 +8,6 @@ thumbnail: "/images/blog/no-bob-2.jpg"
 patreon_id: 14622155
 summary: "Wait, is she blushing? ...Yes Bob. http://www.awwfeathers.com/comics/2455069/no-bob-2/http://www.awwfeathers.com/comics/2455069/no-bob-2/"
 ---
-draft: true
-
 Wait, is she blushing? ...Yes Bob.
 
 [http://www.awwfeathers.com/comics/2455069/no-bob-2/](http://www.awwfeathers.com/comics/2455069/no-bob-2/)

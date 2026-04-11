@@ -7,8 +7,6 @@ tags: []
 patreon_id: 21957525
 summary: "The time has come to send out October Sketchbook Club sketches to all Silver level subscribers! There's a bit of a wider selection this month, thanks to..."
 ---
-draft: true
-
 The time has come to send out October Sketchbook Club sketches to all Silver level subscribers! There's a bit of a wider selection this month, thanks to Inktober! Any leftover sketches will roll over to the next month.
 
 As always, if you have a preference for which sketch you'd like, leave a comment or send me a message. Please do so by the end of the day tomorrow, unless you'd like it to be a surprise! The available sketches for this month are

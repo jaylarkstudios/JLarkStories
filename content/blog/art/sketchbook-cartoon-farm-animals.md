@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-cartoon-farm-animals.jpg"
 patreon_id: 23390358
 summary: "Can you tell I'm playing a little bit of catch-up? That bull is probably my favorite. Followed by the goose. Something went terribly wrong with the cow..."
 ---
-draft: true
-
 (Can you tell I'm playing a little bit of catch-up?) That bull is probably my favorite. Followed by the goose. Something went terribly wrong with the cow though...
 
 You guessed it! More of *Drawing Animals Shape by Shape*, which I'm thoroughly enjoying so far!

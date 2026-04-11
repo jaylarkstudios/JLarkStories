@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 6682628
 summary: "There have been a few changes to the Patreon rewards. Based on the reward levels of current patrons, these changes will not negatively impact anybody who is..."
 ---
-draft: true
-
 There have been a few changes to the Patreon rewards. Based on the reward levels of current patrons, these changes will not negatively impact anybody who is currently pledging their support. However, a few patrons will be entitled to an extra reward. Here are the changes:
 
 - The fifty cent reward level has been removed. This was a decision made by the patreon staff, because after processing fees there would be almost nothing left of pledges under a dollar. We haven't had any patrons at this level, so the reward of being added to the site's "Thank You" page has been rolled into the $1 level.

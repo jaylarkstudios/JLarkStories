@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-21-treasure.jpg"
 patreon_id: 30946125
 summary: "And today's Inktober is a prize for @illuminatelumi! This lucky goat got all blinged up after finding a stash of \"Treasure\"! Those horns double as his..."
 ---
-draft: true
-
 And today's #Inktober is a prize for @illuminatelumi! This lucky goat got all blinged up after finding a stash of "Treasure"! Those horns double as his bling-keepers!
 
 ![Inktober 2019 #21 - Treasure](/images/blog/inktober-2019-21-treasure.jpg)

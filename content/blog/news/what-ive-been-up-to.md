@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 22091716
 summary: "Clear back in May I let you all know I was leaving my job as a software developer to give self-employment a try. I gave you a bit of a status report last..."
 ---
-draft: true
-
 Clear back in May I let you all know I was leaving my job as a software developer to give self-employment a try. I gave you a bit of a **[status report last month](http://www.awwfeathers.com/news-archive/posts/157916/september-updates/?lang=eng)**. Consider this a follow up.
 
 *Big Plans: Aww, Feathers! Book 2* is in its final review stages. Just making sure every i, t, p, q, and all the letters in between are dotted, crossed, and minded! As before, you can reserve your copy of Book 1 or Book 2 (or both!) by heading over to **[AwwFeathersBook.com](http://awwfeathersbook.com/?lang=eng)**!

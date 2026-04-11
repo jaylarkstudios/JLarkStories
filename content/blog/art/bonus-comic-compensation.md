@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-compensation.jpg"
 patreon_id: 59813798
 summary: "Son, some day you'll thank me for this. And if not, I suppose it's only fair for me to cover the therapy bill later. Read on the website:..."
 ---
-draft: true
-
 Son, some day you'll thank me for this. And if not, I suppose it's only fair for me to cover the therapy bill later.
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic015/](https://awwfeathers.com/bonuscomics/bonuscomic015/)

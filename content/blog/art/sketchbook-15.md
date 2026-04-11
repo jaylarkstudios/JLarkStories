@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-15.jpg"
 patreon_id: 7108839
 summary: "A few more practice sketches of an upcoming character. I'm excited to introduce her! Can you guess her species?"
 ---
-draft: true
-
 A few more practice sketches of an upcoming character. I'm excited to introduce her! Can you guess her species?
 
 ![Sketchbook 15](/images/blog/sketchbook-15.jpg)

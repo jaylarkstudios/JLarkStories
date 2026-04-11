@@ -7,8 +7,6 @@ tags: ["20exercises"]
 patreon_id: 22767336
 summary: "I was challenged recently to come up with at least twenty exercises, each of which can be completed in one day and would help me towards accomplishing one of..."
 ---
-draft: true
-
 I was challenged recently to come up with at least twenty exercises, each of  which can be completed in one day and would help me towards accomplishing one of my goals, and then complete at least one of them every day. The order in which they are completed doesn't matter, and they can even be done multiple times.
 
 The goal I chose is to improve  my character drawing. To help keep me accountable, I'll be posting the results of my daily drawing exercises here for patrons to see! If you notice me go a day without posting one, feel free to call me out on it! (Though I plan to take Sundays off from uploading and then post two on Mondays.)

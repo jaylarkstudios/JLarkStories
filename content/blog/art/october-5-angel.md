@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-5-angel.jpg"
 patreon_id: 42425308
 summary: "It warms my heart to make Jakiro the bearded dragon, and first member of our family to earn her wings, OCtober number 5: Angel! 😇🦎"
 ---
-draft: true
-
 It warms my heart to make Jakiro the bearded dragon, and first member of our family to earn her wings, OCtober number 5: Angel! 😇🦎
 
 ![O.C.tober #5 - Angel](/images/blog/october-5-angel.jpg)

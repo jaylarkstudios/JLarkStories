@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-teaching-tithing.jpg"
 patreon_id: 61898194
 summary: "Based on actual conversation. I'm so glad I believe in a God with a sense of humor! 😅 Read on the website:..."
 ---
-draft: true
-
 Based on actual conversation. I'm so glad I believe in a God with a sense of humor! 😅
 
 Read on the website: [http://localhost:1313/bonuscomics/bonuscomic022/](http://localhost:1313/bonuscomics/bonuscomic022/)

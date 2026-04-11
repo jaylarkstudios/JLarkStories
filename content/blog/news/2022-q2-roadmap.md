@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 65127367
 summary: "Hey, it's your buddy Lark! The real me, not some cleverly disguised drone. Cross my totally real and definitely beating heart! Anyway, the first quarter of..."
 ---
-draft: true
-
 Hey, it's your buddy Lark! The real me, not some cleverly disguised drone. Cross my totally real and definitely beating heart! Anyway, the first quarter of 2022 is now dust in the wind. That went by way faster than I thought it would. But that means it's time to start planning for the second quarter!
 
 Let me start by saying that things are going to be very busy for me on the home front. We have a lot planned this year in terms of home improvements, travel, and family activities. All this will very likely reduce my output over the coming year. As much as I love telling stories through art and comics, my family will always come first. Fortunately, they are very supportive of my artistic endeavors, so I have come up with some plans for managing my reduced capacity while still maintaining some level of consistency.

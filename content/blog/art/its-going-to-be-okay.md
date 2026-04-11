@@ -8,8 +8,6 @@ thumbnail: "/images/blog/its-going-to-be-okay.jpg"
 patreon_id: 6107924
 summary: "There are times when all I want is for somebody to give me a hug, hold me for a while and say, \"It's going to be okay.\" I felt like this time it was my turn...."
 ---
-draft: true
-
 There are times when all I want is for somebody to give me a hug, hold me for a while and say, "It's going to be okay." I felt like this time it was my turn. This is the design for the August patron postcard, and it is dedicated to all those who have suffered from the violence, hatred, and anger the world over. Rather than watermark it like I've done with the others, I decided to make the digital version available to everyone. Please feel free to download and share if you or anybody else could use a comforting thought (simply right click the image and save it to your computer).
 
 It's been an emotionally exhausting past couple months. A lot of things really suck at the moment. It feels like forever since I've seen a flag that wasn't at half-mast. I'm constantly hearing about some other attack or other tragedy on the news. And it's tempting to just say, "Oh well, signs of the times, the world is just going to get worse." At times it feels like all we can do is hunker down and endure the terribleness. But I don't think that's the right attitude to have. Things really can get better. And I don't just mean in some distant future. I don't mean in the next life or after the Second Coming, if that's what you believe (though I *do* believe it and look forward to it). Things can get better NOW. And I'm optimistic (some might say naïve) enough to think that they will. But to borrow a phrase, "We have to try" (Thanks, Judy Hopps).

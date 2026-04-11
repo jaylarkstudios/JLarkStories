@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-5-build.jpg"
 patreon_id: 30568810
 summary: "Saturday's Inktober was \"Build\"! This one is a Patreon reward for Ian McGecko, and that new apartment complex isn't the only thing he's been building lately! 💪😄"
 ---
-draft: true
-
 Saturday's #Inktober was  "Build"! This one is a Patreon reward for Ian McGecko, and that new  apartment complex isn't the only thing  he's been building lately! 💪😄
 
 ![Inktober 2019 #5 - Build](/images/blog/inktober-2019-5-build.jpg)

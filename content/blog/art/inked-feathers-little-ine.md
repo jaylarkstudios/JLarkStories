@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-little-ine.jpg"
 patreon_id: 23829574
 summary: "For this month, I'm taking some of my favorite visual elements from the drawing book I recently finished reading, and applying them to my own characters. First..."
 ---
-draft: true
-
 For this month, I'm taking some of my favorite visual elements from the drawing book I recently finished reading, and applying them to my own characters. First off is this cute little Ine! I think the three-head-tall look works really well on him!
 
 ![Inked Feathers: Little Ine](/images/blog/inked-feathers-little-ine.jpg)

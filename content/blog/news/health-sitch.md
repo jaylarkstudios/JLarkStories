@@ -7,8 +7,6 @@ tags: []
 patreon_id: 17390374
 summary: "For any wondering what's been up with me lately, for the past few weeks I've been having really bad stomach pains. They come and go in waves. Lately I've been..."
 ---
-draft: true
-
 For any wondering what's been up with me lately, for the past few weeks I've been having really bad stomach pains. They come and go in waves. Lately I've been getting one really bad flare up per day, which afterwards leaves me very exhausted. I'm fortunate to work for a company that permits me to do some work from home when I'm feeling fine, and has a very generous sick leave policy for when I'm unable. Unfortunately, my condition hasn't been conducive to doing much else except resting and spending some time with loved ones, who've been taking good care of me.
 
 Long story short, I'm not sure when I'll be able to continue updating the story of *Aww, Feathers!* However, I'm very grateful to the numerous readers who have expressed their best wishes to me as well as their willingness to wait while I recover. And I will try to share a little something at least on the days I'm unable to share a full comic update: a mini comic or some artwork I've done in my spare time. Don't worry, that at least is something I can do without too much trouble.

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/stuck-and-unstuck-4.jpg"
 patreon_id: 21199810
 summary: "http://www.awwfeathers.com/comics/2664115/stuck-and-unstuck-4/http://www.awwfeathers.com/comics/2664115/stuck-and-unstuck-4/ Ooh! A quarter! And that's the end..."
 ---
-draft: true
-
 [http://www.awwfeathers.com/comics/2664115/stuck-and-unstuck-4/](http://www.awwfeathers.com/comics/2664115/stuck-and-unstuck-4/)
 
 Ooh! A quarter!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/a-good-moji-5.jpg"
 patreon_id: 14523737
 summary: "http://www.awwfeathers.com/comics/2503065/a-good-moji-5/http://www.awwfeathers.com/comics/2503065/a-good-moji-5/"
 ---
-draft: true
-
 [http://www.awwfeathers.com/comics/2503065/a-good-moji-5/](http://www.awwfeathers.com/comics/2503065/a-good-moji-5/)
 
 ![A Good Moji 5](/images/blog/a-good-moji-5.jpg)

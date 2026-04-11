@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mf-reference-sheets.jpg"
 patreon_id: 115221341
 summary: "Here are some reference sheets I put together for Mag and Fang, the two main characters in the short story I'm writing! Trying to keep the shapes simple and..."
 ---
-draft: true
-
 Here are some reference sheets I put together for Mag and Fang, the two main characters in the short story I'm writing! Trying to keep the shapes simple and the characters cute and fun.
 
 ![M&F: Reference Sheets](/images/blog/mf-reference-sheets.jpg)

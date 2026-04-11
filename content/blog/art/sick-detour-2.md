@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sick-detour-2.jpg"
 patreon_id: 17235128
 summary: "Wallet hears: \"Good news! You've met your deductible!\""
 ---
-draft: true
-
 Wallet hears: "Good news! You've met your deductible!"
 
 ![Sick Detour 2](/images/blog/sick-detour-2.jpg)

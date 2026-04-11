@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-19.jpg"
 patreon_id: 8184117
 summary: "Practicing drawing Lark. ^>^"
 ---
-draft: true
-
 Practicing drawing Lark. ^>^
 
 ![Sketchbook 19](/images/blog/sketchbook-19.jpg)

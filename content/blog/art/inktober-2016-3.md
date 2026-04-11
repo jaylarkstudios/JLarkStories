@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-3.jpg"
 patreon_id: 6922157
 summary: "http://inejwstine.deviantart.com/art/Chris-Odie-638100731http://inejwstine.deviantart.com/art/Chris-Odie-638100731"
 ---
-draft: true
-
 [http://inejwstine.deviantart.com/art/Chris-Odie-638100731](http://inejwstine.deviantart.com/art/Chris-Odie-638100731)
 
 ![Inktober 2016 #3](/images/blog/inktober-2016-3.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-silly-animals.jpg"
 patreon_id: 23729201
 summary: "Nearly finished with that book... My favorite on this page might actually be that buffalo. The broad shoulders and chest and comparatively small hips and legs..."
 ---
-draft: true
-
 Nearly finished with that book... My favorite on this page might actually be that buffalo. The broad shoulders and chest and comparatively small hips and legs make for an interesting overall body shape.
 
 ![Sketchbook: Silly Animals](/images/blog/sketchbook-silly-animals.jpg)

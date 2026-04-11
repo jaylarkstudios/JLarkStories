@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-32722.jpg"
 patreon_id: 64422622
 summary: "Made burgers the other night and got our cheeses mixed up. Maiara doesn't like spicy things. She says bell peppers are too spicy which I'll remind you are..."
 ---
-draft: true
-
 Made burgers the other night and got our cheeses mixed up. Maiara doesn't like spicy things. She says bell peppers are too spicy (which I'll remind you are literally a zero on the spiciness scale). 😅
 
 ![Scribble Comic - 3/27/22](/images/blog/scribble-comic-32722.jpg)

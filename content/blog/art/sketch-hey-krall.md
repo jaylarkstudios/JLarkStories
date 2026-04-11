@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketch-hey-krall.jpg"
 patreon_id: 20289580
 summary: "\"Krall, I know what we're gonna do today! Hey, where's Dilawar?\" Inspired obviously by Phineas and Ferb, probably one of my favorite cartoon shows of all time,..."
 ---
-draft: true
-
 "Krall, I know what we're gonna do today! Hey, where's Dilawar?"
 
 Inspired (obviously) by Phineas and Ferb, probably one of my favorite cartoon shows of all time, haha!

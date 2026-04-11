@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inside-kraals-head.jpg"
 patreon_id: 3864132
 summary: "Those memory workers are gonna get it!..."
 ---
-draft: true
-
 Those memory workers are gonna get it!
 
 [http://www.awwfeathers.com/comics/2223340/inside-kraals-head/](http://www.awwfeathers.com/comics/2223340/inside-kraals-head/)

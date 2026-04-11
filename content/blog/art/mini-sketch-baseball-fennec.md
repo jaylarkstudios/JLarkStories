@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mini-sketch-baseball-fennec.jpg"
 patreon_id: 27406006
 summary: "Seems like an unfair advantage. 😂"
 ---
-draft: true
-
 Seems like an unfair advantage. 😂
 
 ![Mini Sketch: Baseball Fennec](/images/blog/mini-sketch-baseball-fennec.jpg)

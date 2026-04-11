@@ -8,8 +8,6 @@ thumbnail: "/images/blog/special-offer-on-books.jpg"
 patreon_id: 32057607
 summary: "The Aww, Feathers! website may be under construction, but you know what's never offline? A book! I've set up a special offer for Patreon subscribers and past..."
 ---
-draft: true
-
 The *Aww, Feathers!* website may be under construction, but you know what's never offline? A book! I've set up a special offer for Patreon subscribers and past Indiegogo backers! Take $5 off physical copies of books 1 and 2! Here's how:
 
 **Patreon Subscribers:**

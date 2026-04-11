@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-4.jpg"
 patreon_id: 6131226
 summary: "Matthew suggested the Iron Dragon! Cool idea!"
 ---
-draft: true
-
 Matthew suggested the Iron Dragon! Cool idea!
 
 ![Sketchbook 4](/images/blog/sketchbook-4.jpg)

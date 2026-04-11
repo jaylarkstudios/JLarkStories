@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sticker-commission-price-sheet.jpg"
 patreon_id: 19589970
 summary: "For anyone interested in some custom Telegram stickers, here's my price sheet. Let me know if you have any questions or if you're interested!"
 ---
-draft: true
-
 For anyone interested in some custom Telegram stickers, here's my price sheet. Let me know if you have any questions or if you're interested!
 
 ![Sticker Commission Price Sheet](/images/blog/sticker-commission-price-sheet.jpg)

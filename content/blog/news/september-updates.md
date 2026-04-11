@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 21180782
 summary: "Hey all. Whew, boy! These past few months have certainly been a trip! We've funded the second Aww, Feathers! book, which is currently in the proofing stage and..."
 ---
-draft: true
-
 Hey all. Whew, boy!
 
 These past few months have certainly been a trip! We've funded the second Aww, Feathers! book, which is currently in the proofing stage (and still available for preorder at AwwFeathersBook.com). I also attended Anthro Weekend Utah (AWU) which was amaze-beans! As fun as it's been though, preparing and running both my book campaign and dealer's table for AWU took a lot more out of me than I was expecting. I've been feeling rather drained lately. Excited for what the future will bring, to be sure. But a little low on energy.

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-cheetah-chase-4.jpg"
 patreon_id: 18800007
 summary: "But will the buck pass the test? HA! Look at Dil being all stealthy! Has he done this before? One page to go of this guest story by Brien Sparling!..."
 ---
-draft: true
-
 But will the buck pass the test? HA!
 
 Look at Dil being all stealthy! Has he done this before?

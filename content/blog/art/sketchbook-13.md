@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-13.jpg"
 patreon_id: 6879769
 summary: "Idea for the November postcard, and the first ever glimpse at June's other family members! :- If you're curious about the inspiration, look up \"Freedom From..."
 ---
-draft: true
-
 Idea for the November postcard, and the first ever glimpse at June's other family members! :-) If you're curious about the inspiration, look up "Freedom From Want" by Norman Rockwell.
 
 ![Sketchbook 13](/images/blog/sketchbook-13.jpg)

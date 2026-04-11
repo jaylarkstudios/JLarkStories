@@ -8,8 +8,6 @@ thumbnail: "/images/blog/the-first-hurdle-3.jpg"
 patreon_id: 23912565
 summary: "The name's Everette. Kraal Everette. I love that second panel so much! You have no idea! :D Page 3 of Brien Sparling's guest story...."
 ---
-draft: true
-
 The name's Everette. Kraal Everette. 
 
 I love that second panel so much! You have no idea! :D Page 3 of Brien Sparling's guest story. 

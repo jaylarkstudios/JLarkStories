@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-6.jpg"
 patreon_id: 6156975
 summary: "Who's a silly dolphin? You're a silly dolphin! Who is? You is!"
 ---
-draft: true
-
 Who's a silly dolphin? You're a silly dolphin! Who is? You is!
 
 ![Sketchbook 6](/images/blog/sketchbook-6.jpg)

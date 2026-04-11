@@ -7,8 +7,6 @@ tags: []
 patreon_id: 16728264
 summary: "For the past two years I’ve been creating Aww, Feathers! themed postcard designs and sending them out to supporters on Patreon. Those have been a lot of fun to..."
 ---
-draft: true
-
 For the past two years I’ve been creating *Aww, Feathers! *themed postcard designs and sending them out to supporters on Patreon. Those have been a lot of fun to do, and have given me a chance to experiment with different art styles and depict some scenes from the world of *Aww, Feathers!* that don’t appear in the comic. Unfortunately, I’ve found it necessary to put new postcard designs on hold for now due to limitations related to demand, storage, and printing quantities. I may periodically release a new postcard design, but they will no longer come out monthly. I do, however, have an idea for something new for patrons that I think will be fun. I want to know what you think.
 
 I will continue to post works in progress of comic pages and practice sketches, both of which will be available to all patrons. But for those who pledge a little bit extra, I’ll also be introducing the **Aww, Feathers Sketchbook Club!** My plan is to create a new sketch every week. These will be higher quality, refined and inked physical sketches. There will be three levels:

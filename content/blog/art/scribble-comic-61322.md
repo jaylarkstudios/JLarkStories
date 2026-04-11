@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-61322.jpg"
 patreon_id: 67762610
 summary: "Love handles rejoice! 😂🍦🍧🍨"
 ---
-draft: true
-
 Love handles rejoice! 😂🍦🍧🍨
 
 ![Scribble Comic - 6/13/22](/images/blog/scribble-comic-61322.jpg)

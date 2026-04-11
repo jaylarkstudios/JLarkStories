@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-mer-attire.jpg"
 patreon_id: 27063338
 summary: "Yeena shark, doot doo doo doot doo doo..."
 ---
-draft: true
-
 Yeena shark, doot doo doo doot doo doo...
 
 ![Inked Feathers: Mer-attire](/images/blog/inked-feathers-mer-attire.jpg)

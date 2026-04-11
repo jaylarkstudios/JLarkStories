@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-horse-features.jpg"
 patreon_id: 41916899
 summary: "The dancing horse gal was a challenge, but also fun to draw! The flying braids and twirling folds of fabric were nice to see come together! It was also..."
 ---
-draft: true
-
 The dancing horse gal was a challenge, but also fun to draw! The flying braids and twirling folds of fabric were nice to see come together!
 
 It was also interesting to learn how a horse's tail works. It's easy to forget there's actually... well, a *tail* under all that hair! I mean, it has to attach somewhere, right? In addition, it's good to remember that a horse's mane doesn't only originate on top of their head, but rather runs down much of the back of their neck.

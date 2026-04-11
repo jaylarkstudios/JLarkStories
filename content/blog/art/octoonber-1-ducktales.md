@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-1-ducktales.jpg"
 patreon_id: 56889392
 summary: "First OcTOONber drawing of the month! This one of James in the style of the new DuckTales! What's that magic artifact he's holding? Go ask him and you'll find..."
 ---
-draft: true
-
 First OcTOONber drawing of the month! This one of James in the style of  the new DuckTales! What's that magic artifact he's holding? Go ask him  and you'll find out… one way or another. 😉
 
 ![OcTOONber #1 - DuckTales](/images/blog/octoonber-1-ducktales.jpg)

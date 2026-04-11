@@ -8,8 +8,6 @@ thumbnail: "/images/blog/family-trip-3.jpg"
 patreon_id: 10752038
 summary: "Now gimme some fin... noggin... dude! http://www.awwfeathers.com/comics/2432058/family-trip-3/http://www.awwfeathers.com/comics/2432058/family-trip-3/"
 ---
-draft: true
-
 Now gimme some fin... noggin... dude!
 [http://www.awwfeathers.com/comics/2432058/family-trip-3/](http://www.awwfeathers.com/comics/2432058/family-trip-3/)
 

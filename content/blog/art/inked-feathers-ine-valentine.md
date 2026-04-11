@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-ine-valentine.jpg"
 patreon_id: 24969650
 summary: "\"I pINE for you, so give me a sINE that you'll be mINE, valentINE... um... before nINE...?\" Yes, I know I'm pretty late for Valentine's Day. But it's still..."
 ---
-draft: true
-
 "I pINE for you, so give me a sINE that you'll be mINE, valentINE... um... before nINE...?"
 
 Yes, I know I'm pretty late for Valentine's Day. But it's still February! I'll be delivering this month's Inked Feathers drawings rapid fire this week to get caught up!

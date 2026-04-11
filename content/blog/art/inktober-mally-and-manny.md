@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-mally-and-manny.jpg"
 patreon_id: 21954347
 summary: "How many of those are just valentines you saved from the first grade? Mally's kind of a flirt, so it makes sense her hypothetical twin brother would consider..."
 ---
-draft: true
-
 How many of those are just valentines you saved from the first grade?
 
 Mally's kind of a flirt, so it makes sense her hypothetical twin brother would consider himself to be quite the ladies' man. She makes sure he behaves himself though!

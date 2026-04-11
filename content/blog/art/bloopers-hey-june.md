@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bloopers-hey-june.jpg"
 patreon_id: 30893594
 summary: "\"Na na na nanananaaaaaa!!\" 🐶🎵 Chris goes above and beyond to make things up to June. Maybe a little too beyond...? Apologies to the Beatles."
 ---
-draft: true
-
 "Na na na nanananaaaaaa!!" 🐶🎵
 
 Chris goes above and beyond to make things up to June. Maybe a little too beyond...? (Apologies to the Beatles.)

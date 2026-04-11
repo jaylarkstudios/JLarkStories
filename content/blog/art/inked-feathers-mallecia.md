@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-mallecia.jpg"
 patreon_id: 51995512
 summary: "Don't threaten Mally with a good time, honey! Furlecia is a feisty furball in Arlo the Alligator Boy. What better character to pair with Furlecia than our very..."
 ---
-draft: true
-
 Don't threaten Mally with a good time, honey!
 
 Furlecia is a feisty furball in *Arlo the Alligator Boy*. What better character to pair with Furlecia than our very own sassy hummingbird, Mally?

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-kitchen-magic-4.jpg"
 patreon_id: 37293276
 summary: "Is it just me or does this cake taste a little fishy…? That concludes this delightful guest comic by Brien Sparling! He submitted this to me long before..."
 ---
-draft: true
-
 Is it just me or does this cake taste a little fishy…?
 
 That concludes this delightful guest comic by Brien Sparling! He submitted this to me long before cooking a la social distancing was a thing. Bonus points for unintended relevance!

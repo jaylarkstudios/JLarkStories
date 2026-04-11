@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-3-trickster.jpg"
 patreon_id: 42345101
 summary: "\"Was this your card…?\" OCtober number 3 is Trickster! And who else could it be but our beloved pancock, Dilawar! 😜"
 ---
-draft: true
-
 "Was this your card…?" OCtober number 3 is Trickster! And who else could it be but our beloved pancock, Dilawar! 😜
 
 ![O.C.tober #3 - Trickster](/images/blog/october-3-trickster.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-32822.jpg"
 patreon_id: 65088106
 summary: "My son had a cough that, while not covid related, was still pretty rough and lasted quite a while. And while we normally encourage sharing in our house, well…"
 ---
-draft: true
-
 My son had a cough that, while not covid related, was still pretty rough and lasted quite a while. And while we normally encourage sharing in our house, well…
 
 ![Scribble Comic - 3/28/22](/images/blog/scribble-comic-32822.jpg)

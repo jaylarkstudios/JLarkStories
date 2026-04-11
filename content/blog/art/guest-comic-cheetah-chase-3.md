@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-cheetah-chase-3.jpg"
 patreon_id: 18799946
 summary: "Pay no attention to the flirtatious flora! Dil probably blends in remarkably well due to his coloration. He might have to cover his beak though, unless it can..."
 ---
-draft: true
-
 Pay no attention to the flirtatious flora!
 
  Dil probably blends in remarkably well due to his coloration. He might have to cover his beak though, unless it can pass as an oddly shaped flower...

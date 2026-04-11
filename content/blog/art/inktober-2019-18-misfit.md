@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-18-misfit.jpg"
 patreon_id: 30862968
 summary: "Today's Inktober features @kyucauda and her adorable \"Misfit\" buddy, Nugget the chicken!"
 ---
-draft: true
-
 Today's #Inktober features @kyucauda and her adorable "Misfit" buddy, Nugget the chicken!
 
 ![Inktober 2019 #18 - Misfit](/images/blog/inktober-2019-18-misfit.jpg)

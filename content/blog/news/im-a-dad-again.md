@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 7189785
 summary: "Hooo boy. Literally. I don't remember if I ever mentioned the gender of our baby when I said we were expecting. In our first ultrasound we were told to expect..."
 ---
-draft: true
-
 Hooo boy. Literally.
 
 I don't remember if I ever mentioned the gender of our baby when I said we were expecting. In our first ultrasound we were told to expect another girl. Welp, less than a month before the baby came we went in for another ultrasound and found out we were actually having a boy! Obviously we love him just as much as we would love a second daughter, but it was still quite the shock considering we'd been assuming we'd have another girl for the previous six months or so!

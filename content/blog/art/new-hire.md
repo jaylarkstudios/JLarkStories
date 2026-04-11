@@ -8,8 +8,6 @@ thumbnail: "/images/blog/new-hire.jpg"
 patreon_id: 18185796
 summary: "\"Err, well... the benefits are pretty good!\" http://www.awwfeathers.com/comics/2603755/new-hire/http://www.awwfeathers.com/comics/2603755/new-hire/"
 ---
-draft: true
-
 "Err, well... the benefits are pretty good!"
 
 [http://www.awwfeathers.com/comics/2603755/new-hire/](http://www.awwfeathers.com/comics/2603755/new-hire/)

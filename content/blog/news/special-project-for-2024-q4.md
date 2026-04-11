@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 113160134
 summary: "Happy October! The leaves are turning, the bones are rattling, and artists all over the world are prepping their pens! As for me, I've got my own special..."
 ---
-draft: true
-
 Happy October! The leaves are turning, the bones are rattling, and artists all over the world are prepping their pens! As for me, I've got my own special project planned for the coming months!
 
 First of all, while I did find I could keep up with the release schedule of two updates per month for *Aww, Feathers!* that I had for the first half of 2024, I also found that it left me with very little time for anything else. I love *Aww, Feathers!* and have no plans to stop it anytime soon. But I don't want it to be the only thing I do. So I've made the decision to pull it back to once a month again for the time being. If I find that I've built up enough of a buffer in the future, I may occasionally release an extra page here and there. But with the extra time that I have, I'll be able to work on other things like improving my website, taking more commissions, and telling more stories!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-cartoon-cats.jpg"
 patreon_id: 23390315
 summary: "More drawings following along with Chris Hart's Drawing Animals Shape by Shape. This time our fine feline friends. :3 Hrmm... is it me, or do a lot of them..."
 ---
-draft: true
-
 More drawings following along with Chris Hart's *Drawing Animals Shape by Shape*. This time our fine feline friends. :3
 
 Hrmm... is it me, or do a lot of them look kinda samey? I probably need to exaggerate my shapes more.

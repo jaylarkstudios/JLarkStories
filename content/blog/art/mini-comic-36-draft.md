@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mini-comic-36-draft.jpg"
 patreon_id: 4427258
 summary: "Oh dear. What has Dil gotten himself into?"
 ---
-draft: true
-
 Oh dear.  What has Dil gotten himself into?
 
 ![Mini-comic 36 Draft](/images/blog/mini-comic-36-draft.jpg)

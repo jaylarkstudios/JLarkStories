@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-10.jpg"
 patreon_id: 18886435
 summary: "Building landscapes from 3D forms."
 ---
-draft: true
-
 Building landscapes from 3D forms.
 
 ![Drawing Course Notes 10](/images/blog/drawing-course-notes-10.jpg)

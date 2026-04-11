@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-chris-valentine.jpg"
 patreon_id: 25021954
 summary: "I think this valentine is spot on!"
 ---
-draft: true
-
 I think this valentine is spot on!
 
 ![Inked Feathers: Chris Valentine](/images/blog/inked-feathers-chris-valentine.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/the-first-hurdle-2.jpg"
 patreon_id: 23911853
 summary: "“Why didn't you ask for directions?” “I asked a dang SATELLITE for directions!!” That's the problem with \"Works On My Machine\" Certification. Page 2 of Brien..."
 ---
-draft: true
-
 “Why didn't you ask for directions?” “I asked a dang SATELLITE for directions!!” 
 
 That's the problem with "Works On My Machine" Certification. Page 2 of Brien Sparling's guest story. More to come! 

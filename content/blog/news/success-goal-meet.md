@@ -7,8 +7,6 @@ tags: []
 patreon_id: 6458765
 summary: "For the past several months, Aww, Feathers! has only been updating three or four times per month. This has always been an important personal project to me, and..."
 ---
-draft: true
-
 For the past several months, *Aww, Feathers!* has only been updating three or four times per month. This has always been an important personal project to me, and I plan to keep updating it at least a few times every month, whatever happens. However, it's been my goal to be able to dedicate more time to it than I had previously. In order to achieve that goal while still fulfilling my responsibilities with my job and my family, I needed to see how much interest and support I could gain for the story. Thanks to my wonderful supporters on Patreon, an important milestone has been met.
 
 *Aww, Feathers!* is now officially back to updating its main storyline every week, and will continue to do so as long as our current funding level is maintained or exceeded. Thank you all so much for helping to make it possible!

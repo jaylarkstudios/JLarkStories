@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inside-ines-head.jpg"
 patreon_id: 3864144
 summary: "Anger Ine thinks Fear Ine is being a wuss...."
 ---
-draft: true
-
 Anger Ine thinks Fear Ine is being a wuss.
 
 [http://www.awwfeathers.com/comics/2221575/inside-ines-head/](http://www.awwfeathers.com/comics/2221575/inside-ines-head/)

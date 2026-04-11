@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketch-lizard-ines.jpg"
 patreon_id: 22751963
 summary: "Hope you all had a great Thanksgiving! I thought it would be neat to try out drawing Ine's face as different species of lizards! For this one, I chose green..."
 ---
-draft: true
-
 Hope you all had a great Thanksgiving! I thought it would be neat to try out drawing Ine's face as different species of lizards! For this one, I chose green iguana and Chinese water dragon!
 
 In addition to all the "streamlining" I keep talking about, I'd also like to bring in more animalistic traits to my characters. I think this exercise might help. What are the physical traits that make each species of lizard unique? Which of those traits would be a good fit for Ine? Now you might be thinking, "Why not just use the traits for the species Ine already is?" The thing is though, Ine, like most of the characters in *Aww, Feathers!* is actually a mix. If you think about it, after centuries of different species mingling and having children together, it's not at all unlikely that one individual might have traits from several different species.

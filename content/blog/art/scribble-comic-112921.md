@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-112921.jpg"
 patreon_id: 59324961
 summary: "We watched Home Alone 4 yes, 4! last night. It was pretty a'ight. Unless you happen to be five years old, in which case it's \"The funniest movie in the world!\""
 ---
-draft: true
-
 We watched Home Alone 4 (yes, 4!) last night. It was pretty a'ight. Unless you happen to be five years old, in which case it's "The funniest movie in the world!"
 
 ![Scribble comic - 11/29/21](/images/blog/scribble-comic-112921.jpg)

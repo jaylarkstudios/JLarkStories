@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-20.jpg"
 patreon_id: 19614036
 summary: "Oooooh... banana... Just started the section on still life. Not my favorite thing to do, I'll admit. But apparently it's good for you, so I'll do my best to..."
 ---
-draft: true
-
 Oooooh... banana...
 
 Just started the section on still life. Not my favorite thing to do, I'll admit. But apparently it's good for you, so I'll do my best to eat my vegetables. Er... bananas...

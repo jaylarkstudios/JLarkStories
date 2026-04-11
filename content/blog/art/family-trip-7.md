@@ -8,8 +8,6 @@ thumbnail: "/images/blog/family-trip-7.jpg"
 patreon_id: 11127836
 summary: "That Monte Cristo sandwich man! Amazing! http://www.awwfeathers.com/comics/2432824/family-trip-6/http://www.awwfeathers.com/comics/2432824/family-trip-6/"
 ---
-draft: true
-
 That Monte Cristo sandwich man! Amazing!
 [http://www.awwfeathers.com/comics/2432824/family-trip-6/](http://www.awwfeathers.com/comics/2432824/family-trip-6/)
 

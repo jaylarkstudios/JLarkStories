@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-cheetah-chase-2.jpg"
 patreon_id: 18687112
 summary: "Cheetahs gonna cheet. Dil means well, but when the time comes to skin the cheetah... This is the second page by Brien Sparling. More to come!..."
 ---
-draft: true
-
 Cheetahs gonna cheet.
 
 Dil means well, but when the time comes to skin the cheetah... This is the second page by Brien Sparling. More to come!

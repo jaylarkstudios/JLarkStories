@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mini-comic-on-time.jpg"
 patreon_id: 31484326
 summary: "Based on some actual good-natured teasing I received from my wife the other day when she found out that for once I wasn't scrambling to get the next page out..."
 ---
-draft: true
-
 Based on some actual good-natured teasing I received from my wife the other day when she found out that for once I wasn't scrambling to get the next page out on time! 
 
 We'll be starting our next round of guest comics next week, but there's still plenty of time to submit one! More info is available **[here](http://awwfeathers.com/guestcomics?lang=eng)**. 

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketch-mer-ine.jpg"
 patreon_id: 18882691
 summary: "🎶 I'll tell you a tale of the bottomless blue, And it's hey, to the starboard, heave ho! A feathered, merlizard be waitin' for you, In mysterious fathoms..."
 ---
-draft: true
-
 🎶 I'll tell you a tale of the bottomless blue,
 And it's hey, to the starboard, heave ho!
 A feathered, merlizard be waitin' for you,

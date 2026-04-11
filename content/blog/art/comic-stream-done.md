@@ -8,8 +8,6 @@ thumbnail: "/images/blog/comic-stream-done.jpg"
 patreon_id: 26934382
 summary: "I'm streaming a comic page I'm working on if anybody wants to stop by and watch for a bit! Come on by for a sneak peak at the comic creation process! --- The..."
 ---
-draft: true
-
 I'm streaming a comic page I'm working on if anybody wants to stop by and watch for a bit! Come on by for a sneak peak at the comic creation process! 
 
 ---

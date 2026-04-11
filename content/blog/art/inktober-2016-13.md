@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-13.jpg"
 patreon_id: 7045242
 summary: "Kraal almost never looks this excited about anything!..."
 ---
-draft: true
-
 Kraal almost never looks this excited about anything!
 
 [http://inejwstine.deviantart.com/art/Regular-Kraal-641153662](http://inejwstine.deviantart.com/art/Regular-Kraal-641153662)

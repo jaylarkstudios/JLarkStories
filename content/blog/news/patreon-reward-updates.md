@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 64996749
 summary: "Greetings Awwthusiasts! This is a quick update to let you know that there are a few changes in the works with regards to the rewards you receive as patrons...."
 ---
-draft: true
-
 Greetings Awwthusiasts!
 
 This is a quick update to let you know that there are a few changes in the works with regards to the rewards you receive as patrons. Read on for more info!

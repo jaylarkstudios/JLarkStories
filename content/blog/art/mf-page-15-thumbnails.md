@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mf-page-15-thumbnails.jpg"
 patreon_id: 120715056
 summary: "In spite of the peril, this page warms my heart! And I think that penultimate panel is really cute!"
 ---
-draft: true
-
 In spite of the peril, this page warms my heart! And I think that penultimate panel is really cute!
 
 ![M&F: Page 15 Thumbnails](/images/blog/mf-page-15-thumbnails.jpg)

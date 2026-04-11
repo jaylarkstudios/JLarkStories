@@ -7,8 +7,6 @@ tags: []
 patreon_id: 27891477
 summary: "It's time to send out original Inked Feathers drawings for the month of June! Take a look below at the ones available. If there's one you'd like specifically,..."
 ---
-draft: true
-
 It's time to send out original Inked Feathers drawings for the month of June! Take a look below at the ones available. If there's one you'd like specifically, let me know in a comment or message by Saturday, June 29th, or don't pick and you'll be sent any of the below drawings as a surprise!
 
 This month's entries:

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-bandera-de-amor.jpg"
 patreon_id: 66023292
 summary: "That's how it happened, I'm sure of it! Anyway, ¡Feliz Cinco de Mayo! Read on the website:..."
 ---
-draft: true
-
 That's how it happened, I'm sure of it! Anyway, ¡Feliz Cinco de Mayo!
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic029/](https://awwfeathers.com/bonuscomics/bonuscomic029/)

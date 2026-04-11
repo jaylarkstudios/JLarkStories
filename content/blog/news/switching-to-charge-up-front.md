@@ -7,8 +7,6 @@ tags: []
 patreon_id: 8539701
 summary: "Heyo wonderful patrons! I just wanted to make you all aware of an important, but probably painless change to how patrons on Patreon are going to be charged..."
 ---
-draft: true
-
 Heyo wonderful patrons! I just wanted to make you all aware of an important, but probably painless change to how patrons on Patreon are going to be charged moving forward. Within the next few days, *Aww, Feathers!* will be switching to "Charge Up Front." **This should only affect new patrons.** Existing patrons will continue to be charged on the first of each month. New patrons will be charged the day they sign up, instead of waiting for the first of the following month. After that, they will be charged the first of each month, as normal.
 
 I think this will be a good change, as it's a bit more clear to new patrons when they will be charged. In addition, new patrons will be able to receive their rewards more quickly; instead of having to wait for the beginning of the next month, they can be sent the current month's postcard, begin making sketch requests, etc. immediately (depending on their pledge level).

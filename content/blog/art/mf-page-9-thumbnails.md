@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mf-page-9-thumbnails.jpg"
 patreon_id: 118837176
 summary: "I enjoyed putting together this funny montage of Fang causing more mayhem, even if I feel bad for Mag in her valiant efforts to find something he'd be good at!"
 ---
-draft: true
-
 I enjoyed putting together this funny montage of Fang causing more mayhem, even if I feel bad for Mag in her valiant efforts to find something he'd be good at!
 
 ![M&F: Page 9 Thumbnails](/images/blog/mf-page-9-thumbnails.jpg)

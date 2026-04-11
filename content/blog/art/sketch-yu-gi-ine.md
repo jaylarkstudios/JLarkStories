@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketch-yu-gi-ine.jpg"
 patreon_id: 23027939
 summary: "\"It's time to d-d-d-d... d-d-d-d-d-d-d-d-draw!!\" I had too much fun drawing Anime Inehttps://www.patreon.com/posts/23027858/, so I decided to push the..."
 ---
-draft: true
-
 "It's time to d-d-d-d... d-d-d-d-d-d-d-d-draw!!"
 
 I had too much fun drawing [Anime Ine](https://www.patreon.com/posts/23027858/), so I decided to push the proverbial envelop to its breaking point. I mean, Ine's already got that nice crest of feathers, so Yugi's wild do fits remarkably well! Although as you can see, I underestimated how much room I'd need to fit it all in, haha!

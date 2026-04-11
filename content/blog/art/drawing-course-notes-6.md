@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-6.jpg"
 patreon_id: 18821225
 summary: "Practice breaking down real objects and photos into their basic shapes. It's both a fun and instructive exercise, I'll admit."
 ---
-draft: true
-
 Practice breaking down real objects and photos into their basic shapes. It's both a fun and instructive exercise, I'll admit.
 
 ![Drawing Course Notes 6](/images/blog/drawing-course-notes-6.jpg)

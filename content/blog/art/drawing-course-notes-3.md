@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-3.jpg"
 patreon_id: 18799520
 summary: "Practicing contour drawings. That bottom one is a horse hoof mate mah-tay from Argentina."
 ---
-draft: true
-
 Practicing contour drawings. That bottom one is a horse hoof mate (mah-tay) from Argentina.
 
 ![Drawing Course Notes 3](/images/blog/drawing-course-notes-3.jpg)

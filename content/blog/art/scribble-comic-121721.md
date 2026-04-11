@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-121721.jpg"
 patreon_id: 60064652
 summary: "Sharing a dessert with me can be a dangerous proposition, even if I like you very much!"
 ---
-draft: true
-
 Sharing a dessert with me can be a dangerous proposition, even if I like you very much!
 
 ![Scribble Comic - 12/17/21](/images/blog/scribble-comic-121721.jpg)

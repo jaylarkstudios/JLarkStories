@@ -8,8 +8,6 @@ thumbnail: "/images/blog/story-cubes-exercise-lucas-and-the-crabs.jpg"
 patreon_id: 24784657
 summary: "I thought I'd try a writing exercise. A while back I got a couple sets of \"Rory's Story Cubes,\" which are dice with little pictures on them meant to prompt..."
 ---
-draft: true
-
 I thought I'd try a writing exercise. A while back I got a couple sets of "Rory's Story Cubes," which are dice with little pictures on them meant to prompt some kind of a story. I picked three at random and gave them a roll. Below is the story I came up with. I didn't spent too long polishing it; the idea was to use this to exercise my "writing muscle," if you will. Anyway, I hope you enjoy!
 
 ==========

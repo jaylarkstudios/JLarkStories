@@ -8,8 +8,6 @@ thumbnail: "/images/blog/cold-beak.jpg"
 patreon_id: 23442742
 summary: "Dish best served frozen! And I'm not talking about ice cream cake. My office is probably the coldest room in the house, so my extremities do tend to get chilly..."
 ---
-draft: true
-
 Dish best served frozen! (And I'm not talking about ice cream cake.)
 
 My office is probably the coldest room in the house, so my extremities do tend to get chilly when I've been in there all day!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/20ex-day-7-7.jpg"
 patreon_id: 22885554
 summary: "The bane of all artists as far as I can tell: HANDS!! 😱👋 Can't be helped. The only way to get better, is to draw them A LOT!! Fortunately, it's easy to find..."
 ---
-draft: true
-
 The bane of all artists (as far as I can tell): HANDS!! 😱👋
 
 Can't be helped. The only way to get better, is to draw them A LOT!! Fortunately, it's easy to find abundant drawing references. In fact, you always have one with you! 😉

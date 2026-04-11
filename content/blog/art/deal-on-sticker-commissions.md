@@ -8,8 +8,6 @@ thumbnail: "/images/blog/deal-on-sticker-commissions.jpg"
 patreon_id: 32122116
 summary: "I'm opening a few spots for sticker commissions! These will be completed after the new year, but you can reserve your spot now. Though they can be completed by..."
 ---
-draft: true
-
 I'm opening a few spots for sticker commissions! These will be completed after the new year, but you can reserve your spot now. (Though they can be completed by Christmas if desired for an additional fee.)
 $15 ea. for standard poses
 $20 ea. for multi-character or more complex poses

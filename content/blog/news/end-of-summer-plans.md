@@ -7,8 +7,6 @@ tags: []
 patreon_id: 13939993
 summary: "This has been... an interesting summer. While I've tried to respond to comments and such, I haven't been as active on the site as I wanted to be. For most of..."
 ---
-draft: true
-
 This has been... an interesting summer. While I've tried to respond to comments and such, I haven't been as active on the site as I wanted to be. For most of the summer I was working a lot of extra hours at my day job, which, after family and other responsibilities, sucked up nearly all of my spare time. In addition, there have been some family difficulties that I can't really discuss at the moment, but that have been an added stress. Long story short, it's been a challenging summer for my family and me. But, it's also been a good one. In numerous ways, our challenges this summer have been good for us. We've come together as a family in spite of how much time I was spending away because we were all looking out for each other. I picked up some useful time management habits since I had to find a way to fit in comic work on top of everything else. And we've been able to see evidence of God's goodness in the form of little miracles and the kindness of friends and family.
 
 Anyway, all this is to say that we're not completely out of the woods at this point, but my work hours have returned to normal now, which is a huge relief. So now that I can afford to be a bit more active on the site and spend more time on art, I wanted to let you know of a few things coming coming up in the next few months (in addition to normal comic updates).

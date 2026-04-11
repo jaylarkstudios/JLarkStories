@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-112821.jpg"
 patreon_id: 59305433
 summary: "Gave the ol' diet some time off for Thanksgiving. It's only fair, right??"
 ---
-draft: true
-
 Gave the ol' diet some time off for Thanksgiving. It's only fair, right??
 
 ![Scribble comic - 11/28/21](/images/blog/scribble-comic-112821.jpg)

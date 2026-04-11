@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-4722.jpg"
 patreon_id: 65088189
 summary: "I recently started playing Satisfactory, and I think it might have the makings of being one of my top favorite games. Time will tell!"
 ---
-draft: true
-
 I recently started playing Satisfactory, and I think it might have the makings of being one of my top favorite games. Time will tell!
 
 ![Scribble Comic - 4/7/22](/images/blog/scribble-comic-4722.jpg)

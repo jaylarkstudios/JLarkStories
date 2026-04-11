@@ -7,8 +7,6 @@ tags: []
 patreon_id: 33633782
 summary: "Silver level backers and above can now choose from the available Inked Feathers drawings to be sent in the mail! Please choose one by Wednesday, February 5th,..."
 ---
-draft: true
-
 Silver level backers and above can now choose from the available Inked Feathers drawings to be sent in the mail! Please choose one by Wednesday, February 5th, or just wait and you'll be sent one as a surprise!
 
 [Click here to see which drawings are available!](https://www.patreon.com/awwfeathers/posts?tag=Available)

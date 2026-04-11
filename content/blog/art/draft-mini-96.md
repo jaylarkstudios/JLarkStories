@@ -8,8 +8,6 @@ thumbnail: "/images/blog/draft-mini-96.jpg"
 patreon_id: 23442884
 summary: "What's he doing up there...? Happy New Years Eve! Have a safe and sober holiday! 😉"
 ---
-draft: true
-
 What's he doing up there...?
 
 Happy New Years Eve! Have a safe and sober holiday! 😉

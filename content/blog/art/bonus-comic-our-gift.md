@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-our-gift.jpg"
 patreon_id: 60145380
 summary: "Wishing you all a Merry Christmas as we contemplate the first ever Christmas gift. 💚❤ Read on the website:..."
 ---
-draft: true
-
 Wishing you all a Merry Christmas as we contemplate the first ever Christmas gift. 💚❤
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic016/](https://awwfeathers.com/bonuscomics/bonuscomic016/)

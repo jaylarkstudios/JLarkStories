@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-29-injured.jpg"
 patreon_id: 31152851
 summary: "In today's Inktober, Nekronos examines his \"Injured\" wings. Demon foxes need hugs too. 💜 Another commission for Michael!"
 ---
-draft: true
-
 In today's #Inktober, Nekronos examines his "Injured" wings. Demon foxes need hugs too. 💜 Another commission for Michael!
 
 ![Inktober 2019 #29 - Injured](/images/blog/inktober-2019-29-injured.jpg)

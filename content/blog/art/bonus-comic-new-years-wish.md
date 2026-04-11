@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-new-years-wish.jpg"
 patreon_id: 60705107
 summary: "What if one of my resolutions is to quit staying up late? You don't want me to start the new year as a failure, do you? Do you?? Read on the website:..."
 ---
-draft: true
-
 What if one of my resolutions is to quit staying up late? You don't want me to start the new year as a failure, do you? Do you??
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic018/](https://awwfeathers.com/bonuscomics/bonuscomic018/)

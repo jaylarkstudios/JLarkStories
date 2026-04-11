@@ -8,8 +8,6 @@ thumbnail: "/images/blog/special-deal-toony-commissions.jpg"
 patreon_id: 18862535
 summary: "If you're seeing this, then you have access to a special deal! It's kind of fun to draw in a simplified, more cartoony style. So I decided I'd open up a few..."
 ---
-draft: true
-
 If you're seeing this, then you have access to a special deal!
 
 It's kind of fun to draw in a simplified, more cartoony style. So I decided I'd open up a few commission slots for this style at an introductory price. These are available to Patreon supporters first, and then will open up to the public after a few days. (If you'd like to see special deals like this before everyone else, subscribe to *Aww, Feathers!* on Patreon for $1 or more per month and get access to other cool extras as well!)

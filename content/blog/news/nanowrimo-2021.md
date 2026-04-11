@@ -7,8 +7,6 @@ tags: ["nanowrimo", "nanowrimo2021"]
 patreon_id: 56106185
 summary: "I'm excited to formally announce my participation in National Novel Writing Month NaNoWriMo this year! NaNoWriMo is a yearly challenge for writers to complete..."
 ---
-draft: true
-
 I'm excited to formally announce my participation in National Novel Writing Month (NaNoWriMo) this year! NaNoWriMo is a yearly challenge for writers to complete a first draft of their novel in one month. Traditionally, it takes place during the month of November, and the goal is to aim for around 50,000 words. However, the most important thing is to motivate yourself to (1) form a regular writing habit, and (2) complete a story from start to finish.
 
 As for myself, I've done a significant amount of writing for *Aww, Feathers!* However, my own writing habits could definitely be improved. In addition, while I've certainly written multiple chapters for the comic, many of which could be considered self-contained mini-stories, *Aww, Feathers!* itself does not currently have a planned ending (spoiler alert). So while I will definitely be continuing *Aww, Feathers!*, I would also like to try my hand at writing other things, including something that has a definite beginning *and* end.

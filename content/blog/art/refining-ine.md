@@ -8,8 +8,6 @@ thumbnail: "/images/blog/refining-ine.jpg"
 patreon_id: 17724573
 summary: "Been experimenting with refining Ine's design say that three times fast!"
 ---
-draft: true
-
 Been experimenting with refining Ine's design (say that three times fast!)
 
 ![Refining Ine](/images/blog/refining-ine.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/family-trip-6.jpg"
 patreon_id: 11232711
 summary: "Don't believe me? Ask the dishes! http://www.awwfeathers.com/comics/2434999/family-trip-6/http://www.awwfeathers.com/comics/2434999/family-trip-6/"
 ---
-draft: true
-
 Don't believe me? Ask the dishes!
 
 [http://www.awwfeathers.com/comics/2434999/family-trip-6/](http://www.awwfeathers.com/comics/2434999/family-trip-6/)

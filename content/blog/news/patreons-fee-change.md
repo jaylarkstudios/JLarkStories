@@ -7,8 +7,6 @@ tags: []
 patreon_id: 15790717
 summary: "Greetings current and potential patrons. Interesting things are afoot... Patreon has announced changes to how they charge patrons. Long story short, Patreon..."
 ---
-draft: true
-
 Greetings current and potential patrons. Interesting things are afoot... Patreon has announced changes to how they charge patrons. Long story short,  Patreon has made the decision to move the burden of paying credit card and other processing fees from creators (like me) to patrons (like you). This means that you will be paying an extra  2.9% + $.35 per pledge. This may or may not seem like a lot. But I have heard from numerous creators and patrons who are concerned, if not upset by the change.
 
 Please know that we creators have no direct control over the change. I do, however, have tremendous respect for all of you who have supported me and would never try to take unfair advantage of any of you. If you have concerns about the change, please talk to me, either in a comment, private message, or even email me at awwfeathers@gmail.com and together we can figure out a solution.

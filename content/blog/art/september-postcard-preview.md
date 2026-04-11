@@ -8,8 +8,6 @@ thumbnail: "/images/blog/september-postcard-preview.jpg"
 patreon_id: 14304434
 summary: "It's Ine! It's emoji! It's Ine-moji!! I'll let myself out... Did anybody here see the Emoji Movie...? I was actually really interested in seeing it, until I..."
 ---
-draft: true
-
 It's Ine!
 It's emoji!
 It's Ine-moji!!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-22-pink-fong.jpg"
 patreon_id: 57994693
 summary: "Baby Lark! Do doo do doo do doo! Baby Lark! Do doo do doo do doo! OcTOONber 22 is a gift for my son, styled after Ping Fong!"
 ---
-draft: true
-
 Baby Lark! Do doo do doo do doo!
 Baby Lark! Do doo do doo do doo!
 

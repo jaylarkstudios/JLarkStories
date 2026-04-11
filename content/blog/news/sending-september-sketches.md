@@ -7,8 +7,6 @@ tags: []
 patreon_id: 21579567
 summary: "The time has come! If you have a request for a specific Sketchbook Club entry, please let me know either in the comments or via private message by the end of..."
 ---
-draft: true
-
 The time has come! If you have a request for a specific Sketchbook Club entry, please let me know either in the comments or via private message by the end of the month. If I don't hear from you, you'll be sent one as a surprise! Below are the ones to choose from:
 
 [Croca-smile](https://www.patreon.com/posts/sketch-croca-20359689) 
