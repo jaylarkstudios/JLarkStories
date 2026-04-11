@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-12621.jpg"
 patreon_id: 59713807
 summary: "Totally Accurate Battle Simulator or TABS is a ridiculous game, and I thoroughly enjoyed playing it for the first time! The characters are wacky, the physics..."
 ---
-draft: true
-
 Totally Accurate Battle Simulator (or TABS) is a ridiculous game, and I thoroughly enjoyed playing it for the first time! The characters are wacky, the physics are hilarious, and the combination is 😗👌
 
 ![Scribble Comic - 12/6/21](/images/blog/scribble-comic-12621.jpg)

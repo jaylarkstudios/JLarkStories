@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mf-page-13-thumbnails.jpg"
 patreon_id: 120714651
 summary: "Mag may think she solved one problem, but now something even bigger is coming..."
 ---
-draft: true
-
 Mag may think she solved one problem, but now something even bigger is coming...
 
 ![M&F: Page 13 Thumbnails](/images/blog/mf-page-13-thumbnails.jpg)

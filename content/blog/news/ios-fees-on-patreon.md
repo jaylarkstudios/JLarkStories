@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 110721766
 summary: "Hey folks, just a heads up in case you haven't heard. Starting in November 2024, Apple is requiring Patreon to pay a 30% fee for any subscriptions made while..."
 ---
-draft: true
-
 Hey folks, just a heads up in case you haven't heard. Starting in November 2024, Apple is requiring Patreon to pay a 30% fee for any subscriptions made while using an iOS device. Neither I nor Patreon wants this. Fortunately, there are some simple ways around the price increase.
 
 **This will not affect current subscriptions!** If you make no change to your current membership, you will not be charged any extra.

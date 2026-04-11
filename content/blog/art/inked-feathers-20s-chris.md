@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-20s-chris.jpg"
 patreon_id: 33323156
 summary: "It's a jolly 'oliday with Chris! Especially in those dandy 20's era duds! Yes, this month's Inked Feathers drawings will be Twenties themed! To see the rest in..."
 ---
-draft: true
-
 It's a jolly 'oliday with Chris! Especially in those dandy 20's era duds! Yes, this month's Inked Feathers drawings will be Twenties themed! To see the rest in the collection and even have one of the originals sent to you in the mail, become a member of the community! [Subscribe](http://join.awwfeathers.com) today, and unlock *hundreds* of patron-exclusive content!
 
 ![Inked Feathers: 20's Chris](/images/blog/inked-feathers-20s-chris.jpg)

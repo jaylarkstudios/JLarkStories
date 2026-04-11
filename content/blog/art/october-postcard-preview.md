@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-postcard-preview.jpg"
 patreon_id: 14929925
 summary: "Happy Wednesday the 18th!!! OOoooooooOOoooohhh!! ...Yes, I let Friday the 13th slip by me unnoticed... Dangit! But that doesn't mean it's too late for me to..."
 ---
-draft: true
-
 Happy Wednesday the 18th!!! OOoooooooOOoooohhh!!
 
 ...Yes, I let Friday the 13th slip by me unnoticed... Dangit!

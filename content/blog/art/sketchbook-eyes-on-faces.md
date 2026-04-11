@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-eyes-on-faces.jpg"
 patreon_id: 34631073
 summary: "Here's some quick practice sketches applying more realistic eye shapes to anthro faces."
 ---
-draft: true
-
 Here's some quick practice sketches applying more realistic eye shapes to anthro faces.
 
 ![Sketchbook: Eyes on faces](/images/blog/sketchbook-eyes-on-faces.jpg)

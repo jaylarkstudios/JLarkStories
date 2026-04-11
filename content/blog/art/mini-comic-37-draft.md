@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mini-comic-37-draft.jpg"
 patreon_id: 4836254
 summary: "What's this? Karaoke night?"
 ---
-draft: true
-
 What's this? Karaoke night?
 
 ![Mini-comic 37 draft](/images/blog/mini-comic-37-draft.jpg)

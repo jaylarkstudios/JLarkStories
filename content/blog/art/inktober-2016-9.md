@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-9.jpg"
 patreon_id: 6973325
 summary: "Much like Dragonite, Bishop Reyes is happy, strong of spirit, and um... pear-shaped?..."
 ---
-draft: true
-
 Much like Dragonite, Bishop Reyes is happy, strong of spirit, and um... pear-shaped?
 
 [http://inejwstine.deviantart.com/art/Bishop-Dragonite-639443601](http://inejwstine.deviantart.com/art/Bishop-Dragonite-639443601)

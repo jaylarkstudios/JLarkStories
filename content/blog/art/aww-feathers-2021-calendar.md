@@ -8,8 +8,6 @@ thumbnail: "/images/blog/aww-feathers-2021-calendar.jpg"
 patreon_id: 44663560
 summary: "2020 was terrible. But we have reasons to hope for a much better year in 2021. Soon we may even be able to return to everyday activities like taking a shower,..."
 ---
-draft: true
-
 2020 was terrible.
 
 But we have reasons to hope for a much better year in 2021. Soon we may even be able to return to everyday activities like taking a shower, leaving the house, putting on pants, watching a movie on a screen larger than your laptop, and eating out without constantly forgetting you're wearing a mask!

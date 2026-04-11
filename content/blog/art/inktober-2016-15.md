@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-15.jpg"
 patreon_id: 7048725
 summary: "She's probably smirking at Beat Boy about something...."
 ---
-draft: true
-
 She's probably smirking at Beat Boy about something.
 
 [http://inejwstine.deviantart.com/art/June-Raven-641228558](http://inejwstine.deviantart.com/art/June-Raven-641228558)

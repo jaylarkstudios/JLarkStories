@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-courage.jpg"
 patreon_id: 44959119
 summary: "> Courage is the price that Life exacts > for granting peace. > The soul that knows it not > Knows no release > from little things: > Knows not the livid..."
 ---
-draft: true
-
 > Courage is the price that Life exacts
 > for granting peace.
 > The soul that knows it not

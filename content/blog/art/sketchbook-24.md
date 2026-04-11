@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-24.jpg"
 patreon_id: 9301931
 summary: "I've been practicing a more cartoony style. Mostly for fun, but I've also been toying with the possibility of doing a chapter or two in this style. I dunno,..."
 ---
-draft: true
-
 I've been practicing a more cartoony style. Mostly for fun, but I've also been toying with the possibility of doing a chapter or two in this style. I dunno, what do you think?
 
 ![Sketchbook 24](/images/blog/sketchbook-24.jpg)

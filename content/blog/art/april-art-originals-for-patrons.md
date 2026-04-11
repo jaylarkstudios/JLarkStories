@@ -8,8 +8,6 @@ thumbnail: "/images/blog/april-art-originals-for-patrons.jpg"
 patreon_id: 37254218
 summary: "Greetings! I hope that you're doing well. Patrons may have noticed that my gallery of pen and ink drawings, Inked Feathers, has slowed down a bit in recent..."
 ---
-draft: true
-
 Greetings! I hope that you're doing well.
 
 Patrons may have noticed that my gallery of pen and ink drawings, *Inked Feathers*, has slowed down a bit in recent months. This is due in part both to the extra work I've been putting in to rebuilding the *Aww, Feathers!* website from scratch, and stresses from the current pandemic. I'm sorry for the slowdown, both because it's a useful and valuable exercise for me as an artist to hone my skills and encourage me to produce finished art pieces more regularly, but also because it's one of the promised benefits to you for your Patreon subscription.

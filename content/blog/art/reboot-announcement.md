@@ -8,8 +8,6 @@ thumbnail: "/images/blog/reboot-announcement.jpg"
 patreon_id: 35529997
 summary: "It's gonna be amaze-beans you guys! This is probably the fourth or fifth best idea I've ever had!! Based on a dream I had a few nights ago."
 ---
-draft: true
-
 It's gonna be amaze-beans you guys! This is probably the fourth or fifth best idea I've ever had!!
 
 (Based on a dream I had a few nights ago.)

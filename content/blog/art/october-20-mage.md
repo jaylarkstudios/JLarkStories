@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-20-mage.jpg"
 patreon_id: 42972153
 summary: "With a wave of his bear hands, James the fledgling duck mage, performs an impressive transformation for OCtober number 20!"
 ---
-draft: true
-
 With a wave of his bear hands, James the fledgling duck mage, performs an impressive transformation for OCtober number 20!
 
 ![O.C.tober #20 - Mage](/images/blog/october-20-mage.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-7-enchanted.jpg"
 patreon_id: 30581410
 summary: "For today's Inktober Mally is trapped on an \"Enchanted\" spinning wheel. On the bright side, she doesn't have any fingers to prick!"
 ---
-draft: true
-
 For today's #Inktober Mally is trapped on an "Enchanted" spinning wheel. On the bright side, she doesn't have any fingers to prick!
 
 ![Inktober 2019 #7 - Enchanted](/images/blog/inktober-2019-7-enchanted.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sick-detour.jpg"
 patreon_id: 17098315
 summary: "\"And the platypus...?\" \"That's June.\" \"Oh...\" http://www.awwfeathers.com/comics/2578070/sick-detour/http://www.awwfeathers.com/comics/2578070/sick-detour/"
 ---
-draft: true
-
 "And the platypus...?" "That's June." "Oh..."
 
 [http://www.awwfeathers.com/comics/2578070/sick-detour/](http://www.awwfeathers.com/comics/2578070/sick-detour/)

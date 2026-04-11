@@ -8,8 +8,6 @@ thumbnail: "/images/blog/cold-hooves.jpg"
 patreon_id: 23442712
 summary: "\"Perform your duty and warm my hoovsies!\" When you're married, you share everything. Including body warmth! ❄ Also, a very Happy New year to you all! 🎊"
 ---
-draft: true
-
 "Perform your duty and warm my hoovsies!"
 
  When you're married, you share everything. Including body warmth! ❄ Also, a very Happy New year to you all! 🎊

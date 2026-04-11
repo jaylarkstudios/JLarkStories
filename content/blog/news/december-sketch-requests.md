@@ -7,8 +7,6 @@ tags: []
 patreon_id: 23584148
 summary: "It's time to send out Sketchbook Club entries to all Silver Level members! If you have a specific request, please choose one of the entries below by December..."
 ---
-draft: true
-
 It's time to send out Sketchbook Club entries to all Silver Level members! If you have a specific request, please choose one of the entries below by December 31. Otherwise, you'll be sent a random entry as a surprise!
 
 [Peanuts Guys](https://www.patreon.com/posts/sketch-peanuts-23553328) 

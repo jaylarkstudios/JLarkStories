@@ -7,8 +7,6 @@ tags: []
 patreon_id: 20290152
 summary: "It's time to send physical sketches to Silver Sketchclub members! I know it seems like we just did this not long ago. That's because I was running behind..."
 ---
-draft: true
-
 It's time to send physical sketches to Silver Sketchclub members! I know it seems like we just did this not long ago. That's because I was running behind before, but now I'm back on schedule! So, if you'd like to make a specific request, please choose one of the sketch entries below and message me your choice by Saturday, July 28th. Otherwise, it'll be a surprise which one you get, which is cool cuz surprises are fun!
 
 [Rabbitaur](https://www.patreon.com/posts/sketch-rabbitaur-20104241) 

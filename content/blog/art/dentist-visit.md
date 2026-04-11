@@ -8,8 +8,6 @@ thumbnail: "/images/blog/dentist-visit.jpg"
 patreon_id: 28001721
 summary: "Shoulda quit when I was ahead... 😅 My sweet wife had a not so sweet dentist visit over the weekend, so in addition to prepping for AWU, I helped take care of..."
 ---
-draft: true
-
 Shoulda quit when I was ahead... 😅
 
 My sweet wife had a not so sweet dentist visit over the weekend, so in addition to prepping for AWU, I helped take care of her and the kids over the weekend while she recovered, hence another delay. (Probably count on next week being a bye week as well.) 

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mini-comic-watch-the-face.jpg"
 patreon_id: 30464720
 summary: "Days since last beak-related accident: 0. You gotta watch where you're pointing that, Mal! I'm sorry the new page is behind. I appreciate those who've even..."
 ---
-draft: true
-
 Days since last beak-related accident: 0. You gotta watch where you're pointing that, Mal!
 
 I'm sorry the new page is behind. I appreciate those who've even asked if I'm okay. Yes, I'm fine. 😅 Just been a hectic couple weeks. The next page should be ready next week. Here's a little blooper in the meantime though!

@@ -7,8 +7,6 @@ tags: []
 patreon_id: 9218316
 summary: "Just a reminder if you haven't checked it out yet, that we have an official Discord server now! Wanted to give patrons an opportunity to check it out before..."
 ---
-draft: true
-
 Just a reminder if you haven't checked it out yet, that we have an official Discord server now! Wanted to give patrons an opportunity to check it out before opening it up to the general public. Just click the link below and you'll be admitted!
 
 [https://discord.gg/CpUAB7U](https://discord.gg/CpUAB7U)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/best-served-cold.jpg"
 patreon_id: 19140215
 summary: "That's one of the occupational hazzards of being a trickster. Occasionally, what goes around comes around. So now you know what I've been working on for the..."
 ---
-draft: true
-
 That's one of the occupational hazzards of being a trickster. Occasionally, what goes around comes around.
 
 So now you know what I've been working on for the past while. The first book came out a couple years ago, and now we're finally for Book 2! Starting on Monday, you'll be able to support it on Indiegogo by visiting **[AwwFeathersBook.com](http://awwfeathersbook.com/?lang=eng)**! (Until then, it will just redirect you to the comic page.)

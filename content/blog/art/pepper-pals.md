@@ -8,8 +8,6 @@ thumbnail: "/images/blog/pepper-pals.jpg"
 patreon_id: 33323323
 summary: "I recently did a few quick toony drawings to help raise money for a friend in need. These were the results! Big thanks to everyone who participated!"
 ---
-draft: true
-
 I recently did a few quick toony drawings to help raise money for a friend in need. These were the results! Big thanks to everyone who participated!
 
 ![Pepper Pals!](/images/blog/pepper-pals.jpg)

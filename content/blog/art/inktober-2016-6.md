@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-6.jpg"
 patreon_id: 6943199
 summary: "The sword is just for show. June specializes in Tail-Kwan-Do...."
 ---
-draft: true
-
 The sword is just for show. June specializes in Tail-Kwan-Do.
 
 [http://inejwstine.deviantart.com/art/Samurai-June-638623755](http://inejwstine.deviantart.com/art/Samurai-June-638623755)

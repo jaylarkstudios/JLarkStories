@@ -8,8 +8,6 @@ thumbnail: "/images/blog/surprise-topping.jpg"
 patreon_id: 24284294
 summary: "Looks like another \"Code Green\" is imminent... It's very considerate of Dil to ensure that Chris is getting a varied diet. This page was created by A T Sparky,..."
 ---
-draft: true
-
 Looks like another "Code Green" is imminent...
 
 It's very considerate of Dil to ensure that Chris is getting a varied diet.

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-skystar-concert.jpg"
 patreon_id: 32521820
 summary: "\"Oh, Holy Night! The stars are brightly shining, It is the night of our dear Savior's birth!\" Inked Feathers is back! This month is, of course, Christmas..."
 ---
-draft: true
-
 "Oh, Holy Night!
 The stars are brightly shining,
 It is the night of our dear Savior's birth!"

@@ -7,8 +7,6 @@ tags: []
 patreon_id: 22984423
 summary: "Greetings! I hope you had a wonderful Thanksgiving break and are gearing up for the holiday season! In an effort to be as transparent as possible to you, who..."
 ---
-draft: true
-
 Greetings! I hope you had a wonderful Thanksgiving break and are gearing up for the holiday season! In an effort to be as transparent as possible to you, who are among the most devoted readers of *Aww, Feathers!,* I wanted to give you plenty of advance notice to be aware of the following changes to Patreon reward tiers that will be taking place over the next few months.
 
 In short, in 2019 the monthly cost of reward tiers will be going up ***for new patrons only*** through the month of March. Then, beginning in April, they will go up for ***all patrons***. For more details, read on.

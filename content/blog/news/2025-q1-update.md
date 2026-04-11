@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 120438549
 summary: "Greetings to all my wonderful readers, followers, and supporters! I have important news to share about what I have planned for Aww, Feathers! and other..."
 ---
-draft: true
-
 Greetings to all my wonderful readers, followers, and supporters! I have important news to share about what I have planned for *Aww, Feathers! *and other projects of mine for the coming year.
 
 First, let me talk about my short story project from the end of 2024, *Mag & Fang*. I think it went very well! I was able to finish a first draft of the entire story. I still need to finish uploading draft pages for patrons to view. After that... the story is going to sit for a while. They say time is the best editor, so I'm going to come back to it after a while to give it a second look, and determine what can be improved, while also gathering feedback from my writing group. As to what form the final story will take, I haven't yet decided. But I'm leaning towards a simpler, looser art style than I've typically used. But that final decision won't come until after the writing has been polished.

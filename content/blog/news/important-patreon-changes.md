@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 124943301
 summary: "Very important update for anyone who is currently an Aww, Feathers! supporter, or who may have been interested in becoming one: starting in April 2025, I will..."
 ---
-draft: true
-
 Very important update for anyone who is currently an *Aww, Feathers! *supporter, or who may have been interested in becoming one: starting in April 2025, I will no longer be posting Patreon-exclusive content. Instead, all "bonus content" will be made public. I will be changing all Patreon tiers to be "support only", meaning Patreon supporters will no longer receive anything other than the opportunity to financially support my art and comics. Those who wish to discontinue their Patreon membership may do so at any time, and absolutely no hard feelings at all; it means so much to me that you supported me for any length of time! But anyone who wishes to continue their Patreon membership even without any bonus content may also do so, and I super appreciate any who do!
 
 **Why have I made this decision?**

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/happy-7th-featherversary.jpg"
 patreon_id: 51694696
 summary: "Aww, Feathers! turns 7 years old today! If Ine were that old he'd be in 1st grade, which I happen to find rather adorable to imagine. 😚 Thank you all for..."
 ---
-draft: true
-
 Aww, Feathers! turns 7 years old today! If Ine were that old he'd be in  1st grade, which I happen to find rather adorable to imagine. 😚
 Thank you all for reading over the years! Let's see what the next one brings!
 

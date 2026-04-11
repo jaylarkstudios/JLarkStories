@@ -8,8 +8,6 @@ thumbnail: "/images/blog/introducing-october.jpg"
 patreon_id: 41455305
 summary: "Last year I successfully completed one drawing for every 2019 Inktoberhttps://www.patreon.com/awwfeathers?filterstag=Inktober prompt. Since then, I've been..."
 ---
-draft: true
-
 Last year I successfully completed one drawing for every [2019 Inktober](https://www.patreon.com/awwfeathers?filters[tag]=Inktober) prompt. Since then, I've been toying with the idea of creating my own prompts for 2020. I now give you OCtober, the daily original character creation challenge! To be clear, I'm not the first to think of the name "OCtober" for a series of daily art prompts involving drawing original characters. While others are about drawing OC's in different situations, locations, outfits, etc. my specific angle is drawing a *different* original character to go with each prompt.
 
 By now there are dozens of October art prompts out there, so if you'd like to stretch your creative muscles, pick whichever one intrigues you. If you're so inclined, you are of course more than welcome to give OCtober a try with the prompts I've provided here! Feel free to download and share the above image when you do!

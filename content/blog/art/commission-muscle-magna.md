@@ -8,8 +8,6 @@ thumbnail: "/images/blog/commission-muscle-magna.jpg"
 patreon_id: 25342824
 summary: "Hey, I didn't know there were guns in Armello! 💪😁 My third muscle YCH commission requested by Scarbo Sheep."
 ---
-draft: true
-
 Hey, I didn't know there were guns in Armello! 💪😁 My third muscle YCH commission requested by Scarbo Sheep.
 
 ![Commission: Muscle Magna](/images/blog/commission-muscle-magna.jpg)

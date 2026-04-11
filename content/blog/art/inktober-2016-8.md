@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-8.jpg"
 patreon_id: 6959079
 summary: "Dat beak tho. http://inejwstine.deviantart.com/art/Fearow-Mally-639049563http://inejwstine.deviantart.com/art/Fearow-Mally-639049563"
 ---
-draft: true
-
 Dat beak tho.
 
 [http://inejwstine.deviantart.com/art/Fearow-Mally-639049563](http://inejwstine.deviantart.com/art/Fearow-Mally-639049563)

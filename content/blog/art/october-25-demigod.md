@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-25-demigod.jpg"
 patreon_id: 43195044
 summary: "June, portrayed as a Percy Jackson style, daughter of Poseidon demigoddess. And that's quite the intimidating dinglehopper she's holding! 🔱"
 ---
-draft: true
-
 June, portrayed as a Percy Jackson style, daughter of Poseidon demigoddess. And that's quite the intimidating dinglehopper she's holding! 🔱
 
 ![O.C.tober #25 - Demigod](/images/blog/october-25-demigod.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-14.jpg"
 patreon_id: 7048681
 summary: "Ine Skellington, the lizard pumpkin king!..."
 ---
-draft: true
-
 Ine Skellington, the lizard pumpkin king!
 
 [http://inejwstine.deviantart.com/art/Ine-Skellington-641227771](http://inejwstine.deviantart.com/art/Ine-Skellington-641227771)

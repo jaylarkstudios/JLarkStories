@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-cartoon-safari.jpg"
 patreon_id: 23490827
 summary: "More cartoon animals, this time from Africa! That giraffe is pretty cool. We need more giraffe characters, don't we?"
 ---
-draft: true
-
 More cartoon animals, this time from Africa! That giraffe is pretty cool. We need more giraffe characters, don't we?
 
 ![Sketchbook: Cartoon Safari](/images/blog/sketchbook-cartoon-safari.jpg)

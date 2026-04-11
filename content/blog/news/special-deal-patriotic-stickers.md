@@ -7,8 +7,6 @@ tags: ["commissions"]
 patreon_id: 19590087
 summary: "Hey guys, I want to make some patriotic Telegram stickers before July 4th! If you order one of the sticker poses below from me, I'll do it for $10 instead of..."
 ---
-draft: true
-
 Hey guys, I want to make some patriotic Telegram stickers before July 4th! If you order one of the sticker poses below from me, I'll do it for $10 instead of the normal $15! The catch: For now I'll only do one of each sticker type at this price. First come first served. (Though if you want one that's already claimed, you can order it at the normal price.) You can claim up to three slots:
 
 ✨ - Watching fireworks and saying "Ooh! Ahh!"

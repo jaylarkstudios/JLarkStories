@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-chris-and-kristy.jpg"
 patreon_id: 21957059
 summary: "Just a bit of healthy sibling rivalry. Got a disagreement? Take 'em to court! The volleyball court that is. Or the basketball court... racquetball court... You..."
 ---
-draft: true
-
 Just a bit of healthy sibling rivalry. Got a disagreement? Take 'em to court! The volleyball court that is. Or the basketball court... racquetball court... You know. Any of those kinds of courts.
 
 And yeah, I went for the easy name variant for this one. Sue me. In court. 😆

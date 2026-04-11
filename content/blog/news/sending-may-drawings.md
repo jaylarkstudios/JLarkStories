@@ -7,8 +7,6 @@ tags: []
 patreon_id: 27214371
 summary: "Hi there, and thanks again for backing Aww, Feathers! on Patreon at the Silver level or above! Feel free to choose one of the original drawings below to be..."
 ---
-draft: true
-
 Hi there, and thanks again for backing *Aww, Feathers!* on Patreon at the Silver level or above! Feel free to choose one of the original drawings below to be sent in the mail by this Friday, or just wait and one will be chosen for you as a surprise!
 
 [MerMally](https://www.patreon.com/posts/inked-feathers-26900449) 

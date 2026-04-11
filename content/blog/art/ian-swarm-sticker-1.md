@@ -8,8 +8,6 @@ thumbnail: "/images/blog/ian-swarm-sticker.jpg"
 patreon_id: 19573472
 summary: "I've started making custom Telegram stickers! This one was commissioned by a friend for a friend! I'm open for more sticker commissions, and running a special..."
 ---
-draft: true
-
 I've started making custom Telegram stickers! This one was commissioned by a friend for a friend!
 
 I'm open for more sticker commissions, and running a special deal! Buy four stickers, get a fifth one free! Multicharacter stickers like this one are about $20 each, while most single character stickers are $15.

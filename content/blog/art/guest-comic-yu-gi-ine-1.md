@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-yu-gi-ine-1.jpg"
 patreon_id: 38202324
 summary: "Out of context, Dil looks like he's about to devour some poor sap who was trying to smuggle some dino DNA. Big thanks to... MY BROTHER, Blue Dillo, for..."
 ---
-draft: true
-
 Out of context, Dil looks like he's about to devour some poor sap who was trying to smuggle some dino DNA.
 
 Big thanks to... MY BROTHER, Blue Dillo, for submitting this mini chapter riffing on a beloved childhood TV series!

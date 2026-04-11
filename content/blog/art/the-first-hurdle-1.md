@@ -8,8 +8,6 @@ thumbnail: "/images/blog/the-first-hurdle-1.jpg"
 patreon_id: 23899223
 summary: "I hear they also need cheerleaders. I'd like to give a warm welcome back to Brien Sparling for his third guest story for Aww, Feathers! In case you're..."
 ---
-draft: true
-
 I hear they also need cheerleaders. 
 
 I'd like to give a warm welcome back to Brien Sparling for his third guest story for Aww, Feathers! In case you're wondering, there was no official guest comic event this time, but he offered to do a chapter for an idea he had, and I'm really excited for it because as always, he's done a stellar job! (It's also a huge help for me, because it'll give me some time to rebuild my comic buffer!) So I hope you enjoy it, because it's really well done! 

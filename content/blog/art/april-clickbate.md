@@ -8,8 +8,6 @@ thumbnail: "/images/blog/april-clickbate.gif"
 patreon_id: 4896066
 summary: "Billionaire squirrel predicts the crash of the nut market!..."
 ---
-draft: true
-
 Billionaire squirrel predicts the crash of the nut market!
 
 [http://www.awwfeathers.com/comics/2270483/april-clickbait/](http://www.awwfeathers.com/comics/2270483/april-clickbait/)

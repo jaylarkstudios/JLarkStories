@@ -8,8 +8,6 @@ thumbnail: "/images/blog/research.jpg"
 patreon_id: 6108553
 summary: "You think that's cool? Wait til you see my homework! http://www.awwfeathers.com/comics/2315639/research/http://www.awwfeathers.com/comics/2315639/research/ By..."
 ---
-draft: true
-
 You think that's cool? Wait til you see my homework!
 
 [http://www.awwfeathers.com/comics/2315639/research/](http://www.awwfeathers.com/comics/2315639/research/)

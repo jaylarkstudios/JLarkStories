@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mini-comic-snack-scale.jpg"
 patreon_id: 58678727
 summary: "I always love me a good snack! To which the scale can attest… Read on the website:..."
 ---
-draft: true
-
 I always love me a good snack! (To which the scale can attest…)
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic013/](https://awwfeathers.com/bonuscomics/bonuscomic013/)

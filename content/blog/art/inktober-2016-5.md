@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-5.jpg"
 patreon_id: 6935990
 summary: "\"He's a semi-exotic green panther hybrid of action! A feathered little four-foot who'll never pass up a pra-ee-a-ee-ank! He's funny, he's unique, He's got a..."
 ---
-draft: true
-
 "He's a semi-exotic green panther hybrid of action!
 A feathered little four-foot who'll never pass up a pra-ee-a-ee-ank!
 He's funny, he's unique,

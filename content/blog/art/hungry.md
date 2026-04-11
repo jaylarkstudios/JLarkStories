@@ -8,8 +8,6 @@ thumbnail: "/images/blog/hungry.jpg"
 patreon_id: 5761470
 summary: "Why be whiny when you can be Ine-y? HA! Ahem... Much thanks to my awesome wife for posing for this mini comic! I'm not THAT whiny... am I? A new chapter begins..."
 ---
-draft: true
-
 Why be whiny when you can be Ine-y? HA! Ahem...  Much thanks to my awesome wife for posing for this mini comic! (I'm not THAT whiny... am I?)
 
 A new chapter begins next week!

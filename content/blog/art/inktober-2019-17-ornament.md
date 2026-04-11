@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-17-ornament.jpg"
 patreon_id: 30846298
 summary: "For today's Inktober, Maiara picked up a new \"Ornament\" for her mane. You like? I like!! 😍"
 ---
-draft: true
-
 For today's #Inktober, Maiara picked up a new "Ornament" for her mane. You like? I like!! 😍
 
 ![Inktober 2019 #17 - Ornament](/images/blog/inktober-2019-17-ornament.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-14-antagonist.jpg"
 patreon_id: 42831466
 summary: "Deimos, a magician of darkness, is OCtober number 14 and a fitting antagonist for a worthy enough hero!"
 ---
-draft: true
-
 Deimos, a magician of darkness, is OCtober number 14 and a fitting antagonist for a worthy enough hero!
 
 ![O.C.tober #14 - Antagonist](/images/blog/october-14-antagonist.jpg)

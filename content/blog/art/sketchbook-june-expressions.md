@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-june-expressions.jpg"
 patreon_id: 23930750
 summary: "More practice drawing the front of June's face, this time with various expressions. The shocked expression towards the bottom didn't turn out how I wanted, so..."
 ---
-draft: true
-
 More practice drawing the front of June's face, this time with various expressions. The shocked expression towards the bottom didn't turn out how I wanted, so I'll have to experiment a bit with that. But I like most of the rest of what I'm seeing.
 
 ![Sketchbook: June Expressions](/images/blog/sketchbook-june-expressions.jpg)

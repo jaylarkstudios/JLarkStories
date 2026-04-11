@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-more-cartoon-reptiles.jpg"
 patreon_id: 23451498
 summary: "I think we're getting somewhere! These are all cartoon reptile characters I made up on the fly, again using basic shapes to block in the basic structure of..."
 ---
-draft: true
-
 I think we're getting somewhere! These are all cartoon reptile characters I made up on the fly, again using basic shapes to block in the basic structure of their bodies. There are a few things happening on this page that I quite like.
 
 ![Sketchbook: More Cartoon Reptiles](/images/blog/sketchbook-more-cartoon-reptiles.jpg)

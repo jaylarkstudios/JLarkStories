@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-2-mentor.jpg"
 patreon_id: 42309464
 summary: "Today's OCtober drawing for Mentor features Mordecai the raccoon, spiritual guide, player of obscure string instruments, and lover of raspberry milkshakes!..."
 ---
-draft: true
-
 Today's OCtober drawing for Mentor features Mordecai the raccoon, spiritual guide, player of obscure string instruments, and lover of raspberry milkshakes!
 
 More slots are available! Don't forget to claim yours [here](http://awwfeathers.com/october)!

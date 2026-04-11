@@ -8,8 +8,6 @@ thumbnail: "/images/blog/get-along-shirt-ych-commissions-open.jpg"
 patreon_id: 61346778
 summary: "Offering \"Get Along Shirt YCH\" commissions! Get yours in time for Valentine's Day! Perfect if you've got two characters who need to learn to play nicely, or a..."
 ---
-draft: true
-
 Offering "Get Along Shirt YCH" commissions! Get yours in time for Valentine's Day!
 Perfect if you've got two characters who need to learn to play nicely, or a special someone you'd like to be *closer* to! 😉
 

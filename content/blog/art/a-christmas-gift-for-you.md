@@ -8,8 +8,6 @@ thumbnail: "/images/blog/a-christmas-gift-for-you.jpg"
 patreon_id: 15645875
 summary: "Ine and Kraal egg-buddies! <3 Of course, they never knew each other at that age, but they probably didn't know how to sing at that age either, so don't be..."
 ---
-draft: true
-
 Ine and Kraal egg-buddies! <3 Of course, they never knew each other at that age, but they probably didn't know how to sing at that age either, so don't be picky. ;-)
 
 For the month of December, as a special gift to all my fellow "Awwthusiasts," feel free to download the image above as a digital Christmas Card. You may even copy/paste it into an email or messaging app to send it to a friend if you like! All I ask is you leave the image unaltered, and enjoy!

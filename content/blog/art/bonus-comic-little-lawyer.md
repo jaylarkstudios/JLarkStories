@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-little-lawyer.jpg"
 patreon_id: 59300830
 summary: "“Well, technically the inverse of a logical statement isn't equivalent to--” “OVERRULED!!” Read on the website:..."
 ---
-draft: true
-
 “Well, technically the inverse of a logical statement isn't equivalent to--” “OVERRULED!!”
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic013/](https://awwfeathers.com/bonuscomics/bonuscomic013/)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/new-chapter-sneak-peek.jpg"
 patreon_id: 44381541
 summary: "Here's your sneak peek of the new chapter of Aww, Feathers! which begins December 22nd! What do you think was at the door? Place ya bets now, and find out when..."
 ---
-draft: true
-
 Here's your sneak peek of the new chapter of Aww, Feathers! which begins December 22nd! What do you think was at the door? Place ya bets now, and find out when the first page drops next month! 😁
 Join the newsletter at [http://news.awwfeathers.com](http://news.awwfeathers.com)
 

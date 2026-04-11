@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-june-practice.jpg"
 patreon_id: 23972653
 summary: "More practice drawing June, this time full body. I wonder what she's looking at?"
 ---
-draft: true
-
 More practice drawing June, this time full body. I wonder what she's looking at?
 
 ![Sketchbook: June Practice](/images/blog/sketchbook-june-practice.jpg)

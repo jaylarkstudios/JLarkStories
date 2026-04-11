@@ -7,8 +7,6 @@ tags: []
 patreon_id: 52501837
 summary: "I am now open for art commission slots for the month of August! There are limited slots available. They will be open to Awwrt Collectors only for two weeks...."
 ---
-draft: true
-
 I am now open for art commission slots for the month of August! There are limited slots available. **They will be open to Awwrt Collectors only for two weeks.** Starting July 26th, any remaining slots will be open to the public.
 
 You can pay for these art commissions using any saved art credits, or using PayPal if you don’t have any credits. (If you have art credits, but not enough for the type of commission you want, you can still use them and then pay the difference using PayPal.) Check your messages on Patreon to see how many art credits you currently have.

@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 51941203
 summary: "Hey folks! I have an important announcement regarding some upcoming changes to rewards for Aww, Feathers! patrons. Here's a quick summary: - These changes will..."
 ---
-draft: true
-
 Hey folks! I have an important announcement regarding some upcoming changes to rewards for *Aww, Feathers!* patrons. Here's a quick summary:
 
 - These changes will take place starting July 1, 2021. You have until then to make any desired updates to your pledge level.

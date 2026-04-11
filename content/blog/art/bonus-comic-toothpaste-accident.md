@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-toothpaste-accident.jpg"
 patreon_id: 66686936
 summary: "“It's no accident, Mother. It's ART!!” Read on the website: https://awwfeathers.com/bonuscomics/bonuscomic030/https://awwfeathers.com/bonuscomics/bonuscomic030/"
 ---
-draft: true
-
 “It's no accident, Mother. It's ART!!”
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic030/](https://awwfeathers.com/bonuscomics/bonuscomic030/)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/clue-cards-3.jpg"
 patreon_id: 28189792
 summary: "It buzzes paws, hooves, and talons too. No discrimination here. So AWU was a blast! Thanks for everyone who came to both of my panels! I'll have a video posted..."
 ---
-draft: true
-
 It buzzes paws, hooves, and talons too. No discrimination here.
 
 So AWU was a blast! Thanks for everyone who came to both of my panels! (I'll have a video posted soon of my presentation.)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/awu-dealer.jpg"
 patreon_id: 11274959
 summary: "\"What can I say, except PLEASE COME VISIT ME!!!!\" http://www.awwfeathers.com/comics/2436650/awu-dealer/http://www.awwfeathers.com/comics/2436650/awu-dealer/"
 ---
-draft: true
-
 "What can I say, except PLEASE COME VISIT ME!!!!"
 
 [http://www.awwfeathers.com/comics/2436650/awu-dealer/](http://www.awwfeathers.com/comics/2436650/awu-dealer/)

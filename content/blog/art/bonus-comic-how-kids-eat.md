@@ -8,8 +8,6 @@ thumbnail: "/images/blog/bonus-comic-how-kids-eat.jpg"
 patreon_id: 61006045
 summary: "I think my son might be part snake… which is pretty awesome though, you gotta admit! Read on the website:..."
 ---
-draft: true
-
 I think my son might be part snake… which is pretty awesome though, you gotta admit!
 
 Read on the website: [https://awwfeathers.com/bonuscomics/bonuscomic020/](https://awwfeathers.com/bonuscomics/bonuscomic020/)

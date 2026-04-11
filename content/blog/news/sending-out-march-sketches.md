@@ -7,8 +7,6 @@ tags: []
 patreon_id: 25741381
 summary: "Hello there! The time has come to send out Inked Feathers original sketches! If you've got your eye on a specific sketch, please send me a message or comment..."
 ---
-draft: true
-
 Hello there! The time has come to send out Inked Feathers original sketches! If you've got your eye on a specific sketch, please send me a message or comment below by the end of day **Tuesday, April 2 **(giving a little extra time since this is kind of last minute). If you don't pick, one will be randomly chosen to be sent to you as a surprise!
 
 Note: If you made a specific request for a sketch subject this month, that sketch will be sent to you unless you choose a different one.

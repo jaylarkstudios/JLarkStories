@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-wild-wonders-cockatoo.jpg"
 patreon_id: 39541949
 summary: "You've suffered. And it shows. But you still know how to trust and how to love. And that makes you beautiful. 💙 I'll be continuing the theme of Wild Wonders..."
 ---
-draft: true
-
 You've suffered. And it shows. But you still know how to trust and how to love. And that makes you beautiful. 💙
 
 I'll be continuing the theme of Wild Wonders critters for this month's Inked Feathers drawings. Today, meet their umbrella cockatoo. I hope this pretty bird will forgive me for forgetting their name, but as you can see they're missing some feathers. Still, they weren't shy about greeting those who attended AWU last year, perching on your hand, and receiving some gentle feathers strokes.

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-11.jpg"
 patreon_id: 18886446
 summary: "Wrapped up the section on forms, shading, and values! Now I'm hungry for some fruit."
 ---
-draft: true
-
 Wrapped up the section on forms, shading, and values! Now I'm hungry for some fruit.
 
 ![Drawing Course Notes 11](/images/blog/drawing-course-notes-11.jpg)

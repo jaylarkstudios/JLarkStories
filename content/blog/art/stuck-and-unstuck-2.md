@@ -8,8 +8,6 @@ thumbnail: "/images/blog/stuck-and-unstuck-2.jpg"
 patreon_id: 21199703
 summary: "More convenient than a wheelchair. More comfy too! I should point out that the bobby pin actually went all the way through my toe. It missed anything major,..."
 ---
-draft: true
-
 More convenient than a wheelchair. More comfy too!
 
  I should point out that the bobby pin actually went all the way through my toe. It missed anything major, but still. In one end and out the other. So it's understandable that my wife was a tad freaked out by it. 

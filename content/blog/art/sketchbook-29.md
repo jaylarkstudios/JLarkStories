@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-29.jpg"
 patreon_id: 11356825
 summary: "Toony Ine expressions!"
 ---
-draft: true
-
 Toony Ine expressions!
 
 ![Sketchbook 29](/images/blog/sketchbook-29.jpg)

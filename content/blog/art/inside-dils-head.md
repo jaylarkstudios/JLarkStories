@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inside-dils-head.jpg"
 patreon_id: 3864133
 summary: "Who's your friend who loves to play? Dilawar! Dilawar!..."
 ---
-draft: true
-
 Who's your friend who loves to play? Dilawar! Dilawar!
 
 [http://www.awwfeathers.com/comics/2223380/inside-dils-head/](http://www.awwfeathers.com/comics/2223380/inside-dils-head/)

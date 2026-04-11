@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-3-bait.jpg"
 patreon_id: 30504157
 summary: "Today's Inktober prompt is \"Bait\"! I'm not sure what you're going to do with Ine when you catch him, but best of luck I guess! Sorry I forgot to upload this..."
 ---
-draft: true
-
 Today's #Inktober prompt is "Bait"! I'm not sure what you're going to do with Ine when you catch him, but best of luck I guess!
 
 (Sorry I forgot to upload this yesterday!)

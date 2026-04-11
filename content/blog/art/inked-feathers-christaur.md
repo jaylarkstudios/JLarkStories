@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-christaur.jpg"
 patreon_id: 27599772
 summary: "I'll bet those paws are a little awkward on the floor of the basketball court. Maybe I should have put shoes on them. Whatever the case, Chris seems to be..."
 ---
-draft: true
-
 I'll bet those paws are a little awkward on the floor of the basketball court. Maybe I should have put shoes on them. Whatever the case, Chris seems to be enjoying himself. He probably also enjoys the added speed and height granted him in his new "taur" form!
 
 ![Inked Feathers: Christaur](/images/blog/inked-feathers-christaur.jpg)

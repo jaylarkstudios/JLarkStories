@@ -8,8 +8,6 @@ thumbnail: "/images/blog/zootopia-preview.jpg"
 patreon_id: 3864138
 summary: "Kraal was too offended to watch. Or too busy. Same thing, right?..."
 ---
-draft: true
-
 Kraal was too offended to watch. Or too busy. Same thing, right?
 
 [http://www.awwfeathers.com/comics/2218348/zootopia-preview/](http://www.awwfeathers.com/comics/2218348/zootopia-preview/)

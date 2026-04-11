@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-10-roleplay.jpg"
 patreon_id: 42823627
 summary: "OCtober number ten features Ian the gecko roleplaying as Nazar from Armello!"
 ---
-draft: true
-
 OCtober number ten features Ian the gecko roleplaying as Nazar from Armello!
 
 ![O.C.tober #10 - Roleplay](/images/blog/october-10-roleplay.jpg)

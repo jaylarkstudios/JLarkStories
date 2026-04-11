@@ -7,8 +7,6 @@ tags: []
 patreon_id: 63091509
 summary: "It’s time to set a date and time for the April art stream! This stream will be open to all patrons at the Awwrt Lover level and above. The theme for April will..."
 ---
-draft: true
-
 It’s time to set a date and time for the April art stream! This stream will be open to all patrons at the Awwrt Lover level and above. The theme for April will be Land Before Time! While Zootopia may be my favorite animated film of my adult years, Land Before Time was my favorite growing up. And yet I can't say I've done much (if any) artwork relating to the franchise. I'd say it's high time I remedy that! Possible drawings could include some of my favorite characters from the film, perhaps even interacting with characters from my comic!
 
 Feel free to comment or send me a message with your suggestions for which characters and scenarios to draw for this theme. Or if you plan on attending live, pick which date you can attend and bring your ideas to the stream!

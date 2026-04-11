@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-12-love-interest.jpg"
 patreon_id: 42823933
 summary: "Princess Keristone becomes OCtober number 12, Love Interest! She's lovely, but she's taken. 😉⠀"
 ---
-draft: true
-
 Princess Keristone becomes OCtober number 12, Love Interest! She's lovely, but she's taken. 😉⠀
 
 ![O.C.tober #12 - Love Interest](/images/blog/october-12-love-interest.jpg)

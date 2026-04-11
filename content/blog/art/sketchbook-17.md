@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-17.jpg"
 patreon_id: 7949121
 summary: "Sorry it's been a while since posting some sketchbook pages! Here are a few sketches from past and future postcard design ideas! notacopout"
 ---
-draft: true
-
 Sorry it's been a while since posting some sketchbook pages! Here are a few sketches  from past and future postcard design ideas!
 
 #notacopout

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-121521.jpg"
 patreon_id: 60028259
 summary: "The saddest part is that includes four bags of Halloween clearance candy..."
 ---
-draft: true
-
 The saddest part is that includes four bags of Halloween clearance candy...
 
 ![Scribble Comic - 12/15/21](/images/blog/scribble-comic-121521.jpg)

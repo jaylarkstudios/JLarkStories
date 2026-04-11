@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-cheetah-chell.jpg"
 patreon_id: 25738964
 summary: "Don't bother Lia. She's in the middle of a Portal speed run."
 ---
-draft: true
-
 Don't bother Lia. She's in the middle of a Portal speed run.
 
 ![Inked Feathers: Cheetah Chell](/images/blog/inked-feathers-cheetah-chell.jpg)

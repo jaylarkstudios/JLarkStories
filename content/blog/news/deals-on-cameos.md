@@ -7,8 +7,6 @@ tags: []
 patreon_id: 14114056
 summary: "For the next couple months I'm holding a special deal on cameos! You may know that you can get yourself a cameo appearance in a page of Aww, Feathers! by..."
 ---
-draft: true
-
 For the next couple months I'm holding a special deal on cameos! You may know that you can get yourself a cameo appearance in a page of *Aww, Feathers!* by pledging $15 or more. But the next couple chapters will have quite a few background characters. So for a limited time you can either:
 
 * Get a single cameo for $10! Or...

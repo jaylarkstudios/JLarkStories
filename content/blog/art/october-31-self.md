@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-31-self.jpg"
 patreon_id: 43392851
 summary: "It's the 31st and for my LAST OCtober entry for this year I drew my spookiest piece yet… MYSELF!! 😱 This might actually be my first ever serious attempt at..."
 ---
-draft: true
-
 It's the 31st and for my LAST OCtober entry for this year I drew my spookiest piece yet… MYSELF!! 😱 This might actually be my first ever serious attempt at drawing a self-portrait. My human-drawing skills still need a lot of work. But I think this one turned out not too bad.⠀
 
 Happy Halloween everyone!⠀

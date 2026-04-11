@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 22602604
 summary: "Man, I can't tell you how good it feels to be working on the main story again! I've really missed it, and I'm glad to be getting back into updating it..."
 ---
-draft: true
-
 Man, I can't tell you how good it feels to be working on the main story again! I've really missed it, and I'm glad to be getting back into updating it more-or-less consistently. In order to better stay on top of not only the comic but my other real-life responsibilities, however, there will be some changes to how comic updates are released. I wanted to make sure all readers--especially long-time readers--are aware of these changes:
 
 **First**, you may have noticed that the past few pages have been released in sections instead of the entire page at once. This pattern will continue moving forward, though it will largely depend on how well the story is served by an update of a particular size. Sometimes it will make sense for a page to be split into two equal halves, and release the first half one week, and then the second half the following. Sometimes it will make sense to divide the page differently; say, into 1/4 and 3/4 sections, or 1/3 and 2/3 sections, etc. Or, occasionally it may not make sense to divide the page at all, and on those weeks you'll get the full page. The main takeaway is, I'll be focusing on *story*updates rather than *page* updates. So if a page is divided into two parts, each of those parts will stand on their own as a single comic update (no cutting off in the middle of someone's sentence, for example). When it comes time to put them together into a digital or physical book, however, all the pieces will be put back together into full pages.

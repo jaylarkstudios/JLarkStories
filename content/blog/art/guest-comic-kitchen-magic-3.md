@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-kitchen-magic-3.jpg"
 patreon_id: 37292400
 summary: "This scene belongs on a Norman Rockwell painting somewhere! 3rd page of Brien Sparling's guest comic...."
 ---
-draft: true
-
 This scene belongs on a Norman Rockwell painting somewhere!
 
 3rd page of Brien Sparling's guest comic.

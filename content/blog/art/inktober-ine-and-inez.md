@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-ine-and-inez.jpg"
 patreon_id: 21943945
 summary: "Ine, quit mansplaining the game, and just play! Happy Inktober everyone! I know, I really wanted to be back to regular story updates by now. But I'm going to..."
 ---
-draft: true
-
 Ine, quit mansplaining the game, and just play!
 
  Happy Inktober everyone! I know, I really wanted to be back to regular story updates by now. But I'm going to need another month it looks like. Still working on getting the job and income sitch all ironed out. In the meantime though, I did decide to participate at least partially in Inktober this year.

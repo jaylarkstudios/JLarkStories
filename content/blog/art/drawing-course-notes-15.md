@@ -8,8 +8,6 @@ thumbnail: "/images/blog/drawing-course-notes-15.jpg"
 patreon_id: 18960623
 summary: "2 point perspective! Phew, that's a lot of lines!"
 ---
-draft: true
-
 2 point perspective! Phew, that's a lot of lines!
 
 ![Drawing Course Notes 15](/images/blog/drawing-course-notes-15.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/special-gift-just-for-patrons.jpg"
 patreon_id: 26851210
 summary: "I'm excited to announce a new, special gift just for Aww, Feathers! Patreon subscribers! From now until the end of the month, all new and existing patrons at..."
 ---
-draft: true
-
 I'm excited to announce a new, special gift just for *Aww, Feathers!* Patreon subscribers! From now until the end of the month, **all new and existing** patrons at the $5 level or higher will get a digital copy of the "Aww, Feathers! Patron Sketchbook" as a DRM-free EPUB and PDF!
 
 This gift will **only** be available to Patreon subscribers at the $5 level or higher, and **only** through the end of this month!

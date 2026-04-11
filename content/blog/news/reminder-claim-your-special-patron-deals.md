@@ -7,8 +7,6 @@ tags: ["specialdeal"]
 patreon_id: 19308211
 summary: "Just a reminder if you haven't done so already to take advantage of the special deals on the Aww, Feathers! Book 2 campaign, available only to patrons! Use the..."
 ---
-draft: true
-
 Just a reminder if you haven't done so already to take advantage of the special deals on the Aww, Feathers! Book 2 campaign, available only to patrons! Use the links below to get a discount on one of four of the available perks:
 
 **Learned Lizard **Includes both a physical and PDF copy of Book 2! [https://www.indiegogo.com/projects/2379975/x/11992011?secret_perk_token=0eea5dce](https://www.indiegogo.com/projects/2379975/x/11992011?secret_perk_token=0eea5dce)

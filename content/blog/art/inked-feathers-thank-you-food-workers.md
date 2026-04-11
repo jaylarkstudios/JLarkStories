@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-thank-you-food-workers.jpg"
 patreon_id: 37402857
 summary: "I'm not gonna call it a \"doggy bag.\" Nope. Not gonna do it. Today, Chris the dalmatian thanks all those individuals and organizations who've stepped up to help..."
 ---
-draft: true
-
 I'm not gonna call it a "doggy bag." Nope. Not gonna do it.
 
 Today, Chris the dalmatian thanks all those individuals and organizations who've stepped up to help those who've become food insecure during this pandemic. To everyone from grocery stores who've ramped up their curbside and delivery services and set aside special hours for those who are more vulnerable, to schools and churches who are providing free meals to children and the needy, and to everyone who's given whatever they can to food banks and shelters, thanks for making sure everyone gets fed!

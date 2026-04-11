@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-11122.jpg"
 patreon_id: 61067982
 summary: "\"And I want to thank you For giving me the best day of my life\""
 ---
-draft: true
-
 "And I want to thank you
 For giving me the best day of my life"
 

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-1-alter-ego.jpg"
 patreon_id: 42269521
 summary: "Nekronos kicks off this year's first OCtober prompt: Alter Ego! This fuzzy fire demon can be friendly when he wants, but don't make him angry! 👿 \"Mentor\" and..."
 ---
-draft: true
-
 Nekronos kicks off this year's first OCtober prompt: Alter Ego! This fuzzy fire demon can be friendly when he wants, but don't make him angry! 👿
 
 "Mentor" and "Trickster" are both still available and coming up tomorrow and Saturday! Have a character that fits either description? Message me quickly to reserve a slot! [More details here](http://awwfeathers.com/october)!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/mf-page-16-thumbnails.jpg"
 patreon_id: 120715359
 summary: "I think I may play around with the pacing for this page. Overall though, I think it's an exciting resolution. One more page to go!"
 ---
-draft: true
-
 I think I may play around with the pacing for this page. Overall though, I think it's an exciting resolution. One more page to go!
 
 ![M&F: Page 16 Thumbnails](/images/blog/mf-page-16-thumbnails.jpg)

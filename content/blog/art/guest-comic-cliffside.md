@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-cliffside.jpg"
 patreon_id: 38202241
 summary: "I think Ine had a dream like this once... Happens when you play with Lego mini-figs right before bed. Thank you to Studly Snargle for this guest comic!"
 ---
-draft: true
-
 I think Ine had a dream like this once... Happens when you play with Lego mini-figs right before bed.
 
 Thank you to Studly Snargle for this guest comic!

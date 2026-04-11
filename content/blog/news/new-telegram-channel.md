@@ -7,6 +7,4 @@ tags: ["poll"]
 patreon_id: 20877404
 summary: "There is now an official Aww, Feathers! Telegram Announcements Channel! You can subscribe by going to t.me/awwfeathershttp://t.me/awwfeathers. I plan on..."
 ---
-draft: true
-
 There is now an official *Aww, Feathers! *Telegram Announcements Channel! You can subscribe by going to [t.me/awwfeathers](http://t.me/awwfeathers). I plan on keeping this channel for official news and updates about the comic. But I also want to hear from you. What kind of things would you want to hear about from the Telegram channel?

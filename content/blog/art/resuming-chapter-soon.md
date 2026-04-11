@@ -8,8 +8,6 @@ thumbnail: "/images/blog/resuming-chapter-soon.jpg"
 patreon_id: 22551369
 summary: "Now... Where did I put my computer...? Wow. It's actually been over two months since the last real story update. I never intended to go this long without a new..."
 ---
-draft: true
-
 Now... Where did I put my computer...?
 
  Wow. It's actually been over two months since the last real story update. I never intended to go this long without a new comic update. But that's life I guess. It was also probably less than ideal to stop in the middle of a chapter, and I'm sorry about that. However, it will at long last be continuing starting next week! It feels good to get started again.

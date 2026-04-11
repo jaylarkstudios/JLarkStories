@@ -8,8 +8,6 @@ thumbnail: "/images/blog/time-to-rea.jpg"
 patreon_id: 8652803
 summary: "They couldn't find a copy of this one at the discount book sale......"
 ---
-draft: true
-
 They couldn't find a copy of this one at the discount book sale...
 
 [http://www.awwfeathers.com/comics/2414298/time-to-rea/](http://www.awwfeathers.com/comics/2414298/time-to-rea/)

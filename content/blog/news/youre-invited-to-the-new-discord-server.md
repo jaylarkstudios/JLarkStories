@@ -7,8 +7,6 @@ tags: []
 patreon_id: 8767586
 summary: "Hey all! I decided to try setting up a Discord server where folks can discuss Aww, Feathers! If you've never used Discord before, it's basically a custom chat..."
 ---
-draft: true
-
 Hey all!
 
 I decided to try setting up a Discord server where folks can discuss *Aww, Feathers!*  If you've never used Discord before, it's basically a custom chat forum that lets you setup separate channels for different discussion topics, etc.

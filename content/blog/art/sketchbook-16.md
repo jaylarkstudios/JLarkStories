@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-16.jpg"
 patreon_id: 7108870
 summary: "What's this for? Well, you'll have to wait and see. ;-"
 ---
-draft: true
-
 What's this for? Well, you'll have to wait and see. ;-)
 
 ![Sketchbook 16](/images/blog/sketchbook-16.jpg)

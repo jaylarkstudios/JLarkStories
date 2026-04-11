@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-remember-the-fallen.jpg"
 patreon_id: 53637669
 summary: "In the second drawing from the July Inked Feathers Art Stream, Kraal visits the grave of his father, who lost his life in active duty. Let us never forget the..."
 ---
-draft: true
-
 In the second drawing from the July Inked Feathers Art Stream, Kraal visits the grave of his father, who lost his life in active duty. Let us never forget the sacrifice of all who serve their country in order to protect the freedom of others. ♥ 🇺🇸
 
 ![Inked Feathers: Remember the Fallen](/images/blog/inked-feathers-remember-the-fallen.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-11.jpg"
 patreon_id: 6984932
 summary: "Oh, hush. I needed an easy one. http://inejwstine.deviantart.com/art/xkaf-639688275http://inejwstine.deviantart.com/art/xkaf-639688275"
 ---
-draft: true
-
 Oh, hush. I needed an easy one.
 
 [http://inejwstine.deviantart.com/art/xkaf-639688275](http://inejwstine.deviantart.com/art/xkaf-639688275)

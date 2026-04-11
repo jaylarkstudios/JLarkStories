@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-30-catch.jpg"
 patreon_id: 31181881
 summary: "Will Michelle make the \"Catch\"…? Looks like it's gonna be close! 😬🏈 Only one Inktober left to go! See you tomorrow!"
 ---
-draft: true
-
 Will Michelle make the "Catch"…? Looks like it's gonna be close! 😬🏈 Only one #Inktober left to go! See you tomorrow!
 
 ![Inktober 2019 #30 - Catch](/images/blog/inktober-2019-30-catch.jpg)

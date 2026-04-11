@@ -6,6 +6,4 @@ categories: ["News"]
 tags: ["poll"]
 patreon_id: 20290366
 ---
-draft: true
-
 

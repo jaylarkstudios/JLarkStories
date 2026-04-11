@@ -8,8 +8,6 @@ thumbnail: "/images/blog/october-9-natural.jpg"
 patreon_id: 42579212
 summary: "Zeggy the fluff dragon, hanging out in a tree! Not sure if this is his \"natural\" habitat, but he sure looks like he belongs! This is OCtober number nine."
 ---
-draft: true
-
 Zeggy the fluff dragon, hanging out in a tree! Not sure if this is his "natural" habitat, but he sure looks like he belongs! This is OCtober number nine.
 
 ![O.C.tober #9 - Natural](/images/blog/october-9-natural.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/stuck-and-unstuck-3.jpg"
 patreon_id: 21199744
 summary: "http://www.awwfeathers.com/comics/2664110/stuck-and-unstuck-3/http://www.awwfeathers.com/comics/2664110/stuck-and-unstuck-3/ How much will that 30 second visit..."
 ---
-draft: true
-
 [http://www.awwfeathers.com/comics/2664110/stuck-and-unstuck-3/](http://www.awwfeathers.com/comics/2664110/stuck-and-unstuck-3/)
 
 How much will that 30 second visit cost me, Doc?

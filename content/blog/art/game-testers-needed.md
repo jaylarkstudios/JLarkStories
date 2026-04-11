@@ -8,8 +8,6 @@ thumbnail: "/images/blog/game-testers-needed.jpg"
 patreon_id: 21579683
 summary: "Who wants to test a game I'm making? :D Here's a special opportunity available to you and other top supporters before it goes out to a wider audience! A few..."
 ---
-draft: true
-
 Who wants to test a game I'm making? :D Here's a special opportunity available to you and other top supporters before it goes out to a wider audience!
 
 A few years ago I made a prototype for a silly game called "Poke the Dragon!" The gameplay was a little rough around the edges, and the artwork even more so. But a lot of people said it was surprisingly fun! And then it got put back on the shelf as other projects took priority…

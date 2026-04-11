@@ -7,8 +7,6 @@ tags: []
 patreon_id: 18432380
 summary: "Hey there Sketchbook Club members! It's that time again! If you wish, each of you may pick one of the following sketches to be sent in the mail:..."
 ---
-draft: true
-
 Hey there Sketchbook Club members! It's that time again! If you wish, each of you may pick one of the following sketches to be sent in the mail:
 
 [https://www.patreon.com/posts/sketch-never-too-18156219](https://www.patreon.com/posts/sketch-never-too-18156219)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-quick-dolphin-sketches.jpg"
 patreon_id: 24322158
 summary: "It's always a good day to draw a dolphin! 🐬✏"
 ---
-draft: true
-
 It's always a good day to draw a dolphin! 🐬✏
 
 ![Sketchbook: Quick Dolphin Sketches](/images/blog/sketchbook-quick-dolphin-sketches.jpg)

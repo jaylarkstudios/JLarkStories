@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-26-dark.jpg"
 patreon_id: 31071646
 summary: "In today's Inktober, Deimos summons \"Dark\" energy from his scepter! A commission for Michael!"
 ---
-draft: true
-
 In today's #Inktober, Deimos summons "Dark" energy from his scepter! A commission for Michael!
 
 ![Inktober 2019 #26 - Dark](/images/blog/inktober-2019-26-dark.jpg)

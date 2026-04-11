@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-12.jpg"
 patreon_id: 6992839
 summary: "ARE YOU ASKING FOR A BASKETBALL CHALLEEEEEEEEENGE?!?!?..."
 ---
-draft: true
-
 ARE YOU ASKING FOR A BASKETBALL CHALLEEEEEEEEENGE?!?!?
 
 [http://inejwstine.deviantart.com/art/20X6-Chris-639868373](http://inejwstine.deviantart.com/art/20X6-Chris-639868373)

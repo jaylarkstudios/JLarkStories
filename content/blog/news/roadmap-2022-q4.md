@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 72536516
 summary: "It's time already to plan the last few months of the year! Here's what we can see coming down the road: CURSEDtober Drawing Challenge If you haven't seen it..."
 ---
-draft: true
-
 It's time already to plan the last few months of the year! Here's what we can see coming down the road:
 
 **CURSEDtober Drawing Challenge**

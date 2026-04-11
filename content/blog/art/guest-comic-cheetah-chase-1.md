@@ -8,8 +8,6 @@ thumbnail: "/images/blog/guest-comic-cheetah-chase-1.jpg"
 patreon_id: 18687058
 summary: "Dil's the best couch panther. Brian Sparling has returned with another five page story, and once again has done excellent work at creating his own full story..."
 ---
-draft: true
-
 Dil's the best couch panther.
 
  Brian Sparling has returned with another five page story, and once again has done excellent work at creating his own full story in the *Aww, Feathers!* universe that nonetheless does an excellent job at staying true to the characters and setting! 

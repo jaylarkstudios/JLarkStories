@@ -7,8 +7,6 @@ tags: ["artstream"]
 patreon_id: 76570304
 summary: "Got any plans for New Years Eve? Stop by my \"So Long to 2022 Stream\" any tie between 9pm MT and midnighthttps://www.timeanddate.com/time/zones/mst tomorrow!..."
 ---
-draft: true
-
 Got any plans for New Years Eve? Stop by my "So Long to 2022 Stream" any tie between [9pm MT and midnight](https://www.timeanddate.com/time/zones/mst) tomorrow! I'll be doing some art and playing a game or two!
 
 I'm gonna keep things flexible, but currently my plan is as follows:

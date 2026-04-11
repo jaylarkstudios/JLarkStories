@@ -8,8 +8,6 @@ thumbnail: "/images/blog/august-2021-awwrt-lovers-art-stream-ended.jpg"
 patreon_id: 54802129
 summary: "Starting at 7pm MThttps://www.timeanddate.com/worldclock/usa/utah in less than an hour! The theme for today's art stream is \"Words of Hope\"! Are there any..."
 ---
-draft: true
-
 Starting at [7pm MT](https://www.timeanddate.com/worldclock/usa/utah) (in less than an hour)!
 
 The theme for today's art stream is "Words of Hope"! Are there any inspirational or comforting quotes that help you when things feel dark? I have a few in mind, but feel free to share your own during the stream as well!

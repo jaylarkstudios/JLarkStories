@@ -8,8 +8,6 @@ thumbnail: "/images/blog/deleted-scenes-cookie-dialog.jpg"
 patreon_id: 31324092
 summary: "Two things to note about this collection of images: First, I changed the dialog. Originally I was going to make a joke about how everyone says you shouldn't..."
 ---
-draft: true
-
 Two things to note about this collection of images:
 
 First, I changed the dialog. Originally I was going to make a joke about how everyone says you shouldn't eat cookie dough because salmonella, but everyone eats it anyway and probably nobody on the planet has ever gotten salmonella from eating raw cookie dough (I made that up I'm not a doctor). But I opted for the joke about blessing sweets before we eat them, both because it's funny and a bit more on-brand with the comic, and also because I wondered if talking about salmonella might make some readers a bit uncomfortable. But *you* can handle it... right? 😅

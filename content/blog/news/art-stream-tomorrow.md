@@ -7,8 +7,6 @@ tags: ["artstream"]
 patreon_id: 74948544
 summary: "Howdy folks! It's been a minute, hasn't it! But I'm ready to get back into streaming, and excited to launch our first public Inked Feathers stream! Schedule:..."
 ---
-draft: true
-
 Howdy folks! It's been a minute, hasn't it! But I'm ready to get back into streaming, and excited to launch our first public *Inked Feathers* stream!
 
 **Schedule:** [Tuesday, Nov 22, 7:30pm MT](https://www.timeanddate.com/worldclock/usa/utah) (Tomorrow!)

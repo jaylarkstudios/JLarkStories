@@ -7,8 +7,6 @@ tags: ["news"]
 patreon_id: 92123001
 summary: "Greetings all! I'm excited to introduce my goals for NaNoWriMo this year! Traditionally, one would try to complete a first draft of a novel, or write 50,000..."
 ---
-draft: true
-
 Greetings all! I'm excited to introduce my goals for NaNoWriMo this year!
 
 Traditionally, one would try to complete a first draft of a novel, or write 50,000 words during the month of November. However, I'm taking a more unconventional approach this year. For one thing, I'm writing the next chapter of Aww, Feathers! which is a comic rather than a novel. Plus, the chapter is already mostly written. It is, however, in need of some revision and polish. By the end of this month, I hope for the script to be ready to begin turning into comic form!

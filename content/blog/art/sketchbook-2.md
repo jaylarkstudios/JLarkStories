@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-2.jpg"
 patreon_id: 5806136
 summary: "Practicing for an upcoming guest appearance: Kazul the griffin! Kazul belongs to http://kazulgfox.deviantart.com/.http://kazulgfox.deviantart.com/."
 ---
-draft: true
-
 Practicing for an upcoming guest appearance: Kazul the griffin! Kazul belongs to [http://kazulgfox.deviantart.com/.](http://kazulgfox.deviantart.com/.)
 
 ![Sketchbook 2](/images/blog/sketchbook-2.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/octoonber-8-samurai-jack.jpg"
 patreon_id: 57213884
 summary: "One of my favorite cartoony styles is that of Samurai Jack, and here to model it for OcTOONber number 8 is Stal the horse!"
 ---
-draft: true
-
 One of my favorite cartoony styles is that of Samurai Jack, and here to model it for OcTOONber number 8 is Stal the horse!
 
 ![OcTOONber #8 - Samurai Jack](/images/blog/octoonber-8-samurai-jack.jpg)

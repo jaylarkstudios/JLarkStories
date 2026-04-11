@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2019-22-ghost.jpg"
 patreon_id: 30973077
 summary: "When the crypt doors creak and the tombstones quake, Zerø comes out for a singing wake for today's \"Ghost\" themed Inktober! 👻😱 A commission for @Ash_Carso!"
 ---
-draft: true
-
 When the crypt doors creak and the tombstones quake, Zerø comes out for a singing wake for today's "Ghost" themed #Inktober! 👻😱 A commission for @Ash_Carso!
 
 ![Inktober 2019 # 22 - Ghost](/images/blog/inktober-2019-22-ghost.jpg)

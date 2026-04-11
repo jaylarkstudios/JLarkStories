@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-2016-2.jpg"
 patreon_id: 6922156
 summary: "http://inejwstine.deviantart.com/art/June-Schroeder-637665278http://inejwstine.deviantart.com/art/June-Schroeder-637665278"
 ---
-draft: true
-
 [http://inejwstine.deviantart.com/art/June-Schroeder-637665278](http://inejwstine.deviantart.com/art/June-Schroeder-637665278)
 
 ![Inktober 2016 #2](/images/blog/inktober-2016-2.jpg)

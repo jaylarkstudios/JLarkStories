@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inktober-dilawar-and-dylan.jpg"
 patreon_id: 21954488
 summary: "\"A rubber chicken gag? Really?\" \"What? You're not a fan of the classics?\" Oh dear, there's two of them! I can't imagine what living in that household must be..."
 ---
-draft: true
-
 "A rubber chicken gag? Really?" "What? You're not a fan of the classics?"
 
 Oh dear, there's two of them! I can't imagine what living in that household must be like!

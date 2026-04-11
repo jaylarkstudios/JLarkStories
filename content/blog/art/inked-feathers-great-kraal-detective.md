@@ -8,8 +8,6 @@ thumbnail: "/images/blog/inked-feathers-great-kraal-detective.jpg"
 patreon_id: 28133238
 summary: "My other idea for a title for this one was \"The Great Mouse-Eating Detective,\" but I decided that was a little too morbid. 😅 It's the first Inked Feathers..."
 ---
-draft: true
-
 My other idea for a title for this one was "The Great Mouse-Eating Detective," but I decided that was a little too morbid. 😅
 
 It's the first Inked Feathers entry for July, and the theme of the month is **Mystery!** This is to go along with this year's theme for my local convention happening later this month: [Furlock Holmes](http://anthroweekendutah.org)! So each week this month there will be another mystery-themed drawing. 

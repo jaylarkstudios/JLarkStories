@@ -8,8 +8,6 @@ thumbnail: "/images/blog/sketchbook-14.jpg"
 patreon_id: 6887186
 summary: "Mally, coming in for a soft landing. She really loves to fly! :D"
 ---
-draft: true
-
 Mally, coming in for a soft landing. She really loves to fly! :D
 
 ![Sketchbook 14](/images/blog/sketchbook-14.jpg)

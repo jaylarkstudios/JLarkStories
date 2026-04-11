@@ -8,8 +8,6 @@ thumbnail: "/images/blog/june-postcard-preview.jpg"
 patreon_id: 11611573
 summary: "Ha, thought you'd seen the last of that book cover, eh? :D We're now in the month of June... so this month's postcard features the cover image of June's..."
 ---
-draft: true
-
 Ha, thought you'd seen the last of that book cover, eh? :D
 
 We're now in the month of June... so this month's postcard features the cover image of June's favorite book! (Get it????) Snag your own piece of *DinoKin* merch by pledging on Patreon anytime this month!

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/scribble-comic-41722.jpg"
 patreon_id: 65293076
 summary: "Well said Son. My favorite kind of nut is a donut."
 ---
-draft: true
-
 Well said Son. My favorite kind of nut is a donut.
 
 ![Scribble Comic - 4/17/22](/images/blog/scribble-comic-41722.jpg)

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/website-announcement-important.jpg"
 patreon_id: 31858008
 summary: "I was planning to start the guest comic event, but this is going to pose a significant disruption. To those who haven't heard, the short of it is Smack Jeeves..."
 ---
-draft: true
-
 I was planning to start the guest comic event, but this is going to pose a significant disruption. To those who haven't heard, the short of it is Smack Jeeves (the platform where *Aww, Feathers!* is hosted) is making big changes, several of which I and many other webcomic creators find rather distressing. Most egregious of which is the removal of our ability to use a custom domain (no more awwfeathers.com) and custom HTML and scripts on our websites. To make matters worse, we've been given only a couple of short weeks' notice; less if you count the Thanksgiving break.
 
 At the risk of understating my disappointment in this decision, I am grateful to Smack Jeeves for providing me with a place to share this webcomic with all of you for the past five years. However, to me these changes are unacceptable. I might continue to mirror *Aww, Feathers!* on Smack Jeeves in the future. But unless they make an unexpected reversal (and maybe even then), Smack Jeeves will no longer be the primary home of the comic.

@@ -8,8 +8,6 @@ thumbnail: "/images/blog/cookie-delay.jpg"
 patreon_id: 27834660
 summary: "Don't make Chris use that spatula... Still making preparations for AWU. I appreciate your patience. We'll get back to the story about cookies soon. That's what..."
 ---
-draft: true
-
 Don't make Chris use that spatula...
 
 Still making preparations for AWU. I appreciate your patience. We'll get back to the story about cookies soon. That's what this story is about, right? Cookies...?

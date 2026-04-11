@@ -8,8 +8,6 @@ thumbnail: "/images/blog/clue-cards-6.jpg"
 patreon_id: 28631439
 summary: "The most devious of traps! If you don't have hooves, that is… There you have it folks! That's the last of them! If you'd like to have your own set of Aww,..."
 ---
-draft: true
-
 The most devious of traps! If you don't have hooves, that is… 
 
 There you have it folks! That's the last of them! If you'd like to have your own set of Aww, Feathers! Clue cards to play with, follow these instructions: 
