@@ -6,6 +6,8 @@ tags: ["dandysworld", "gourdy", "pumpkin", "halloween", "jackolantern", "gourd",
 thumbnail: "/images/blog/gourdy-wants-to-play.jpg"
 summary: My kids have gotten me into... Dandy's World... a Roblox game of all things...
 description: Gourdy, a little toony jack-o-lantern with vines for arms, legs, and a tail, standing in a dark room splattered with black ink with a lit doorway open behind him.
+bsky_id: 3mjf5mlfeys24
+fa_id: 64656089
 ---
 
 My kids have gotten me into... Dandy's World... a Roblox game of all things...
