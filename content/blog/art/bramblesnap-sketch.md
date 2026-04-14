@@ -1,7 +1,7 @@
 ---
 title: "Bramblesnap Sketch"
 date: 2026-04-14
-categories: "MyArt"
+categories: ["My Art"]
 tags:
   - "sketch"
   - "pumpkin"
