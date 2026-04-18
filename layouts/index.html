@@ -28,7 +28,7 @@
   </header>
   <div class="post-grid">
     {{ $posts := where .Site.RegularPages "Section" "blog" }}
-    {{ range first 5 $posts.ByDate.Reverse }}
+    {{ range first 12 $posts.ByDate.Reverse }}
       {{ partial "post-grid-card.html" . }}
     {{ end }}
   </div>

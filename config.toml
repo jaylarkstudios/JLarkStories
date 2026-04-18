@@ -1,6 +1,7 @@
 baseURL = "https://jlarkstories.com/"
 languageCode = "en-us"
 title = "JLarkStories"
+paginate = 24
 
 # Taxonomies
 [taxonomies]
@@ -81,9 +82,6 @@ title = "JLarkStories"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
-
-# Pagination
-paginate = 10
 
 # Markup
 [markup]
