@@ -7,15 +7,15 @@
   {{ partial "tagline.html" . }}
 </section>
 
-{{ with .Site.Data.featured.projects }}
+{{ with hugo.Data.featured.projects }}
   {{ partial "featured-spread.html" . }}
 {{ end }}
 
-{{ with .Site.Data.featured.art }}
+{{ with hugo.Data.featured.art }}
   {{ partial "featured-spread.html" . }}
 {{ end }}
 
-{{ with .Site.Data.featured.guest }}
+{{ with hugo.Data.featured.guest }}
   {{ partial "featured-spread.html" . }}
 {{ end }}
 

@@ -100,6 +100,8 @@ warnings: ["mild language", "blood"]      # free-form strings
 
 Posts appear blurred for visitors who have opted to hide certain content. The blur is triggered by tags — see **Updating the content preferences dialog** below for how the tag → label mapping works. Just tag posts honestly; the dialog config handles the rest.
 
+On list pages, clicking a blurred thumbnail opens the post normally (it does not reveal in place). On the post page itself, clicking a blurred image reveals it.
+
 ### Sequences (multi-part posts)
 
 Prev/next arrows are wired up per-post by setting `previous` and/or `next` to the **permalink** of the neighboring post. There is no grouping field — each post just points at its neighbors.

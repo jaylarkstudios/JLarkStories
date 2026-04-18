@@ -14,7 +14,7 @@
     })();
   </script>
   <a href="#main-content" class="skip-link">Skip to main content</a>
-  {{ if .Site.Data.content_warnings.hideable }}
+  {{ if hugo.Data.content_warnings.hideable }}
   <div class="prefs-banner" id="prefs-banner" hidden>
     <div class="prefs-banner-inner">
       <button type="button" class="prefs-banner-text" id="prefs-banner-open">Click here to choose what content you see.</button>
@@ -53,7 +53,7 @@
 
   <script>
     window.__HIDEABLE_TAGS__ = [
-      {{ range .Site.Data.content_warnings.hideable }}{ label: {{ .label | jsonify | safeJS }}, description: {{ .description | jsonify | safeJS }}, tags: {{ .tags | jsonify | safeJS }} },
+      {{ range hugo.Data.content_warnings.hideable }}{ label: {{ .label | jsonify | safeJS }}, description: {{ .description | jsonify | safeJS }}, tags: {{ .tags | jsonify | safeJS }} },
       {{ end }}
     ];
   </script>

@@ -31,3 +31,13 @@ tags = ["musclefur", "muscle"]
 label = "Pregfur"
 description = "Characters depicted as pregnant."
 tags = ["pregfur", "pregnant", "pregnancy"]
+
+[[hideable]]
+label = "Blood/Gore"
+description = "Artwork depicting blood or gore, even if non-realistic."
+tags = ["blood", "gore"]
+
+[[hideable]]
+label = "Animation"
+description = "Images with animation that plays and loops automatically."
+tags = ["animation"]
