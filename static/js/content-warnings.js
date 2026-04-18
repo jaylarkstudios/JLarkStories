@@ -60,11 +60,15 @@ document.addEventListener('DOMContentLoaded', function() {
   function wrapImageWithBlur(img, matchingLabels) {
     if (img.closest('.cw-blur-wrapper')) return;
 
+    var insideLink = !!img.closest('a');
+
     var wrapper = document.createElement('div');
     wrapper.className = 'cw-blur-wrapper cw-active';
-    wrapper.setAttribute('role', 'button');
-    wrapper.setAttribute('tabindex', '0');
-    wrapper.setAttribute('aria-label', 'Hidden content: ' + matchingLabels.join(', ') + '. Press to reveal.');
+    if (!insideLink) {
+      wrapper.setAttribute('role', 'button');
+      wrapper.setAttribute('tabindex', '0');
+      wrapper.setAttribute('aria-label', 'Hidden content: ' + matchingLabels.join(', ') + '. Press to reveal.');
+    }
 
     img.parentNode.insertBefore(wrapper, img);
     wrapper.appendChild(img);
@@ -74,8 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
     overlay.innerHTML =
       '<span class="cw-overlay-icon">&#128065;&#xFE0E;</span>' +
       '<span class="cw-overlay-text">Hidden (' + matchingLabels.join(', ') + ')</span>' +
-      '<span class="cw-overlay-action">Click to view</span>';
+      (insideLink ? '' : '<span class="cw-overlay-action">Click to view</span>');
     wrapper.appendChild(overlay);
+
+    if (insideLink) return;
 
     function reveal(e) {
       e.preventDefault();

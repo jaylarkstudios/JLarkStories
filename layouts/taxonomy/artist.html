@@ -2,7 +2,7 @@
 <section class="page-header">
   <h1>Artist: {{ .Title }}</h1>
   <p class="page-description">All guest art by {{ .Title }}.</p>
-  {{ $artistData := index .Site.Data.artists .Title }}
+  {{ $artistData := index hugo.Data.artists .Title }}
   {{ with $artistData }}
     {{ if .url }}
       <p class="artist-website">
