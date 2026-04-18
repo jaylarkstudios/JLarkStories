@@ -1,9 +1,8 @@
 ---
-draft: true
 title: "7 Year Itch"
 date: 2019-04-23T14:00:02+0000
 categories: ["My Art"]
-tags: ["minicomic"]
+tags: ["comic", "minicomic", "lark", "maiara", "marriage", "anniversary", "scratch", "service", "black", "white"]
 thumbnail: "/images/blog/7-year-itch.jpg"
 patreon_id: 26251290
 summary: "I believe I said there would be a comic page out this week. But then my anniversary happened. No, I am not one of those stereotypical guys who forgets his..."
@@ -15,5 +14,3 @@ So yes, it has been seven years since I married my sweetheart. (Awwww!) I actual
 In all seriousness, how do we beat the "Seven Year Itch?" It never really reared its head. I suppose I would credit that to both of us trying hard to talk with one another often, serve each other freely, and express love for each other both in public and private. That may not seem very profound or mindblowing. But it really is simple. Work? Yes. Worth it? Absolutely!
 
 Thanks Hon, for the love, the laughs, and yes, the back-scratches!
-
-![7 Year Itch](/images/blog/7-year-itch.jpg)
