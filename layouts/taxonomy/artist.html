@@ -7,16 +7,16 @@
     {{ if .url }}
       <p class="artist-website">
         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="artist-website-link">
-          🔗 Visit {{ $.Title }}'s website
+          Visit {{ $.Title }}'s website &rarr;
         </a>
       </p>
     {{ end }}
   {{ end }}
 </section>
-<section class="post-list">
+<section class="post-grid">
   {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
   {{ range $paginator.Pages }}
-    {{ partial "post-card.html" . }}
+    {{ partial "post-grid-card.html" . }}
   {{ end }}
 </section>
 {{ partial "pagination.html" . }}

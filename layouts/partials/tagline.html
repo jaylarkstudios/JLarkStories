@@ -1,0 +1,10 @@
+{{/*
+  Hero tagline partial. First line is server-rendered so users without JS
+  (or with prefers-reduced-motion) still see meaningful copy. The typing
+  module reads the full JSON array from the data-taglines attribute.
+*/}}
+{{ $taglines := .Site.Params.taglines | default (slice .Site.Params.bio) }}
+{{ $first := index $taglines 0 }}
+<p class="hero-tagline" data-taglines="{{ $taglines | jsonify }}">
+  <span class="hero-tagline-text">{{ $first }}</span><span class="hero-tagline-caret" aria-hidden="true"></span>
+</p>

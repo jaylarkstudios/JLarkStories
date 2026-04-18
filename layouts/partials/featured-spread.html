@@ -1,0 +1,110 @@
+{{/*
+  Featured spread partial.
+  Default: repeating pattern of 1 large square + a row of up to 3 smaller
+  squares, alternating, capped at 4 rows total (= 2 groups of 4 posts,
+  up to 8 posts displayed). Extra posts in the data file are ignored.
+  Small rows drop from 3-up to 2-up under 900px (the 3rd tile hides) to
+  keep the 4-row constraint intact at narrower viewports.
+
+  variant = "projects": side-by-side square tiles linking to external
+  URLs, with description text below each card.
+
+  Context: dict with:
+    title   (string) — section heading
+    link    (string) — URL for the "View more" link
+    variant (string, optional) — "projects" for the projects layout
+    posts   (slice)  — post paths
+*/}}
+{{ $posts := .posts }}
+{{ $variant := .variant }}
+{{ $resolved := slice }}
+{{ range $posts }}
+  {{ with site.GetPage . }}
+    {{ $resolved = $resolved | append . }}
+  {{ end }}
+{{ end }}
+{{ if $resolved }}
+{{ if eq $variant "projects" }}
+<section class="featured-spread featured-spread-projects">
+  <header class="featured-spread-header">
+    <h2 class="featured-spread-title">{{ .title }}</h2>
+    <a class="featured-spread-link" href="{{ .link }}">View more &rarr;</a>
+  </header>
+  <div class="featured-spread-projects-grid">
+    {{ range $resolved }}
+    {{ $href := or .Params.link .Permalink }}
+    <article class="featured-spread-project{{ if not .Params.thumbnail }} is-thumbless{{ end }}" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
+      <a href="{{ $href }}"{{ if .Params.link }} target="_blank" rel="noopener noreferrer"{{ end }} class="featured-spread-project-card" aria-label="Visit {{ .Title }}">
+        <div class="featured-spread-project-thumb">
+          {{ with .Params.thumbnail }}
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+          {{ else }}
+            <span class="featured-spread-initial" aria-hidden="true">{{ substr .Title 0 1 }}</span>
+          {{ end }}
+          <div class="featured-spread-project-overlay">
+            <span class="featured-spread-project-cta">Visit &rarr;</span>
+          </div>
+        </div>
+      </a>
+      <div class="featured-spread-project-desc">
+        {{ .Content }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ else }}
+{{ $capped := first 8 $resolved }}
+<section class="featured-spread">
+  <header class="featured-spread-header">
+    <h2 class="featured-spread-title">{{ .title }}</h2>
+    <a class="featured-spread-link" href="{{ .link }}">View more &rarr;</a>
+  </header>
+  <div class="featured-spread-stack">
+    {{ range $g := (slice 0 1) }}
+      {{ $chunk := $capped | after (mul $g 4) | first 4 }}
+      {{ if $chunk }}
+        {{ $large := index $chunk 0 }}
+        {{ $smalls := after 1 $chunk }}
+        <article class="featured-spread-large{{ if not $large.Params.thumbnail }} is-thumbless{{ end }}" data-tags="{{ with $large.Params.tags }}{{ delimit . "," }}{{ end }}">
+          <a href="{{ $large.Permalink }}" class="featured-spread-link-wrap" aria-label="{{ $large.Title }}">
+            <div class="featured-spread-thumb">
+              {{ with $large.Params.thumbnail }}
+                <img src="{{ . }}" alt="{{ $large.Title }}" loading="lazy">
+              {{ else }}
+                <span class="featured-spread-initial" aria-hidden="true">{{ substr $large.Title 0 1 }}</span>
+              {{ end }}
+            </div>
+            <div class="featured-spread-overlay">
+              <h3 class="featured-spread-post-title">{{ $large.Title }}</h3>
+              <time class="featured-spread-date" datetime="{{ $large.Date.Format "2006-01-02" }}">{{ $large.Date.Format "Jan 2, 2006" }}</time>
+            </div>
+          </a>
+        </article>
+        {{ if $smalls }}
+        <div class="featured-spread-small-row">
+          {{ range $smalls }}
+          <article class="featured-spread-small{{ if not .Params.thumbnail }} is-thumbless{{ end }}" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
+            <a href="{{ .Permalink }}" class="featured-spread-link-wrap" aria-label="{{ .Title }}">
+              <div class="featured-spread-thumb">
+                {{ with .Params.thumbnail }}
+                  <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                {{ else }}
+                  <span class="featured-spread-initial" aria-hidden="true">{{ substr .Title 0 1 }}</span>
+                {{ end }}
+              </div>
+              <div class="featured-spread-overlay">
+                <h3 class="featured-spread-post-title">{{ .Title }}</h3>
+                <time class="featured-spread-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+              </div>
+            </a>
+          </article>
+          {{ end }}
+        </div>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

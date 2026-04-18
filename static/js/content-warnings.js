@@ -103,6 +103,18 @@ document.addEventListener('DOMContentLoaded', function() {
       var img = card.querySelector('.post-card-thumbnail img');
       if (img) wrapImageWithBlur(img, matchingLabels);
     });
+    document.querySelectorAll('.post-grid-card[data-tags]').forEach(function(card) {
+      if (!shouldHide(card)) return;
+      var matchingLabels = getMatchingLabels(parseTags(card));
+      var img = card.querySelector('.post-grid-card-thumb img');
+      if (img) wrapImageWithBlur(img, matchingLabels);
+    });
+    document.querySelectorAll('.featured-spread-large[data-tags], .featured-spread-small[data-tags]').forEach(function(card) {
+      if (!shouldHide(card)) return;
+      var matchingLabels = getMatchingLabels(parseTags(card));
+      var img = card.querySelector('.featured-spread-thumb img');
+      if (img) wrapImageWithBlur(img, matchingLabels);
+    });
   }
 
   // Apply hiding to blog single page images
@@ -117,36 +129,6 @@ document.addEventListener('DOMContentLoaded', function() {
     article.querySelectorAll('.blog-single-content img').forEach(function(img) {
       wrapImageWithBlur(img, matchingLabels);
     });
-  }
-
-  // Remove hidden slides from carousel and recalculate animation
-  function processCarousel() {
-    var track = document.querySelector('.carousel-track');
-    if (!track) return;
-
-    var slides = track.querySelectorAll('.carousel-slide[data-tags]');
-    var removedCount = 0;
-
-    slides.forEach(function(slide) {
-      if (shouldHide(slide)) {
-        slide.remove();
-        removedCount++;
-      }
-    });
-
-    if (removedCount > 0) {
-      var originalCount = parseInt(track.getAttribute('data-slide-count'), 10) || 0;
-      var secondsPerSlide = parseInt(track.getAttribute('data-seconds-per-slide'), 10) || 5;
-      var uniqueRemoved = removedCount / 2;
-      var remainingCount = originalCount - uniqueRemoved;
-
-      if (remainingCount <= 0) {
-        var section = track.closest('.gallery-section');
-        if (section) section.style.display = 'none';
-      } else {
-        track.style.animationDuration = (remainingCount * secondsPerSlide) + 's';
-      }
-    }
   }
 
   // Preferences modal
@@ -275,6 +257,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
   processPostCards();
   processBlogSingle();
-  processCarousel();
   initModal();
 });

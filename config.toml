@@ -61,6 +61,13 @@ title = "JLarkStories"
   author = "J. Lark"
   logo = "/images/logo.png"
   bio = "Digital storyteller. Artist. Comic creator. Fursuiter. Devoted family bird."
+  taglines = [
+    "Digital storyteller.",
+    "Artist.",
+    "Comic creator.",
+    "Fursuiter.",
+    "Devoted family bird.",
+  ]
 
   [params.social]
     bluesky = "https://bsky.app/profile/jlarkstories.bsky.social"

@@ -9,10 +9,10 @@
   {{ range $pages }}{{ $urls = $urls | append .Permalink }}{{ end }}
   <a href="#" class="random-post-link" {{ printf "data-urls=%s" ($urls | jsonify) | safeHTMLAttr }}>Random Post</a>
 {{ end }}
-<section class="post-list">
+<section class="post-grid">
   {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
   {{ range $paginator.Pages }}
-    {{ partial "post-card.html" . }}
+    {{ partial "post-grid-card.html" . }}
   {{ end }}
 </section>
 {{ partial "pagination.html" . }}
