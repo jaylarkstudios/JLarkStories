@@ -1,7 +1,9 @@
 baseURL = "https://jlarkstories.com/"
 languageCode = "en-us"
 title = "JLarkStories"
-paginate = 24
+
+[pagination]
+  pagerSize = 24
 
 # Taxonomies
 [taxonomies]
