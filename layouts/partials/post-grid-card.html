@@ -1,0 +1,15 @@
+<article class="post-grid-card{{ if not .Params.thumbnail }} is-thumbless{{ end }}" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
+  <a href="{{ .Permalink }}" class="post-grid-card-link" aria-label="{{ .Title }}">
+    <div class="post-grid-card-thumb">
+      {{ with .Params.thumbnail }}
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+        <span class="post-grid-card-initial" aria-hidden="true">{{ substr .Title 0 1 }}</span>
+      {{ end }}
+    </div>
+    <div class="post-grid-card-overlay">
+      <h3 class="post-grid-card-title">{{ .Title }}</h3>
+      <time class="post-grid-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+    </div>
+  </a>
+</article>

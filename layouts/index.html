@@ -1,66 +1,39 @@
 {{ define "main" }}
 
-<!-- Hero / Intro -->
 <section class="hero">
   {{ with .Site.Params.logo }}
     <img src="{{ . }}" alt="{{ $.Site.Title }}" class="hero-logo">
   {{ end }}
-  <p class="hero-bio">{{ .Site.Params.bio }}</p>
+  {{ partial "tagline.html" . }}
 </section>
 
-<!-- Gallery Carousel -->
-{{ partial "gallery-carousel.html" . }}
+{{ with .Site.Data.featured.projects }}
+  {{ partial "featured-spread.html" . }}
+{{ end }}
 
-<!-- Category Cards -->
-<h2 class="section-heading">Explore</h2>
-<div class="category-cards">
-  <a href="/projects/" class="category-card">
-    <span class="category-card-icon">🚀</span>
-    <div class="category-card-title">Projects</div>
-    <div class="category-card-desc">My longer-running creative projects.</div>
-  </a>
-  <a href="/blog/art/" class="category-card">
-    <span class="category-card-icon">🎨</span>
-    <div class="category-card-title">My Art</div>
-    <div class="category-card-desc">Digital and traditional artwork by me.</div>
-  </a>
-  <a href="/blog/guest-art/" class="category-card">
-    <span class="category-card-icon">🖼️</span>
-    <div class="category-card-title">Guest Art</div>
-    <div class="category-card-desc">Art by other artists commissioned by me or of my characters.</div>
-  </a>
-  <a href="/blog/fursuiting/" class="category-card">
-    <span class="category-card-icon">🐲</span>
-    <div class="category-card-title">Fursuiting</div>
-    <div class="category-card-desc">Fursuit photos of me or taken by me.</div>
-  </a>
-  <a href="/blog/news/" class="category-card">
-    <span class="category-card-icon">📢</span>
-    <div class="category-card-title">News</div>
-    <div class="category-card-desc">Announcements about events or personal updates.</div>
-  </a>
-  <a href="/blog/reviews/" class="category-card">
-    <span class="category-card-icon">⭐</span>
-    <div class="category-card-title">Reviews</div>
-    <div class="category-card-desc">Media reviews and recommendations.</div>
-  </a>
-</div>
+{{ with .Site.Data.featured.art }}
+  {{ partial "featured-spread.html" . }}
+{{ end }}
 
-<!-- Recent Blog Posts -->
-<section class="recent-posts">
-  <h2 class="section-heading">Recent Posts</h2>
-  <div class="post-list">
+{{ with .Site.Data.featured.guest }}
+  {{ partial "featured-spread.html" . }}
+{{ end }}
+
+{{ partial "category-index-row.html" . }}
+
+<section class="latest-writing">
+  <header class="featured-spread-header">
+    <h2 class="featured-spread-title">Recent Posts</h2>
+    <a class="featured-spread-link" href="/blog/">View all &rarr;</a>
+  </header>
+  <div class="post-grid">
     {{ $posts := where .Site.RegularPages "Section" "blog" }}
     {{ range first 5 $posts.ByDate.Reverse }}
-      {{ partial "post-card.html" . }}
+      {{ partial "post-grid-card.html" . }}
     {{ end }}
-  </div>
-  <div class="view-all-container">
-    <a href="/blog/" class="pagination-link">View all posts &raquo;</a>
   </div>
 </section>
 
-<!-- Social Links -->
 <section class="social-section">
   <h2 class="section-heading">Connect</h2>
   <div class="social-links">

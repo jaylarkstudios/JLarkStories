@@ -14,10 +14,10 @@
     {{ . }}
   </section>
 {{ end }}
-<section class="post-list">
+<section class="post-grid">
   {{ $paginator := .Paginate (.RegularPagesRecursive.ByDate.Reverse) }}
   {{ range $paginator.Pages }}
-    {{ partial "post-card.html" . }}
+    {{ partial "post-grid-card.html" . }}
   {{ end }}
 </section>
 {{ partial "pagination.html" . }}

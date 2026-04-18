@@ -1,0 +1,32 @@
+# Featured spreads for the homepage.
+# Each spread renders the first post as a large tile + up to 3 smaller tiles.
+# Add or reorder post paths freely (no trailing slash).
+
+[projects]
+title = "Projects"
+link = "/projects/"
+variant = "projects"
+posts = [
+  "/projects/aww-feathers",
+  "/projects/elis-cozy-corner",
+]
+
+[art]
+title = "My Art"
+link = "/blog/art/"
+posts = [
+  "/blog/art/elis-healing-hug",
+  "/blog/art/stained-glass-june",
+  "/blog/art/legendary-flight",
+  "/blog/art/mothers-love",
+]
+
+[guest]
+title = "Guest Art"
+link = "/blog/guest-art/"
+posts = [
+  "/blog/guest-art/little-ine-and-big-talon",
+  "/blog/guest-art/jay-lark-sonderberd-art-reference",
+  "/blog/guest-art/maiara-by-orbitalfox",
+  "/blog/guest-art/eli-the-big-dragon",
+]
