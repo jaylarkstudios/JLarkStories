@@ -19,6 +19,18 @@ posts = [
   "/blog/art/stained-glass-june",
   "/blog/art/legendary-flight",
   "/blog/art/mothers-love",
+  "/blog/art/pom-poms-popcorn-garland",
+  "/blog/art/nana-mag",
+  "/blog/art/ines-terrible-fate",
+  "/blog/art/maggie-and-james-ice-skating-date",
+  "/blog/art/fenrad-drawover",
+  "/blog/art/raptor-ine",
+  "/blog/art/skeleton-june",
+  "/blog/art/dils-oasis",
+  "/blog/art/mag-and-fangs-first-meeting",
+  "/blog/art/ines-muscle-experiment-8",
+  "/blog/art/little-ine-in-the-corner",
+  "/blog/art/hercules-marcus-and-skylar"
 ]
 
 [guest]
@@ -30,4 +42,8 @@ posts = [
   "/blog/guest-art/eli-the-pop-star",
   "/blog/guest-art/skull-ine-avatar",
   "/blog/guest-art/little-june-on-the-beach",
+  "/blog/guest-art/mummy-maiara",
+  "/blog/guest-art/eli-dragon-ref-sheet",
+  "/blog/guest-art/a-treat-for-my-mare",
+  "/blog/guest-art/eli-portrait-sketch"
 ]
