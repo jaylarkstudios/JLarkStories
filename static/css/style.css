@@ -695,6 +695,13 @@ p {
   border-bottom: 1px solid var(--color-border);
 }
 
+.featured-spread-heading-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  min-width: 0;
+}
+
 .featured-spread-title {
   font-family: var(--font-display);
   font-size: var(--step-4);
@@ -702,6 +709,14 @@ p {
   line-height: 1.15;
   color: var(--color-ink-strong);
   margin: 0;
+}
+
+.featured-spread-subtitle {
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  line-height: 1.4;
+  margin: 0;
+  max-width: 60ch;
 }
 
 .featured-spread-link {

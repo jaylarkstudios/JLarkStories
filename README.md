@@ -173,6 +173,12 @@ posts = [
 ]
 ```
 
+Each spread also accepts an optional `subtitle` — a short tagline rendered under the heading. Used on `[guest]` to explain what "Guest Art" means. Omit it to drop back to heading-only.
+
+```toml
+subtitle = "Artwork made by others, including gifts, commissions, and fan-art of my characters."
+```
+
 Rules:
 - Post paths have **no trailing slash** and match the content file path under `content/` (minus the `.md`).
 - For `[art]` and `[guest]`: the layout alternates one large square tile + a row of up to 3 smaller square tiles, repeating. Posts map one-to-one with tiles in the order listed (post 1 → large, posts 2–4 → small row, post 5 → large, posts 6–8 → small row). The spread is capped at **4 visible rows**, so list up to 8 posts; extras are ignored. Under 900px, small rows drop from 3-up to 2-up and the 3rd tile hides to keep the 4-row cap at narrow widths.

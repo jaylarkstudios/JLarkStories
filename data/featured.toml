@@ -23,10 +23,11 @@ posts = [
 
 [guest]
 title = "Guest Art"
+subtitle = "Artwork made by others, including gifts, commissions, and fan-art of my characters."
 link = "/blog/guest-art/"
 posts = [
-  "/blog/guest-art/little-ine-and-big-talon",
-  "/blog/guest-art/jay-lark-sonderberd-art-reference",
-  "/blog/guest-art/maiara-by-orbitalfox",
-  "/blog/guest-art/eli-the-big-dragon",
+  "/blog/guest-art/a-scarf-for-two",
+  "/blog/guest-art/eli-the-pop-star",
+  "/blog/guest-art/skull-ine-avatar",
+  "/blog/guest-art/little-june-on-the-beach",
 ]
