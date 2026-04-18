@@ -10,13 +10,15 @@
   URLs, with description text below each card.
 
   Context: dict with:
-    title   (string) — section heading
-    link    (string) — URL for the "View more" link
-    variant (string, optional) — "projects" for the projects layout
-    posts   (slice)  — post paths
+    title    (string) — section heading
+    subtitle (string, optional) — tagline shown beneath the heading
+    link     (string) — URL for the "View more" link
+    variant  (string, optional) — "projects" for the projects layout
+    posts    (slice)  — post paths
 */}}
 {{ $posts := .posts }}
 {{ $variant := .variant }}
+{{ $subtitle := .subtitle }}
 {{ $resolved := slice }}
 {{ range $posts }}
   {{ with site.GetPage . }}
@@ -27,7 +29,10 @@
 {{ if eq $variant "projects" }}
 <section class="featured-spread featured-spread-projects">
   <header class="featured-spread-header">
-    <h2 class="featured-spread-title">{{ .title }}</h2>
+    <div class="featured-spread-heading-group">
+      <h2 class="featured-spread-title">{{ .title }}</h2>
+      {{ with $subtitle }}<p class="featured-spread-subtitle">{{ . }}</p>{{ end }}
+    </div>
     <a class="featured-spread-link" href="{{ .link }}">View more &rarr;</a>
   </header>
   <div class="featured-spread-projects-grid">
@@ -57,7 +62,10 @@
 {{ $capped := first 8 $resolved }}
 <section class="featured-spread">
   <header class="featured-spread-header">
-    <h2 class="featured-spread-title">{{ .title }}</h2>
+    <div class="featured-spread-heading-group">
+      <h2 class="featured-spread-title">{{ .title }}</h2>
+      {{ with $subtitle }}<p class="featured-spread-subtitle">{{ . }}</p>{{ end }}
+    </div>
     <a class="featured-spread-link" href="{{ .link }}">View more &rarr;</a>
   </header>
   <div class="featured-spread-stack">
