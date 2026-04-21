@@ -19,6 +19,5 @@ artists:
   - "Maiara"
 fa_id: "64748280"
 babyfur_id: "55417"
-bsky_id: 3mfktfkjpg22j
 ---
 My wife did a little doodle of Eli on a whiteboard, and I know it's a simple little thing, but sometimes it's the little gestures that count the most! 😊
