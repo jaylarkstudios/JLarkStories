@@ -19,5 +19,6 @@ artists:
   - "Maiara"
 fa_id: 64746823
 bsky_id: 3mjzl2nvcv52m
+babyfur_id: 55413
 ---
 My wife drew this pic of Eli as an anniversary gift. That means a lot to me that she would do that! 🥰
