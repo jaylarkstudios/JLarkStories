@@ -17,5 +17,7 @@ summary: "My wife drew this pic of Eli as an anniversary gift. That means a lot 
 description: "A colored pencil sketch of Eli, a light blue dragon with long ears, horns, and whiskers, and purple fur on his head, saying, \"14 years!! Congrats! And to many more!\""
 artists:
   - "Maiara"
+fa_id: 64746823
+bsky_id: 3mjzl2nvcv52m
 ---
 My wife drew this pic of Eli as an anniversary gift. That means a lot to me that she would do that! 🥰
