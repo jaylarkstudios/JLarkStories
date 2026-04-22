@@ -235,3 +235,10 @@ Three are preloaded in `layouts/partials/head.html`; the rest swap in on demand 
 ## Scripts
 
 `scripts/` holds one-off Python utilities for importing from other platforms (FA, DA, Patreon, BTS) and for batch-optimizing images. They're not part of the build.
+
+## Todo
+
+- [ ] Add a TOS page, including how people are allowed to use the art from my site and terms for commissioning me for art.
+- [ ] Category for characters, including ref sheets and link to art of that character.
+- [ ] Newsletter signup.
+- [ ] Store link
