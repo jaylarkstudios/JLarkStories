@@ -1,6 +1,6 @@
 ---
 title: "Blushy Eli Sketch by Max"
-date: 2026-04-23T13:05:00-06:00
+date: 2026-04-23T09:05:00-06:00
 categories:
   - "Guest Art"
 tags:
