@@ -21,6 +21,7 @@ summary: "It's Throwback Thursday! (2020) It's like that scene from Lady and the
 description: "A colored sketch of Lark, the blue bird, and Maiara, the brown horse, smiling coyly at one another as they each hold opposite ends of a brownie in their mouths."
 created_date: "Feb 10, 2020"
 fa_id: "64770513"
+bsky_id: "3mk6tav72di2h"
 ---
 It's Throwback Thursday! (2020)
 It's like that scene from Lady and the Tramp! Except significantly more messy! 😜
