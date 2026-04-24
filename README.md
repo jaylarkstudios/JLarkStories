@@ -242,3 +242,4 @@ Three are preloaded in `layouts/partials/head.html`; the rest swap in on demand 
 - [ ] Category for characters, including ref sheets and link to art of that character.
 - [ ] Newsletter signup.
 - [ ] Store link
+- [ ] When 'created_date' is present in the "Fursuiting" category, use "Originally taken" instead of "Originally created".

@@ -19,7 +19,7 @@
     {{ end }}
     {{ if or .Params.fa_id .Params.bsky_id .Params.furtrack_id .Params.babyfur_id }}
       <div class="art-links">
-        <span class="art-links-label">Links:</span>
+        <span class="art-links-label">Like/Share/Comment:</span>
         {{ with .Params.fa_id }}
           <a href="https://www.furaffinity.net/view/{{ . }}/" target="_blank" rel="noopener noreferrer" class="art-link">
             <img src="/images/furaffinity_white.png" alt="" width="16" height="16">FurAffinity
