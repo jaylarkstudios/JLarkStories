@@ -22,6 +22,8 @@ summary: "Happy Fursuit Friday! During my very first furcon (AWU 2017) I discove
 description: "Ine's fursuit, a green lizard with red feathers on his head, dancing in a dimly lit ballroom with colorful lights with other people dancing in the background."
 created_date: "Oct 28, 2017"
 bsky_id: "3mkatimefg724"
+fa_id: 64779015
+furtrack_id: 348877
 ---
 Happy Fursuit Friday!
 During my very first furcon (AWU 2017) I discovered the magic of dancing in suit! 🤩🕺🪩 Since then, I have always sought out the dance floor, whatever furry event I go to! Come cut some rug with me!
