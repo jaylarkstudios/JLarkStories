@@ -19,7 +19,7 @@ description: "A digital sketch of Eli, the eastern dragon with long ears and hor
 artists:
   - "Maximum993"
 bsky_id: "3mkiav4jpwg2m"
-fa_id: "manual-1777299274524"
-babyfur_id: "manual-1777299424333"
+fa_id: 64811130
+babyfur_id: 55540
 ---
 Another sketch request from Max's stream, this time of Eli seeing a shooting star. I love how... well, "star struck" he looks, haha! 🤩💫
