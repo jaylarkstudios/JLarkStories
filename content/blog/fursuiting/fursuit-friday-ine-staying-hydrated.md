@@ -23,6 +23,7 @@ summary: "Happy Fursuit Friday! As the weather starts warming up, be sure to sta
 description: "Ine's fursuit, a green lizard with red feathers on his head, drinking from a plastic water bottle."
 created_date: "Oct 27, 2017"
 bsky_id: "3mksktkc2uk22"
+fa_id: "64857526"
 ---
 Happy Fursuit Friday!
 As the weather starts warming up, be sure to stay hydrated! 💧
