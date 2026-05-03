@@ -21,6 +21,7 @@ tags:
 thumbnail: "/images/blog/birth-of-bramblesnap.jpg"
 summary: "Name: Bramblesnap Gender: Agender (they/them) Age: Unknown Personality: generally curious and friendly, but prone to periods of anxiety and restlessness Backstory: A mother alligator's nest was once w"
 description: "A digital drawing of a creature made of pumpkins and vines in the shape of an alligator, breaking out of a larger pumpkin shell and dripping with orange goo, beneath a night sky with a full moon and stars."
+bsky_id: "3mkxbn5nree22"
 ---
 Name: Bramblesnap
 
