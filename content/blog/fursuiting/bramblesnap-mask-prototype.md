@@ -23,3 +23,5 @@ bsky_id: "3ml23om7upw22"
 fa_id: "64890478"
 ---
 I put together a (very rough) prototype of Bramblesnap's mask! This was made using a modified [dragon-head pattern by Kazplay](https://www.kazplay.com/product-page/wolf-dragon-puppet-head)! This was quickly put together using cardstock just to get an idea of how big to print it and what I would need to cut or otherwise modify. The real thing will be made from EVA foam (which is what Kaz's pattern was designed for).
+
+![Bramblesnap Mask Prototype](/images/blog/bramblesnap-mask-prototype-2.jpg)
