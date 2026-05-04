@@ -2,7 +2,7 @@
 
 <section class="hero">
   {{ with .Site.Params.logo }}
-    <img src="{{ . }}" alt="{{ $.Site.Title }}" class="hero-logo">
+    <img src="{{ . }}" alt="{{ $.Site.Title }}" class="hero-logo" data-theme-logo="logo">
   {{ end }}
   {{ partial "tagline.html" . }}
 </section>

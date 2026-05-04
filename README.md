@@ -207,14 +207,28 @@ To add a new hideable category, append a new `[[hideable]]` block. To retire one
 
 The first-visit banner and modal state are stored in `localStorage` under `jls-hidden-tags` and `jls-prefs-seen`.
 
-## Theme / Pride mode
+## Themes / Pride modes
 
-The Pride gradient is automatic during June and can be forced or disabled via query string:
+Three flag-colored themes are available — `pride`, `bi`, and `trans`. Each one paints headings and titles with a gradient and swaps the site logos for a themed variant.
 
-- `?theme=pride` — force gradient on
-- `?theme=normal` — force gradient off
+The site auto-applies a theme on these dates:
+
+| Date | Default theme |
+| --- | --- |
+| June 1, 4, 7, … (every 3rd day) | `pride` |
+| June 2, 5, 8, … | `bi` |
+| June 3, 6, 9, … | `trans` |
+| March 31 (Trans Day of Visibility) | `trans` |
+| November 13–20 (Trans Awareness Week + TDoR) | `trans` |
+
+Override or force a theme with the `?theme=` query string:
+
+- `?theme=pride` / `?theme=bi` / `?theme=trans` — force that theme on
+- `?theme=normal` — disable any theme for the visit (overrides the date-based default)
 
 The toggle is applied in `layouts/_default/baseof.html`.
+
+Themed logos live alongside the standard ones in `static/images/` — e.g. `logo_pride.png`, `logo_header_bi.png`, `logo_trans.png`. To opt an `<img>` into theming, add `data-theme-logo="<basename>"` (e.g. `data-theme-logo="logo_header"`) and provide `<basename>_pride.png`, `<basename>_bi.png`, and `<basename>_trans.png`. The script in `layouts/_default/baseof.html` swaps the `src` when a theme is active.
 
 ## Fonts
 
@@ -244,3 +258,4 @@ Three are preloaded in `layouts/partials/head.html`; the rest swap in on demand 
 - [ ] Store link
 - [ ] When 'created_date' is present in the "Fursuiting" category, use "Originally taken" instead of "Originally created".
 - [ ] Use migration scripts to migrate deviantArt journal entries.
+

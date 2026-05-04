@@ -2597,7 +2597,7 @@ p {
 }
 
 /* ==========================================
-   Pride Month Theme (June)
+   Pride Themes (pride / bi / trans)
    ========================================== */
 
 body.pride-theme h1,
@@ -2623,12 +2623,6 @@ body.pride-theme .hero-tagline-text {
   width: fit-content;
 }
 
-body.pride-theme .section-heading,
-body.pride-theme .hero h1,
-body.pride-theme .hero h2 {
-  margin-inline: auto;
-}
-
 body.pride-theme .post-card-title a:hover,
 body.pride-theme .post-grid-card:hover .post-grid-card-title,
 body.pride-theme .featured-spread-large:hover .featured-spread-post-title,
@@ -2641,4 +2635,86 @@ body.pride-theme .featured-spread-small:hover .featured-spread-post-title {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+body.bi-theme h1,
+body.bi-theme h2,
+body.bi-theme h3,
+body.bi-theme h4,
+body.bi-theme h5,
+body.bi-theme h6,
+body.bi-theme .site-title,
+body.bi-theme .post-card-title a,
+body.bi-theme .post-grid-card-title,
+body.bi-theme .featured-spread-title,
+body.bi-theme .featured-spread-post-title,
+body.bi-theme .hero-tagline-text {
+  background: linear-gradient(
+    90deg,
+    #d60270, #9b4f96, #0038a8
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: fit-content;
+}
+
+body.bi-theme .post-card-title a:hover,
+body.bi-theme .post-grid-card:hover .post-grid-card-title,
+body.bi-theme .featured-spread-large:hover .featured-spread-post-title,
+body.bi-theme .featured-spread-small:hover .featured-spread-post-title {
+  background: linear-gradient(
+    90deg,
+    #ff4d8f, #b878b3, #4d7cd6
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body.trans-theme h1,
+body.trans-theme h2,
+body.trans-theme h3,
+body.trans-theme h4,
+body.trans-theme h5,
+body.trans-theme h6,
+body.trans-theme .site-title,
+body.trans-theme .post-card-title a,
+body.trans-theme .post-grid-card-title,
+body.trans-theme .featured-spread-title,
+body.trans-theme .featured-spread-post-title,
+body.trans-theme .hero-tagline-text {
+  background: linear-gradient(
+    90deg,
+    #5bcefa, #f5a9b8, #ffffff, #f5a9b8, #5bcefa
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: fit-content;
+}
+
+body.trans-theme .post-card-title a:hover,
+body.trans-theme .post-grid-card:hover .post-grid-card-title,
+body.trans-theme .featured-spread-large:hover .featured-spread-post-title,
+body.trans-theme .featured-spread-small:hover .featured-spread-post-title {
+  background: linear-gradient(
+    90deg,
+    #8fdcfb, #f9c8d2, #ffffff, #f9c8d2, #8fdcfb
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body.pride-theme .section-heading,
+body.bi-theme .section-heading,
+body.trans-theme .section-heading,
+body.pride-theme .hero h1,
+body.bi-theme .hero h1,
+body.trans-theme .hero h1,
+body.pride-theme .hero h2,
+body.bi-theme .hero h2,
+body.trans-theme .hero h2 {
+  margin-inline: auto;
 }
