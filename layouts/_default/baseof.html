@@ -7,9 +7,35 @@
   <script>
     (function() {
       var params = new URLSearchParams(window.location.search);
-      var theme = params.get('theme');
-      if (theme === 'pride' || (theme !== 'normal' && new Date().getMonth() === 5)) {
-        document.body.classList.add('pride-theme');
+      var urlTheme = params.get('theme');
+      var validThemes = { pride: 1, bi: 1, trans: 1 };
+      var activeTheme = null;
+
+      if (urlTheme === 'normal') {
+        // explicit opt-out
+      } else if (validThemes[urlTheme]) {
+        activeTheme = urlTheme;
+      } else {
+        var now = new Date();
+        var m = now.getMonth();
+        var d = now.getDate();
+        if (m === 5) {
+          activeTheme = ['pride', 'bi', 'trans'][(d - 1) % 3];
+        } else if (m === 2 && d === 31) {
+          activeTheme = 'trans';
+        } else if (m === 10 && d >= 13 && d <= 20) {
+          activeTheme = 'trans';
+        }
+      }
+
+      if (activeTheme) {
+        document.body.classList.add(activeTheme + '-theme');
+        document.addEventListener('DOMContentLoaded', function() {
+          document.querySelectorAll('img[data-theme-logo]').forEach(function(img) {
+            var base = img.getAttribute('data-theme-logo');
+            img.src = '/images/' + base + '_' + activeTheme + '.png';
+          });
+        });
       }
     })();
   </script>
