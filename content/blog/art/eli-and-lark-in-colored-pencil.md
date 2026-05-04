@@ -23,5 +23,6 @@ tags:
 thumbnail: "/images/blog/eli-and-lark-in-colored-pencil.jpg"
 summary: "Been interested in giving colored pencils a try, so I started by printing out just the lineart for this piece. I need to practice shading and blending techniques, but overall it was fun to do! I think"
 description: "A colored pencil drawing of lark, the tall blue bird with a monitor lizard tail, hugging Eli, a fluffy blue dragon with purple fur down his back and wearing a diaper"
+fa_id: "64892147"
 ---
 Been interested in giving colored pencils a try, so I started by printing out just the lineart for this piece. I need to practice shading and blending techniques, but overall it was fun to do! I think I'll try my hand at some others as well.
