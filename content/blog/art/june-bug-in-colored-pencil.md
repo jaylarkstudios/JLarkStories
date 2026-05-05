@@ -17,5 +17,6 @@ tags:
 thumbnail: "/images/blog/june-bug-in-colored-pencil.jpg"
 summary: "Colored another existing piece in pencil. This one's perfect for spring! It's a June-bug! Get it? 😄 I kept the background lighter this time which I think made a big difference."
 description: "A colored pencil drawing of June, the dolphin, but with the body of a beetle, smiling and flying with a meadow and blue sky in the background"
+fa_id: "64902774"
 ---
 Colored another existing piece in pencil. This one's perfect for spring! It's a June-bug! Get it? 😄 I kept the background lighter this time which I think made a big difference.
