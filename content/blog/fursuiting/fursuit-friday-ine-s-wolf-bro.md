@@ -27,6 +27,7 @@ summary: "Happy Fursuit Friday! Hanging with my big strong wolf bro at AWU 2018!
 description: "Ine's fursuit, a green lizard with red feathers on his head, hugging a gray wolf fursuiter who is flexing with one arm."
 created_date: "Aug 11, 2018"
 bsky_id: "3mlebtg4u5b2h"
+fa_id: "64935980"
 ---
 Happy Fursuit Friday!
 Hanging with my big strong wolf bro at AWU 2018! 💪🐺
