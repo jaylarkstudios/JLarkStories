@@ -18,5 +18,7 @@ summary: "One more pumpkin-gator pic to wrap up Species Change Week. I got anoth
 description: "A digital sketch of a gator hatchling with large black eyes, pumpkin lines on its skin, and vines growing from its back."
 artists:
   - "Maximum993"
+bsky_id: "3mljmacg5ki2f"
+fa_id: "64958729"
 ---
 One more pumpkin-gator pic to wrap up Species Change Week. I got another sketch from Max, this time of Bramblesnap looking a bit sadj. 🥺 It's okay li'l guy. I'll take care of you and feed you and won't let anyone turn you into a pie!
