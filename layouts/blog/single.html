@@ -56,13 +56,14 @@
     {{ end }}
     {{ with .Params.rating }}
       <div class="review-rating">
-        <span class="review-field-label">Rating:</span>
+        <span class="review-field-label">Official Rating:</span>
         <a href="{{ "/rating/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
       </div>
     {{ end }}
     {{ with .Params.my_rating }}
       <div class="review-my-rating">
-        <span class="review-field-label">My Rating:</span> {{ . }}
+        <span class="review-field-label">My Rating:</span>
+        <a href="{{ "/my_rating/" | relURL }}{{ . | urlize }}/" class="rating-badge">{{ . }}</a>
       </div>
     {{ end }}
     {{ if or .Params.imdb .Params.tomatoes }}
