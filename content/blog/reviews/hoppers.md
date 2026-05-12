@@ -7,7 +7,7 @@ thumbnail: "/images/blog/reviews/hoppers.jpg"
 imdb: "https://www.imdb.com/title/tt26443616"
 tomatoes: "https://www.rottentomatoes.com/m/hoppers"
 rating: "PG"
-score: "A"
+score: "A - Would hoppily watch again!"
 warnings: ["action, peril, implied death"]
 summary: "Hoppers is about a young woman, Mabel, who loves animals and nature and uses technology to inhabit an artificial beaver body, allowing her to communicate with animals and experience life as one of them. It's a fun and heartfelt story that feels like a return to the classic Pixar formula of telling relatable, character-driven stories through a non-human lens, reminiscent of Toy Story and A Bug's Life."
 ---
@@ -42,6 +42,8 @@ Finally, the film took a rather dramatic tone shift in the third act when the re
 
 ## The Bottom Line
 
-Ultimately, despite its simple message and a few tonal flaws, I really enjoyed *Hoppers*. It may not be a go-to favorite that I see myself returning to again and again, but I would definitely rewatch it in the future. It was fun, it was sincere, it made me laugh, and it made me smile. Though I do have to wonder which will have the bigger cultural impact: the film as a whole, or the 10-second teaser. You know which one I’m talking about!
+Ultimately, despite its simple message and a few tonal flaws, I really enjoyed *Hoppers*. It may not be a go-to favorite that I see myself returning to again and again, but I would definitely rewatch it in the future. It was fun, it was sincere, it made me laugh, and it made me smile. Though I do have to wonder which will have the bigger cultural impact: the film as a whole, or the 10-second teaser.
+
+You know which one I’m talking about!
 
 ![Lizard! Lizard! Lizard!](/images/blog/reviews/lizardButton.gif)
