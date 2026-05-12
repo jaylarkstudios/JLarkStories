@@ -94,7 +94,7 @@ rating: "PG"                              # existing values: G, PG, T
 warnings: ["mild language", "blood"]      # free-form strings
 ```
 
-`rating` is also a taxonomy — each distinct value gets a browse page at `/rating/<value>/`, so stick to the existing set (`G`, `PG`, `T`) unless you want to introduce a new category.
+`rating` is also a taxonomy — each distinct value gets a browse page at `/rating/<value>/`, so stick to the existing set (`G`, `PG`, `T`) unless you want to introduce a new category. `my_rating` works the same way as its own separate taxonomy with browse pages at `/my_rating/<value>/`.
 
 ### Content-warning tags
 

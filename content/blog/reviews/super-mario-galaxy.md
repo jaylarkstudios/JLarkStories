@@ -7,6 +7,7 @@ thumbnail: "/images/blog/reviews/marioGalaxy.jpg"
 imdb: "https://www.imdb.com/title/tt28650488"
 tomatoes: "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie"
 rating: "PG"
+my_rating: "G"
 score: "B - It's a mess, but a beautiful mess!"
 warnings: ["cartoon violence"]
 summary: The Super Mario Galaxy Movie is visually stunning and chock-full of references and Easter eggs Nintendo fans will appreciate. However, it struggles due to an underdeveloped story and inconsistent character motivations. Still, the strengths of the visual effects, intricate worlds, and fan-favorite characters make it an enjoyable journey for most viewers who liked the first movie.
@@ -22,7 +23,7 @@ Mario and Luigi have become traveling heroes, visiting different worlds to help 
 
 After returning to Princess Peach's castle, we learn Bowser is still shrunk like he was at the end of the first movie, but his living quarters have been upgraded, apparently for good behavior. He gets a visit from the brothers and attempts to convince them he's turned over a new leaf. Luigi seems ready to believe him, but Mario's skepticism causes Bowser to lose his temper and then sheepishly backpedal.
 
-Meanwhile, we see Princess Rosalina in her observatory with the stars she regards as her children. They are attacked by Bowser Jr. who kidnaps Rosalina, intending to use her powers how some nefarious plan. One of the star children escapes and travels to Princess Peach.
+Meanwhile, we see Princess Rosalina in her observatory with the stars she regards as her children. They are attacked by Bowser Jr. who kidnaps Rosalina, intending to use her powers for some nefarious plan. One of the star children escapes and travels to Princess Peach.
 
 Peach sets out in search of Rosalina while Mario and Luigi stay behind to guard the castle. While on duty, however, they are attacked by Bowser Jr, who uses his spacecraft to levitate the castle into space. During a battle with the brothers and Yoshi, however, the castle is dropped into the beehive world. The shrunken Bowser Sr. is freed from his cage, only to be caught by the brothers, but then provokes Mario into hitting him, thus causing him to lose the poison mushroom power-up that had been keeping him shrunk. Rather than turning around to attack them however, he thanks Mario, and even offers himself to the Queen Bee to work off the damage done to their field, allowing the brothers to leave the planet in peace, and signaling to them that he has indeed reformed.
 

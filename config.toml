@@ -11,6 +11,7 @@ title = "JLarkStories"
   tag = "tags"
   artist = "artists"
   rating = "rating"
+  my_rating = "my_rating"
 
 # Navigation menu
 [[menu.main]]
