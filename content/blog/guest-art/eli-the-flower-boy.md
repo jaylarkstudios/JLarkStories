@@ -18,5 +18,7 @@ description: "A sketch of Eli, the fluffy Eastern dragon, smiling and looking up
 artists:
   - "Maximum993"
 bsky_id: "3mm53it5rni24"
+fa_id: "65043133"
+babyfur_id: "55748"
 ---
 Another lovely sketch from Max. Eli loves flowers! And he looks very pretty with them in his hair! 😊🌸
