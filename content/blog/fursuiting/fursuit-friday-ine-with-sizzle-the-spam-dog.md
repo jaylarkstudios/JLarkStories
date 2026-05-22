@@ -27,6 +27,7 @@ summary: "Happy Fursuit Friday! I met Sizzle the spam-dog at AWU 2022! Such a un
 description: "Two photos of Ine's fursuit, a green lizard with red feathers on his head, with Sizzle, a blue canine with pink and yellow markings and a tail that resembles a large piece of spam. In the second image, Sizzle's back is turned revealing a gold pull-tab on his back, which Ine is tugging on."
 created_date: "Jul 16, 2022"
 bsky_id: "3mmh5j4at6o2c"
+fa_id: "65088621"
 ---
 Happy Fursuit Friday!
 I met Sizzle the spam-dog at AWU 2022! Such a unique and fun suit! And... kinda tasty looking... 😋🍴
