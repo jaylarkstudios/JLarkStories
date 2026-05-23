@@ -258,4 +258,4 @@ Three are preloaded in `layouts/partials/head.html`; the rest swap in on demand 
 - [ ] Store link
 - [ ] When 'created_date' is present in the "Fursuiting" category, use "Originally taken" instead of "Originally created".
 - [ ] Use migration scripts to migrate deviantArt journal entries.
-
+- [ ] Add "Or as I like to call it..." subtitle to review entries.
