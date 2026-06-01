@@ -218,6 +218,7 @@ The site auto-applies a theme on these dates:
 | June 1, 4, 7, … (every 3rd day) | `pride` |
 | June 2, 5, 8, … | `bi` |
 | June 3, 6, 9, … | `trans` |
+| July 1 (Pride doesn't end when the month does) | `pride` |
 | March 31 (Trans Day of Visibility) | `trans` |
 | November 13–20 (Trans Awareness Week + TDoR) | `trans` |
 
