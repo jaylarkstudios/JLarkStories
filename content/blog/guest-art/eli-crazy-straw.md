@@ -18,6 +18,7 @@ artists:
   - "Maximum993"
 fa_id: "65235862"
 babyfur_id: "56004"
+bsky_id: "3mni6zrkxot2r"
 ---
 I love fizzy drinks! They tingle my tongue and tickle my nose, and there are so many fun flavors! Plus it's fun to burp, hehe! 🤭🥤
 Another fun sketch by Max!
