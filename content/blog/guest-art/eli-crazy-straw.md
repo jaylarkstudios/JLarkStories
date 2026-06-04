@@ -16,6 +16,8 @@ summary: "I love fizzy drinks! They tingle my tongue and tickle my nose, and the
 description: "A black and white digital sketch of Eli, the Eastern dragon, smiling and drinking from a glass with a crazy straw."
 artists:
   - "Maximum993"
+fa_id: "65235862"
+babyfur_id: "56004"
 ---
 I love fizzy drinks! They tingle my tongue and tickle my nose, and there are so many fun flavors! Plus it's fun to burp, hehe! 🤭🥤
 Another fun sketch by Max!
