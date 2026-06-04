@@ -741,6 +741,12 @@ p {
   gap: var(--space-4);
 }
 
+.featured-spread-large-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-4);
+}
+
 .featured-spread-small-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -758,6 +764,9 @@ p {
 }
 
 @media (max-width: 900px) {
+  .featured-spread-large-row {
+    grid-template-columns: 1fr;
+  }
   .featured-spread-small-row {
     grid-template-columns: repeat(2, 1fr);
   }
