@@ -1,10 +1,11 @@
 {{/*
   Featured spread partial.
-  Default: repeating pattern of 1 large square + a row of up to 3 smaller
-  squares, alternating, capped at 4 rows total (= 2 groups of 4 posts,
-  up to 8 posts displayed). Extra posts in the data file are ignored.
-  Small rows drop from 3-up to 2-up under 900px (the 3rd tile hides) to
-  keep the 4-row constraint intact at narrower viewports.
+  Default: repeating pattern of a row of up to 2 large squares + a row of
+  up to 3 smaller squares, alternating, capped at 4 rows total (= 2 groups
+  of 5 posts, up to 10 posts displayed). Extra posts in the data file are
+  ignored. Under 900px, large rows drop from 2-up to 1-up and small rows
+  drop from 3-up to 2-up (the 3rd tile hides) to keep the 4-row constraint
+  intact at narrower viewports.
 
   variant = "projects": side-by-side square tiles linking to external
   URLs, with description text below each card.
@@ -59,7 +60,7 @@
   </div>
 </section>
 {{ else }}
-{{ $capped := first 8 $resolved }}
+{{ $capped := first 10 $resolved }}
 <section class="featured-spread">
   <header class="featured-spread-header">
     <div class="featured-spread-heading-group">
@@ -70,25 +71,29 @@
   </header>
   <div class="featured-spread-stack">
     {{ range $g := (slice 0 1) }}
-      {{ $chunk := $capped | after (mul $g 4) | first 4 }}
+      {{ $chunk := $capped | after (mul $g 5) | first 5 }}
       {{ if $chunk }}
-        {{ $large := index $chunk 0 }}
-        {{ $smalls := after 1 $chunk }}
-        <article class="featured-spread-large{{ if not $large.Params.thumbnail }} is-thumbless{{ end }}" data-tags="{{ with $large.Params.tags }}{{ delimit . "," }}{{ end }}">
-          <a href="{{ $large.Permalink }}" class="featured-spread-link-wrap" aria-label="{{ $large.Title }}">
-            <div class="featured-spread-thumb">
-              {{ with $large.Params.thumbnail }}
-                <img src="{{ . }}" alt="{{ $large.Title }}" loading="lazy">
-              {{ else }}
-                <span class="featured-spread-initial" aria-hidden="true">{{ substr $large.Title 0 1 }}</span>
-              {{ end }}
-            </div>
-            <div class="featured-spread-overlay">
-              <h3 class="featured-spread-post-title">{{ $large.Title }}</h3>
-              <time class="featured-spread-date" datetime="{{ $large.Date.Format "2006-01-02" }}">{{ $large.Date.Format "Jan 2, 2006" }}</time>
-            </div>
-          </a>
-        </article>
+        {{ $larges := first 2 $chunk }}
+        {{ $smalls := after 2 $chunk }}
+        <div class="featured-spread-large-row">
+          {{ range $larges }}
+          <article class="featured-spread-large{{ if not .Params.thumbnail }} is-thumbless{{ end }}" data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
+            <a href="{{ .Permalink }}" class="featured-spread-link-wrap" aria-label="{{ .Title }}">
+              <div class="featured-spread-thumb">
+                {{ with .Params.thumbnail }}
+                  <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                {{ else }}
+                  <span class="featured-spread-initial" aria-hidden="true">{{ substr .Title 0 1 }}</span>
+                {{ end }}
+              </div>
+              <div class="featured-spread-overlay">
+                <h3 class="featured-spread-post-title">{{ .Title }}</h3>
+                <time class="featured-spread-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+              </div>
+            </a>
+          </article>
+          {{ end }}
+        </div>
         {{ if $smalls }}
         <div class="featured-spread-small-row">
           {{ range $smalls }}

@@ -183,7 +183,7 @@ subtitle = "Artwork made by others, including gifts, commissions, and fan-art of
 
 Rules:
 - Post paths have **no trailing slash** and match the content file path under `content/` (minus the `.md`).
-- For `[art]` and `[guest]`: the layout alternates one large square tile + a row of up to 3 smaller square tiles, repeating. Posts map one-to-one with tiles in the order listed (post 1 → large, posts 2–4 → small row, post 5 → large, posts 6–8 → small row). The spread is capped at **4 visible rows**, so list up to 8 posts; extras are ignored. Under 900px, small rows drop from 3-up to 2-up and the 3rd tile hides to keep the 4-row cap at narrow widths.
+- For `[art]` and `[guest]`: the layout alternates a row of up to 2 large square tiles + a row of up to 3 smaller square tiles, repeating. Posts map one-to-one with tiles in the order listed (posts 1–2 → large row, posts 3–5 → small row, posts 6–7 → large row, posts 8–10 → small row). The spread is capped at **4 visible rows**, so list up to 10 posts; extras are ignored. Under 900px, large rows drop from 2-up to 1-up and small rows drop from 3-up to 2-up (the 3rd tile hides) to keep the 4-row cap at narrow widths.
 - For `[projects]`: the `variant = "projects"` flag is set; all listed projects render as equal square tiles side-by-side with their description text underneath. Each card links to the project's external `link` param. Two works well; the layout stays 2-up.
 - If a path doesn't resolve, it's silently skipped.
 - If the whole list is empty, the entire spread is hidden.
