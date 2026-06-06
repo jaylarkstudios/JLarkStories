@@ -1,5 +1,5 @@
 ---
-title: "Fursuit Friday: Ine with Sizzle the Spam-dog"
+title: "Ine with Sizzle the Spam-dog"
 date: 2026-05-22T08:20:00-06:00
 categories:
   - "Fursuiting"
@@ -28,11 +28,7 @@ description: "Two photos of Ine's fursuit, a green lizard with red feathers on h
 created_date: "Jul 16, 2022"
 bsky_id: "3mmh5j4at6o2c"
 fa_id: "65088621"
+furtrack_id: "349746"
 ---
 Happy Fursuit Friday!
 I met Sizzle the spam-dog at AWU 2022! Such a unique and fun suit! And... kinda tasty looking... 😋🍴
-
-[[2]]
-
-https://www.furtrack.com/p/349746
-https://www.furtrack.com/p/349773
