@@ -29,7 +29,7 @@ description: "An image of Nalani, a hybrid between a black leopard and a bird of
 bsky_id: "3mn6kmim65d2v"
 fa_id: "65192998"
 babyfur_id: "55939"
-timelapse: https://youtu.be/15-iq06EIrA
+timelapse: https://youtube.com/shorts/L_07FESOMJg
 ---
 Here's a new character my wife and I designed together for her: Nalani! She's a hybrid between a leopard and bird of paradise, and she was made to represent my wife as Eli's partner (my fluffy dragon boy I've been streaming as lately). She'll still use her character Maiara, the horse, but when when I'm taking on the role of Eli, she'll be Nalani.
 

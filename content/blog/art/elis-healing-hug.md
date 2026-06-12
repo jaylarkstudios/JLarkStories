@@ -5,7 +5,7 @@ categories: ["My Art"]
 tags: ["male", "lark", "secretary", "bird", "jay", "feathers", "monitor", "lizard", "tail", "blue", "eli", "eastern", "dragon", "fluffy", "furry", "cyan", "purple", "pink", "diaper", "abdl", "padded", "hug", "embrace", "healing", "cry", "tears"]
 thumbnail: "/images/blog/elis-healing-hug.jpg"
 fa_id: 64261448
-timelapse: https://www.youtube.com/watch?v=p_Ho2VCJXqk
+timelapse: https://youtube.com/shorts/v3NG9g-VEBA
 summary: "Eli, my fluffy dragon boy, helped me to heal my creative soul. ❤️‍🩹 Incoming text wall: It's fair to say I've been struggling creatively for the past several..."
 ---
 
