@@ -25,5 +25,6 @@ description: "Eli, the cyan Eastern dragon with long ears, horns, and purple fur
 bsky_id: "3mnurhxu32y2c"
 fa_id: "65290398"
 babyfur_id: "56035"
+timelapse: https://youtu.be/GZgpKdAfsW0
 ---
 Eli adores pretty outfits, and always loved Krystal's from Star Fox Adventures. So he decided to be a bit daring and try it out for himself. He loves the way it looks and feels! He's ready to go free Dinosaur Planet!
