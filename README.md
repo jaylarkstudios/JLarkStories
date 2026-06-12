@@ -121,7 +121,7 @@ These are used by individual post types and are safe to omit:
 |---|---|---|
 | `description` | any post | Long alt/description text, surfaced in a collapsible "Description" disclosure under the thumbnail. Also used as the image `alt` attribute. |
 | `created_date` | any post | Human-readable string shown as "Originally created …" — handy when `date` is the publish date but the art is older. |
-| `timelapse` | any post | YouTube URL or video ID. Embeds a timelapse video below the post body. |
+| `timelapse` | any post | YouTube URL or bare video ID. Embeds a timelapse video below the post body. Accepts `watch?v=`, `youtu.be/`, and `youtube.com/shorts/` URLs. |
 | `fa_id` / `bsky_id` / `furtrack_id` / `babyfur_id` | any post | IDs (not URLs) used to render cross-post links to the FA submission, Bluesky post, FurTrack photo, or Babyfur.ME post. |
 | `my_rating` / `score` | reviews | Personal rating / numeric score displayed in the review header. |
 | `imdb` / `tomatoes` | reviews | External IDs used to render IMDb / Rotten Tomatoes links. |
