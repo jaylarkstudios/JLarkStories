@@ -56,8 +56,14 @@
     {{ end }}
   </header>
 
-  {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="{{ with $.Params.description }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" class="blog-single-thumbnail">
+  {{ with .Params.video }}
+    <div class="blog-single-video">
+      {{ partial "youtube-embed.html" . }}
+    </div>
+  {{ else }}
+    {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ with $.Params.description }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" class="blog-single-thumbnail">
+    {{ end }}
   {{ end }}
 
   {{ with .Params.description }}

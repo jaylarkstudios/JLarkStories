@@ -1,0 +1,14 @@
+{{- /* youtube-embed.html — renders a responsive 16:9 YouTube embed.
+     Context (.) is a YouTube URL or bare video ID.
+     Accepts watch?v=, youtu.be/, and youtube.com/shorts/ URLs. */ -}}
+{{- $videoID := . -}}
+{{- if findRE `youtube\.com/watch\?v=` . -}}
+  {{- $videoID = replaceRE `.*[?&]v=([^&]+).*` "$1" . -}}
+{{- else if findRE `youtu\.be/` . -}}
+  {{- $videoID = replaceRE `.*youtu\.be/([^?]+).*` "$1" . -}}
+{{- else if findRE `youtube\.com/shorts/` . -}}
+  {{- $videoID = replaceRE `.*youtube\.com/shorts/([^?/]+).*` "$1" . -}}
+{{- end -}}
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

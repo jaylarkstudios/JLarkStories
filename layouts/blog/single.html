@@ -88,8 +88,14 @@
     {{ end }}
   </header>
 
-  {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="{{ with $.Params.description }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" class="blog-single-thumbnail">
+  {{ with .Params.video }}
+    <div class="blog-single-video">
+      {{ partial "youtube-embed.html" . }}
+    </div>
+  {{ else }}
+    {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ with $.Params.description }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" class="blog-single-thumbnail">
+    {{ end }}
   {{ end }}
 
   {{ with .Params.description }}
@@ -108,19 +114,9 @@
   </div>
 
   {{ with .Params.timelapse }}
-    {{ $videoID := . }}
-    {{ if findRE `youtube\.com/watch\?v=` . }}
-      {{ $videoID = replaceRE `.*[?&]v=([^&]+).*` "$1" . }}
-    {{ else if findRE `youtu\.be/` . }}
-      {{ $videoID = replaceRE `.*youtu\.be/([^?]+).*` "$1" . }}
-    {{ else if findRE `youtube\.com/shorts/` . }}
-      {{ $videoID = replaceRE `.*youtube\.com/shorts/([^?/]+).*` "$1" . }}
-    {{ end }}
     <section class="timelapse-section">
       <h2>Timelapse</h2>
-      <div class="timelapse-embed">
-        <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      {{ partial "youtube-embed.html" . }}
     </section>
   {{ end }}
 

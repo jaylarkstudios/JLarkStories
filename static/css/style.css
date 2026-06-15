@@ -1315,6 +1315,10 @@ p {
   margin-right: auto;
 }
 
+.blog-single-video {
+  margin-bottom: 2rem;
+}
+
 .image-description {
   margin-bottom: 1.5rem;
 }
@@ -1447,7 +1451,7 @@ p {
   margin-bottom: 1rem;
 }
 
-.timelapse-embed {
+.video-embed {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
@@ -1455,7 +1459,7 @@ p {
   border-radius: var(--radius);
 }
 
-.timelapse-embed iframe {
+.video-embed iframe {
   position: absolute;
   top: 0;
   left: 0;
