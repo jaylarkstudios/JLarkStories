@@ -7,6 +7,7 @@ thumbnail: "/images/blog/flame-skywing-sketch.jpg"
 created_date: "Oct 2, 2022"
 fa_id: 51271725
 summary: "This handsome fellow is a colored sketch commission I recently completed for Argil MudWing! I've said it before, but I'll..."
+timelapse: https://youtube.com/shorts/OxSPVKAQmkM
 ---
 
 This handsome fellow is a colored sketch commission I recently completed for Argil MudWing! I've said it before, but I'll say it again: it's always a good day when I get to draw a dragon! 😄✏️🐲
