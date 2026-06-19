@@ -25,6 +25,8 @@ summary: "Happy Fursuit Friday! Hanging out with a couple of my good wolf pals, 
 description: "Ine's fursuit, a green lizard with red feathers on his head, wearing a pharaoh outfit and  standing with a white arctic wolf and a brown, black, and white wolf"
 created_date: "July 16, 2022"
 bsky_id: "3monoxghauu2y"
+fa_id: "65399884"
+furtrack_id: "349774"
 ---
 Happy Fursuit Friday!
 Hanging out with a couple of my good wolf pals, Woofy and Lazy! Taken at AWU 2022!
