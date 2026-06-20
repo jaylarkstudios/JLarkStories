@@ -19,6 +19,7 @@ description: "A digital sketch of Nalani, the gryphon, painting the bi pride fla
 bsky_id: "3mnavy5wayq2w"
 fa_id: "65204179"
 babyfur_id: "55966"
+timelapse: https://youtube.com/shorts/ELgn7Al6q74
 ---
 Lani helps Eli celebrate Pride Month. 🥰
 Remember to express gratitude for the Allies in your life! 🏳️‍🌈🏳️‍⚧️
