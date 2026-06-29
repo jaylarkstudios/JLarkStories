@@ -22,6 +22,7 @@ summary: "Happy Fursuit Friday! Hanging out with Kyu the kitty at the first ever
 description: "Ine's fursuit, a green lizard with red feathers on his head, standing next to a fursuit of a black cat with red markings on her ears, paws, tummy, and cheek."
 created_date: "Oct 28, 2017"
 bsky_id: "3mpfdha24n32e"
+fa_id: "65502009"
 ---
 Happy Fursuit Friday!
 Hanging out with Kyu the kitty at the first ever AWU in 2017!
