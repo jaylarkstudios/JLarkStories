@@ -18,11 +18,15 @@
           <img src="/images/furaffinity_white.png" alt="FurAffinity" width="25" height="25">
           FurAffinity
         </a>{{ end }}
+        {{ with .artfight }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-link" title="Art Fight">
+          <img src="/images/artfight_white.png" alt="Art Fight" width="25" height="25">
+          Art Fight
+        </a>{{ end }}
         {{ with .telegram }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-link" title="Telegram">
           <img src="/images/telegram_white.png" alt="Telegram" width="25" height="25">
           Telegram
         </a>{{ end }}
-        {{ with .babyfurme }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-link" title="Telegram">
+        {{ with .babyfurme }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-link" title="Babyfur.ME">
           <img src="/images/babyfurme_white.png" alt="Babyfur.ME" width="25" height="25">
           Babyfur.ME
         </a>{{ end }}

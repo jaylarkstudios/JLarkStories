@@ -123,7 +123,7 @@ These are used by individual post types and are safe to omit:
 | `created_date` | any post | Human-readable string shown as "Originally created …" — handy when `date` is the publish date but the art is older. |
 | `video` | any post | YouTube URL or bare video ID. Embeds the video **in place of** the main image on the post page. The `thumbnail` (if set) is still shown on list/grid views, so set both. Accepts `watch?v=`, `youtu.be/`, and `youtube.com/shorts/` URLs. |
 | `timelapse` | any post | YouTube URL or bare video ID. Embeds a timelapse video below the post body. Accepts `watch?v=`, `youtu.be/`, and `youtube.com/shorts/` URLs. |
-| `fa_id` / `bsky_id` / `furtrack_id` / `babyfur_id` | any post | IDs (not URLs) used to render cross-post links to the FA submission, Bluesky post, FurTrack photo, or Babyfur.ME post. |
+| `fa_id` / `bsky_id` / `furtrack_id` / `babyfur_id` / `artfight_id` | any post | IDs (not URLs) used to render cross-post links to the FA submission, Bluesky post, FurTrack photo, Babyfur.ME post, or Art Fight attack. |
 | `my_rating` / `score` | reviews | Personal rating / numeric score displayed in the review header. |
 | `imdb` / `tomatoes` | reviews | External IDs used to render IMDb / Rotten Tomatoes links. |
 
