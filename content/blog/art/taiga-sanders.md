@@ -20,6 +20,7 @@ description: "A blue anthro tiger sitting in a black folding chair wearing black
 created_date: "February 2021"
 timelapse: "https://youtu.be/kG2bZts-vkA"
 bsky_id: "3mpoc4ygzev2t"
+fa_id: "65542131"
 ---
 It's Throwback Thursday!
 Just remembered this artifact of one of those rare moments when we set aside politics just long enough to giggle about a senator's woolen mittens. Much thanks to Taiga for allowing me to capture his likeness as a YCH of said moment!
