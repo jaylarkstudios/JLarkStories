@@ -20,6 +20,7 @@ description: "Ine's fursuit, a green lizard with red feathers on his head, stand
 created_date: "July 20, 2024"
 bsky_id: "3mpquqy2xha2n"
 furtrack_id: "671591"
+fa_id: "65554272"
 ---
 Happy Fursuit Friday!
 Snapped a pic with some "sweet" friends during AWU 2024, including Pit the fruit bat, Suika the melon dog, Wynter the sabertooth, and Ruri the fox!
