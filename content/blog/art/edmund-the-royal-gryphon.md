@@ -24,5 +24,6 @@ description: "A pink gryphon with green highlights on his wings and the tuft on 
 artfight_id: "12955934"
 bsky_id: "3mpqq35bd7l2q"
 fa_id: "65553163"
+timelapse: https://ende.app/en/song/12231-celtic-rhythm
 ---
 My first attack for 2026! I love Edmund as a character, for his love of nature and all living creatures, his fascination with magic and transformation, his desire to be a good ruler, and how all three play into his lore. He's especially known for his dragon form, but I decided to turn him into another majestic fantasy creature!
