@@ -35,6 +35,8 @@ description: "A protogen (anthro furry character with cybernetic parts and a dig
 timelapse: "https://youtube.com/shorts/QOWEOTSuU08"
 bsky_id: "3mpr3btkby72t"
 artfight_id: "13515237"
+fa_id: "65555110"
+babyfur_id: "56326"
 ---
 ArtFight attack for Scout!
 It can be hard to keep a rambunctious pup in line, even for an ever vigilant watcher like B.Y.T.E.S. Fortunately she's tuned to know exactly how to handle every given situation Scout can throw at her!
