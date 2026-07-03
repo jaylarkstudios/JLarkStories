@@ -1,0 +1,40 @@
+---
+title: "Scout by the Tail"
+date: 2026-07-03T11:30:00-06:00
+categories:
+  - "My Art"
+tags:
+  - "protogen"
+  - "bytes"
+  - "scout"
+  - "silver"
+  - "wolf"
+  - "pup"
+  - "puppy"
+  - "canine"
+  - "purple"
+  - "gray"
+  - "blue"
+  - "white"
+  - "abdl"
+  - "babyfur"
+  - "cgl caregiver"
+  - "babysitter"
+  - "dangle"
+  - "tail"
+  - "hyper"
+  - "energy"
+  - "drink"
+  - "soda"
+  - "timeout"
+  - "artfight"
+  - "artfight2026"
+thumbnail: "/images/blog/scout-by-the-tail.jpg"
+summary: "ArtFight attack for Scout! It can be hard to keep a rambunctious pup in line, even for an ever vigilant watcher like B.Y.T.E.S. Fortunately she's tuned to know exactly how to handle every given situat"
+description: "A protogen (anthro furry character with cybernetic parts and a digital visor for a face) with gray fur and purple hair holds a wide-eyed jittery blue wolf pup in a diaper upside down by the tail. She glares at him with orange lights making up her face and asks, \"Query, how many of those have you had pup?\" The pup responds with a wide grin in a quivering voice, \"Buh-bleventeen...\" to which she responds, \"Run extended timeout, run caffeine detox.\""
+timelapse: "https://youtube.com/shorts/QOWEOTSuU08"
+bsky_id: "3mpr3btkby72t"
+artfight_id: "13515237"
+---
+ArtFight attack for Scout!
+It can be hard to keep a rambunctious pup in line, even for an ever vigilant watcher like B.Y.T.E.S. Fortunately she's tuned to know exactly how to handle every given situation Scout can throw at her!
