@@ -27,6 +27,7 @@ artists:
   - "James Duck"
 bsky_id: "3mpyfshngny2k"
 artfight_id: "13621920"
+fa_id: "65588253"
 ---
 Ine fantasizes about burning it all down at the end of a particularly tough day of homework.
 
