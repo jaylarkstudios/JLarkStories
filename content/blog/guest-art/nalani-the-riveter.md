@@ -20,5 +20,6 @@ description: "A digital sketch of a gryphon with large feathers on her head, rol
 artists:
   - "Maximum993"
 fa_id: "65603511"
+bsky_id: "3mq3ln2gbip27"
 ---
 Another sketch by Max, this time of Nalani showing off her strength and grit! Yes, she CAN do it! 💪
