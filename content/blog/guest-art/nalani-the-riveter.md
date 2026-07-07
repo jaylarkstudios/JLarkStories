@@ -19,5 +19,6 @@ summary: "Another sketch by Max, this time of Nalani showing off her strength an
 description: "A digital sketch of a gryphon with large feathers on her head, rolling up her sleeve and flexing after the style of Rosie the Riveter"
 artists:
   - "Maximum993"
+fa_id: "65603511"
 ---
 Another sketch by Max, this time of Nalani showing off her strength and grit! Yes, she CAN do it! 💪
