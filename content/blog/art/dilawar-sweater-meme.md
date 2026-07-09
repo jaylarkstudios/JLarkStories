@@ -5,6 +5,7 @@ categories: ["My Art"]
 tags: ["anthro", "furry", "panther", "peacock", "sfw", "pancock", "sweatermeme"]
 thumbnail: "/images/blog/dilawar-sweater-meme.jpg"
 da_id: 769649024
+fa_id: 65621990
 summary: "Dilawar, pulling off that weird sweater thing... actually pretty well! Looks like it was made for him! 😆 Dil's not technically my fursona, but he's my only OC..."
 ---
 

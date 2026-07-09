@@ -7,7 +7,7 @@ thumbnail: "/images/blog/ines-muscle-experiment-14.jpg"
 fa_id: 63130783
 summary: "The dust settled, and Ine was sticking halfway out the ceiling into the fresh air outside. \"Oww...\" he said, gingerly rubbing his head. \"Woops...\" Jacob..."
 previous: "/blog/art/ines-muscle-experiment-13/"
-next: "/blog/art/ines-muscle-experiment-15/"
+next: "/blog/art/ine-s-muscle-experiment-15/"
 ---
 
 The dust settled, and Ine was sticking halfway out the ceiling into the fresh air outside. "Oww..." he said, gingerly rubbing his head.
