@@ -26,6 +26,7 @@ summary: "From the floor of the now partially-demolished lab, his friend Jacob j
 description: "Ine, an anthro lizard with green scales and red feathers on his head, at enormous size and with incredibly huge muscles, so large he's sticking out the partially demolished top of a building labeled \"Wyld Labs.\" A voice from inside calls out, \"Don't worry about that. Just enjoy your new muscles!\" to which Ine responds, \"Well, don't mind if I do!!\""
 previous: "/blog/art/ine-s-muscle-experiment-15/"
 bsky_id: "3mqcomktuqv2j"
+fa_id: "65634374"
 ---
 From the floor of the now partially-demolished lab, his friend Jacob just grinned and called up, "Don't worry about that. Just enjoy your new muscles!" Ine flexed experimentally, relishing the sensation of the way he bulged and swelled with every movement. "Well, don't mind if I do!!" he said enthusiastically, and proceeded to put on a show for everyone within a half-mile radius!
 
