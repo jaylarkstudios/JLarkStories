@@ -25,6 +25,7 @@ tags:
 thumbnail: "/images/blog/captain-toby-s-shield.jpg"
 summary: "Captain Toby is in the middle of a water battle! Fortunately his trusty shield will keep him dry! Well... mostly dry. 😂 An unofficial artfight attack for Toby. (No one is safe, muahahaha!)"
 description: "An anthro jackal with gray fur and light turquoise highlights, running through a grassy field while holding a Captain America shield and mask and a diaper with the Captain America logo on it, smiling with his tongue out as he blocks a large jet of water with his shield."
+timelapse: https://youtube.com/shorts/HvvQUX2i9g8
 fa_id: "65589357"
 bsky_id: "3mpynfi35rl2y"
 babyfur_id: "56420"
