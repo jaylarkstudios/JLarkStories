@@ -28,6 +28,7 @@ summary: "A gift for my buddy Doug, which I guess could be considered another un
 description: "Ine, the green anthro lizard with green scales and red feathers on his head and tail, smirking and holding a tennis ball while Douglas, the short, light brown and white pembroke corgi wearing a collar, dangles in the air while holding onto the ball with his mouth while mumbling, \"Nyo 'ake! On'y frow!\""
 timelapse: "https://youtube.com/shorts/mbnCirxbPZ0"
 bsky_id: "3mqkaa6c5ko2m"
+fa_id: "65666344"
 ---
 A gift for my buddy Doug, which I guess could be considered another unofficial Art Fight attack?
 Do not the tennis ball!! 😤🎾
