@@ -17,6 +17,7 @@ summary: "It's Throwback Thursday! I did the sweater meme for a couple of my fri
 description: "A colored sketch of Douglas, a pembroke corgi, wearing a pink sweater with sleeves so long they drag on the floor and a midrift so short it exposes his entire belly"
 created_date: "October 2018"
 fa_id: "65700175"
+bsky_id: "3mqrsshgrwf2w"
 ---
 It's Throwback Thursday!
 I did the sweater meme for a couple of my friends as well, including Douglas. Sorry buddy, they didn't have one your size!
